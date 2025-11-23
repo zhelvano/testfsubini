@@ -106,7 +106,7 @@
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T15:24:40.334Z"
+        "$date": "2025-11-23T18:04:27.032Z"
       },
       "username": "RlMZOHUN"
     },
@@ -6857,7 +6857,6 @@
       "userId": 8275338913,
       "username": "Amzy_1220",
       "firstName": "࿐ཽ༵༆༒ Ahmad ༒༆࿐ཽ༵",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -6865,7 +6864,7 @@
         "$date": "2025-11-23T05:59:05.595000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T05:59:05.595000Z"
+        "$date": "2025-11-23T18:03:58.920Z"
       }
     },
     {
@@ -14042,6 +14041,146 @@
       },
       "lastActive": {
         "$date": "2025-11-23T17:53:12.796Z"
+      }
+    },
+    {
+      "userId": 8594378608,
+      "firstName": "Kadek",
+      "lastName": "Agung",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:03:58.916Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:03:58.918Z"
+      }
+    },
+    {
+      "userId": 8294503279,
+      "username": "Hgff919fxby",
+      "firstName": "𓆩.‌𓂍𝐑𝐄𝐈𝐒 𝐒𝐀𝐌𝐈𝐄 𝐇𝐀𝐂𝐊 𓂍.•𓆪٠𓂍⩇:⩇تیم⁰⁰⁸🔰",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:03:58.919Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:03:58.920Z"
+      }
+    },
+    {
+      "userId": 7522708792,
+      "username": "t_o_r_k_e_y_2008",
+      "firstName": "N",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:03:58.920Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:03:58.920Z"
+      }
+    },
+    {
+      "userId": 7917641229,
+      "username": "agentnokoseven",
+      "firstName": "mxico.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:03:58.921Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:03:58.921Z"
+      }
+    },
+    {
+      "userId": 5236283059,
+      "username": "bnnyaw",
+      "firstName": "d",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:03:58.921Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:03:58.921Z"
+      }
+    },
+    {
+      "userId": 1401718264,
+      "username": "xoXoLaniii",
+      "firstName": "miyaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:03:58.921Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:03:58.921Z"
+      }
+    },
+    {
+      "userId": 7588979086,
+      "firstName": "Mayor",
+      "lastName": "Lee",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:03:58.922Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:03:58.922Z"
+      }
+    },
+    {
+      "userId": 6673404271,
+      "username": "berliano88",
+      "firstName": "𝙢𝙖𝙖𝙡𝙗𝙚𝙧𝙡𝙞𝙖𝙣𝙤",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:03:58.923Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:03:58.923Z"
+      }
+    },
+    {
+      "userId": 8440898480,
+      "firstName": "sidd",
+      "lastName": "ae",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:03:58.923Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:03:58.923Z"
+      }
+    },
+    {
+      "userId": 8433501075,
+      "username": "masrensreal",
+      "firstName": "Z̋h̑o̓u̎ C̍h̐a̓n̍g̋ (周昌)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:03:58.923Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:03:58.923Z"
       }
     }
   ],
