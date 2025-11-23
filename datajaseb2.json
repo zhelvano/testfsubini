@@ -13142,5 +13142,19 @@
     "lastActive": {
       "$date": "2025-11-23T14:24:37.963Z"
     }
+  },
+  {
+    "userId": 7166009666,
+    "username": "acinmjhdd",
+    "firstName": "cinssszzz",
+    "isPremium": false,
+    "isAdmin": false,
+    "groupsAdded": [],
+    "joinedAt": {
+      "$date": "2025-11-23T14:25:11.212Z"
+    },
+    "lastActive": {
+      "$date": "2025-11-23T14:25:11.212Z"
+    }
   }
 ]
