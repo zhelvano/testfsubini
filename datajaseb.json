@@ -15030,12 +15030,14 @@
       "firstName": "BOT119",
       "isPremium": false,
       "isAdmin": false,
-      "groupsAdded": [],
+      "groupsAdded": [
+        -1003166095046
+      ],
       "joinedAt": {
         "$date": "2025-11-23T22:31:24.360Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T23:56:44.772Z"
+        "$date": "2025-11-23T23:57:18.050Z"
       }
     },
     {
@@ -15536,6 +15538,15 @@
         "$date": "2025-11-23T23:45:46.123Z"
       },
       "memberCount": 21
+    },
+    {
+      "groupId": -1003166095046,
+      "title": "GB BY BOTT119(MARKET)",
+      "addedBy": 8469455415,
+      "addedAt": {
+        "$date": "2025-11-23T23:57:06.783Z"
+      },
+      "memberCount": 94
     }
   ]
 }
