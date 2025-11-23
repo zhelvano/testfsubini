@@ -106,7 +106,7 @@
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T14:44:30.353Z"
+        "$date": "2025-11-23T14:56:37.061Z"
       },
       "username": "RlMZOHUN"
     },
@@ -13166,6 +13166,34 @@
       },
       "lastActive": {
         "$date": "2025-11-23T14:55:01.847Z"
+      }
+    },
+    {
+      "userId": 7652361729,
+      "firstName": "ᅠᅠblack",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T14:56:45.054Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T14:56:45.054Z"
+      }
+    },
+    {
+      "userId": 7793211279,
+      "username": "ZreyxkenonZ",
+      "firstName": "Zyerxx | Open Unband|",
+      "lastName": "ZyrexxRl",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T14:56:49.479Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T14:56:49.479Z"
       }
     }
   ],
