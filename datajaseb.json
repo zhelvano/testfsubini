@@ -13307,6 +13307,20 @@
       "lastActive": {
         "$date": "2025-11-23T15:12:55.640Z"
       }
+    },
+    {
+      "userId": 5887082199,
+      "username": "NodeX_xx",
+      "firstName": "Zeck",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:13:38.170Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:13:38.170Z"
+      }
     }
   ],
   "groups": [
