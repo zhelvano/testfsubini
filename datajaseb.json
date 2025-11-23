@@ -14350,6 +14350,19 @@
       "lastActive": {
         "$date": "2025-11-23T18:31:52.648Z"
       }
+    },
+    {
+      "userId": 8584249874,
+      "firstName": "Lexx",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:35:17.494Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:35:17.494Z"
+      }
     }
   ],
   "groups": [
