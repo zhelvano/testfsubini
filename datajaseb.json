@@ -108,7 +108,7 @@
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T18:26:48.305Z"
+        "$date": "2025-11-23T18:32:15.683Z"
       },
       "username": "RlMZOHUN"
     },
@@ -14335,6 +14335,20 @@
       },
       "lastActive": {
         "$date": "2025-11-23T18:29:02.657Z"
+      }
+    },
+    {
+      "userId": 7438453510,
+      "username": "bangdoxzoffc",
+      "firstName": "—𝗫𝗡𝗫𝗫 | | 𝗕𝗔𝗡𝗚𝗗𝗢𝗫𝗭",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:31:52.646Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:31:52.648Z"
       }
     }
   ],
