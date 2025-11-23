@@ -13601,6 +13601,33 @@
       "lastActive": {
         "$date": "2025-11-23T16:22:37.040Z"
       }
+    },
+    {
+      "userId": 7662118549,
+      "firstName": "Ruko•ɢᴛ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T16:22:53.372Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T16:22:53.372Z"
+      }
+    },
+    {
+      "userId": 7331957582,
+      "username": "olengzvuck39",
+      "firstName": "𝙎𝙖𝙣𝙯𝙯?",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T16:23:04.169Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T16:23:04.169Z"
+      }
     }
   ],
   "groups": [
