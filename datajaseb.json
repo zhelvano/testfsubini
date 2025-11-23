@@ -13223,6 +13223,19 @@
       "lastActive": {
         "$date": "2025-11-23T15:00:53.250Z"
       }
+    },
+    {
+      "userId": 7248892596,
+      "firstName": "𝒊𝒕𝒙 𝑲𝒊𝒏𝒈✨👑",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:06:46.254Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:06:46.258Z"
+      }
     }
   ],
   "groups": [
