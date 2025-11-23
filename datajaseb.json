@@ -1,5 +1,26 @@
 {
-  "users": [],
+  "users": [
+    {
+      "userId": 7491045987,
+      "username": "Rijalzx",
+      "firstName": "⏤͟͟͞͞𝐍𝟓𝐓 || 𝗥𝗜𝗝𝗔𝗟 𝗭𝗫",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": "2025-11-23T14:00:03.651Z",
+      "lastActive": "2025-11-23T14:00:03.654Z"
+    },
+    {
+      "userId": 1301819689,
+      "username": "RimZohun",
+      "firstName": "𝚁𝚒𝚖 乂 𝚉𝚘𝙷𝚞𝚗",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": "2025-11-23T14:00:12.144Z",
+      "lastActive": "2025-11-23T14:00:31.529Z"
+    }
+  ],
   "groups": [],
   "sessions": []
 }
