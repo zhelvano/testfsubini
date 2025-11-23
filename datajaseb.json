@@ -15025,6 +15025,20 @@
       "lastActive": {
         "$date": "2025-11-23T22:18:46.688Z"
       }
+    },
+    {
+      "userId": 8469455415,
+      "username": "thvstore119",
+      "firstName": "BOT119",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:31:24.360Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:31:27.829Z"
+      }
     }
   ],
   "groups": [
