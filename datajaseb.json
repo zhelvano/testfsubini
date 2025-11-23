@@ -13935,6 +13935,20 @@
       "lastActive": {
         "$date": "2025-11-23T17:05:50.577Z"
       }
+    },
+    {
+      "userId": 1781776563,
+      "username": "Gokuuuu919",
+      "firstName": "Iyaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T17:17:18.843Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T17:17:18.843Z"
+      }
     }
   ],
   "groups": [
