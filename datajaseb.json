@@ -14614,6 +14614,21 @@
       "lastActive": {
         "$date": "2025-11-23T19:47:41.270Z"
       }
+    },
+    {
+      "userId": 7551881728,
+      "username": "Sameejshsshsfsyssgsg",
+      "firstName": "JANI",
+      "lastName": "Op",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T20:02:58.522Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T20:02:58.528Z"
+      }
     }
   ],
   "groups": [
