@@ -44,7 +44,7 @@
         "$date": "2025-11-22T19:07:56.252000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T22:46:45.535Z"
+        "$date": "2025-11-23T23:30:14.775Z"
       },
       "username": "nahkaniya123",
       "premiumExpiry": {
@@ -15206,6 +15206,20 @@
       },
       "lastActive": {
         "$date": "2025-11-23T23:29:55.962Z"
+      }
+    },
+    {
+      "userId": 7300124706,
+      "username": "Dipukii",
+      "firstName": "Dits.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T23:29:57.897Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T23:29:57.897Z"
       }
     }
   ],
