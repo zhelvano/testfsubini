@@ -13517,7 +13517,7 @@
         "$date": "2025-11-23T15:57:13.754Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T16:04:53.865Z"
+        "$date": "2025-11-23T19:47:32.959Z"
       }
     },
     {
@@ -14584,6 +14584,35 @@
       },
       "lastActive": {
         "$date": "2025-11-23T19:30:30.276Z"
+      }
+    },
+    {
+      "userId": 7444591873,
+      "username": "abuhassan179",
+      "firstName": "Abu",
+      "lastName": "Hasan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T19:47:14.452Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T19:47:14.452Z"
+      }
+    },
+    {
+      "userId": 7916387843,
+      "username": "nsjdjsjwq",
+      "firstName": "شاـعـیـبو الله افـغـان",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T19:47:41.269Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T19:47:41.270Z"
       }
     }
   ],
