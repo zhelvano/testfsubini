@@ -13462,6 +13462,34 @@
       "lastActive": {
         "$date": "2025-11-23T15:50:05.005Z"
       }
+    },
+    {
+      "userId": 8184418348,
+      "username": "rezzsoloera",
+      "firstName": "⏤͟͞𝟕𝟑𝗧 || 𝐑𝐞𝐳𝐳𝐍𝐨𝐭𝐃𝐞𝐯 ×፝֟͜×",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:51:22.615Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:51:22.615Z"
+      }
+    },
+    {
+      "userId": 8143792005,
+      "username": "RHDFLVXDH",
+      "firstName": "عبد الرحمن",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:51:46.524Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:51:46.524Z"
+      }
     }
   ],
   "groups": [
