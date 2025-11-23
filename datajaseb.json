@@ -13249,6 +13249,20 @@
       "lastActive": {
         "$date": "2025-11-23T15:08:03.763Z"
       }
+    },
+    {
+      "userId": 8264773764,
+      "username": "alvarooffiicial",
+      "firstName": "N̷̛͈̹̻͎͛͠𝑻𝑹𝑿 || 𝗔𝗟𝗩𝗔𝗥𝗢 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 #1",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:10:03.813Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:10:03.813Z"
+      }
     }
   ],
   "groups": [
