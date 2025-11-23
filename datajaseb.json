@@ -15067,6 +15067,20 @@
       "lastActive": {
         "$date": "2025-11-23T22:39:44.979Z"
       }
+    },
+    {
+      "userId": 7414804105,
+      "firstName": "Aliz",
+      "lastName": "Martinez",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:42:47.019Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:42:47.019Z"
+      }
     }
   ],
   "groups": [
