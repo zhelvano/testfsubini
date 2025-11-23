@@ -14810,6 +14810,34 @@
       "lastActive": {
         "$date": "2025-11-23T20:53:58.425Z"
       }
+    },
+    {
+      "userId": 7515841212,
+      "firstName": "Jerexz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T20:57:38.266Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T20:57:38.266Z"
+      }
+    },
+    {
+      "userId": 7909368353,
+      "username": "Abdullh414",
+      "firstName": "RAEES ABDULLAH",
+      "lastName": "Atas",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T20:57:42.586Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T20:57:42.586Z"
+      }
     }
   ],
   "groups": [
