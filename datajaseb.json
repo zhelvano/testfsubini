@@ -14015,6 +14015,19 @@
       "lastActive": {
         "$date": "2025-11-23T17:41:08.766Z"
       }
+    },
+    {
+      "userId": 8553704204,
+      "firstName": "Jyminte",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T17:49:00.371Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T17:49:00.371Z"
+      }
     }
   ],
   "groups": [
