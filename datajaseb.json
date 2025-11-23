@@ -15035,7 +15035,7 @@
         "$date": "2025-11-23T22:31:24.360Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T22:31:27.829Z"
+        "$date": "2025-11-23T23:55:55.887Z"
       }
     },
     {
@@ -15263,6 +15263,20 @@
       },
       "lastActive": {
         "$date": "2025-11-23T23:55:12.372Z"
+      }
+    },
+    {
+      "userId": 6568568576,
+      "username": "BarSm27",
+      "firstName": "Barzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T23:55:55.888Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T23:55:55.888Z"
       }
     }
   ],
