@@ -13113,5 +13113,20 @@
     "lastActive": {
       "$date": "2025-11-23T14:22:06.799Z"
     }
+  },
+  {
+    "userId": 7590992029,
+    "username": "Hajibang6",
+    "firstName": "hayabusa",
+    "lastName": "Gggg",
+    "isPremium": false,
+    "isAdmin": false,
+    "groupsAdded": [],
+    "joinedAt": {
+      "$date": "2025-11-23T14:22:37.505Z"
+    },
+    "lastActive": {
+      "$date": "2025-11-23T14:22:37.510Z"
+    }
   }
 ]
