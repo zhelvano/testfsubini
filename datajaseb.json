@@ -15053,6 +15053,21 @@
       "lastActive": {
         "$date": "2025-11-23T22:36:14.467Z"
       }
+    },
+    {
+      "userId": 7962930589,
+      "username": "katexmk",
+      "firstName": "Katexmk",
+      "lastName": "Died🥀",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:39:44.979Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:39:44.979Z"
+      }
     }
   ],
   "groups": [
