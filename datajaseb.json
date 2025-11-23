@@ -15081,6 +15081,19 @@
       "lastActive": {
         "$date": "2025-11-23T22:42:47.019Z"
       }
+    },
+    {
+      "userId": 8264364133,
+      "firstName": "𝘿𝘼𝘾 || 𝙎𝘼𝙏𝙕",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:44:16.538Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:44:16.538Z"
+      }
     }
   ],
   "groups": [
