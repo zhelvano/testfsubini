@@ -15094,6 +15094,19 @@
       "lastActive": {
         "$date": "2025-11-23T22:44:16.538Z"
       }
+    },
+    {
+      "userId": 5154700205,
+      "firstName": "Bayy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:44:49.863Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:44:49.863Z"
+      }
     }
   ],
   "groups": [
