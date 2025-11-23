@@ -15120,6 +15120,20 @@
       "lastActive": {
         "$date": "2025-11-23T22:46:18.202Z"
       }
+    },
+    {
+      "userId": 6956383052,
+      "username": "maruf22497",
+      "firstName": "Maruf Hasan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:51:16.525Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:51:16.525Z"
+      }
     }
   ],
   "groups": [
