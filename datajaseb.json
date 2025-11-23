@@ -1636,7 +1636,6 @@
         "$oid": "69226dd9d36a0357c0e0bcb1"
       },
       "userId": 8170834627,
-      "username": null,
       "firstName": "YANZ",
       "lastName": "STR",
       "isPremium": false,
@@ -1646,7 +1645,7 @@
         "$date": "2025-11-23T02:13:45.360000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T02:13:45.360000Z"
+        "$date": "2025-11-23T15:07:21.073Z"
       }
     },
     {
