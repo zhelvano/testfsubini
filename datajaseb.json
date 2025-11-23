@@ -16,7 +16,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T16:06:53.334Z"
+        "$date": "2025-11-23T16:18:16.794Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -13559,6 +13559,20 @@
       },
       "lastActive": {
         "$date": "2025-11-23T16:15:23.136Z"
+      }
+    },
+    {
+      "userId": 6980551677,
+      "firstName": "وفادار",
+      "lastName": "جانان",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T16:17:49.718Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T16:17:49.721Z"
       }
     }
   ],
