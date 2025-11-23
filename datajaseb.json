@@ -17,7 +17,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T18:38:29.431Z"
+        "$date": "2025-11-23T18:45:17.706Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -14363,6 +14363,33 @@
       },
       "lastActive": {
         "$date": "2025-11-23T18:35:17.494Z"
+      }
+    },
+    {
+      "userId": 6988870962,
+      "firstName": "دیــــــــل اغــــــا",
+      "lastName": "ارمـــــــانــــــــــــی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:44:56.277Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:44:56.279Z"
+      }
+    },
+    {
+      "userId": 8205399275,
+      "firstName": "لیوانی بابا خطر ناک فراهی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:44:56.279Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:44:56.279Z"
       }
     }
   ],
