@@ -79,6 +79,16 @@
       "groupsAdded": [],
       "joinedAt": "2025-11-23T14:05:39.078Z",
       "lastActive": "2025-11-23T14:05:39.078Z"
+    },
+    {
+      "userId": 8436724587,
+      "firstName": "..",
+      "lastName": "...",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": "2025-11-23T14:07:25.295Z",
+      "lastActive": "2025-11-23T14:07:25.295Z"
     }
   ],
   "groups": [
