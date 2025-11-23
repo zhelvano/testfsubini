@@ -14698,6 +14698,20 @@
       "lastActive": {
         "$date": "2025-11-23T20:16:28.373Z"
       }
+    },
+    {
+      "userId": 7541119140,
+      "username": "aslemyadhm",
+      "firstName": "الكــــــــــنج في عالم البرمجة",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T20:23:38.008Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T20:23:38.013Z"
+      }
     }
   ],
   "groups": [
