@@ -7,8 +7,8 @@
       "userId": 1301819689,
       "firstName": "𝚁𝚒𝚖 乂 𝚉𝚘𝙷𝚞𝚗",
       "groupsAdded": [
-        -1003139815134.0,
-        -1002226805447.0
+        -1003139815134,
+        -1002226805447
       ],
       "isAdmin": false,
       "isPremium": true,
@@ -16,9 +16,8 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T11:43:50.111000Z"
+        "$date": "2025-11-23T14:38:16.790Z"
       },
-      "lastName": null,
       "username": "RimZohun",
       "premiumSince": {
         "$date": "2025-11-23T07:30:51.080000Z"
@@ -31,11 +30,11 @@
       "_id": {
         "$oid": "690fe208770a8a87aa60ddcc"
       },
-      "userId": 6449298691.0,
+      "userId": 6449298691,
       "firstName": "kundrat",
       "groupsAdded": [
-        -1003240150160.0,
-        -1003279623027.0
+        -1003240150160,
+        -1003279623027
       ],
       "isAdmin": false,
       "isPremium": true,
@@ -61,7 +60,7 @@
       "userId": 1087968824,
       "firstName": "Group",
       "groupsAdded": [
-        -1002419059011.0
+        -1002419059011
       ],
       "isAdmin": false,
       "isPremium": false,
@@ -81,7 +80,7 @@
       "userId": 1416330968,
       "firstName": "......",
       "groupsAdded": [
-        -1002316426402.0
+        -1002316426402
       ],
       "isAdmin": false,
       "isPremium": false,
@@ -98,7 +97,7 @@
       "_id": {
         "$oid": "69220d0eaef6a7e5a036624b"
       },
-      "userId": 8105447127.0,
+      "userId": 8105447127,
       "firstName": "Second Rim",
       "groupsAdded": [],
       "isAdmin": false,
@@ -116,7 +115,7 @@
       "_id": {
         "$oid": "692240eb76b828e48ad3b909"
       },
-      "userId": 6549525300.0,
+      "userId": 6549525300,
       "username": "Panzofficialreal",
       "firstName": "⏤͟͟͞͞𝐃𝐂𝐌𝐓 || 𝙋𝘼𝙉𝙕 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 ⏤͟͟͞͞𝗭𝟰",
       "lastName": null,
@@ -134,7 +133,7 @@
       "_id": {
         "$oid": "6922424176b828e48ad3b90a"
       },
-      "userId": 7598865957.0,
+      "userId": 7598865957,
       "username": "RimuruNew",
       "firstName": "𝚁𝙸𝙼𝚄𝚁𝚄 𝚃𝙴𝙼𝙿𝙴𝚂𝚃",
       "lastName": null,
@@ -152,15 +151,15 @@
       "_id": {
         "$oid": "69225cdad36a0357c0e0bc5f"
       },
-      "userId": 8338146621.0,
+      "userId": 8338146621,
       "username": "Ranzzstorenokos",
       "firstName": "⏤͟͟͞͞𝐗𝐓𝐑 || 𝗥𝗔𝗡𝗭𝗭 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ||",
       "lastName": null,
       "isPremium": true,
       "isAdmin": false,
       "groupsAdded": [
-        -1003017812829.0,
-        -1002950127867.0
+        -1003017812829,
+        -1002950127867
       ],
       "joinedAt": {
         "$date": "2025-11-23T01:01:14.522000Z"
@@ -179,7 +178,7 @@
       "_id": {
         "$oid": "69225d98d36a0357c0e0bc60"
       },
-      "userId": 8439128139.0,
+      "userId": 8439128139,
       "username": "ALZZSTORE123",
       "firstName": "⏤͟͞͞𝐑𝐘𝐔𝐔 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋遠",
       "lastName": null,
@@ -197,7 +196,7 @@
       "_id": {
         "$oid": "69225de5d36a0357c0e0bc61"
       },
-      "userId": 8307398474.0,
+      "userId": 8307398474,
       "username": null,
       "firstName": "@s1444",
       "lastName": null,
@@ -215,7 +214,7 @@
       "_id": {
         "$oid": "69225e1cd36a0357c0e0bc62"
       },
-      "userId": 7347651672.0,
+      "userId": 7347651672,
       "username": "Hirushan937",
       "firstName": "Hansaka",
       "lastName": "Hirushan",
@@ -251,7 +250,7 @@
       "_id": {
         "$oid": "69225e58d36a0357c0e0bc64"
       },
-      "userId": 8283973232.0,
+      "userId": 8283973232,
       "username": null,
       "firstName": "Citra",
       "lastName": "Ud",
@@ -269,7 +268,7 @@
       "_id": {
         "$oid": "69225f22d36a0357c0e0bc65"
       },
-      "userId": 7344053743.0,
+      "userId": 7344053743,
       "username": "Feng_xian1",
       "firstName": "東華",
       "lastName": "Yao chen | Drops",
@@ -287,7 +286,7 @@
       "_id": {
         "$oid": "69225f2ad36a0357c0e0bc66"
       },
-      "userId": 6569437420.0,
+      "userId": 6569437420,
       "username": null,
       "firstName": "عبدالله",
       "lastName": "محروص",
@@ -323,7 +322,7 @@
       "_id": {
         "$oid": "69225fddd36a0357c0e0bc68"
       },
-      "userId": 6968195841.0,
+      "userId": 6968195841,
       "username": "bolz011",
       "firstName": "edo",
       "lastName": null,
@@ -341,7 +340,7 @@
       "_id": {
         "$oid": "69226006d36a0357c0e0bc69"
       },
-      "userId": 8379816639.0,
+      "userId": 8379816639,
       "username": "korekgeming",
       "firstName": "sa",
       "lastName": "putra",
@@ -359,7 +358,7 @@
       "_id": {
         "$oid": "69226019d36a0357c0e0bc6a"
       },
-      "userId": 6865143705.0,
+      "userId": 6865143705,
       "username": "Thj_arabe_Islam_777",
       "firstName": "𝐓𝐇𝐉 𝐀́𝐑𝐀𝐁𝐄' الإسلام",
       "lastName": null,
@@ -377,7 +376,7 @@
       "_id": {
         "$oid": "6922601cd36a0357c0e0bc6b"
       },
-      "userId": 8339645713.0,
+      "userId": 8339645713,
       "username": null,
       "firstName": "Riswan",
       "lastName": null,
@@ -395,7 +394,7 @@
       "_id": {
         "$oid": "6922609ed36a0357c0e0bc6c"
       },
-      "userId": 8313001850.0,
+      "userId": 8313001850,
       "username": null,
       "firstName": "Mestre Dos Magos 🧙‍♂️",
       "lastName": null,
@@ -413,7 +412,7 @@
       "_id": {
         "$oid": "692260c3d36a0357c0e0bc6d"
       },
-      "userId": 8483973723.0,
+      "userId": 8483973723,
       "username": "gixx_panel",
       "firstName": "gix",
       "lastName": "ganteng",
@@ -431,7 +430,7 @@
       "_id": {
         "$oid": "692260e9d36a0357c0e0bc6e"
       },
-      "userId": 8381638233.0,
+      "userId": 8381638233,
       "username": "PROMOSIKEVV",
       "firstName": "BOT PROMOSI",
       "lastName": null,
@@ -449,7 +448,7 @@
       "_id": {
         "$oid": "69226124d36a0357c0e0bc6f"
       },
-      "userId": 8073827111.0,
+      "userId": 8073827111,
       "username": "Arfan3737",
       "firstName": "Arfan",
       "lastName": null,
@@ -467,7 +466,7 @@
       "_id": {
         "$oid": "69226160d36a0357c0e0bc70"
       },
-      "userId": 7213459121.0,
+      "userId": 7213459121,
       "username": "sosogbwa",
       "firstName": "SoSoGbWa",
       "lastName": null,
@@ -485,7 +484,7 @@
       "_id": {
         "$oid": "692261a7d36a0357c0e0bc71"
       },
-      "userId": 7522194301.0,
+      "userId": 7522194301,
       "username": "Four_You_4U",
       "firstName": "4U",
       "lastName": null,
@@ -503,7 +502,7 @@
       "_id": {
         "$oid": "69226235d36a0357c0e0bc72"
       },
-      "userId": 8317032405.0,
+      "userId": 8317032405,
       "username": "Shinobuu1",
       "firstName": "竈門炭治郎???",
       "lastName": null,
@@ -521,7 +520,7 @@
       "_id": {
         "$oid": "6922627cd36a0357c0e0bc73"
       },
-      "userId": 8046859511.0,
+      "userId": 8046859511,
       "username": null,
       "firstName": "m",
       "lastName": null,
@@ -539,7 +538,7 @@
       "_id": {
         "$oid": "69226283d36a0357c0e0bc74"
       },
-      "userId": 7551736555.0,
+      "userId": 7551736555,
       "username": "riyadhossain003",
       "firstName": "➳ᴿᴰ✿࿐R҉I҉Y҉A҉D҉─╤╦︻",
       "lastName": null,
@@ -557,7 +556,7 @@
       "_id": {
         "$oid": "692262cdd36a0357c0e0bc75"
       },
-      "userId": 6651511049.0,
+      "userId": 6651511049,
       "username": "NicolassPereira",
       "firstName": "UNico-37",
       "lastName": null,
@@ -575,7 +574,7 @@
       "_id": {
         "$oid": "692262cfd36a0357c0e0bc76"
       },
-      "userId": 7364587605.0,
+      "userId": 7364587605,
       "username": "TraTRK",
       "firstName": "𝗧𝗥𝗔",
       "lastName": null,
@@ -593,7 +592,7 @@
       "_id": {
         "$oid": "69226310d36a0357c0e0bc77"
       },
-      "userId": 7034744611.0,
+      "userId": 7034744611,
       "username": null,
       "firstName": "朱普里",
       "lastName": null,
@@ -611,7 +610,7 @@
       "_id": {
         "$oid": "6922631ed36a0357c0e0bc78"
       },
-      "userId": 7714043787.0,
+      "userId": 7714043787,
       "username": "kazraja02",
       "firstName": "RAJA[FREYA JKT48]",
       "lastName": null,
@@ -629,7 +628,7 @@
       "_id": {
         "$oid": "69226341d36a0357c0e0bc79"
       },
-      "userId": 8458455483.0,
+      "userId": 8458455483,
       "username": "kaezroxmanzwhy",
       "firstName": "𝗠𝗮𝗻𝘇𝘅",
       "lastName": null,
@@ -647,7 +646,7 @@
       "_id": {
         "$oid": "6922637fd36a0357c0e0bc7a"
       },
-      "userId": 7987879756.0,
+      "userId": 7987879756,
       "username": "STEVEN_OFC_123",
       "firstName": "STEVEN || 涼泉 𖤍",
       "lastName": null,
@@ -665,7 +664,7 @@
       "_id": {
         "$oid": "6922638cd36a0357c0e0bc7b"
       },
-      "userId": 6956059655.0,
+      "userId": 6956059655,
       "username": "hamzaaquu",
       "firstName": "𝙃𝙖𝙢𝙯𝙯",
       "lastName": null,
@@ -683,7 +682,7 @@
       "_id": {
         "$oid": "692263f9d36a0357c0e0bc7c"
       },
-      "userId": 8014771340.0,
+      "userId": 8014771340,
       "username": null,
       "firstName": "N",
       "lastName": "y",
@@ -701,7 +700,7 @@
       "_id": {
         "$oid": "6922640ed36a0357c0e0bc7d"
       },
-      "userId": 8547517275.0,
+      "userId": 8547517275,
       "username": null,
       "firstName": "Josueei",
       "lastName": "May",
@@ -719,7 +718,7 @@
       "_id": {
         "$oid": "6922641ed36a0357c0e0bc7e"
       },
-      "userId": 8286872321.0,
+      "userId": 8286872321,
       "username": null,
       "firstName": "Rulzzl",
       "lastName": "Bapuk",
@@ -737,7 +736,7 @@
       "_id": {
         "$oid": "69226434d36a0357c0e0bc7f"
       },
-      "userId": 7710035086.0,
+      "userId": 7710035086,
       "username": null,
       "firstName": "山海集团",
       "lastName": null,
@@ -755,7 +754,7 @@
       "_id": {
         "$oid": "69226469d36a0357c0e0bc80"
       },
-      "userId": 7239271635.0,
+      "userId": 7239271635,
       "username": "Jackmicroboy",
       "firstName": "Jack",
       "lastName": null,
@@ -773,7 +772,7 @@
       "_id": {
         "$oid": "6922647bd36a0357c0e0bc81"
       },
-      "userId": 7716059916.0,
+      "userId": 7716059916,
       "username": "iwan9933",
       "firstName": "iwan",
       "lastName": null,
@@ -791,7 +790,7 @@
       "_id": {
         "$oid": "692264a1d36a0357c0e0bc82"
       },
-      "userId": 8044641190.0,
+      "userId": 8044641190,
       "username": "ZakiiNET",
       "firstName": "Zakii",
       "lastName": "⚡",
@@ -809,7 +808,7 @@
       "_id": {
         "$oid": "692264a6d36a0357c0e0bc83"
       },
-      "userId": 5816521219.0,
+      "userId": 5816521219,
       "username": "VIP_999_VIP",
       "firstName": "لـﹻ۬ﹻۧ۬ﹻٰ۬ﹻ۬ﹻـيـ̮ـــ͢ـ̸̐ـــــ̮و",
       "lastName": null,
@@ -827,7 +826,7 @@
       "_id": {
         "$oid": "692264abd36a0357c0e0bc84"
       },
-      "userId": 8323020763.0,
+      "userId": 8323020763,
       "username": "sadboyyzzz",
       "firstName": "b",
       "lastName": null,
@@ -845,7 +844,7 @@
       "_id": {
         "$oid": "692264afd36a0357c0e0bc85"
       },
-      "userId": 8486678108.0,
+      "userId": 8486678108,
       "username": null,
       "firstName": ".",
       "lastName": ".",
@@ -863,7 +862,7 @@
       "_id": {
         "$oid": "692264c0d36a0357c0e0bc86"
       },
-      "userId": 7411336444.0,
+      "userId": 7411336444,
       "username": null,
       "firstName": "Carlaa",
       "lastName": null,
@@ -881,7 +880,7 @@
       "_id": {
         "$oid": "692264e0d36a0357c0e0bc87"
       },
-      "userId": 6108847815.0,
+      "userId": 6108847815,
       "username": "Juwelsc",
       "firstName": "Juwel",
       "lastName": "Rana🍅▪️🥠🐾",
@@ -899,7 +898,7 @@
       "_id": {
         "$oid": "69226509d36a0357c0e0bc88"
       },
-      "userId": 8498956017.0,
+      "userId": 8498956017,
       "username": "gtwmaubilangapa",
       "firstName": "PENG",
       "lastName": null,
@@ -917,7 +916,7 @@
       "_id": {
         "$oid": "69226581d36a0357c0e0bc89"
       },
-      "userId": 8156622511.0,
+      "userId": 8156622511,
       "username": "prmthaardaa",
       "firstName": "ARDA",
       "lastName": null,
@@ -935,7 +934,7 @@
       "_id": {
         "$oid": "692265b5d36a0357c0e0bc8a"
       },
-      "userId": 8544066834.0,
+      "userId": 8544066834,
       "username": null,
       "firstName": "fatihrizki",
       "lastName": "fatihrizki",
@@ -971,7 +970,7 @@
       "_id": {
         "$oid": "69226624d36a0357c0e0bc8c"
       },
-      "userId": 7412488631.0,
+      "userId": 7412488631,
       "username": "jujunkasep1",
       "firstName": "Jun",
       "lastName": null,
@@ -989,7 +988,7 @@
       "_id": {
         "$oid": "69226670d36a0357c0e0bc8d"
       },
-      "userId": 8001288360.0,
+      "userId": 8001288360,
       "username": "XRYachile",
       "firstName": "𝙓𝙍𝙔 • 𝘼𝘾𝙃𝙄𝙇",
       "lastName": null,
@@ -1007,7 +1006,7 @@
       "_id": {
         "$oid": "69226725d36a0357c0e0bc8e"
       },
-      "userId": 6218761505.0,
+      "userId": 6218761505,
       "username": "Ferdisambo06",
       "firstName": "Ferdi",
       "lastName": "Vistanto",
@@ -1025,7 +1024,7 @@
       "_id": {
         "$oid": "6922676ed36a0357c0e0bc8f"
       },
-      "userId": 7692950871.0,
+      "userId": 7692950871,
       "username": "arifislam_arif1",
       "firstName": "~ BAD",
       "lastName": "BoY😅💔",
@@ -1043,7 +1042,7 @@
       "_id": {
         "$oid": "6922677dd36a0357c0e0bc90"
       },
-      "userId": 7660237108.0,
+      "userId": 7660237108,
       "username": "linzsuka",
       "firstName": "LinzSukaTobrut",
       "lastName": null,
@@ -1061,7 +1060,7 @@
       "_id": {
         "$oid": "69226782d36a0357c0e0bc91"
       },
-      "userId": 7310578528.0,
+      "userId": 7310578528,
       "username": "Pv_parwanj",
       "firstName": "𝐍𝐈𝐆𝐇𝐓 𝐋𝐎𝐑𝐃 𝐏𝐀𝐑𝐖𝐀𝐍𝐈 𝐒𝐀𝐇𝐈𝐁 𓆪‌_4𝐗",
       "lastName": null,
@@ -1079,7 +1078,7 @@
       "_id": {
         "$oid": "692267c5d36a0357c0e0bc92"
       },
-      "userId": 7322609058.0,
+      "userId": 7322609058,
       "username": "Ussaint",
       "firstName": "հҽӀӀƘíղց",
       "lastName": "...",
@@ -1097,7 +1096,7 @@
       "_id": {
         "$oid": "69226813d36a0357c0e0bc93"
       },
-      "userId": 8287275440.0,
+      "userId": 8287275440,
       "username": "AsrafulAJ",
       "firstName": "Md",
       "lastName": "Asraful",
@@ -1115,7 +1114,7 @@
       "_id": {
         "$oid": "69226839d36a0357c0e0bc94"
       },
-      "userId": 7900587722.0,
+      "userId": 7900587722,
       "username": null,
       "firstName": "Sattya kece",
       "lastName": null,
@@ -1133,7 +1132,7 @@
       "_id": {
         "$oid": "692268a6d36a0357c0e0bc95"
       },
-      "userId": 7691069754.0,
+      "userId": 7691069754,
       "username": "Aguzz2235",
       "firstName": "Bczxx",
       "lastName": null,
@@ -1151,7 +1150,7 @@
       "_id": {
         "$oid": "692268bdd36a0357c0e0bc96"
       },
-      "userId": 8040989084.0,
+      "userId": 8040989084,
       "username": null,
       "firstName": "ګل اغا",
       "lastName": null,
@@ -1169,7 +1168,7 @@
       "_id": {
         "$oid": "69226924d36a0357c0e0bc97"
       },
-      "userId": 7077550735.0,
+      "userId": 7077550735,
       "username": "MosafirBoss420",
       "firstName": "F+P",
       "lastName": "Harami",
@@ -1187,7 +1186,7 @@
       "_id": {
         "$oid": "69226951d36a0357c0e0bc98"
       },
-      "userId": 7486485705.0,
+      "userId": 7486485705,
       "username": "NAYA_CANTIK_LUCU",
       "firstName": "Meh",
       "lastName": "Hem",
@@ -1205,7 +1204,7 @@
       "_id": {
         "$oid": "69226982d36a0357c0e0bc99"
       },
-      "userId": 5711521879.0,
+      "userId": 5711521879,
       "username": "viraunj",
       "firstName": "padsliteryn",
       "lastName": null,
@@ -1223,7 +1222,7 @@
       "_id": {
         "$oid": "692269b9d36a0357c0e0bc9a"
       },
-      "userId": 8375014399.0,
+      "userId": 8375014399,
       "username": null,
       "firstName": "Adit",
       "lastName": "Deyak",
@@ -1241,7 +1240,7 @@
       "_id": {
         "$oid": "692269dfd36a0357c0e0bc9b"
       },
-      "userId": 8235725261.0,
+      "userId": 8235725261,
       "username": "Jokowi1993",
       "firstName": "Jokowi",
       "lastName": null,
@@ -1259,7 +1258,7 @@
       "_id": {
         "$oid": "69226a42d36a0357c0e0bc9c"
       },
-      "userId": 5414387699.0,
+      "userId": 5414387699,
       "username": "ZeanTyz",
       "firstName": "𝚉𝙴𝙰𝙽 || 𝙻𝚉ホッケー",
       "lastName": null,
@@ -1277,7 +1276,7 @@
       "_id": {
         "$oid": "69226a65d36a0357c0e0bc9d"
       },
-      "userId": 5738954310.0,
+      "userId": 5738954310,
       "username": null,
       "firstName": "A.A",
       "lastName": "Oby",
@@ -1295,7 +1294,7 @@
       "_id": {
         "$oid": "69226a68d36a0357c0e0bc9e"
       },
-      "userId": 6380052554.0,
+      "userId": 6380052554,
       "username": "EgaSamp",
       "firstName": "Facebook Cookies",
       "lastName": null,
@@ -1313,7 +1312,7 @@
       "_id": {
         "$oid": "69226a6bd36a0357c0e0bc9f"
       },
-      "userId": 7707910414.0,
+      "userId": 7707910414,
       "username": "Tonrtiyaj",
       "firstName": "Setcu🐉🤫🧏👑",
       "lastName": null,
@@ -1331,7 +1330,7 @@
       "_id": {
         "$oid": "69226a91d36a0357c0e0bca0"
       },
-      "userId": 7258519052.0,
+      "userId": 7258519052,
       "username": null,
       "firstName": "Yo",
       "lastName": "Oke",
@@ -1349,7 +1348,7 @@
       "_id": {
         "$oid": "69226ab6d36a0357c0e0bca1"
       },
-      "userId": 8421003724.0,
+      "userId": 8421003724,
       "username": "Q1987m",
       "firstName": ".",
       "lastName": ".",
@@ -1367,7 +1366,7 @@
       "_id": {
         "$oid": "69226b01d36a0357c0e0bca2"
       },
-      "userId": 8478873943.0,
+      "userId": 8478873943,
       "username": null,
       "firstName": "MR Roshid",
       "lastName": "Ullah",
@@ -1385,7 +1384,7 @@
       "_id": {
         "$oid": "69226b48d36a0357c0e0bca3"
       },
-      "userId": 6729394324.0,
+      "userId": 6729394324,
       "username": "lylnc",
       "firstName": "— lalaa",
       "lastName": null,
@@ -1403,7 +1402,7 @@
       "_id": {
         "$oid": "69226b72d36a0357c0e0bca4"
       },
-      "userId": 8435181271.0,
+      "userId": 8435181271,
       "username": "Yanzsmoks",
       "firstName": "Tyoo🪡",
       "lastName": null,
@@ -1421,7 +1420,7 @@
       "_id": {
         "$oid": "69226b99d36a0357c0e0bca5"
       },
-      "userId": 7582740551.0,
+      "userId": 7582740551,
       "username": "Nerleson",
       "firstName": "𖡄 Ｎｅｌｓｏｎ 𖡄",
       "lastName": null,
@@ -1439,7 +1438,7 @@
       "_id": {
         "$oid": "69226bd8d36a0357c0e0bca6"
       },
-      "userId": 8460532969.0,
+      "userId": 8460532969,
       "username": null,
       "firstName": "Combo",
       "lastName": "Sakti",
@@ -1457,7 +1456,7 @@
       "_id": {
         "$oid": "69226befd36a0357c0e0bca7"
       },
-      "userId": 8134023893.0,
+      "userId": 8134023893,
       "username": null,
       "firstName": "vakumm",
       "lastName": "world",
@@ -1493,7 +1492,7 @@
       "_id": {
         "$oid": "69226c26d36a0357c0e0bca9"
       },
-      "userId": 8341246721.0,
+      "userId": 8341246721,
       "username": "MARZZFASERESPONS",
       "firstName": "Fikri",
       "lastName": "Jakarta",
@@ -1511,7 +1510,7 @@
       "_id": {
         "$oid": "69226c2cd36a0357c0e0bcaa"
       },
-      "userId": 7712879053.0,
+      "userId": 7712879053,
       "username": null,
       "firstName": "Nozim",
       "lastName": "Uddin",
@@ -1529,7 +1528,7 @@
       "_id": {
         "$oid": "69226ccbd36a0357c0e0bcab"
       },
-      "userId": 8153296742.0,
+      "userId": 8153296742,
       "username": null,
       "firstName": "SV Nirwana Cowok Tuli",
       "lastName": null,
@@ -1565,7 +1564,7 @@
       "_id": {
         "$oid": "69226d0bd36a0357c0e0bcad"
       },
-      "userId": 7323931193.0,
+      "userId": 7323931193,
       "username": "jowwh",
       "firstName": "ell",
       "lastName": "(4)",
@@ -1583,7 +1582,7 @@
       "_id": {
         "$oid": "69226d6fd36a0357c0e0bcae"
       },
-      "userId": 7755919451.0,
+      "userId": 7755919451,
       "username": null,
       "firstName": "Op",
       "lastName": "How",
@@ -1601,7 +1600,7 @@
       "_id": {
         "$oid": "69226dd2d36a0357c0e0bcaf"
       },
-      "userId": 8393255912.0,
+      "userId": 8393255912,
       "username": "mhmwjanangmailcom",
       "firstName": "☬شوخ سعادت²⁰¹⁸☬",
       "lastName": "☬شوخ سعادت²⁰¹⁸☬",
@@ -1619,7 +1618,7 @@
       "_id": {
         "$oid": "69226dd5d36a0357c0e0bcb0"
       },
-      "userId": 7383177363.0,
+      "userId": 7383177363,
       "username": "Gara223",
       "firstName": "\"Paja",
       "lastName": "Z\" ( '_' )",
@@ -1637,7 +1636,7 @@
       "_id": {
         "$oid": "69226dd9d36a0357c0e0bcb1"
       },
-      "userId": 8170834627.0,
+      "userId": 8170834627,
       "username": null,
       "firstName": "YANZ",
       "lastName": "STR",
@@ -1655,7 +1654,7 @@
       "_id": {
         "$oid": "69226de5d36a0357c0e0bcb2"
       },
-      "userId": 7269377013.0,
+      "userId": 7269377013,
       "username": null,
       "firstName": "𓆩𓇚𝐑𝐀𝐄𝐄𝐒 𝐘𝐔𝐒𝐔𝐅 𝐑𝐄𝐏𝐎𝐑𝐓𝐑𓇚𓆪",
       "lastName": "شوی خواری بدبین🥷🏿",
@@ -1673,7 +1672,7 @@
       "_id": {
         "$oid": "69226e1ed36a0357c0e0bcb3"
       },
-      "userId": 6868234091.0,
+      "userId": 6868234091,
       "username": "Mahmood_1233",
       "firstName": "رٍيـًٌٍّ̨̥̬̩ـسـًٌٍّ̨̥̬̩ـ سـًٌٍّ̨̥̬̩ـآحـًٌٍّ̨̥̬̩ـلَ",
       "lastName": null,
@@ -1691,7 +1690,7 @@
       "_id": {
         "$oid": "69226e23d36a0357c0e0bcb4"
       },
-      "userId": 6922155898.0,
+      "userId": 6922155898,
       "username": "KYYCAPEBLOKIR",
       "firstName": "KYYSTARLIK🤦🏼",
       "lastName": null,
@@ -1709,7 +1708,7 @@
       "_id": {
         "$oid": "69226ea5d36a0357c0e0bcb5"
       },
-      "userId": 8466430253.0,
+      "userId": 8466430253,
       "username": null,
       "firstName": "Hi",
       "lastName": "Hi",
@@ -1727,7 +1726,7 @@
       "_id": {
         "$oid": "69226ec4d36a0357c0e0bcb6"
       },
-      "userId": 6748395054.0,
+      "userId": 6748395054,
       "username": "qqqhhv",
       "firstName": "كاران",
       "lastName": null,
@@ -1745,7 +1744,7 @@
       "_id": {
         "$oid": "69226ee2d36a0357c0e0bcb7"
       },
-      "userId": 5866602492.0,
+      "userId": 5866602492,
       "username": "gco666",
       "firstName": "unknown!",
       "lastName": null,
@@ -1763,7 +1762,7 @@
       "_id": {
         "$oid": "692270d7d36a0357c0e0bcb8"
       },
-      "userId": 8348808943.0,
+      "userId": 8348808943,
       "username": "Okki736",
       "firstName": "Okki",
       "lastName": "Back🕷",
@@ -1781,7 +1780,7 @@
       "_id": {
         "$oid": "692270dbd36a0357c0e0bcb9"
       },
-      "userId": 8417999941.0,
+      "userId": 8417999941,
       "username": "W16273",
       "firstName": "WANN",
       "lastName": "Zyy",
@@ -1799,7 +1798,7 @@
       "_id": {
         "$oid": "692270edd36a0357c0e0bcba"
       },
-      "userId": 7043434750.0,
+      "userId": 7043434750,
       "username": "Rohullah_Caybire",
       "firstName": "𓆩•.𝑹𝒐𝒉𝒖𝒍𝒍𝒂𝒉 𝑪𝒂𝒚𝒃𝒆𝒓𝒊.•𓆪",
       "lastName": null,
@@ -1817,7 +1816,7 @@
       "_id": {
         "$oid": "692270f8d36a0357c0e0bcbb"
       },
-      "userId": 7811675120.0,
+      "userId": 7811675120,
       "username": "Minz278",
       "firstName": "—͟͞͞ DRAK SAMURAI OFFICIAL",
       "lastName": null,
@@ -1835,7 +1834,7 @@
       "_id": {
         "$oid": "6922711cd36a0357c0e0bcbc"
       },
-      "userId": 7071917936.0,
+      "userId": 7071917936,
       "username": null,
       "firstName": "Im",
       "lastName": "An",
@@ -1853,7 +1852,7 @@
       "_id": {
         "$oid": "69227127d36a0357c0e0bcbd"
       },
-      "userId": 7330705663.0,
+      "userId": 7330705663,
       "username": "Uheboen",
       "firstName": "Noor",
       "lastName": "Chaw",
@@ -1871,7 +1870,7 @@
       "_id": {
         "$oid": "692271f7d36a0357c0e0bcbe"
       },
-      "userId": 7443994174.0,
+      "userId": 7443994174,
       "username": null,
       "firstName": "Rahmat",
       "lastName": null,
@@ -1889,7 +1888,7 @@
       "_id": {
         "$oid": "69227227d36a0357c0e0bcbf"
       },
-      "userId": 8540044556.0,
+      "userId": 8540044556,
       "username": null,
       "firstName": "YoNg",
       "lastName": "Dam",
@@ -1907,7 +1906,7 @@
       "_id": {
         "$oid": "6922722cd36a0357c0e0bcc0"
       },
-      "userId": 6990053345.0,
+      "userId": 6990053345,
       "username": "nayanmonigoswami",
       "firstName": "🍅Nayan🐾",
       "lastName": "Goswami🌱SEED",
@@ -1925,7 +1924,7 @@
       "_id": {
         "$oid": "69227284d36a0357c0e0bcc1"
       },
-      "userId": 6641979838.0,
+      "userId": 6641979838,
       "username": "kazimamun28",
       "firstName": "Kazi",
       "lastName": "Mamun",
@@ -1943,7 +1942,7 @@
       "_id": {
         "$oid": "69227301d36a0357c0e0bcc2"
       },
-      "userId": 6849574922.0,
+      "userId": 6849574922,
       "username": "RzNokos",
       "firstName": "𝙍𝙯𝙎𝙩𝙤𝙧𝙚 (𝙍𝙯𝙉𝙤𝙠𝙤𝙨)",
       "lastName": null,
@@ -1961,7 +1960,7 @@
       "_id": {
         "$oid": "69227303d36a0357c0e0bcc3"
       },
-      "userId": 6838131683.0,
+      "userId": 6838131683,
       "username": null,
       "firstName": "uzan",
       "lastName": null,
@@ -1979,7 +1978,7 @@
       "_id": {
         "$oid": "69227322d36a0357c0e0bcc4"
       },
-      "userId": 7579458735.0,
+      "userId": 7579458735,
       "username": null,
       "firstName": "𖤍 | 🃏 —𝐁𝐫𝐚́𝐧𝐙𝐲𝐲 𝐃𝐞𝐥𝐚𝐮𝐫𝐞𝐧𝐭 🃏🇮🇩🇮🇩🇮🇩🇮🇩 𖤓ꕤ𖤓",
       "lastName": "ꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾꦾ",
@@ -1997,7 +1996,7 @@
       "_id": {
         "$oid": "69227325d36a0357c0e0bcc5"
       },
-      "userId": 7846393881.0,
+      "userId": 7846393881,
       "username": "Xvideos000009",
       "firstName": "Xvideos",
       "lastName": null,
@@ -2033,7 +2032,7 @@
       "_id": {
         "$oid": "692273acd36a0357c0e0bcc7"
       },
-      "userId": 8104603424.0,
+      "userId": 8104603424,
       "username": "Chfxzhf",
       "firstName": "Chandio",
       "lastName": "Boy",
@@ -2051,7 +2050,7 @@
       "_id": {
         "$oid": "692273aed36a0357c0e0bcc8"
       },
-      "userId": 7317725104.0,
+      "userId": 7317725104,
       "username": "Deni099999",
       "firstName": "yyyyyy",
       "lastName": null,
@@ -2069,7 +2068,7 @@
       "_id": {
         "$oid": "692273ddd36a0357c0e0bcc9"
       },
-      "userId": 6175668835.0,
+      "userId": 6175668835,
       "username": "Dikka112",
       "firstName": "Plp",
       "lastName": null,
@@ -2087,7 +2086,7 @@
       "_id": {
         "$oid": "6922740ad36a0357c0e0bcca"
       },
-      "userId": 8267420112.0,
+      "userId": 8267420112,
       "username": null,
       "firstName": "dio",
       "lastName": "pratana",
@@ -2123,7 +2122,7 @@
       "_id": {
         "$oid": "692274b3d36a0357c0e0bccc"
       },
-      "userId": 6870521906.0,
+      "userId": 6870521906,
       "username": null,
       "firstName": "😎",
       "lastName": "🥰",
@@ -2159,7 +2158,7 @@
       "_id": {
         "$oid": "6922750cd36a0357c0e0bcce"
       },
-      "userId": 5975558732.0,
+      "userId": 5975558732,
       "username": "XyyFenzz",
       "firstName": "︎",
       "lastName": "WongIrengJembuten896",
@@ -2177,7 +2176,7 @@
       "_id": {
         "$oid": "6922753cd36a0357c0e0bccf"
       },
-      "userId": 5560789038.0,
+      "userId": 5560789038,
       "username": "qxsureshot06",
       "firstName": "Azim Shikder",
       "lastName": null,
@@ -2195,7 +2194,7 @@
       "_id": {
         "$oid": "69227578d36a0357c0e0bcd0"
       },
-      "userId": 7966817505.0,
+      "userId": 7966817505,
       "username": "Mahmud3142",
       "firstName": "Ｍꫝʜᴍᴜᴅ",
       "lastName": null,
@@ -2213,7 +2212,7 @@
       "_id": {
         "$oid": "692275e9d36a0357c0e0bcd1"
       },
-      "userId": 6377111742.0,
+      "userId": 6377111742,
       "username": null,
       "firstName": "شاکر",
       "lastName": "هلمندی",
@@ -2231,7 +2230,7 @@
       "_id": {
         "$oid": "692275ecd36a0357c0e0bcd2"
       },
-      "userId": 7560115523.0,
+      "userId": 7560115523,
       "username": null,
       "firstName": "Mehedi",
       "lastName": "Hasan",
@@ -2249,7 +2248,7 @@
       "_id": {
         "$oid": "69227642d36a0357c0e0bcd3"
       },
-      "userId": 6740151130.0,
+      "userId": 6740151130,
       "username": "jangantagcuaktolol",
       "firstName": "MAMA VALZ",
       "lastName": null,
@@ -2267,7 +2266,7 @@
       "_id": {
         "$oid": "6922765cd36a0357c0e0bcd4"
       },
-      "userId": 7210399908.0,
+      "userId": 7210399908,
       "username": "bakar2662",
       "firstName": "Muhammad",
       "lastName": "Abubakar",
@@ -2285,7 +2284,7 @@
       "_id": {
         "$oid": "69227678d36a0357c0e0bcd5"
       },
-      "userId": 7992789150.0,
+      "userId": 7992789150,
       "username": "afifvfxv7",
       "firstName": "𝐅𝐚𝐢 𝐝𝐞 𝐒𝐩𝐢𝐧𝐚 𝐓𝟓",
       "lastName": null,
@@ -2303,7 +2302,7 @@
       "_id": {
         "$oid": "69227695d36a0357c0e0bcd6"
       },
-      "userId": 7249048414.0,
+      "userId": 7249048414,
       "username": "usrnm_3",
       "firstName": "aryk",
       "lastName": null,
@@ -2321,7 +2320,7 @@
       "_id": {
         "$oid": "692276c1d36a0357c0e0bcd7"
       },
-      "userId": 7523449554.0,
+      "userId": 7523449554,
       "username": "kingvin08",
       "firstName": "꧁🩸𖤍₦ɆӾ₳Ɽ ₭ł₦₲Vł₦𖤍🩸꧂",
       "lastName": null,
@@ -2339,7 +2338,7 @@
       "_id": {
         "$oid": "6922777dd36a0357c0e0bcd8"
       },
-      "userId": 8035362956.0,
+      "userId": 8035362956,
       "username": "skiesx",
       "firstName": "vats",
       "lastName": null,
@@ -2375,7 +2374,7 @@
       "_id": {
         "$oid": "692277dfd36a0357c0e0bcda"
       },
-      "userId": 7513802283.0,
+      "userId": 7513802283,
       "username": null,
       "firstName": "Kepo",
       "lastName": "Wen",
@@ -2393,7 +2392,7 @@
       "_id": {
         "$oid": "692278bfd36a0357c0e0bcdb"
       },
-      "userId": 5274765131.0,
+      "userId": 5274765131,
       "username": "xuysosipidaras",
       "firstName": "°°°",
       "lastName": null,
@@ -2411,7 +2410,7 @@
       "_id": {
         "$oid": "692278d4d36a0357c0e0bcdc"
       },
-      "userId": 6873500771.0,
+      "userId": 6873500771,
       "username": "Stormeeeeee",
       "firstName": "ALE",
       "lastName": null,
@@ -2429,7 +2428,7 @@
       "_id": {
         "$oid": "69227946d36a0357c0e0bcdd"
       },
-      "userId": 5179416600.0,
+      "userId": 5179416600,
       "username": "shakib00212",
       "firstName": "Shakib",
       "lastName": null,
@@ -2447,7 +2446,7 @@
       "_id": {
         "$oid": "6922796cd36a0357c0e0bcde"
       },
-      "userId": 6362261751.0,
+      "userId": 6362261751,
       "username": null,
       "firstName": "cintaaa",
       "lastName": "🤨",
@@ -2465,7 +2464,7 @@
       "_id": {
         "$oid": "692279d4d36a0357c0e0bcdf"
       },
-      "userId": 8385151352.0,
+      "userId": 8385151352,
       "username": "anvndx",
       "firstName": "anvndx",
       "lastName": null,
@@ -2483,7 +2482,7 @@
       "_id": {
         "$oid": "692279efd36a0357c0e0bce0"
       },
-      "userId": 6476483875.0,
+      "userId": 6476483875,
       "username": "shamratsarkar",
       "firstName": "Shamrat",
       "lastName": "Sarkar",
@@ -2501,7 +2500,7 @@
       "_id": {
         "$oid": "692279f1d36a0357c0e0bce1"
       },
-      "userId": 6972263036.0,
+      "userId": 6972263036,
       "username": "KINGTHAMUZ",
       "firstName": "Kai",
       "lastName": null,
@@ -2519,7 +2518,7 @@
       "_id": {
         "$oid": "69227a11d36a0357c0e0bce2"
       },
-      "userId": 8360837860.0,
+      "userId": 8360837860,
       "username": "RAlESROHOLLAH",
       "firstName": "﴿ࢪیـٜ۪‌ྱـٜ۪س ࢪوحَـﮧ الᬼله",
       "lastName": "مــــــزاࢪي﴾",
@@ -2537,7 +2536,7 @@
       "_id": {
         "$oid": "69227b1ed36a0357c0e0bce3"
       },
-      "userId": 7818120923.0,
+      "userId": 7818120923,
       "username": "RapzyGelo",
       "firstName": "Rapzy",
       "lastName": null,
@@ -2555,7 +2554,7 @@
       "_id": {
         "$oid": "69227b48d36a0357c0e0bce4"
       },
-      "userId": 7961589940.0,
+      "userId": 7961589940,
       "username": null,
       "firstName": "Piscok",
       "lastName": "piscok",
@@ -2573,7 +2572,7 @@
       "_id": {
         "$oid": "69227b89d36a0357c0e0bce5"
       },
-      "userId": 8185203349.0,
+      "userId": 8185203349,
       "username": "NOB0901046109",
       "firstName": "OBITO£ 🌊",
       "lastName": null,
@@ -2591,7 +2590,7 @@
       "_id": {
         "$oid": "69227b8bd36a0357c0e0bce6"
       },
-      "userId": 8435632746.0,
+      "userId": 8435632746,
       "username": "Znzz23a",
       "firstName": "⏤͟͞𝟕𝟑𝗧 || Zanz",
       "lastName": null,
@@ -2609,7 +2608,7 @@
       "_id": {
         "$oid": "69227ba7d36a0357c0e0bce7"
       },
-      "userId": 8463745736.0,
+      "userId": 8463745736,
       "username": "Jasasewawhatsapp10",
       "firstName": "Jasa sewa WhatsApp amanah",
       "lastName": null,
@@ -2627,7 +2626,7 @@
       "_id": {
         "$oid": "69227beed36a0357c0e0bce8"
       },
-      "userId": 8302327927.0,
+      "userId": 8302327927,
       "username": null,
       "firstName": "تنها",
       "lastName": null,
@@ -2645,7 +2644,7 @@
       "_id": {
         "$oid": "69227c6cd36a0357c0e0bce9"
       },
-      "userId": 8005475051.0,
+      "userId": 8005475051,
       "username": null,
       "firstName": "💔",
       "lastName": "💔",
@@ -2663,7 +2662,7 @@
       "_id": {
         "$oid": "69227ce7d36a0357c0e0bcea"
       },
-      "userId": 7405855143.0,
+      "userId": 7405855143,
       "username": "BosJobGmail",
       "firstName": "BOS CRETE GMAIL FRESH",
       "lastName": null,
@@ -2681,7 +2680,7 @@
       "_id": {
         "$oid": "69227cfcd36a0357c0e0bceb"
       },
-      "userId": 8455173622.0,
+      "userId": 8455173622,
       "username": "wentzgoat",
       "firstName": "Wentz",
       "lastName": "Goat",
@@ -2699,7 +2698,7 @@
       "_id": {
         "$oid": "69227d6ad36a0357c0e0bcec"
       },
-      "userId": 6585982760.0,
+      "userId": 6585982760,
       "username": "Qwerty150205",
       "firstName": "Qwertyuiop",
       "lastName": null,
@@ -2717,7 +2716,7 @@
       "_id": {
         "$oid": "69227dc3d36a0357c0e0bced"
       },
-      "userId": 6865168757.0,
+      "userId": 6865168757,
       "username": null,
       "firstName": ":)",
       "lastName": null,
@@ -2735,7 +2734,7 @@
       "_id": {
         "$oid": "69227e04d36a0357c0e0bcee"
       },
-      "userId": 8254259607.0,
+      "userId": 8254259607,
       "username": "Ryannnyuu",
       "firstName": "ryy",
       "lastName": "ryan",
@@ -2753,7 +2752,7 @@
       "_id": {
         "$oid": "69227e5dd36a0357c0e0bcef"
       },
-      "userId": 7875129347.0,
+      "userId": 7875129347,
       "username": "tykingffz9",
       "firstName": "ꪶ𝙗𝙚𝙨𝙩`𝙚𝙫𝙞𝙡/ꫂ",
       "lastName": null,
@@ -2771,7 +2770,7 @@
       "_id": {
         "$oid": "69227eb6d36a0357c0e0bcf0"
       },
-      "userId": 6354112517.0,
+      "userId": 6354112517,
       "username": "AGENT_OF_WS01",
       "firstName": "Depth",
       "lastName": "Lord of earth",
@@ -2789,7 +2788,7 @@
       "_id": {
         "$oid": "69227eead36a0357c0e0bcf1"
       },
-      "userId": 8190554573.0,
+      "userId": 8190554573,
       "username": "Salimhatake",
       "firstName": "SALIM",
       "lastName": null,
@@ -2807,7 +2806,7 @@
       "_id": {
         "$oid": "69227f08d36a0357c0e0bcf2"
       },
-      "userId": 6657886403.0,
+      "userId": 6657886403,
       "username": null,
       "firstName": "8",
       "lastName": null,
@@ -2825,7 +2824,7 @@
       "_id": {
         "$oid": "69227f0bd36a0357c0e0bcf3"
       },
-      "userId": 5582397275.0,
+      "userId": 5582397275,
       "username": "Sir_Vinland",
       "firstName": "Njoy| GARAP",
       "lastName": null,
@@ -2843,7 +2842,7 @@
       "_id": {
         "$oid": "69227f2fd36a0357c0e0bcf4"
       },
-      "userId": 6176115491.0,
+      "userId": 6176115491,
       "username": "viaalopyu",
       "firstName": "alexà?",
       "lastName": null,
@@ -2861,7 +2860,7 @@
       "_id": {
         "$oid": "69227f9bd36a0357c0e0bcf5"
       },
-      "userId": 8435181348.0,
+      "userId": 8435181348,
       "username": "Yazyyi",
       "firstName": "lah ini siapa??",
       "lastName": null,
@@ -2879,7 +2878,7 @@
       "_id": {
         "$oid": "69227fd1d36a0357c0e0bcf6"
       },
-      "userId": 7336120700.0,
+      "userId": 7336120700,
       "username": null,
       "firstName": "Mohammad",
       "lastName": "Shohb",
@@ -2897,7 +2896,7 @@
       "_id": {
         "$oid": "69227fded36a0357c0e0bcf7"
       },
-      "userId": 6606202690.0,
+      "userId": 6606202690,
       "username": "SyuluzXenemy",
       "firstName": "𝑺𝒚𝒍𝒖𝒛 || 𝑺𝒖𝒏𝒅𝒂𝒏𝒆𝒔𝒆🎖️",
       "lastName": "赛勒斯",
@@ -2915,7 +2914,7 @@
       "_id": {
         "$oid": "69227fe0d36a0357c0e0bcf8"
       },
-      "userId": 7211311644.0,
+      "userId": 7211311644,
       "username": "Larafxtrader",
       "firstName": "Larafxtrader",
       "lastName": null,
@@ -2933,7 +2932,7 @@
       "_id": {
         "$oid": "69227fe3d36a0357c0e0bcf9"
       },
-      "userId": 7613639509.0,
+      "userId": 7613639509,
       "username": null,
       "firstName": "NXXXG",
       "lastName": "N",
@@ -2951,7 +2950,7 @@
       "_id": {
         "$oid": "69227ff4d36a0357c0e0bcfa"
       },
-      "userId": 6999084724.0,
+      "userId": 6999084724,
       "username": null,
       "firstName": "zizya",
       "lastName": null,
@@ -2969,7 +2968,7 @@
       "_id": {
         "$oid": "69227ff6d36a0357c0e0bcfb"
       },
-      "userId": 5312707671.0,
+      "userId": 5312707671,
       "username": null,
       "firstName": "xyc",
       "lastName": "zaa",
@@ -2987,7 +2986,7 @@
       "_id": {
         "$oid": "6922800cd36a0357c0e0bcfc"
       },
-      "userId": 7213956995.0,
+      "userId": 7213956995,
       "username": "wsmarsha48",
       "firstName": "𝐖𝐒 𝟐𝟎𝟏𝟐-𝟐𝟎𝟏𝟔 || 𝐌𝐚𝐫𝐬𝐡𝐚𝟒𝟖",
       "lastName": null,
@@ -3005,7 +3004,7 @@
       "_id": {
         "$oid": "6922803dd36a0357c0e0bcfd"
       },
-      "userId": 8097209625.0,
+      "userId": 8097209625,
       "username": "Kabeer972",
       "firstName": "Flexxy R2!",
       "lastName": null,
@@ -3023,7 +3022,7 @@
       "_id": {
         "$oid": "69228052d36a0357c0e0bcfe"
       },
-      "userId": 8260318319.0,
+      "userId": 8260318319,
       "username": null,
       "firstName": "Zann",
       "lastName": "Grusx",
@@ -3041,7 +3040,7 @@
       "_id": {
         "$oid": "69228067d36a0357c0e0bcff"
       },
-      "userId": 8153141345.0,
+      "userId": 8153141345,
       "username": null,
       "firstName": "Ano",
       "lastName": "Nio",
@@ -3059,7 +3058,7 @@
       "_id": {
         "$oid": "69228085d36a0357c0e0bd00"
       },
-      "userId": 7216344886.0,
+      "userId": 7216344886,
       "username": "Genta_td",
       "firstName": "Pradipta",
       "lastName": null,
@@ -3077,7 +3076,7 @@
       "_id": {
         "$oid": "69228138d36a0357c0e0bd01"
       },
-      "userId": 8254047675.0,
+      "userId": 8254047675,
       "username": "shylv4",
       "firstName": "kal",
       "lastName": null,
@@ -3113,7 +3112,7 @@
       "_id": {
         "$oid": "69228189d36a0357c0e0bd03"
       },
-      "userId": 8158988039.0,
+      "userId": 8158988039,
       "username": "BarzXploits",
       "firstName": "诶 || 𝐀𝐤𝐛𝐚𝐫𝐳𝐳 𝐍𝐲𝐞𝐧𝐲𝐞𝐧𝐲𝐞",
       "lastName": null,
@@ -3149,7 +3148,7 @@
       "_id": {
         "$oid": "692281e6d36a0357c0e0bd05"
       },
-      "userId": 7184213068.0,
+      "userId": 7184213068,
       "username": null,
       "firstName": "Joko",
       "lastName": null,
@@ -3167,7 +3166,7 @@
       "_id": {
         "$oid": "69228242d36a0357c0e0bd06"
       },
-      "userId": 7168480119.0,
+      "userId": 7168480119,
       "username": "UserZansCv",
       "firstName": "𝐗𝐲𝐰𝐙𝐚𝐧ス",
       "lastName": null,
@@ -3185,7 +3184,7 @@
       "_id": {
         "$oid": "69228244d36a0357c0e0bd07"
       },
-      "userId": 6998522186.0,
+      "userId": 6998522186,
       "username": "nazim_bhuiya_143",
       "firstName": "Nazim",
       "lastName": "Bhuiya",
@@ -3203,7 +3202,7 @@
       "_id": {
         "$oid": "69228255d36a0357c0e0bd08"
       },
-      "userId": 5505143321.0,
+      "userId": 5505143321,
       "username": "Shihabul2530",
       "firstName": "MD Shihabul",
       "lastName": "Islam 401",
@@ -3221,7 +3220,7 @@
       "_id": {
         "$oid": "69228291d36a0357c0e0bd09"
       },
-      "userId": 8185785612.0,
+      "userId": 8185785612,
       "username": null,
       "firstName": "Willz store",
       "lastName": null,
@@ -3239,7 +3238,7 @@
       "_id": {
         "$oid": "692282b1d36a0357c0e0bd0a"
       },
-      "userId": 7929663415.0,
+      "userId": 7929663415,
       "username": "heycopo",
       "firstName": "Mas",
       "lastName": "Mud",
@@ -3257,7 +3256,7 @@
       "_id": {
         "$oid": "692282f7d36a0357c0e0bd0b"
       },
-      "userId": 8412051548.0,
+      "userId": 8412051548,
       "username": null,
       "firstName": "Oke",
       "lastName": "Gas",
@@ -3275,7 +3274,7 @@
       "_id": {
         "$oid": "69228359d36a0357c0e0bd0c"
       },
-      "userId": 6420468946.0,
+      "userId": 6420468946,
       "username": "FairyTalent",
       "firstName": "Fairy Tale",
       "lastName": null,
@@ -3293,7 +3292,7 @@
       "_id": {
         "$oid": "69228373d36a0357c0e0bd0d"
       },
-      "userId": 8147643310.0,
+      "userId": 8147643310,
       "username": null,
       "firstName": "Nurul",
       "lastName": "Chantika",
@@ -3311,7 +3310,7 @@
       "_id": {
         "$oid": "692283a1d36a0357c0e0bd0e"
       },
-      "userId": 5979241122.0,
+      "userId": 5979241122,
       "username": null,
       "firstName": "Muhamad Fajar",
       "lastName": "Zainussholihin",
@@ -3329,7 +3328,7 @@
       "_id": {
         "$oid": "692283b9d36a0357c0e0bd0f"
       },
-      "userId": 6551457941.0,
+      "userId": 6551457941,
       "username": "asgabay",
       "firstName": "smothby",
       "lastName": null,
@@ -3347,7 +3346,7 @@
       "_id": {
         "$oid": "692283e4d36a0357c0e0bd10"
       },
-      "userId": 8259632348.0,
+      "userId": 8259632348,
       "username": "ellnumero",
       "firstName": "ajèl y2K",
       "lastName": null,
@@ -3365,7 +3364,7 @@
       "_id": {
         "$oid": "692283fdd36a0357c0e0bd11"
       },
-      "userId": 6438508975.0,
+      "userId": 6438508975,
       "username": "Pikachu2783",
       "firstName": "𝐏𝐢𝐤𝐚𝐜𝐡𝐮 𝐋𝐲𝐧𝐱",
       "lastName": null,
@@ -3401,7 +3400,7 @@
       "_id": {
         "$oid": "69228418d36a0357c0e0bd13"
       },
-      "userId": 8132964312.0,
+      "userId": 8132964312,
       "username": null,
       "firstName": "Mohanad",
       "lastName": null,
@@ -3419,7 +3418,7 @@
       "_id": {
         "$oid": "6922842bd36a0357c0e0bd14"
       },
-      "userId": 8308580248.0,
+      "userId": 8308580248,
       "username": "isaizszx",
       "firstName": "sa¡zx",
       "lastName": null,
@@ -3455,7 +3454,7 @@
       "_id": {
         "$oid": "6922847cd36a0357c0e0bd16"
       },
-      "userId": 7992983544.0,
+      "userId": 7992983544,
       "username": null,
       "firstName": "Ife",
       "lastName": "Ife",
@@ -3473,7 +3472,7 @@
       "_id": {
         "$oid": "69228493d36a0357c0e0bd17"
       },
-      "userId": 7890784751.0,
+      "userId": 7890784751,
       "username": "jdbdksnfj",
       "firstName": "Salim",
       "lastName": null,
@@ -3491,7 +3490,7 @@
       "_id": {
         "$oid": "692284b0d36a0357c0e0bd18"
       },
-      "userId": 7568681540.0,
+      "userId": 7568681540,
       "username": "Noyon_ii",
       "firstName": "Noyon",
       "lastName": "BD 𒁂 🏴‍☠️",
@@ -3509,7 +3508,7 @@
       "_id": {
         "$oid": "692284cbd36a0357c0e0bd19"
       },
-      "userId": 8462026105.0,
+      "userId": 8462026105,
       "username": null,
       "firstName": "Nur",
       "lastName": "Amin Oktaria",
@@ -3527,7 +3526,7 @@
       "_id": {
         "$oid": "69228529d36a0357c0e0bd1a"
       },
-      "userId": 6192005090.0,
+      "userId": 6192005090,
       "username": "dafigante",
       "firstName": "berdansa",
       "lastName": "aku lah supermen",
@@ -3545,7 +3544,7 @@
       "_id": {
         "$oid": "6922854ed36a0357c0e0bd1b"
       },
-      "userId": 6363627817.0,
+      "userId": 6363627817,
       "username": "imutiv",
       "firstName": "Dhikahèavely hãndsome",
       "lastName": null,
@@ -3563,7 +3562,7 @@
       "_id": {
         "$oid": "69228553d36a0357c0e0bd1c"
       },
-      "userId": 7174746937.0,
+      "userId": 7174746937,
       "username": "dracula_bosss",
       "firstName": "𝗗𝗥𝗔𝗖𝗨𝗟𝗔",
       "lastName": "[ 𝙒𝙎老板 ]",
@@ -3581,7 +3580,7 @@
       "_id": {
         "$oid": "6922857cd36a0357c0e0bd1d"
       },
-      "userId": 8431997021.0,
+      "userId": 8431997021,
       "username": "Glamzourrx",
       "firstName": "𝐃𝐚𝐧𝐳𝐱",
       "lastName": null,
@@ -3617,7 +3616,7 @@
       "_id": {
         "$oid": "692285ead36a0357c0e0bd1f"
       },
-      "userId": 7293704313.0,
+      "userId": 7293704313,
       "username": "tangjae",
       "firstName": "He",
       "lastName": null,
@@ -3635,7 +3634,7 @@
       "_id": {
         "$oid": "69228603d36a0357c0e0bd20"
       },
-      "userId": 6880242235.0,
+      "userId": 6880242235,
       "username": "mmbvcdh",
       "firstName": "Kab",
       "lastName": null,
@@ -3653,7 +3652,7 @@
       "_id": {
         "$oid": "69228648d36a0357c0e0bd21"
       },
-      "userId": 6594286045.0,
+      "userId": 6594286045,
       "username": "GGpwad",
       "firstName": "Close",
       "lastName": "Offe",
@@ -3671,7 +3670,7 @@
       "_id": {
         "$oid": "692286a9d36a0357c0e0bd22"
       },
-      "userId": 8045011047.0,
+      "userId": 8045011047,
       "username": "Danszzrr",
       "firstName": "Rr",
       "lastName": null,
@@ -3689,7 +3688,7 @@
       "_id": {
         "$oid": "692286bad36a0357c0e0bd23"
       },
-      "userId": 7282806001.0,
+      "userId": 7282806001,
       "username": "KINGGGAZ",
       "firstName": "Leaa",
       "lastName": "Cimiww",
@@ -3707,7 +3706,7 @@
       "_id": {
         "$oid": "69228713d36a0357c0e0bd24"
       },
-      "userId": 8208454841.0,
+      "userId": 8208454841,
       "username": "elitetrade14",
       "firstName": "Gtk",
       "lastName": null,
@@ -3725,7 +3724,7 @@
       "_id": {
         "$oid": "69228764d36a0357c0e0bd25"
       },
-      "userId": 7865689079.0,
+      "userId": 7865689079,
       "username": "nnathannnn07",
       "firstName": "..",
       "lastName": null,
@@ -3743,7 +3742,7 @@
       "_id": {
         "$oid": "69228764d36a0357c0e0bd26"
       },
-      "userId": 8344365958.0,
+      "userId": 8344365958,
       "username": "Xxxnicools",
       "firstName": "Nicoolsxxx",
       "lastName": null,
@@ -3761,7 +3760,7 @@
       "_id": {
         "$oid": "6922876bd36a0357c0e0bd27"
       },
-      "userId": 7333095749.0,
+      "userId": 7333095749,
       "username": "Wolf5Rangers",
       "firstName": "Wolf Rangers",
       "lastName": null,
@@ -3779,7 +3778,7 @@
       "_id": {
         "$oid": "6922876cd36a0357c0e0bd28"
       },
-      "userId": 6894522855.0,
+      "userId": 6894522855,
       "username": "BMMoooo",
       "firstName": "؟",
       "lastName": null,
@@ -3797,7 +3796,7 @@
       "_id": {
         "$oid": "69228774d36a0357c0e0bd29"
       },
-      "userId": 8167952763.0,
+      "userId": 8167952763,
       "username": "Lynaaa1960",
       "firstName": "Lynaaa",
       "lastName": null,
@@ -3815,7 +3814,7 @@
       "_id": {
         "$oid": "692287ffd36a0357c0e0bd2a"
       },
-      "userId": 8069032598.0,
+      "userId": 8069032598,
       "username": "novall4z",
       "firstName": "vall",
       "lastName": null,
@@ -3833,7 +3832,7 @@
       "_id": {
         "$oid": "69228857d36a0357c0e0bd2b"
       },
-      "userId": 7053685015.0,
+      "userId": 7053685015,
       "username": "jinkasei",
       "firstName": "Halfyたい!",
       "lastName": null,
@@ -3851,7 +3850,7 @@
       "_id": {
         "$oid": "6922885bd36a0357c0e0bd2c"
       },
-      "userId": 6917093768.0,
+      "userId": 6917093768,
       "username": null,
       "firstName": "Shinoo",
       "lastName": null,
@@ -3869,7 +3868,7 @@
       "_id": {
         "$oid": "69228861d36a0357c0e0bd2d"
       },
-      "userId": 6729390752.0,
+      "userId": 6729390752,
       "username": "indiawsagent",
       "firstName": "ƤℝΛƬℍΛM",
       "lastName": null,
@@ -3887,7 +3886,7 @@
       "_id": {
         "$oid": "692288bad36a0357c0e0bd2e"
       },
-      "userId": 8542743675.0,
+      "userId": 8542743675,
       "username": null,
       "firstName": "شهم",
       "lastName": "الكياري",
@@ -3905,7 +3904,7 @@
       "_id": {
         "$oid": "692288c1d36a0357c0e0bd2f"
       },
-      "userId": 8207946061.0,
+      "userId": 8207946061,
       "username": "kaelaaaputrii",
       "firstName": "kaelaaa",
       "lastName": null,
@@ -3923,7 +3922,7 @@
       "_id": {
         "$oid": "692288f1d36a0357c0e0bd30"
       },
-      "userId": 7725529829.0,
+      "userId": 7725529829,
       "username": "SaTzZxbool",
       "firstName": "⏤͟͟͞͞𝐀𝐏𝐗 || S4tzZtzy #Võcius 𝟓𝟔𝟓",
       "lastName": null,
@@ -3941,7 +3940,7 @@
       "_id": {
         "$oid": "69228915d36a0357c0e0bd31"
       },
-      "userId": 7627214486.0,
+      "userId": 7627214486,
       "username": "Putxyz2",
       "firstName": "dayat saha?",
       "lastName": null,
@@ -3959,7 +3958,7 @@
       "_id": {
         "$oid": "69228929d36a0357c0e0bd32"
       },
-      "userId": 7040387106.0,
+      "userId": 7040387106,
       "username": null,
       "firstName": "Sakodu",
       "lastName": null,
@@ -3977,7 +3976,7 @@
       "_id": {
         "$oid": "69228960d36a0357c0e0bd33"
       },
-      "userId": 7918075038.0,
+      "userId": 7918075038,
       "username": "Radiaon062",
       "firstName": "Ggg",
       "lastName": "Ggg",
@@ -3995,7 +3994,7 @@
       "_id": {
         "$oid": "692289bcd36a0357c0e0bd34"
       },
-      "userId": 7170053315.0,
+      "userId": 7170053315,
       "username": "Husky9099",
       "firstName": "oxryu",
       "lastName": null,
@@ -4013,7 +4012,7 @@
       "_id": {
         "$oid": "69228a23d36a0357c0e0bd35"
       },
-      "userId": 8337160976.0,
+      "userId": 8337160976,
       "username": "Notknkw",
       "firstName": "👻KENAROK",
       "lastName": null,
@@ -4031,7 +4030,7 @@
       "_id": {
         "$oid": "69228a3dd36a0357c0e0bd36"
       },
-      "userId": 6562018294.0,
+      "userId": 6562018294,
       "username": "derstorereal",
       "firstName": "𝐃𝐄𝐑 𝐒𝐓𝐎𝐑𝐄",
       "lastName": null,
@@ -4049,7 +4048,7 @@
       "_id": {
         "$oid": "69228a46d36a0357c0e0bd37"
       },
-      "userId": 6502819816.0,
+      "userId": 6502819816,
       "username": "Rakibchowdhury999",
       "firstName": "—͞Ꮢꫝᴋɪʙㅤ!¡ {𝙾𝙵𝙵𝙻𝙸𝙽𝙴} 🇵🇸",
       "lastName": null,
@@ -4067,7 +4066,7 @@
       "_id": {
         "$oid": "69228a74d36a0357c0e0bd38"
       },
-      "userId": 7830910291.0,
+      "userId": 7830910291,
       "username": "WSTGGT",
       "firstName": "𝐆𝐢𝐢 READY NOKOS FRESH/OLD",
       "lastName": null,
@@ -4085,7 +4084,7 @@
       "_id": {
         "$oid": "69228ad0d36a0357c0e0bd39"
       },
-      "userId": 7929647014.0,
+      "userId": 7929647014,
       "username": "Garzzz13",
       "firstName": "𝗠𝗗𝗥𝗫 || 𝗚𝗔𝗥𝗭 𝟴𝟴𝟵",
       "lastName": null,
@@ -4121,7 +4120,7 @@
       "_id": {
         "$oid": "69228adfd36a0357c0e0bd3b"
       },
-      "userId": 8224085208.0,
+      "userId": 8224085208,
       "username": null,
       "firstName": "Iam Oke 🙁",
       "lastName": null,
@@ -4139,7 +4138,7 @@
       "_id": {
         "$oid": "69228b18d36a0357c0e0bd3c"
       },
-      "userId": 6546326065.0,
+      "userId": 6546326065,
       "username": null,
       "firstName": "Mr",
       "lastName": "Pramana",
@@ -4157,7 +4156,7 @@
       "_id": {
         "$oid": "69228b28d36a0357c0e0bd3d"
       },
-      "userId": 8047439142.0,
+      "userId": 8047439142,
       "username": "Omar_hack4",
       "firstName": "🔰𓆩.‌𓂍𝐑𝐄𝐈𝐒 𝐎𝐌𝐀𝐑 𝐇𝐀𝐂𝐊 𓂍.•𓆪٠𓂍⩇:⩇تیم⁰⁰⁸🔰",
       "lastName": null,
@@ -4175,7 +4174,7 @@
       "_id": {
         "$oid": "69228b33d36a0357c0e0bd3e"
       },
-      "userId": 6854746523.0,
+      "userId": 6854746523,
       "username": "finslwlyy",
       "firstName": "kepin",
       "lastName": null,
@@ -4193,7 +4192,7 @@
       "_id": {
         "$oid": "69228b37d36a0357c0e0bd3f"
       },
-      "userId": 7400298781.0,
+      "userId": 7400298781,
       "username": "PPJJ777",
       "firstName": "COCA COLA",
       "lastName": "Hindia",
@@ -4211,7 +4210,7 @@
       "_id": {
         "$oid": "69228b69d36a0357c0e0bd40"
       },
-      "userId": 8022234793.0,
+      "userId": 8022234793,
       "username": null,
       "firstName": "Dhif",
       "lastName": null,
@@ -4229,7 +4228,7 @@
       "_id": {
         "$oid": "69228b8dd36a0357c0e0bd41"
       },
-      "userId": 6499798765.0,
+      "userId": 6499798765,
       "username": null,
       "firstName": "Ajaa",
       "lastName": "Yaa",
@@ -4247,7 +4246,7 @@
       "_id": {
         "$oid": "69228bf7d36a0357c0e0bd42"
       },
-      "userId": 8308170310.0,
+      "userId": 8308170310,
       "username": null,
       "firstName": "𝐄𝐕𝐎𝐗 𝟏𝟖𝟖 || FAAZ",
       "lastName": null,
@@ -4265,7 +4264,7 @@
       "_id": {
         "$oid": "69228c0ed36a0357c0e0bd43"
       },
-      "userId": 8448531388.0,
+      "userId": 8448531388,
       "username": "artttrorr",
       "firstName": "𝑺𝒀𝑨𝑲𝑹 𝒔𝒆𝒕𝒐𝒓 𝑮𝒎𝒂𝒊𝒍 ⟬𝑶𝑷𝑬𝑵⟭",
       "lastName": "🇯🇵/🇮🇩/🇮🇳/🇨🇳/🇲🇾/🇮🇶",
@@ -4283,7 +4282,7 @@
       "_id": {
         "$oid": "69228c15d36a0357c0e0bd44"
       },
-      "userId": 8023561175.0,
+      "userId": 8023561175,
       "username": "Kishwarkhan1",
       "firstName": "OnLiNE 🐅",
       "lastName": "SeLLeR",
@@ -4301,7 +4300,7 @@
       "_id": {
         "$oid": "69228c3ed36a0357c0e0bd45"
       },
-      "userId": 7498900233.0,
+      "userId": 7498900233,
       "username": "Fzmwk2",
       "firstName": "⛧ Faizzz 𝐅𝐒𝐈",
       "lastName": null,
@@ -4319,7 +4318,7 @@
       "_id": {
         "$oid": "69228c56d36a0357c0e0bd46"
       },
-      "userId": 6049639832.0,
+      "userId": 6049639832,
       "username": "ceyyci",
       "firstName": "ceceyysoft",
       "lastName": null,
@@ -4337,7 +4336,7 @@
       "_id": {
         "$oid": "69228c77d36a0357c0e0bd47"
       },
-      "userId": 5355412099.0,
+      "userId": 5355412099,
       "username": "Chino138",
       "firstName": "😶‍🌫️",
       "lastName": null,
@@ -4355,7 +4354,7 @@
       "_id": {
         "$oid": "69228c91d36a0357c0e0bd48"
       },
-      "userId": 6927731864.0,
+      "userId": 6927731864,
       "username": null,
       "firstName": ".",
       "lastName": null,
@@ -4391,7 +4390,7 @@
       "_id": {
         "$oid": "69228d20d36a0357c0e0bd4a"
       },
-      "userId": 7858868191.0,
+      "userId": 7858868191,
       "username": null,
       "firstName": "Mgnm",
       "lastName": "Filtr",
@@ -4409,7 +4408,7 @@
       "_id": {
         "$oid": "69228d97d36a0357c0e0bd4b"
       },
-      "userId": 7979973617.0,
+      "userId": 7979973617,
       "username": "Xenc0777",
       "firstName": "Ahmad god",
       "lastName": null,
@@ -4427,7 +4426,7 @@
       "_id": {
         "$oid": "69228de3d36a0357c0e0bd4c"
       },
-      "userId": 6777845940.0,
+      "userId": 6777845940,
       "username": "Partho09se",
       "firstName": "Partho",
       "lastName": "Sd",
@@ -4445,7 +4444,7 @@
       "_id": {
         "$oid": "69228dedd36a0357c0e0bd4d"
       },
-      "userId": 7601103199.0,
+      "userId": 7601103199,
       "username": "bokepsygg",
       "firstName": "STORE",
       "lastName": "KECE",
@@ -4463,7 +4462,7 @@
       "_id": {
         "$oid": "69228e2dd36a0357c0e0bd4e"
       },
-      "userId": 8141113734.0,
+      "userId": 8141113734,
       "username": "Nichol1089",
       "firstName": "MR.NICHOL",
       "lastName": null,
@@ -4481,7 +4480,7 @@
       "_id": {
         "$oid": "69228e3ad36a0357c0e0bd4f"
       },
-      "userId": 7533783479.0,
+      "userId": 7533783479,
       "username": "kiyuukuro7",
       "firstName": "Kiyuu",
       "lastName": null,
@@ -4499,7 +4498,7 @@
       "_id": {
         "$oid": "69228e45d36a0357c0e0bd50"
       },
-      "userId": 8112949660.0,
+      "userId": 8112949660,
       "username": "xGenoz",
       "firstName": "Jerry",
       "lastName": null,
@@ -4517,7 +4516,7 @@
       "_id": {
         "$oid": "69228e5dd36a0357c0e0bd51"
       },
-      "userId": 8199976995.0,
+      "userId": 8199976995,
       "username": "Afghansahib133",
       "firstName": "🌹حسین",
       "lastName": "بارګزۍ🥀",
@@ -4535,7 +4534,7 @@
       "_id": {
         "$oid": "69228e75d36a0357c0e0bd52"
       },
-      "userId": 8100527349.0,
+      "userId": 8100527349,
       "username": "razorbill1",
       "firstName": "razorbill",
       "lastName": "Cepanel",
@@ -4553,7 +4552,7 @@
       "_id": {
         "$oid": "69228e76d36a0357c0e0bd53"
       },
-      "userId": 6976012872.0,
+      "userId": 6976012872,
       "username": "LENZZKANGPP",
       "firstName": "Falen",
       "lastName": "Santuy",
@@ -4571,7 +4570,7 @@
       "_id": {
         "$oid": "69228e99d36a0357c0e0bd54"
       },
-      "userId": 5700765668.0,
+      "userId": 5700765668,
       "username": "neonimuz",
       "firstName": "Senja🍂",
       "lastName": null,
@@ -4589,7 +4588,7 @@
       "_id": {
         "$oid": "69228e9fd36a0357c0e0bd55"
       },
-      "userId": 8496196553.0,
+      "userId": 8496196553,
       "username": "YUKALASTERA",
       "firstName": "—𝒀𝑼𝑲𝑨𝑳𝑨𝑺𝑻",
       "lastName": null,
@@ -4607,7 +4606,7 @@
       "_id": {
         "$oid": "69228ef5d36a0357c0e0bd56"
       },
-      "userId": 8210086939.0,
+      "userId": 8210086939,
       "username": null,
       "firstName": "O T P",
       "lastName": null,
@@ -4625,7 +4624,7 @@
       "_id": {
         "$oid": "69228f04d36a0357c0e0bd57"
       },
-      "userId": 8091591627.0,
+      "userId": 8091591627,
       "username": "Xuzhibihn",
       "firstName": "Xuzhibin",
       "lastName": "Soleil",
@@ -4643,7 +4642,7 @@
       "_id": {
         "$oid": "69228f0ad36a0357c0e0bd58"
       },
-      "userId": 8253997778.0,
+      "userId": 8253997778,
       "username": "Kayhan_kabuli",
       "firstName": "༒ 𝐊𝐀𝐘𝐇𝐀𝐍 𝐇𝐀𝐂𝐊༒",
       "lastName": null,
@@ -4661,7 +4660,7 @@
       "_id": {
         "$oid": "69228f2bd36a0357c0e0bd59"
       },
-      "userId": 7082707525.0,
+      "userId": 7082707525,
       "username": "Mahabur17F",
       "firstName": "Mahabur",
       "lastName": null,
@@ -4679,7 +4678,7 @@
       "_id": {
         "$oid": "69228f35d36a0357c0e0bd5a"
       },
-      "userId": 7120098890.0,
+      "userId": 7120098890,
       "username": "cacasukabaksoo",
       "firstName": "𝗖𝗮𝗰𝗮 𝟭𝟲𝟴",
       "lastName": null,
@@ -4697,7 +4696,7 @@
       "_id": {
         "$oid": "69228f61d36a0357c0e0bd5b"
       },
-      "userId": 5934905483.0,
+      "userId": 5934905483,
       "username": "lmportaldo",
       "firstName": "i'm xBoyzz",
       "lastName": "#818 [ SOFT SEPOKEN ]",
@@ -4715,7 +4714,7 @@
       "_id": {
         "$oid": "69228f6dd36a0357c0e0bd5c"
       },
-      "userId": 7680084211.0,
+      "userId": 7680084211,
       "username": "RippszOffc",
       "firstName": "𝐑𝐢𝐩𝐩𝐬𝐳!!",
       "lastName": null,
@@ -4733,7 +4732,7 @@
       "_id": {
         "$oid": "69228f71d36a0357c0e0bd5d"
       },
-      "userId": 7609803857.0,
+      "userId": 7609803857,
       "username": "Lollaaass",
       "firstName": "ㅤ",
       "lastName": null,
@@ -4751,7 +4750,7 @@
       "_id": {
         "$oid": "69228fa9d36a0357c0e0bd5e"
       },
-      "userId": 6649368908.0,
+      "userId": 6649368908,
       "username": "Sultani588",
       "firstName": "Elham",
       "lastName": "Sultani",
@@ -4769,7 +4768,7 @@
       "_id": {
         "$oid": "69228fb0d36a0357c0e0bd5f"
       },
-      "userId": 7136273147.0,
+      "userId": 7136273147,
       "username": "howwarreyou",
       "firstName": "heyoo.",
       "lastName": null,
@@ -4787,7 +4786,7 @@
       "_id": {
         "$oid": "69229007d36a0357c0e0bd60"
       },
-      "userId": 7719017061.0,
+      "userId": 7719017061,
       "username": "Dhera202",
       "firstName": "Dera",
       "lastName": "Aulia",
@@ -4805,7 +4804,7 @@
       "_id": {
         "$oid": "69229067d36a0357c0e0bd61"
       },
-      "userId": 7486040796.0,
+      "userId": 7486040796,
       "username": "ELL02418",
       "firstName": "Elvia",
       "lastName": "Via",
@@ -4823,7 +4822,7 @@
       "_id": {
         "$oid": "6922908cd36a0357c0e0bd62"
       },
-      "userId": 6551270217.0,
+      "userId": 6551270217,
       "username": "xzyknjt",
       "firstName": "Denzzz",
       "lastName": null,
@@ -4841,7 +4840,7 @@
       "_id": {
         "$oid": "692290a9d36a0357c0e0bd63"
       },
-      "userId": 6836063212.0,
+      "userId": 6836063212,
       "username": "Waqas8387",
       "firstName": "Tahir",
       "lastName": "Khan🍅",
@@ -4859,7 +4858,7 @@
       "_id": {
         "$oid": "692290acd36a0357c0e0bd64"
       },
-      "userId": 7838350230.0,
+      "userId": 7838350230,
       "username": "DaRcK_SaHaNuR",
       "firstName": "ᴅᴀʀᴋ",
       "lastName": "sᴀHᴀɴᴜʀ",
@@ -4877,7 +4876,7 @@
       "_id": {
         "$oid": "692290c8d36a0357c0e0bd65"
       },
-      "userId": 7995084592.0,
+      "userId": 7995084592,
       "username": "fikqyallessa",
       "firstName": "fikqy",
       "lastName": "allessa",
@@ -4895,7 +4894,7 @@
       "_id": {
         "$oid": "692290cbd36a0357c0e0bd66"
       },
-      "userId": 7598760028.0,
+      "userId": 7598760028,
       "username": "zidaanv",
       "firstName": "zidan",
       "lastName": null,
@@ -4913,7 +4912,7 @@
       "_id": {
         "$oid": "692290dad36a0357c0e0bd67"
       },
-      "userId": 8095375475.0,
+      "userId": 8095375475,
       "username": "yuubiiyss",
       "firstName": "Yubiysss",
       "lastName": null,
@@ -4931,7 +4930,7 @@
       "_id": {
         "$oid": "6922911ed36a0357c0e0bd68"
       },
-      "userId": 6526950591.0,
+      "userId": 6526950591,
       "username": "KinkFancha",
       "firstName": "FANCHA",
       "lastName": null,
@@ -4949,7 +4948,7 @@
       "_id": {
         "$oid": "69229126d36a0357c0e0bd69"
       },
-      "userId": 7356198247.0,
+      "userId": 7356198247,
       "username": "yenxxmc",
       "firstName": "YENXX",
       "lastName": "McDo.",
@@ -4967,7 +4966,7 @@
       "_id": {
         "$oid": "6922912bd36a0357c0e0bd6a"
       },
-      "userId": 6028136018.0,
+      "userId": 6028136018,
       "username": "lotfisamir733",
       "firstName": "Lotfi",
       "lastName": "Samir",
@@ -4985,7 +4984,7 @@
       "_id": {
         "$oid": "69229131d36a0357c0e0bd6b"
       },
-      "userId": 8150543430.0,
+      "userId": 8150543430,
       "username": null,
       "firstName": "ᨆ 𓂀 رشیدی صاحب 𓂀 ᨆ",
       "lastName": null,
@@ -5003,7 +5002,7 @@
       "_id": {
         "$oid": "6922913ad36a0357c0e0bd6c"
       },
-      "userId": 8091035300.0,
+      "userId": 8091035300,
       "username": null,
       "firstName": "Nampung gc",
       "lastName": null,
@@ -5021,7 +5020,7 @@
       "_id": {
         "$oid": "69229165d36a0357c0e0bd6d"
       },
-      "userId": 8067054026.0,
+      "userId": 8067054026,
       "username": null,
       "firstName": "Massoud",
       "lastName": "Bahaduri",
@@ -5039,7 +5038,7 @@
       "_id": {
         "$oid": "6922917ad36a0357c0e0bd6e"
       },
-      "userId": 7439811406.0,
+      "userId": 7439811406,
       "username": null,
       "firstName": "yonk",
       "lastName": "yonk",
@@ -5057,7 +5056,7 @@
       "_id": {
         "$oid": "69229182d36a0357c0e0bd6f"
       },
-      "userId": 6386035213.0,
+      "userId": 6386035213,
       "username": null,
       "firstName": "Unkown",
       "lastName": null,
@@ -5075,7 +5074,7 @@
       "_id": {
         "$oid": "692291ccd36a0357c0e0bd70"
       },
-      "userId": 7877413742.0,
+      "userId": 7877413742,
       "username": null,
       "firstName": "Celine",
       "lastName": null,
@@ -5093,7 +5092,7 @@
       "_id": {
         "$oid": "69229252d36a0357c0e0bd71"
       },
-      "userId": 7682433866.0,
+      "userId": 7682433866,
       "username": null,
       "firstName": "Rif--",
       "lastName": null,
@@ -5111,7 +5110,7 @@
       "_id": {
         "$oid": "6922926ad36a0357c0e0bd72"
       },
-      "userId": 7173412840.0,
+      "userId": 7173412840,
       "username": null,
       "firstName": "Usman",
       "lastName": "Mudassir Abubakar 🐈‍⬛",
@@ -5129,7 +5128,7 @@
       "_id": {
         "$oid": "69229280d36a0357c0e0bd73"
       },
-      "userId": 7752525984.0,
+      "userId": 7752525984,
       "username": "engeuwe",
       "firstName": "mai",
       "lastName": null,
@@ -5147,7 +5146,7 @@
       "_id": {
         "$oid": "692292c0d36a0357c0e0bd74"
       },
-      "userId": 7914431214.0,
+      "userId": 7914431214,
       "username": null,
       "firstName": "•ZetaXskibidi• Official V2",
       "lastName": null,
@@ -5165,7 +5164,7 @@
       "_id": {
         "$oid": "692292c3d36a0357c0e0bd75"
       },
-      "userId": 6922039299.0,
+      "userId": 6922039299,
       "username": "Jamal8201",
       "firstName": "JÅMÅL.UDDIN",
       "lastName": null,
@@ -5183,7 +5182,7 @@
       "_id": {
         "$oid": "692292f1d36a0357c0e0bd76"
       },
-      "userId": 8468951634.0,
+      "userId": 8468951634,
       "username": "YaxxKing",
       "firstName": "YAXX",
       "lastName": "Era",
@@ -5201,7 +5200,7 @@
       "_id": {
         "$oid": "6922931cd36a0357c0e0bd77"
       },
-      "userId": 7866883721.0,
+      "userId": 7866883721,
       "username": "Toingggg1",
       "firstName": "아덴",
       "lastName": null,
@@ -5219,7 +5218,7 @@
       "_id": {
         "$oid": "69229332d36a0357c0e0bd78"
       },
-      "userId": 5793264372.0,
+      "userId": 5793264372,
       "username": "Gowrov21",
       "firstName": "Gowrov",
       "lastName": null,
@@ -5237,7 +5236,7 @@
       "_id": {
         "$oid": "6922935ad36a0357c0e0bd79"
       },
-      "userId": 6794591185.0,
+      "userId": 6794591185,
       "username": "Mastermind00100",
       "firstName": "HARRY support ☄️",
       "lastName": null,
@@ -5255,7 +5254,7 @@
       "_id": {
         "$oid": "69229361d36a0357c0e0bd7a"
       },
-      "userId": 8419839972.0,
+      "userId": 8419839972,
       "username": null,
       "firstName": "Nznz",
       "lastName": "Nznzm",
@@ -5273,7 +5272,7 @@
       "_id": {
         "$oid": "69229384d36a0357c0e0bd7b"
       },
-      "userId": 6473795815.0,
+      "userId": 6473795815,
       "username": "ardantztz",
       "firstName": "jemss",
       "lastName": null,
@@ -5291,7 +5290,7 @@
       "_id": {
         "$oid": "692293f4d36a0357c0e0bd7c"
       },
-      "userId": 7493524677.0,
+      "userId": 7493524677,
       "username": null,
       "firstName": "Rafzzxx",
       "lastName": null,
@@ -5309,7 +5308,7 @@
       "_id": {
         "$oid": "69229532d36a0357c0e0bd7d"
       },
-      "userId": 6178413293.0,
+      "userId": 6178413293,
       "username": null,
       "firstName": "*🌹نـظـــر👑ګـل💪 وستاز*",
       "lastName": "᭄𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥❦︎᭄",
@@ -5327,7 +5326,7 @@
       "_id": {
         "$oid": "69229569d36a0357c0e0bd7e"
       },
-      "userId": 8066353805.0,
+      "userId": 8066353805,
       "username": "gz_720",
       "firstName": "G",
       "lastName": null,
@@ -5345,7 +5344,7 @@
       "_id": {
         "$oid": "6922956fd36a0357c0e0bd7f"
       },
-      "userId": 8171251645.0,
+      "userId": 8171251645,
       "username": "lanZzzy3",
       "firstName": "maklu",
       "lastName": "lanzy",
@@ -5363,7 +5362,7 @@
       "_id": {
         "$oid": "69229598d36a0357c0e0bd80"
       },
-      "userId": 7552176132.0,
+      "userId": 7552176132,
       "username": null,
       "firstName": "شهزاده گک",
       "lastName": null,
@@ -5381,7 +5380,7 @@
       "_id": {
         "$oid": "6922959ad36a0357c0e0bd81"
       },
-      "userId": 7245309204.0,
+      "userId": 7245309204,
       "username": "ihaveagoodekpon",
       "firstName": "𓃵𝗖𝗮𝗽𝘁{爱}𝗟𝗲𝘃𝗶𓃵ˢᶜᴼᵁᵀ",
       "lastName": null,
@@ -5399,7 +5398,7 @@
       "_id": {
         "$oid": "692295a4d36a0357c0e0bd82"
       },
-      "userId": 7637939920.0,
+      "userId": 7637939920,
       "username": "angga097856",
       "firstName": "Angga",
       "lastName": null,
@@ -5417,7 +5416,7 @@
       "_id": {
         "$oid": "692295aed36a0357c0e0bd83"
       },
-      "userId": 8074190681.0,
+      "userId": 8074190681,
       "username": null,
       "firstName": "〲 𝐑𝐄𝐄𝐒 𝐒𝐀𝐌𝐈𝐑 〲²⁰²³",
       "lastName": null,
@@ -5435,7 +5434,7 @@
       "_id": {
         "$oid": "692295e9d36a0357c0e0bd84"
       },
-      "userId": 6771081912.0,
+      "userId": 6771081912,
       "username": "palash445500",
       "firstName": "Palash",
       "lastName": "Roy🍅",
@@ -5453,7 +5452,7 @@
       "_id": {
         "$oid": "6922968cd36a0357c0e0bd85"
       },
-      "userId": 7952780726.0,
+      "userId": 7952780726,
       "username": "Kalzz10",
       "firstName": "⏤͟͟͞͞𝐗𝐢𝐕 || Kalzz👑",
       "lastName": null,
@@ -5471,7 +5470,7 @@
       "_id": {
         "$oid": "69229699d36a0357c0e0bd86"
       },
-      "userId": 7876012605.0,
+      "userId": 7876012605,
       "username": "Clairo_cottril",
       "firstName": "Çð††rïl",
       "lastName": null,
@@ -5489,7 +5488,7 @@
       "_id": {
         "$oid": "692296a1d36a0357c0e0bd87"
       },
-      "userId": 7797125396.0,
+      "userId": 7797125396,
       "username": "dinzstore10",
       "firstName": "Dinz",
       "lastName": "Store",
@@ -5507,7 +5506,7 @@
       "_id": {
         "$oid": "692296a8d36a0357c0e0bd88"
       },
-      "userId": 8364062259.0,
+      "userId": 8364062259,
       "username": "Rubel_mia420",
       "firstName": "RUBEL",
       "lastName": "BOY",
@@ -5525,7 +5524,7 @@
       "_id": {
         "$oid": "69229718d36a0357c0e0bd89"
       },
-      "userId": 7727890723.0,
+      "userId": 7727890723,
       "username": "AI84631",
       "firstName": "GC FRESH",
       "lastName": null,
@@ -5543,7 +5542,7 @@
       "_id": {
         "$oid": "69229718d36a0357c0e0bd8a"
       },
-      "userId": 8402877375.0,
+      "userId": 8402877375,
       "username": "KKBBII11",
       "firstName": "K¡NG",
       "lastName": null,
@@ -5561,7 +5560,7 @@
       "_id": {
         "$oid": "69229718d36a0357c0e0bd8b"
       },
-      "userId": 6464391747.0,
+      "userId": 6464391747,
       "username": "Iooiiui",
       "firstName": "aso",
       "lastName": null,
@@ -5579,7 +5578,7 @@
       "_id": {
         "$oid": "69229718d36a0357c0e0bd8c"
       },
-      "userId": 7842670657.0,
+      "userId": 7842670657,
       "username": "numan_fuego",
       "firstName": "𝘔𝘋𝘙𝘟 𝘙𝘦𝘹 467",
       "lastName": null,
@@ -5597,7 +5596,7 @@
       "_id": {
         "$oid": "69229718d36a0357c0e0bd8d"
       },
-      "userId": 7393942808.0,
+      "userId": 7393942808,
       "username": null,
       "firstName": "Mads",
       "lastName": null,
@@ -5615,7 +5614,7 @@
       "_id": {
         "$oid": "6922972fd36a0357c0e0bd8e"
       },
-      "userId": 6630180524.0,
+      "userId": 6630180524,
       "username": "Aaarrr1124",
       "firstName": "Aaarr",
       "lastName": null,
@@ -5633,7 +5632,7 @@
       "_id": {
         "$oid": "69229795d36a0357c0e0bd8f"
       },
-      "userId": 7715912500.0,
+      "userId": 7715912500,
       "username": "s4hr0ni",
       "firstName": "uuuz",
       "lastName": null,
@@ -5651,7 +5650,7 @@
       "_id": {
         "$oid": "6922984ed36a0357c0e0bd90"
       },
-      "userId": 8404995901.0,
+      "userId": 8404995901,
       "username": null,
       "firstName": "Tyrexmedia",
       "lastName": null,
@@ -5669,7 +5668,7 @@
       "_id": {
         "$oid": "69229852d36a0357c0e0bd91"
       },
-      "userId": 7637706224.0,
+      "userId": 7637706224,
       "username": "RazkiOfficial",
       "firstName": "⏤͟͟͞͞ вωα",
       "lastName": "|| 𝐘𝐓 ♞",
@@ -5687,7 +5686,7 @@
       "_id": {
         "$oid": "69229855d36a0357c0e0bd92"
       },
-      "userId": 8032277070.0,
+      "userId": 8032277070,
       "username": "irfanexx",
       "firstName": "𝐈𝐑𝐅𝐀𝐍` 𝐑𝐄𝐀𝐃𝐘 𝐆𝐂 𝐅𝐑𝐄𝐒𝐇 𝐏𝐄𝐌𝐁𝐔𝐀𝐓𝐀𝐍 𝐋𝐔𝐀𝐑",
       "lastName": null,
@@ -5705,7 +5704,7 @@
       "_id": {
         "$oid": "6922986cd36a0357c0e0bd93"
       },
-      "userId": 7053962367.0,
+      "userId": 7053962367,
       "username": "dafsttev",
       "firstName": "dimy",
       "lastName": null,
@@ -5723,7 +5722,7 @@
       "_id": {
         "$oid": "69229884d36a0357c0e0bd94"
       },
-      "userId": 6151029381.0,
+      "userId": 6151029381,
       "username": "gwns98",
       "firstName": "GWNS 🐾🐍Σ",
       "lastName": null,
@@ -5741,7 +5740,7 @@
       "_id": {
         "$oid": "692298bcd36a0357c0e0bd95"
       },
-      "userId": 7681671315.0,
+      "userId": 7681671315,
       "username": "nahid75tn",
       "firstName": "Nahid",
       "lastName": "Hasan",
@@ -5759,7 +5758,7 @@
       "_id": {
         "$oid": "6922994f1c9e7d056aa269bd"
       },
-      "userId": 7563108148.0,
+      "userId": 7563108148,
       "username": "eltampanz",
       "firstName": "el -",
       "lastName": "没什么可失去的",
@@ -5777,7 +5776,7 @@
       "_id": {
         "$oid": "692299731c9e7d056aa269be"
       },
-      "userId": 8390750666.0,
+      "userId": 8390750666,
       "username": "nyyrasbf",
       "firstName": "moxee",
       "lastName": null,
@@ -5795,7 +5794,7 @@
       "_id": {
         "$oid": "692299741c9e7d056aa269bf"
       },
-      "userId": 7280222642.0,
+      "userId": 7280222642,
       "username": "XerminaOfficiall",
       "firstName": "𝗫𝗘𝗥𝗠𝗜𝗡𝗔 𝐖𝟓",
       "lastName": null,
@@ -5813,7 +5812,7 @@
       "_id": {
         "$oid": "692299b3f788037f34fe80a0"
       },
-      "userId": 6915372443.0,
+      "userId": 6915372443,
       "username": "PV_S_H_k_i_B",
       "firstName": "شکیب الله",
       "lastName": "هاشمی",
@@ -5831,7 +5830,7 @@
       "_id": {
         "$oid": "692299b3f788037f34fe80a1"
       },
-      "userId": 5699283437.0,
+      "userId": 5699283437,
       "username": "M33R13L",
       "firstName": ".",
       "lastName": null,
@@ -5849,7 +5848,7 @@
       "_id": {
         "$oid": "692299eaf788037f34fe80a2"
       },
-      "userId": 6752871866.0,
+      "userId": 6752871866,
       "username": "fleexyourfav",
       "firstName": "fleexyyoufav",
       "lastName": null,
@@ -5867,7 +5866,7 @@
       "_id": {
         "$oid": "69229a0af788037f34fe80a3"
       },
-      "userId": 7252489041.0,
+      "userId": 7252489041,
       "username": "riski_storem",
       "firstName": "rizkyy",
       "lastName": "hosting",
@@ -5885,7 +5884,7 @@
       "_id": {
         "$oid": "69229a0ef788037f34fe80a4"
       },
-      "userId": 8148434572.0,
+      "userId": 8148434572,
       "username": "Vandalizarei",
       "firstName": "Maze",
       "lastName": null,
@@ -5921,7 +5920,7 @@
       "_id": {
         "$oid": "69229a535fc1776187ee0d84"
       },
-      "userId": 8086752106.0,
+      "userId": 8086752106,
       "username": "Dikzxbot2",
       "firstName": "DikzX!??",
       "lastName": null,
@@ -5957,7 +5956,7 @@
       "_id": {
         "$oid": "69229b974e23132d6f0aa382"
       },
-      "userId": 7225315224.0,
+      "userId": 7225315224,
       "username": "Heng19727",
       "firstName": "Red",
       "lastName": "Mi",
@@ -5975,7 +5974,7 @@
       "_id": {
         "$oid": "69229bb04e23132d6f0aa383"
       },
-      "userId": 8381078001.0,
+      "userId": 8381078001,
       "username": null,
       "firstName": "sebluk",
       "lastName": "fc",
@@ -5993,7 +5992,7 @@
       "_id": {
         "$oid": "69229be24e23132d6f0aa384"
       },
-      "userId": 7517788551.0,
+      "userId": 7517788551,
       "username": null,
       "firstName": "ANUGRAH STORE",
       "lastName": "ANUGRAH STORE",
@@ -6011,7 +6010,7 @@
       "_id": {
         "$oid": "69229c464e23132d6f0aa385"
       },
-      "userId": 6438661516.0,
+      "userId": 6438661516,
       "username": null,
       "firstName": "Zyy",
       "lastName": null,
@@ -6029,7 +6028,7 @@
       "_id": {
         "$oid": "69229cb94e23132d6f0aa386"
       },
-      "userId": 8090340721.0,
+      "userId": 8090340721,
       "username": "LumixCompany",
       "firstName": "Lumix",
       "lastName": "Company",
@@ -6047,7 +6046,7 @@
       "_id": {
         "$oid": "69229d0f4e23132d6f0aa387"
       },
-      "userId": 5767454866.0,
+      "userId": 5767454866,
       "username": "DrxyzzSoloEra",
       "firstName": "ㅤ𝗟𝗼𝗿𝗱`𝗩𝗲́𝘁𝗲𝗺𝗲̀𝗻𝘁𝘀 𝐕𝟓",
       "lastName": null,
@@ -6065,7 +6064,7 @@
       "_id": {
         "$oid": "69229d144e23132d6f0aa388"
       },
-      "userId": 6166899007.0,
+      "userId": 6166899007,
       "username": "KOUSTAVONTOP",
       "firstName": "YOP YOP",
       "lastName": null,
@@ -6083,7 +6082,7 @@
       "_id": {
         "$oid": "69229d2a4e23132d6f0aa389"
       },
-      "userId": 5838149861.0,
+      "userId": 5838149861,
       "username": "Shariarrimel",
       "firstName": "Shariar nadim",
       "lastName": "Rimel",
@@ -6101,7 +6100,7 @@
       "_id": {
         "$oid": "69229db64e23132d6f0aa38a"
       },
-      "userId": 7085278330.0,
+      "userId": 7085278330,
       "username": null,
       "firstName": "Angga",
       "lastName": "Diana",
@@ -6119,7 +6118,7 @@
       "_id": {
         "$oid": "69229dd54e23132d6f0aa38b"
       },
-      "userId": 8439043962.0,
+      "userId": 8439043962,
       "username": "aing_kamu",
       "firstName": "Aing",
       "lastName": "kamu",
@@ -6137,7 +6136,7 @@
       "_id": {
         "$oid": "69229e494e23132d6f0aa38c"
       },
-      "userId": 7619806749.0,
+      "userId": 7619806749,
       "username": null,
       "firstName": "عبدالقادر",
       "lastName": null,
@@ -6155,7 +6154,7 @@
       "_id": {
         "$oid": "69229e504e23132d6f0aa38d"
       },
-      "userId": 6198626015.0,
+      "userId": 6198626015,
       "username": "Cambio123",
       "firstName": "Se murió",
       "lastName": null,
@@ -6173,7 +6172,7 @@
       "_id": {
         "$oid": "69229efe4e23132d6f0aa38e"
       },
-      "userId": 5077927196.0,
+      "userId": 5077927196,
       "username": "Radit1198",
       "firstName": "Radit59",
       "lastName": null,
@@ -6191,7 +6190,7 @@
       "_id": {
         "$oid": "69229f064e23132d6f0aa38f"
       },
-      "userId": 5991958569.0,
+      "userId": 5991958569,
       "username": "wallacezxv",
       "firstName": "⏤͟͟͞͞⏤͟͟͞͞𝐍𝟓𝐓 || LungzzXYZ",
       "lastName": null,
@@ -6209,7 +6208,7 @@
       "_id": {
         "$oid": "69229f214e23132d6f0aa390"
       },
-      "userId": 8019525156.0,
+      "userId": 8019525156,
       "username": null,
       "firstName": "king",
       "lastName": "Khan",
@@ -6227,7 +6226,7 @@
       "_id": {
         "$oid": "69229f3a4e23132d6f0aa391"
       },
-      "userId": 5908082586.0,
+      "userId": 5908082586,
       "username": "Yusufhasibuan",
       "firstName": "Yusuf hasibuan",
       "lastName": null,
@@ -6245,7 +6244,7 @@
       "_id": {
         "$oid": "69229f6b4e23132d6f0aa392"
       },
-      "userId": 8035557104.0,
+      "userId": 8035557104,
       "username": null,
       "firstName": "امیرغا",
       "lastName": "خاکسار",
@@ -6263,7 +6262,7 @@
       "_id": {
         "$oid": "69229f8f4e23132d6f0aa393"
       },
-      "userId": 6926999314.0,
+      "userId": 6926999314,
       "username": null,
       "firstName": "madlau",
       "lastName": null,
@@ -6281,7 +6280,7 @@
       "_id": {
         "$oid": "69229f9f4e23132d6f0aa394"
       },
-      "userId": 6640014084.0,
+      "userId": 6640014084,
       "username": null,
       "firstName": "Apit",
       "lastName": null,
@@ -6299,7 +6298,7 @@
       "_id": {
         "$oid": "69229fa34e23132d6f0aa395"
       },
-      "userId": 6557784329.0,
+      "userId": 6557784329,
       "username": "ASUPDATESKYC",
       "firstName": "Abubakar ▪️🐾",
       "lastName": "Sadeeq",
@@ -6317,7 +6316,7 @@
       "_id": {
         "$oid": "69229fb84e23132d6f0aa396"
       },
-      "userId": 7028186873.0,
+      "userId": 7028186873,
       "username": "lexxy717",
       "firstName": "𝗟𝗲𝘅𝘅𝘆 𝟓-𝐒𝐓𝐀𝐑",
       "lastName": null,
@@ -6335,7 +6334,7 @@
       "_id": {
         "$oid": "69229fc74e23132d6f0aa397"
       },
-      "userId": 7349733396.0,
+      "userId": 7349733396,
       "username": "Masuhaba",
       "firstName": "Rian",
       "lastName": "Syah",
@@ -6353,7 +6352,7 @@
       "_id": {
         "$oid": "69229ff44e23132d6f0aa398"
       },
-      "userId": 7093060794.0,
+      "userId": 7093060794,
       "username": "dhajfk",
       "firstName": "NA",
       "lastName": null,
@@ -6371,7 +6370,7 @@
       "_id": {
         "$oid": "69229ff94e23132d6f0aa399"
       },
-      "userId": 8324977164.0,
+      "userId": 8324977164,
       "username": null,
       "firstName": "Muhib",
       "lastName": "Fazel",
@@ -6389,7 +6388,7 @@
       "_id": {
         "$oid": "6922a0164e23132d6f0aa39a"
       },
-      "userId": 6916769952.0,
+      "userId": 6916769952,
       "username": "LEON_011",
       "firstName": "𝐓𝐖𝐎 𝐃𝐅𝐒𝟏 𝐃𝐑𝐆 𝐋𝐄𝐎𝐍 𝐑𝐄𝐒𝐓 边界",
       "lastName": null,
@@ -6407,7 +6406,7 @@
       "_id": {
         "$oid": "6922a02d4e23132d6f0aa39b"
       },
-      "userId": 7792209091.0,
+      "userId": 7792209091,
       "username": "SuryaKamiel",
       "firstName": "蘇裡亞",
       "lastName": "需要 WS 組",
@@ -6425,7 +6424,7 @@
       "_id": {
         "$oid": "6922a0904e23132d6f0aa39c"
       },
-      "userId": 7806520188.0,
+      "userId": 7806520188,
       "username": "skaiiz4",
       "firstName": "— ránnq ",
       "lastName": null,
@@ -6443,7 +6442,7 @@
       "_id": {
         "$oid": "6922a0954e23132d6f0aa39d"
       },
-      "userId": 7128824174.0,
+      "userId": 7128824174,
       "username": null,
       "firstName": "T_E_S",
       "lastName": null,
@@ -6461,7 +6460,7 @@
       "_id": {
         "$oid": "6922a0a94e23132d6f0aa39e"
       },
-      "userId": 6962585853.0,
+      "userId": 6962585853,
       "username": null,
       "firstName": "القهر",
       "lastName": null,
@@ -6479,7 +6478,7 @@
       "_id": {
         "$oid": "6922a0cd4e23132d6f0aa39f"
       },
-      "userId": 8048665099.0,
+      "userId": 8048665099,
       "username": "abbasskhan57",
       "firstName": "Muhammad",
       "lastName": "Abbas",
@@ -6497,7 +6496,7 @@
       "_id": {
         "$oid": "6922a0e24e23132d6f0aa3a0"
       },
-      "userId": 6705222167.0,
+      "userId": 6705222167,
       "username": "Noyan000999",
       "firstName": "Noyan",
       "lastName": null,
@@ -6515,7 +6514,7 @@
       "_id": {
         "$oid": "6922a0ea4e23132d6f0aa3a1"
       },
-      "userId": 6890307123.0,
+      "userId": 6890307123,
       "username": null,
       "firstName": "Bagus",
       "lastName": "Febrian",
@@ -6533,7 +6532,7 @@
       "_id": {
         "$oid": "6922a0f64e23132d6f0aa3a2"
       },
-      "userId": 6836169793.0,
+      "userId": 6836169793,
       "username": null,
       "firstName": "yambueh pecah selayar",
       "lastName": null,
@@ -6551,7 +6550,7 @@
       "_id": {
         "$oid": "6922a0f94e23132d6f0aa3a3"
       },
-      "userId": 7954262922.0,
+      "userId": 7954262922,
       "username": "DzakyOVT9",
       "firstName": "Dzakyy",
       "lastName": null,
@@ -6569,7 +6568,7 @@
       "_id": {
         "$oid": "6922a0fb4e23132d6f0aa3a4"
       },
-      "userId": 8026289972.0,
+      "userId": 8026289972,
       "username": "Misveee",
       "firstName": "Mss",
       "lastName": null,
@@ -6587,7 +6586,7 @@
       "_id": {
         "$oid": "6922a1334e23132d6f0aa3a5"
       },
-      "userId": 6158681263.0,
+      "userId": 6158681263,
       "username": "MK_ROKON_520",
       "firstName": "❮𝐌K❯‣❮রো্ঁক্ঁন্ঁ❯ADMIN_//❺❷⓿_ :/ ;* 3:) :o 🩵🩷🩵",
       "lastName": null,
@@ -6605,7 +6604,7 @@
       "_id": {
         "$oid": "6922a1344e23132d6f0aa3a6"
       },
-      "userId": 8318785338.0,
+      "userId": 8318785338,
       "username": null,
       "firstName": "Jannat",
       "lastName": null,
@@ -6623,7 +6622,7 @@
       "_id": {
         "$oid": "6922a1444e23132d6f0aa3a7"
       },
-      "userId": 8386949891.0,
+      "userId": 8386949891,
       "username": "Bawesh110",
       "firstName": "Bawesh",
       "lastName": "Kumar",
@@ -6641,7 +6640,7 @@
       "_id": {
         "$oid": "6922a1654e23132d6f0aa3a8"
       },
-      "userId": 6699917412.0,
+      "userId": 6699917412,
       "username": "Murad_vai25",
       "firstName": "Murad Rana",
       "lastName": null,
@@ -6659,7 +6658,7 @@
       "_id": {
         "$oid": "6922a1684e23132d6f0aa3a9"
       },
-      "userId": 5497655484.0,
+      "userId": 5497655484,
       "username": "Azzz_666",
       "firstName": "Aleppp",
       "lastName": null,
@@ -6677,7 +6676,7 @@
       "_id": {
         "$oid": "6922a1a24e23132d6f0aa3aa"
       },
-      "userId": 6768066084.0,
+      "userId": 6768066084,
       "username": "bondit1945",
       "firstName": "𝘽𝙊𝙉𝘿𝙄𝙏 𝘽𝙊𝙎",
       "lastName": null,
@@ -6695,7 +6694,7 @@
       "_id": {
         "$oid": "6922a1cb4e23132d6f0aa3ab"
       },
-      "userId": 7704919596.0,
+      "userId": 7704919596,
       "username": "mistress9009",
       "firstName": "Goldie",
       "lastName": null,
@@ -6713,7 +6712,7 @@
       "_id": {
         "$oid": "6922a1cd4e23132d6f0aa3ac"
       },
-      "userId": 6459816127.0,
+      "userId": 6459816127,
       "username": null,
       "firstName": "K🍅🐾",
       "lastName": null,
@@ -6731,7 +6730,7 @@
       "_id": {
         "$oid": "6922a1d74e23132d6f0aa3ad"
       },
-      "userId": 7014124362.0,
+      "userId": 7014124362,
       "username": "Kyy_my",
       "firstName": "Kyy",
       "lastName": "My",
@@ -6749,7 +6748,7 @@
       "_id": {
         "$oid": "6922a1df4e23132d6f0aa3ae"
       },
-      "userId": 7191963620.0,
+      "userId": 7191963620,
       "username": "Baledusu",
       "firstName": "Nura",
       "lastName": "Ahmed 🐍",
@@ -6767,7 +6766,7 @@
       "_id": {
         "$oid": "6922a1f14e23132d6f0aa3af"
       },
-      "userId": 8221989935.0,
+      "userId": 8221989935,
       "username": "mrsobxz",
       "firstName": "k",
       "lastName": null,
@@ -6785,7 +6784,7 @@
       "_id": {
         "$oid": "6922a1f94e23132d6f0aa3b0"
       },
-      "userId": 6708745109.0,
+      "userId": 6708745109,
       "username": null,
       "firstName": "Rome🐾",
       "lastName": null,
@@ -6803,7 +6802,7 @@
       "_id": {
         "$oid": "6922a2324e23132d6f0aa3b1"
       },
-      "userId": 6753536753.0,
+      "userId": 6753536753,
       "username": "Jayyygnt08",
       "firstName": "Jay",
       "lastName": null,
@@ -6857,7 +6856,7 @@
       "_id": {
         "$oid": "6922a2a94e23132d6f0aa3b4"
       },
-      "userId": 8275338913.0,
+      "userId": 8275338913,
       "username": "Amzy_1220",
       "firstName": "࿐ཽ༵༆༒ Ahmad ༒༆࿐ཽ༵",
       "lastName": null,
@@ -6875,7 +6874,7 @@
       "_id": {
         "$oid": "6922a2d54e23132d6f0aa3b5"
       },
-      "userId": 6411008866.0,
+      "userId": 6411008866,
       "username": "Kennyy2001",
       "firstName": "Kenny",
       "lastName": null,
@@ -6893,7 +6892,7 @@
       "_id": {
         "$oid": "6922a2da4e23132d6f0aa3b6"
       },
-      "userId": 7272012454.0,
+      "userId": 7272012454,
       "username": null,
       "firstName": "⛓️⛓️⛓️",
       "lastName": null,
@@ -6911,7 +6910,7 @@
       "_id": {
         "$oid": "6922a2f94e23132d6f0aa3b7"
       },
-      "userId": 7571658416.0,
+      "userId": 7571658416,
       "username": "Nangka_rak",
       "firstName": "Tesx",
       "lastName": null,
@@ -6929,7 +6928,7 @@
       "_id": {
         "$oid": "6922a2fb4e23132d6f0aa3b8"
       },
-      "userId": 7758554658.0,
+      "userId": 7758554658,
       "username": "Boyband420",
       "firstName": "Tang San",
       "lastName": null,
@@ -6947,7 +6946,7 @@
       "_id": {
         "$oid": "6922a3374e23132d6f0aa3b9"
       },
-      "userId": 6259598730.0,
+      "userId": 6259598730,
       "username": "venzzcuy1",
       "firstName": "𝗠𝗗𝗥𝗫 || 𝗩𝗘𝗡𝗭𝗭 𝟵𝟵𝟰",
       "lastName": null,
@@ -6965,7 +6964,7 @@
       "_id": {
         "$oid": "6922a3684e23132d6f0aa3ba"
       },
-      "userId": 6353390797.0,
+      "userId": 6353390797,
       "username": "Zerooooooooooooooooooo",
       "firstName": "我正在尋找經紀人",
       "lastName": null,
@@ -7001,7 +7000,7 @@
       "_id": {
         "$oid": "6922a3734e23132d6f0aa3bc"
       },
-      "userId": 5996604526.0,
+      "userId": 5996604526,
       "username": "Mihir440",
       "firstName": "Mihir",
       "lastName": "Mondal",
@@ -7019,7 +7018,7 @@
       "_id": {
         "$oid": "6922a39d4e23132d6f0aa3bd"
       },
-      "userId": 8016823541.0,
+      "userId": 8016823541,
       "username": null,
       "firstName": "FajAa",
       "lastName": "Fanya",
@@ -7037,7 +7036,7 @@
       "_id": {
         "$oid": "6922a3a44e23132d6f0aa3be"
       },
-      "userId": 7738146322.0,
+      "userId": 7738146322,
       "username": null,
       "firstName": "مسعود",
       "lastName": null,
@@ -7055,7 +7054,7 @@
       "_id": {
         "$oid": "6922a40e4e23132d6f0aa3bf"
       },
-      "userId": 7980437158.0,
+      "userId": 7980437158,
       "username": "OwnerVero",
       "firstName": "🥷",
       "lastName": null,
@@ -7091,7 +7090,7 @@
       "_id": {
         "$oid": "6922a4444e23132d6f0aa3c1"
       },
-      "userId": 7947551777.0,
+      "userId": 7947551777,
       "username": "Hsou2012",
       "firstName": "الحاج هــــمـــدرد جانان",
       "lastName": null,
@@ -7109,7 +7108,7 @@
       "_id": {
         "$oid": "6922a4614e23132d6f0aa3c2"
       },
-      "userId": 7664425461.0,
+      "userId": 7664425461,
       "username": "Avcxzzx",
       "firstName": "AVC",
       "lastName": null,
@@ -7127,7 +7126,7 @@
       "_id": {
         "$oid": "6922a4734e23132d6f0aa3c3"
       },
-      "userId": 5694146264.0,
+      "userId": 5694146264,
       "username": "dunslnly",
       "firstName": "𝗗𝗨𝗡𝗦 さみしい",
       "lastName": null,
@@ -7145,7 +7144,7 @@
       "_id": {
         "$oid": "6922a4b14e23132d6f0aa3c4"
       },
-      "userId": 8244671345.0,
+      "userId": 8244671345,
       "username": "raeeskhalid511",
       "firstName": "🥤دالـــོོ𝟒𝐱ـر 💸",
       "lastName": null,
@@ -7163,7 +7162,7 @@
       "_id": {
         "$oid": "6922a4c64e23132d6f0aa3c5"
       },
-      "userId": 7823053099.0,
+      "userId": 7823053099,
       "username": null,
       "firstName": "Gustixiter",
       "lastName": "Xiter",
@@ -7181,7 +7180,7 @@
       "_id": {
         "$oid": "6922a4c74e23132d6f0aa3c6"
       },
-      "userId": 7068153943.0,
+      "userId": 7068153943,
       "username": "HAJI_SAHIL0011",
       "firstName": "𓆩•.〲²⁰⁰¹ س꯭ـاح‍ ‍ل͠ 〲²⁰⁰¹ .•𓆪",
       "lastName": null,
@@ -7199,7 +7198,7 @@
       "_id": {
         "$oid": "6922a5024e23132d6f0aa3c7"
       },
-      "userId": 7650744420.0,
+      "userId": 7650744420,
       "username": "Rexsygy",
       "firstName": "rex",
       "lastName": null,
@@ -7217,7 +7216,7 @@
       "_id": {
         "$oid": "6922a5184e23132d6f0aa3c8"
       },
-      "userId": 7545919220.0,
+      "userId": 7545919220,
       "username": "sjsjhsjsjs62",
       "firstName": "Just",
       "lastName": null,
@@ -7235,7 +7234,7 @@
       "_id": {
         "$oid": "6922a52a4e23132d6f0aa3c9"
       },
-      "userId": 6516998185.0,
+      "userId": 6516998185,
       "username": "Sopon21",
       "firstName": "𝙈𝘿 𝙎𝙊𝙋𝙊𝙉",
       "lastName": "𝙆𝙃𝘼𝙉 🌪️",
@@ -7253,7 +7252,7 @@
       "_id": {
         "$oid": "6922a52a4e23132d6f0aa3ca"
       },
-      "userId": 6018551274.0,
+      "userId": 6018551274,
       "username": "ryannnlvy",
       "firstName": "Ryantzy",
       "lastName": null,
@@ -7271,7 +7270,7 @@
       "_id": {
         "$oid": "6922a5314e23132d6f0aa3cb"
       },
-      "userId": 8400855711.0,
+      "userId": 8400855711,
       "username": null,
       "firstName": "MASOOM",
       "lastName": "RAJPOOT",
@@ -7289,7 +7288,7 @@
       "_id": {
         "$oid": "6922a54d4e23132d6f0aa3cc"
       },
-      "userId": 8440857809.0,
+      "userId": 8440857809,
       "username": "Vyanzsukatobrut",
       "firstName": "ᯓ𝐕𝐑𝐓𝐗༆| vyanz",
       "lastName": null,
@@ -7307,7 +7306,7 @@
       "_id": {
         "$oid": "6922a5714e23132d6f0aa3cd"
       },
-      "userId": 6498930228.0,
+      "userId": 6498930228,
       "username": "Arbiogntg",
       "firstName": "𝐁𝐢𝐨𝐨𝐨𝐨𝐨.",
       "lastName": null,
@@ -7325,7 +7324,7 @@
       "_id": {
         "$oid": "6922a5884e23132d6f0aa3ce"
       },
-      "userId": 7245343380.0,
+      "userId": 7245343380,
       "username": null,
       "firstName": "Idoy",
       "lastName": "Idoy",
@@ -7343,7 +7342,7 @@
       "_id": {
         "$oid": "6922a5b14e23132d6f0aa3cf"
       },
-      "userId": 6871462895.0,
+      "userId": 6871462895,
       "username": "shirzadking4",
       "firstName": "ستـــــر جنرال کابلـــــــی هــــــــلک",
       "lastName": null,
@@ -7361,7 +7360,7 @@
       "_id": {
         "$oid": "6922a5e54e23132d6f0aa3d0"
       },
-      "userId": 5528311517.0,
+      "userId": 5528311517,
       "username": "fskeihdih",
       "firstName": "الـحـاج جـمـعـه خـان حـمـاسـی جـانــان",
       "lastName": null,
@@ -7379,7 +7378,7 @@
       "_id": {
         "$oid": "6922a5e94e23132d6f0aa3d1"
       },
-      "userId": 7439454909.0,
+      "userId": 7439454909,
       "username": "putzzfavboy",
       "firstName": "—72αησтнєя ρυтzz×_×",
       "lastName": null,
@@ -7397,7 +7396,7 @@
       "_id": {
         "$oid": "6922a5ed4e23132d6f0aa3d2"
       },
-      "userId": 8577738533.0,
+      "userId": 8577738533,
       "username": "rexxuantwo",
       "firstName": "Rexxxxxxxxxx",
       "lastName": null,
@@ -7415,7 +7414,7 @@
       "_id": {
         "$oid": "6922a5ed4e23132d6f0aa3d3"
       },
-      "userId": 6476393320.0,
+      "userId": 6476393320,
       "username": "Gro_15",
       "firstName": "كنج اليمن",
       "lastName": null,
@@ -7433,7 +7432,7 @@
       "_id": {
         "$oid": "6922a5fc4e23132d6f0aa3d4"
       },
-      "userId": 7325332030.0,
+      "userId": 7325332030,
       "username": "jackalwm",
       "firstName": "𝑱𝑨𝑪𝑲 𝑾𝑶𝑳𝑭𝑴𝑨𝑵",
       "lastName": null,
@@ -7451,7 +7450,7 @@
       "_id": {
         "$oid": "6922a6174e23132d6f0aa3d5"
       },
-      "userId": 7723551223.0,
+      "userId": 7723551223,
       "username": null,
       "firstName": "MD",
       "lastName": "Wahid",
@@ -7469,7 +7468,7 @@
       "_id": {
         "$oid": "6922a63b4e23132d6f0aa3d6"
       },
-      "userId": 6882444496.0,
+      "userId": 6882444496,
       "username": "Mixztzy",
       "firstName": "Mixzy",
       "lastName": null,
@@ -7487,7 +7486,7 @@
       "_id": {
         "$oid": "6922a6874e23132d6f0aa3d7"
       },
-      "userId": 6825084203.0,
+      "userId": 6825084203,
       "username": "ameeliaaayaa",
       "firstName": "sigit",
       "lastName": null,
@@ -7505,7 +7504,7 @@
       "_id": {
         "$oid": "6922a6a54e23132d6f0aa3d8"
       },
-      "userId": 8352202077.0,
+      "userId": 8352202077,
       "username": null,
       "firstName": "𝑯𝒂𝒎𝒐𝒐",
       "lastName": null,
@@ -7523,7 +7522,7 @@
       "_id": {
         "$oid": "6922a6b74e23132d6f0aa3d9"
       },
-      "userId": 7758146967.0,
+      "userId": 7758146967,
       "username": "Prediksa96",
       "firstName": "𝐒𝐡𝐞𝐥𝐝𝐨𝐧",
       "lastName": null,
@@ -7541,7 +7540,7 @@
       "_id": {
         "$oid": "6922a6c64e23132d6f0aa3da"
       },
-      "userId": 8197678479.0,
+      "userId": 8197678479,
       "username": null,
       "firstName": "Hasan",
       "lastName": "Dani",
@@ -7559,7 +7558,7 @@
       "_id": {
         "$oid": "6922a6d34e23132d6f0aa3db"
       },
-      "userId": 6849781079.0,
+      "userId": 6849781079,
       "username": "niivens",
       "firstName": "chicken nugget",
       "lastName": null,
@@ -7577,7 +7576,7 @@
       "_id": {
         "$oid": "6922a6f94e23132d6f0aa3dc"
       },
-      "userId": 6220593307.0,
+      "userId": 6220593307,
       "username": null,
       "firstName": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
       "lastName": null,
@@ -7595,7 +7594,7 @@
       "_id": {
         "$oid": "6922a7694e23132d6f0aa3dd"
       },
-      "userId": 8011698181.0,
+      "userId": 8011698181,
       "username": null,
       "firstName": "A",
       "lastName": null,
@@ -7613,7 +7612,7 @@
       "_id": {
         "$oid": "6922a7934e23132d6f0aa3de"
       },
-      "userId": 6595404504.0,
+      "userId": 6595404504,
       "username": "rokonseller",
       "firstName": "Rokon",
       "lastName": "(Seller)",
@@ -7649,7 +7648,7 @@
       "_id": {
         "$oid": "6922a7d44e23132d6f0aa3e0"
       },
-      "userId": 6715390713.0,
+      "userId": 6715390713,
       "username": null,
       "firstName": "Fahad",
       "lastName": "Mansoor",
@@ -7667,7 +7666,7 @@
       "_id": {
         "$oid": "6922a7e84e23132d6f0aa3e1"
       },
-      "userId": 8548773510.0,
+      "userId": 8548773510,
       "username": null,
       "firstName": "الحراق",
       "lastName": "♥🫡",
@@ -7685,7 +7684,7 @@
       "_id": {
         "$oid": "6922a7ee4e23132d6f0aa3e2"
       },
-      "userId": 8158677139.0,
+      "userId": 8158677139,
       "username": null,
       "firstName": "Atif",
       "lastName": "Ali",
@@ -7703,7 +7702,7 @@
       "_id": {
         "$oid": "6922a8124e23132d6f0aa3e3"
       },
-      "userId": 7915702630.0,
+      "userId": 7915702630,
       "username": "DOGYSTALY1",
       "firstName": "RAINER",
       "lastName": null,
@@ -7721,7 +7720,7 @@
       "_id": {
         "$oid": "6922a85e4e23132d6f0aa3e4"
       },
-      "userId": 6280362145.0,
+      "userId": 6280362145,
       "username": "Yep_cound",
       "firstName": "𝗗𝗘𝗡 || 아지노모토🇳🇱",
       "lastName": null,
@@ -7739,7 +7738,7 @@
       "_id": {
         "$oid": "6922a8794e23132d6f0aa3e5"
       },
-      "userId": 7893381394.0,
+      "userId": 7893381394,
       "username": "eghaa423",
       "firstName": "briyan",
       "lastName": "..",
@@ -7757,7 +7756,7 @@
       "_id": {
         "$oid": "6922a8964e23132d6f0aa3e6"
       },
-      "userId": 7035245103.0,
+      "userId": 7035245103,
       "username": "Ningi709",
       "firstName": "Haidar",
       "lastName": "Muhammad 🐾",
@@ -7775,7 +7774,7 @@
       "_id": {
         "$oid": "6922a8a44e23132d6f0aa3e7"
       },
-      "userId": 8365825616.0,
+      "userId": 8365825616,
       "username": null,
       "firstName": "Mehar King",
       "lastName": "Mehar King",
@@ -7793,7 +7792,7 @@
       "_id": {
         "$oid": "6922a9074e23132d6f0aa3e8"
       },
-      "userId": 5991175374.0,
+      "userId": 5991175374,
       "username": "Bobomadueke",
       "firstName": "Lucky",
       "lastName": "Earner",
@@ -7811,7 +7810,7 @@
       "_id": {
         "$oid": "6922a9524e23132d6f0aa3e9"
       },
-      "userId": 7688397506.0,
+      "userId": 7688397506,
       "username": null,
       "firstName": "🆂︎🅷︎🅾︎🅸︎🅰︎🅱︎",
       "lastName": null,
@@ -7829,7 +7828,7 @@
       "_id": {
         "$oid": "6922a9934e23132d6f0aa3ea"
       },
-      "userId": 7129090618.0,
+      "userId": 7129090618,
       "username": "inosukees",
       "firstName": "Chozee",
       "lastName": null,
@@ -7847,7 +7846,7 @@
       "_id": {
         "$oid": "6922a9a84e23132d6f0aa3eb"
       },
-      "userId": 8172802102.0,
+      "userId": 8172802102,
       "username": "fkyingi",
       "firstName": "Mr",
       "lastName": null,
@@ -7865,7 +7864,7 @@
       "_id": {
         "$oid": "6922a9b54e23132d6f0aa3ec"
       },
-      "userId": 7908162087.0,
+      "userId": 7908162087,
       "username": "V_T_IR",
       "firstName": "🇱🇾",
       "lastName": null,
@@ -7883,7 +7882,7 @@
       "_id": {
         "$oid": "6922a9ec4e23132d6f0aa3ed"
       },
-      "userId": 7494035122.0,
+      "userId": 7494035122,
       "username": null,
       "firstName": "S A N T O S S🇦🇱",
       "lastName": null,
@@ -7919,7 +7918,7 @@
       "_id": {
         "$oid": "6922a9f24e23132d6f0aa3ef"
       },
-      "userId": 7956352713.0,
+      "userId": 7956352713,
       "username": "Wizzxcuyys",
       "firstName": "『𝚆𝙸𝚉𝚉𝚇 𝚂𝚃𝙾𝚁𝙴乂🇷🇺",
       "lastName": "ᅠ|| 𝐀𝐌-𝐎𝐍𝐄",
@@ -7937,7 +7936,7 @@
       "_id": {
         "$oid": "6922aa1e4e23132d6f0aa3f0"
       },
-      "userId": 5719723655.0,
+      "userId": 5719723655,
       "username": "a_bayzid87",
       "firstName": "Ariyen bayzid",
       "lastName": null,
@@ -7955,7 +7954,7 @@
       "_id": {
         "$oid": "6922aa2b4e23132d6f0aa3f1"
       },
-      "userId": 7827778647.0,
+      "userId": 7827778647,
       "username": "r4yyofficial",
       "firstName": "𝐑𝟒𝐘𝐘 𝐊𝐀𝐍𝐆 𝐁𝐀𝐍𝐍𝐈𝐑😈👑",
       "lastName": null,
@@ -7973,7 +7972,7 @@
       "_id": {
         "$oid": "6922aa334e23132d6f0aa3f2"
       },
-      "userId": 7969092612.0,
+      "userId": 7969092612,
       "username": "Rbxraja786",
       "firstName": "Oye",
       "lastName": "Babu",
@@ -7991,7 +7990,7 @@
       "_id": {
         "$oid": "6922aa514e23132d6f0aa3f3"
       },
-      "userId": 6751826877.0,
+      "userId": 6751826877,
       "username": "s7skwi8",
       "firstName": "seraphim 🔞",
       "lastName": null,
@@ -8009,7 +8008,7 @@
       "_id": {
         "$oid": "6922aa7a4e23132d6f0aa3f4"
       },
-      "userId": 7700971230.0,
+      "userId": 7700971230,
       "username": "Yat828",
       "firstName": "Yan",
       "lastName": null,
@@ -8027,7 +8026,7 @@
       "_id": {
         "$oid": "6922aae14e23132d6f0aa3f5"
       },
-      "userId": 7582367518.0,
+      "userId": 7582367518,
       "username": null,
       "firstName": "Akmal",
       "lastName": "Khan",
@@ -8045,7 +8044,7 @@
       "_id": {
         "$oid": "6922ab274e23132d6f0aa3f6"
       },
-      "userId": 8104501759.0,
+      "userId": 8104501759,
       "username": "Alie001",
       "firstName": "Alie",
       "lastName": "2308",
@@ -8063,7 +8062,7 @@
       "_id": {
         "$oid": "6922ab684e23132d6f0aa3f7"
       },
-      "userId": 7743220612.0,
+      "userId": 7743220612,
       "username": "Wongtulus122",
       "firstName": "⏤͟͟͞͞Xv7 II Wong Tulus",
       "lastName": "Tulus️ ️",
@@ -8081,7 +8080,7 @@
       "_id": {
         "$oid": "6922ab874e23132d6f0aa3f8"
       },
-      "userId": 8126010363.0,
+      "userId": 8126010363,
       "username": null,
       "firstName": "名探偵コナン",
       "lastName": null,
@@ -8099,7 +8098,7 @@
       "_id": {
         "$oid": "6922aba24e23132d6f0aa3f9"
       },
-      "userId": 6699366755.0,
+      "userId": 6699366755,
       "username": "ZynnnVVIP77777",
       "firstName": "𝙕𝙔𝙉𝙉𝙉 𝙒𝙎᭕市场",
       "lastName": null,
@@ -8117,7 +8116,7 @@
       "_id": {
         "$oid": "6922abb74e23132d6f0aa3fa"
       },
-      "userId": 8143063660.0,
+      "userId": 8143063660,
       "username": "Ravencrast_Randy",
       "firstName": "RAVENCRAST RANDY",
       "lastName": null,
@@ -8135,7 +8134,7 @@
       "_id": {
         "$oid": "6922abbf4e23132d6f0aa3fb"
       },
-      "userId": 7450181346.0,
+      "userId": 7450181346,
       "username": "jSIBUK",
       "firstName": "Raph",
       "lastName": null,
@@ -8153,7 +8152,7 @@
       "_id": {
         "$oid": "6922abd44e23132d6f0aa3fc"
       },
-      "userId": 8105829701.0,
+      "userId": 8105829701,
       "username": null,
       "firstName": "Abdul",
       "lastName": "Khan",
@@ -8171,7 +8170,7 @@
       "_id": {
         "$oid": "6922ac794e23132d6f0aa3fd"
       },
-      "userId": 8489897654.0,
+      "userId": 8489897654,
       "username": "Ssjxxlssl",
       "firstName": "Yous",
       "lastName": null,
@@ -8207,7 +8206,7 @@
       "_id": {
         "$oid": "6922acf44e23132d6f0aa3ff"
       },
-      "userId": 6378414339.0,
+      "userId": 6378414339,
       "username": null,
       "firstName": "Abu-Nayem",
       "lastName": "@",
@@ -8225,7 +8224,7 @@
       "_id": {
         "$oid": "6922acfd4e23132d6f0aa400"
       },
-      "userId": 7248006262.0,
+      "userId": 7248006262,
       "username": null,
       "firstName": "adittt",
       "lastName": null,
@@ -8243,7 +8242,7 @@
       "_id": {
         "$oid": "6922ad534e23132d6f0aa401"
       },
-      "userId": 8027202334.0,
+      "userId": 8027202334,
       "username": "Kingshan110",
       "firstName": "RANA SHAN",
       "lastName": "Shan",
@@ -8261,7 +8260,7 @@
       "_id": {
         "$oid": "6922adb74e23132d6f0aa402"
       },
-      "userId": 8207786703.0,
+      "userId": 8207786703,
       "username": "jaysinhost",
       "firstName": "⏤͟͟͞͞Xv7 || 𝗝𝗮𝘆𝘀𝗶𝗻",
       "lastName": null,
@@ -8279,7 +8278,7 @@
       "_id": {
         "$oid": "6922ade44e23132d6f0aa403"
       },
-      "userId": 5892876019.0,
+      "userId": 5892876019,
       "username": "mgios78",
       "firstName": "DIGY",
       "lastName": null,
@@ -8297,7 +8296,7 @@
       "_id": {
         "$oid": "6922adf74e23132d6f0aa404"
       },
-      "userId": 7360582216.0,
+      "userId": 7360582216,
       "username": "zaibiiking628",
       "firstName": "𓆩メLФVΞLУ』𓆪",
       "lastName": "زہبــ۬ـۧۛـ𝆊۬ـی کنــ֯ـ᪵ـ͝ــ֯ــگ",
@@ -8315,7 +8314,7 @@
       "_id": {
         "$oid": "6922ae424e23132d6f0aa405"
       },
-      "userId": 8322934457.0,
+      "userId": 8322934457,
       "username": null,
       "firstName": "عمر تنهاا",
       "lastName": null,
@@ -8333,7 +8332,7 @@
       "_id": {
         "$oid": "6922ae554e23132d6f0aa406"
       },
-      "userId": 6819611560.0,
+      "userId": 6819611560,
       "username": null,
       "firstName": "dnnn",
       "lastName": null,
@@ -8351,7 +8350,7 @@
       "_id": {
         "$oid": "6922ae754e23132d6f0aa407"
       },
-      "userId": 8183212740.0,
+      "userId": 8183212740,
       "username": "Gsmv2",
       "firstName": "Gsmv",
       "lastName": null,
@@ -8369,7 +8368,7 @@
       "_id": {
         "$oid": "6922ae7d4e23132d6f0aa408"
       },
-      "userId": 8250696004.0,
+      "userId": 8250696004,
       "username": "Yyhhgjlkf",
       "firstName": "Novzs",
       "lastName": "Roisz",
@@ -8387,7 +8386,7 @@
       "_id": {
         "$oid": "6922ae8e4e23132d6f0aa409"
       },
-      "userId": 7516275477.0,
+      "userId": 7516275477,
       "username": "LypaMakan",
       "firstName": "NEZ RAJA KIKIR",
       "lastName": null,
@@ -8405,7 +8404,7 @@
       "_id": {
         "$oid": "6922aece4e23132d6f0aa40a"
       },
-      "userId": 6551132128.0,
+      "userId": 6551132128,
       "username": "cameleonerenn",
       "firstName": "RENN666",
       "lastName": null,
@@ -8423,7 +8422,7 @@
       "_id": {
         "$oid": "6922aef54e23132d6f0aa40b"
       },
-      "userId": 7418322706.0,
+      "userId": 7418322706,
       "username": "zahidhasanzim",
       "firstName": "Zahid Hasan ⚕️",
       "lastName": null,
@@ -8441,7 +8440,7 @@
       "_id": {
         "$oid": "6922af004e23132d6f0aa40c"
       },
-      "userId": 7732139378.0,
+      "userId": 7732139378,
       "username": "Ashatt332",
       "firstName": "BTCasshatt",
       "lastName": null,
@@ -8459,7 +8458,7 @@
       "_id": {
         "$oid": "6922afa64e23132d6f0aa40d"
       },
-      "userId": 8333687233.0,
+      "userId": 8333687233,
       "username": "Kamran40571",
       "firstName": "Virtual WHAT'S APP",
       "lastName": "SELLER",
@@ -8477,7 +8476,7 @@
       "_id": {
         "$oid": "6922afcc4e23132d6f0aa40e"
       },
-      "userId": 6376475428.0,
+      "userId": 6376475428,
       "username": "ArifuzzamanAsif",
       "firstName": "ASIF",
       "lastName": "HASAN",
@@ -8495,7 +8494,7 @@
       "_id": {
         "$oid": "6922afd04e23132d6f0aa40f"
       },
-      "userId": 8588175827.0,
+      "userId": 8588175827,
       "username": "kenantzy",
       "firstName": "kenann",
       "lastName": "tzy",
@@ -8513,7 +8512,7 @@
       "_id": {
         "$oid": "6922afd24e23132d6f0aa410"
       },
-      "userId": 7491045987.0,
+      "userId": 7491045987,
       "username": "Rijalzx",
       "firstName": "⏤͟͟͞͞𝐍𝟓𝐓 || 𝗥𝗜𝗝𝗔𝗟 𝗭𝗫",
       "lastName": null,
@@ -8531,7 +8530,7 @@
       "_id": {
         "$oid": "6922afd74e23132d6f0aa411"
       },
-      "userId": 8429920436.0,
+      "userId": 8429920436,
       "username": "keyss09",
       "firstName": "key",
       "lastName": null,
@@ -8549,7 +8548,7 @@
       "_id": {
         "$oid": "6922afe24e23132d6f0aa412"
       },
-      "userId": 8373868162.0,
+      "userId": 8373868162,
       "username": "iyan4youu",
       "firstName": "Zann ϟ 𝐆𝐨𝐥𝐝𝐞𝐧",
       "lastName": null,
@@ -8567,7 +8566,7 @@
       "_id": {
         "$oid": "6922affa4e23132d6f0aa413"
       },
-      "userId": 8567620506.0,
+      "userId": 8567620506,
       "username": null,
       "firstName": "He",
       "lastName": null,
@@ -8585,7 +8584,7 @@
       "_id": {
         "$oid": "6922b0344e23132d6f0aa414"
       },
-      "userId": 6510755056.0,
+      "userId": 6510755056,
       "username": null,
       "firstName": "Rizky",
       "lastName": null,
@@ -8603,7 +8602,7 @@
       "_id": {
         "$oid": "6922b0494e23132d6f0aa415"
       },
-      "userId": 7940295553.0,
+      "userId": 7940295553,
       "username": "laxxxchina",
       "firstName": "laxxxgapernahcoli",
       "lastName": null,
@@ -8621,7 +8620,7 @@
       "_id": {
         "$oid": "6922b1354e23132d6f0aa416"
       },
-      "userId": 7642720530.0,
+      "userId": 7642720530,
       "username": "XpoleAndMee",
       "firstName": "𝙓𝙋𝙊𝙇𝙀💨",
       "lastName": null,
@@ -8639,7 +8638,7 @@
       "_id": {
         "$oid": "6922b1694e23132d6f0aa417"
       },
-      "userId": 8438116683.0,
+      "userId": 8438116683,
       "username": "mrdoubleh0177",
       "firstName": "MD Hasib",
       "lastName": "Mia",
@@ -8657,7 +8656,7 @@
       "_id": {
         "$oid": "6922b16f4e23132d6f0aa418"
       },
-      "userId": 7310301784.0,
+      "userId": 7310301784,
       "username": "pleas3han2",
       "firstName": "─ 𝙘𝙖𝙣𝙫𝙚𝙧𝙧𝙤",
       "lastName": "| nokos OLD CLOSE!",
@@ -8675,7 +8674,7 @@
       "_id": {
         "$oid": "6922b1834e23132d6f0aa419"
       },
-      "userId": 7244322150.0,
+      "userId": 7244322150,
       "username": "pv_ferdaws_king511",
       "firstName": "خــــــوشـــتـیـــــپــــ",
       "lastName": null,
@@ -8693,7 +8692,7 @@
       "_id": {
         "$oid": "6922b1ba4e23132d6f0aa41a"
       },
-      "userId": 8464880105.0,
+      "userId": 8464880105,
       "username": null,
       "firstName": "Ahmad",
       "lastName": null,
@@ -8711,7 +8710,7 @@
       "_id": {
         "$oid": "6922b1ba4e23132d6f0aa41b"
       },
-      "userId": 7120927880.0,
+      "userId": 7120927880,
       "username": "inielllxzy",
       "firstName": "法雷尔西兹 𝖗𝖊𝖑𝖑𝖑",
       "lastName": null,
@@ -8729,7 +8728,7 @@
       "_id": {
         "$oid": "6922b1c94e23132d6f0aa41c"
       },
-      "userId": 6456356045.0,
+      "userId": 6456356045,
       "username": "Raees105",
       "firstName": "Raees",
       "lastName": "Abdaal",
@@ -8747,7 +8746,7 @@
       "_id": {
         "$oid": "6922b1cc4e23132d6f0aa41d"
       },
-      "userId": 6767166363.0,
+      "userId": 6767166363,
       "username": "Sohanhabit",
       "firstName": "𝐒𝐎𝐇𝐀𝐍 [𝗔𝗥𝗠𝗬™𝟭]",
       "lastName": null,
@@ -8765,7 +8764,7 @@
       "_id": {
         "$oid": "6922b1f94e23132d6f0aa41e"
       },
-      "userId": 8096491200.0,
+      "userId": 8096491200,
       "username": "lexzysnsh",
       "firstName": "lex",
       "lastName": null,
@@ -8783,7 +8782,7 @@
       "_id": {
         "$oid": "6922b1fb4e23132d6f0aa41f"
       },
-      "userId": 6809504258.0,
+      "userId": 6809504258,
       "username": "lolopipoop",
       "firstName": "turet",
       "lastName": "bro",
@@ -8801,7 +8800,7 @@
       "_id": {
         "$oid": "6922b22e4e23132d6f0aa420"
       },
-      "userId": 6337267595.0,
+      "userId": 6337267595,
       "username": "tuanmudaszeee",
       "firstName": "ˢᶻᵉ",
       "lastName": null,
@@ -8819,7 +8818,7 @@
       "_id": {
         "$oid": "6922b2384e23132d6f0aa421"
       },
-      "userId": 7723359600.0,
+      "userId": 7723359600,
       "username": null,
       "firstName": "さ",
       "lastName": null,
@@ -8837,7 +8836,7 @@
       "_id": {
         "$oid": "6922b2744e23132d6f0aa422"
       },
-      "userId": 8001985371.0,
+      "userId": 8001985371,
       "username": null,
       "firstName": "جناب",
       "lastName": "افغان",
@@ -8855,7 +8854,7 @@
       "_id": {
         "$oid": "6922b2a14e23132d6f0aa423"
       },
-      "userId": 8389976174.0,
+      "userId": 8389976174,
       "username": "Bokehnih",
       "firstName": "Lis",
       "lastName": "Loa",
@@ -8873,7 +8872,7 @@
       "_id": {
         "$oid": "6922b2d74e23132d6f0aa424"
       },
-      "userId": 7381480876.0,
+      "userId": 7381480876,
       "username": "DevantStoreSx",
       "firstName": "JiroSan || Siox",
       "lastName": null,
@@ -8891,7 +8890,7 @@
       "_id": {
         "$oid": "6922b3044e23132d6f0aa425"
       },
-      "userId": 7004018132.0,
+      "userId": 7004018132,
       "username": "notdistrap_07",
       "firstName": "ARAFAT",
       "lastName": "Xs",
@@ -8909,7 +8908,7 @@
       "_id": {
         "$oid": "6922b31b4e23132d6f0aa426"
       },
-      "userId": 8280703012.0,
+      "userId": 8280703012,
       "username": null,
       "firstName": "⛥❦ر̷ٵ̷ ي̷س̷ ر̷ح̷ي̷م̷ ٵ̷ ل̷لهّ",
       "lastName": "پگ̷ت̷ي̷ٵ̷ ۆ̷ٵ̷ ل̷❦⛥",
@@ -8927,7 +8926,7 @@
       "_id": {
         "$oid": "6922b3334e23132d6f0aa427"
       },
-      "userId": 6060046293.0,
+      "userId": 6060046293,
       "username": "aloomaniii827999999999998888",
       "firstName": "🎣",
       "lastName": null,
@@ -8945,7 +8944,7 @@
       "_id": {
         "$oid": "6922b35f4e23132d6f0aa428"
       },
-      "userId": 7938466815.0,
+      "userId": 7938466815,
       "username": "ekyneedmoney",
       "firstName": "Eky",
       "lastName": "FX",
@@ -8963,7 +8962,7 @@
       "_id": {
         "$oid": "6922b3f34e23132d6f0aa429"
       },
-      "userId": 8108765956.0,
+      "userId": 8108765956,
       "username": "vanhelsinng",
       "firstName": "ciferxito",
       "lastName": null,
@@ -8981,7 +8980,7 @@
       "_id": {
         "$oid": "6922b43b4e23132d6f0aa42a"
       },
-      "userId": 8069658646.0,
+      "userId": 8069658646,
       "username": "Naeema8464489",
       "firstName": "🦋𝓝𝓐𝓔𝓔𝓜 🦋",
       "lastName": "🦋𝓐𝓗𝓜𝓔𝓓🦋",
@@ -8999,7 +8998,7 @@
       "_id": {
         "$oid": "6922b44d4e23132d6f0aa42b"
       },
-      "userId": 6613124645.0,
+      "userId": 6613124645,
       "username": "Rakibbillah25",
       "firstName": "Md",
       "lastName": "Rakib billah 25",
@@ -9017,7 +9016,7 @@
       "_id": {
         "$oid": "6922b4e04e23132d6f0aa42c"
       },
-      "userId": 6597413338.0,
+      "userId": 6597413338,
       "username": null,
       "firstName": ".",
       "lastName": null,
@@ -9035,7 +9034,7 @@
       "_id": {
         "$oid": "6922b4e64e23132d6f0aa42d"
       },
-      "userId": 8246006533.0,
+      "userId": 8246006533,
       "username": "Joe2009jj",
       "firstName": "Joe",
       "lastName": "Joe",
@@ -9053,7 +9052,7 @@
       "_id": {
         "$oid": "6922b5064e23132d6f0aa42e"
       },
-      "userId": 8013002460.0,
+      "userId": 8013002460,
       "username": "Rizki21zz",
       "firstName": "Risky",
       "lastName": null,
@@ -9089,7 +9088,7 @@
       "_id": {
         "$oid": "6922b5304e23132d6f0aa430"
       },
-      "userId": 6422493578.0,
+      "userId": 6422493578,
       "username": "nanachan32",
       "firstName": "𝙽𝙰𝙽𝙰中国",
       "lastName": null,
@@ -9107,7 +9106,7 @@
       "_id": {
         "$oid": "6922b5774e23132d6f0aa431"
       },
-      "userId": 8009277285.0,
+      "userId": 8009277285,
       "username": "Nadiaabigail7",
       "firstName": "noval",
       "lastName": null,
@@ -9125,7 +9124,7 @@
       "_id": {
         "$oid": "6922b6254e23132d6f0aa432"
       },
-      "userId": 7142672756.0,
+      "userId": 7142672756,
       "username": "Ezasatsuki",
       "firstName": "Eza' Sa'tsuki'",
       "lastName": null,
@@ -9143,7 +9142,7 @@
       "_id": {
         "$oid": "6922b6744e23132d6f0aa433"
       },
-      "userId": 7228483470.0,
+      "userId": 7228483470,
       "username": "LangHARD",
       "firstName": "𝐋𝐚𝐧𝐠𝐙 𝐥𝐮𝐯𝟐𝐡𝐚𝐭𝐞",
       "lastName": null,
@@ -9179,7 +9178,7 @@
       "_id": {
         "$oid": "6922b6ba4e23132d6f0aa435"
       },
-      "userId": 6825179129.0,
+      "userId": 6825179129,
       "username": null,
       "firstName": "Rajput",
       "lastName": "03234488420",
@@ -9197,7 +9196,7 @@
       "_id": {
         "$oid": "6922b6f34e23132d6f0aa436"
       },
-      "userId": 6790933139.0,
+      "userId": 6790933139,
       "username": "juicypuss654",
       "firstName": "Juicy",
       "lastName": "Puss 💦",
@@ -9215,7 +9214,7 @@
       "_id": {
         "$oid": "6922b76e4e23132d6f0aa437"
       },
-      "userId": 6761165616.0,
+      "userId": 6761165616,
       "username": "MoraALP",
       "firstName": "Mora",
       "lastName": "Alvaro",
@@ -9233,7 +9232,7 @@
       "_id": {
         "$oid": "6922b7724e23132d6f0aa438"
       },
-      "userId": 6303316416.0,
+      "userId": 6303316416,
       "username": "HE_IS_MAMBA",
       "firstName": "[𝖈𝖑𝖈]MAMBA ᶜᵒᵈᵉᵈ",
       "lastName": null,
@@ -9269,7 +9268,7 @@
       "_id": {
         "$oid": "6922b7b24e23132d6f0aa43a"
       },
-      "userId": 7918867537.0,
+      "userId": 7918867537,
       "username": "FtyOxford",
       "firstName": "𝐅𝐭𝐲-𝐎𝐱𝐟𝐨𝐫𝐝 🇯🇵",
       "lastName": null,
@@ -9287,7 +9286,7 @@
       "_id": {
         "$oid": "6922b7cb4e23132d6f0aa43b"
       },
-      "userId": 7718564582.0,
+      "userId": 7718564582,
       "username": null,
       "firstName": "مممـسـتـفـزه ـألـغـداره ـألـمـلـعـونـهه",
       "lastName": null,
@@ -9305,7 +9304,7 @@
       "_id": {
         "$oid": "6922b7cb4e23132d6f0aa43c"
       },
-      "userId": 6813614544.0,
+      "userId": 6813614544,
       "username": "fpppakwh",
       "firstName": "999",
       "lastName": null,
@@ -9323,7 +9322,7 @@
       "_id": {
         "$oid": "6922b7cd4e23132d6f0aa43d"
       },
-      "userId": 6485801049.0,
+      "userId": 6485801049,
       "username": null,
       "firstName": "Imranff25",
       "lastName": null,
@@ -9341,7 +9340,7 @@
       "_id": {
         "$oid": "6922b7eb4e23132d6f0aa43e"
       },
-      "userId": 7484258639.0,
+      "userId": 7484258639,
       "username": "problema5428",
       "firstName": "Problimtik",
       "lastName": null,
@@ -9359,7 +9358,7 @@
       "_id": {
         "$oid": "6922b82f4e23132d6f0aa43f"
       },
-      "userId": 7875674557.0,
+      "userId": 7875674557,
       "username": "kecoasaltoooooooo",
       "firstName": "Арьяхерсимвол",
       "lastName": "🇸🇱",
@@ -9377,7 +9376,7 @@
       "_id": {
         "$oid": "6922b83e4e23132d6f0aa440"
       },
-      "userId": 8073633020.0,
+      "userId": 8073633020,
       "username": "Rizki_real1",
       "firstName": "𝗚𝗟𝗫 || ⏤͟͟͞͞𝗥𝗜𝗭𝗞𝗜 𝟵𝟵𝟵࿐",
       "lastName": null,
@@ -9395,7 +9394,7 @@
       "_id": {
         "$oid": "6922b8434e23132d6f0aa441"
       },
-      "userId": 8208737952.0,
+      "userId": 8208737952,
       "username": null,
       "firstName": "Adeloye",
       "lastName": "Peace",
@@ -9413,7 +9412,7 @@
       "_id": {
         "$oid": "6922b85d4e23132d6f0aa442"
       },
-      "userId": 8091397400.0,
+      "userId": 8091397400,
       "username": null,
       "firstName": "ساحل",
       "lastName": "افغان",
@@ -9431,7 +9430,7 @@
       "_id": {
         "$oid": "6922b8964e23132d6f0aa443"
       },
-      "userId": 7869126863.0,
+      "userId": 7869126863,
       "username": null,
       "firstName": "Ryuki",
       "lastName": null,
@@ -9449,7 +9448,7 @@
       "_id": {
         "$oid": "6922b9544e23132d6f0aa444"
       },
-      "userId": 7623184773.0,
+      "userId": 7623184773,
       "username": "Uhkvu",
       "firstName": "ܠۅࡊ ܔۅࢪزࡊ",
       "lastName": null,
@@ -9467,7 +9466,7 @@
       "_id": {
         "$oid": "6922b9b24e23132d6f0aa445"
       },
-      "userId": 7600706434.0,
+      "userId": 7600706434,
       "username": "ZxXxxzzzr",
       "firstName": "R∆∆J",
       "lastName": null,
@@ -9485,7 +9484,7 @@
       "_id": {
         "$oid": "6922b9ef4e23132d6f0aa446"
       },
-      "userId": 8163089399.0,
+      "userId": 8163089399,
       "username": "devorandote",
       "firstName": "Frish",
       "lastName": null,
@@ -9503,7 +9502,7 @@
       "_id": {
         "$oid": "6922b9fb4e23132d6f0aa447"
       },
-      "userId": 8417131266.0,
+      "userId": 8417131266,
       "username": "nemo505",
       "firstName": "𝖓𝖊𝖒𝖔🎱",
       "lastName": null,
@@ -9521,7 +9520,7 @@
       "_id": {
         "$oid": "6922ba4fed9ff78477ade0ca"
       },
-      "userId": 6460834288.0,
+      "userId": 6460834288,
       "username": "Dylennnn67",
       "firstName": "D.",
       "lastName": null,
@@ -9539,7 +9538,7 @@
       "_id": {
         "$oid": "6922ba58ed9ff78477ade0cb"
       },
-      "userId": 7988341711.0,
+      "userId": 7988341711,
       "username": "FarFromYourThinking",
       "firstName": "FarFromYourThinking",
       "lastName": null,
@@ -9557,7 +9556,7 @@
       "_id": {
         "$oid": "6922ba93ed9ff78477ade0cc"
       },
-      "userId": 6217455380.0,
+      "userId": 6217455380,
       "username": null,
       "firstName": "Bize",
       "lastName": "Doank",
@@ -9575,7 +9574,7 @@
       "_id": {
         "$oid": "6922ba9ded9ff78477ade0cd"
       },
-      "userId": 7467469918.0,
+      "userId": 7467469918,
       "username": "ropesanomali",
       "firstName": "HanñZyy 포 - 𝐥𝐮𝐯𝟐𝐡𝐚𝐭𝐞",
       "lastName": null,
@@ -9593,7 +9592,7 @@
       "_id": {
         "$oid": "6922bad1ed9ff78477ade0ce"
       },
-      "userId": 7516285926.0,
+      "userId": 7516285926,
       "username": "dexreas",
       "firstName": "𝐁𝐋𝐀𝐂𝐊𝐑𝐄𝐀𝐏𝐏𝐄𝐑 𝐕𝐈",
       "lastName": null,
@@ -9611,7 +9610,7 @@
       "_id": {
         "$oid": "6922bafeed9ff78477ade0cf"
       },
-      "userId": 8012880205.0,
+      "userId": 8012880205,
       "username": null,
       "firstName": "A",
       "lastName": null,
@@ -9629,7 +9628,7 @@
       "_id": {
         "$oid": "6922bbb8ed9ff78477ade0d0"
       },
-      "userId": 7739459253.0,
+      "userId": 7739459253,
       "username": "nadskondegay",
       "firstName": ".",
       "lastName": "ťin̈kèr.ɓoy 𓃵",
@@ -9647,7 +9646,7 @@
       "_id": {
         "$oid": "6922bbd1ed9ff78477ade0d1"
       },
-      "userId": 8347541075.0,
+      "userId": 8347541075,
       "username": "Dhhoott",
       "firstName": "Dhot • Design [REKBER ON]√",
       "lastName": null,
@@ -9665,7 +9664,7 @@
       "_id": {
         "$oid": "6922bbd2ed9ff78477ade0d2"
       },
-      "userId": 5623300048.0,
+      "userId": 5623300048,
       "username": "Fajardimari",
       "firstName": "Fajar is back",
       "lastName": "| 🆙 UXUY",
@@ -9683,7 +9682,7 @@
       "_id": {
         "$oid": "6922bc44ed9ff78477ade0d3"
       },
-      "userId": 8006538348.0,
+      "userId": 8006538348,
       "username": "Dilzzzzzx",
       "firstName": "⏤͟͟͞͞𝐗𝐓𝐑 || 𝑫𝑰𝑳𝒁𝒁",
       "lastName": null,
@@ -9701,7 +9700,7 @@
       "_id": {
         "$oid": "6922bc49ed9ff78477ade0d4"
       },
-      "userId": 6907811970.0,
+      "userId": 6907811970,
       "username": "khalida176",
       "firstName": "Khalida",
       "lastName": "Nazim",
@@ -9737,7 +9736,7 @@
       "_id": {
         "$oid": "6922bc70ed9ff78477ade0d6"
       },
-      "userId": 5307976207.0,
+      "userId": 5307976207,
       "username": "SOJIB6T8",
       "firstName": "🇹 🇷 🇸 🇴 🇯 🇮 🇧 🔙",
       "lastName": null,
@@ -9755,7 +9754,7 @@
       "_id": {
         "$oid": "6922bc94ed9ff78477ade0d7"
       },
-      "userId": 5966355221.0,
+      "userId": 5966355221,
       "username": "Rangga751",
       "firstName": "R",
       "lastName": null,
@@ -9773,7 +9772,7 @@
       "_id": {
         "$oid": "6922bcc2da9bf620d69a556d"
       },
-      "userId": 8387490554.0,
+      "userId": 8387490554,
       "username": "rodrixzzx1",
       "firstName": "Rodrixzzx",
       "lastName": null,
@@ -9791,7 +9790,7 @@
       "_id": {
         "$oid": "6922bcc2da9bf620d69a556e"
       },
-      "userId": 7083762375.0,
+      "userId": 7083762375,
       "username": "Cicikuh8888",
       "firstName": "マハマリサル",
       "lastName": null,
@@ -9827,7 +9826,7 @@
       "_id": {
         "$oid": "6922bd06da9bf620d69a5570"
       },
-      "userId": 7722975937.0,
+      "userId": 7722975937,
       "username": "Mahbubajannat123",
       "firstName": "Mahbuba",
       "lastName": "Jannat",
@@ -9845,7 +9844,7 @@
       "_id": {
         "$oid": "6922bd35da9bf620d69a5571"
       },
-      "userId": 7808139364.0,
+      "userId": 7808139364,
       "username": null,
       "firstName": "Voldigo",
       "lastName": "Zaraki Anos",
@@ -9863,7 +9862,7 @@
       "_id": {
         "$oid": "6922bd9fda9bf620d69a5572"
       },
-      "userId": 5662318669.0,
+      "userId": 5662318669,
       "username": null,
       "firstName": "سالار",
       "lastName": null,
@@ -9881,7 +9880,7 @@
       "_id": {
         "$oid": "6922bdcfda9bf620d69a5573"
       },
-      "userId": 5655916015.0,
+      "userId": 5655916015,
       "username": "KingGmbelL",
       "firstName": "CuCunguX",
       "lastName": "(赵太)",
@@ -9899,7 +9898,7 @@
       "_id": {
         "$oid": "6922be13da9bf620d69a5574"
       },
-      "userId": 8466453490.0,
+      "userId": 8466453490,
       "username": null,
       "firstName": "شمس",
       "lastName": null,
@@ -9917,7 +9916,7 @@
       "_id": {
         "$oid": "6922be26da9bf620d69a5575"
       },
-      "userId": 8087147522.0,
+      "userId": 8087147522,
       "username": "moviendodinero",
       "firstName": "xdgqz",
       "lastName": null,
@@ -9953,7 +9952,7 @@
       "_id": {
         "$oid": "6922be94d2c7b2cc426fff4a"
       },
-      "userId": 7235568978.0,
+      "userId": 7235568978,
       "username": "Animgamer12",
       "firstName": "❥⋆⃝🦋👑 ANIM 👑 ـٰٖٖٖٖٖٜ۬ـٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٜ۬ـٰٰٰٰٰٖٜ۬",
       "lastName": null,
@@ -9971,7 +9970,7 @@
       "_id": {
         "$oid": "6922be96d2c7b2cc426fff4b"
       },
-      "userId": 6643887391.0,
+      "userId": 6643887391,
       "username": "whangzyy",
       "firstName": "𝟑𝟔𝐋 ||",
       "lastName": "𝑊ℎ𝑎𝑛𝑔 𝑍𝑦𝑦 王志",
@@ -9989,7 +9988,7 @@
       "_id": {
         "$oid": "6922bea0d2c7b2cc426fff4c"
       },
-      "userId": 6448303098.0,
+      "userId": 6448303098,
       "username": "Soopiyamd",
       "firstName": "Safiya Dabo 🐾",
       "lastName": "Mahmud 🐾",
@@ -10007,7 +10006,7 @@
       "_id": {
         "$oid": "6922becbd2c7b2cc426fff4d"
       },
-      "userId": 6086954662.0,
+      "userId": 6086954662,
       "username": "hh525hh1",
       "firstName": "أستروك / Astroc",
       "lastName": "🏅",
@@ -10025,7 +10024,7 @@
       "_id": {
         "$oid": "6922bf05d2c7b2cc426fff4e"
       },
-      "userId": 7614223937.0,
+      "userId": 7614223937,
       "username": null,
       "firstName": "prince Shoban",
       "lastName": "Ali",
@@ -10043,7 +10042,7 @@
       "_id": {
         "$oid": "6922bf243532066315eed948"
       },
-      "userId": 6687083208.0,
+      "userId": 6687083208,
       "username": "grnzstoree",
       "firstName": "SP| 𝙁𝗬𝗔𝗔",
       "lastName": "𝘭𝘪𝘯𝘬 𝘨𝘤? 𝘥𝘪 𝘣𝘪𝘰",
@@ -10061,7 +10060,7 @@
       "_id": {
         "$oid": "6922bf4d3532066315eed949"
       },
-      "userId": 6987613874.0,
+      "userId": 6987613874,
       "username": "alaminhosen125125",
       "firstName": "꧁༺Θωภer ® Alamin ༻꧂",
       "lastName": null,
@@ -10079,7 +10078,7 @@
       "_id": {
         "$oid": "6922bf743532066315eed94a"
       },
-      "userId": 6884927655.0,
+      "userId": 6884927655,
       "username": "NIJAR981",
       "firstName": "𝐁𝐍𝐋𝟏 𝐍𝐈𝐉𝐀𝐑 熱愛工作",
       "lastName": null,
@@ -10097,7 +10096,7 @@
       "_id": {
         "$oid": "6922bf893532066315eed94b"
       },
-      "userId": 7946232162.0,
+      "userId": 7946232162,
       "username": null,
       "firstName": "JOSH💱",
       "lastName": null,
@@ -10115,7 +10114,7 @@
       "_id": {
         "$oid": "6922bfa03532066315eed94c"
       },
-      "userId": 7640595490.0,
+      "userId": 7640595490,
       "username": "iyut12l",
       "firstName": "Kiye",
       "lastName": null,
@@ -10133,7 +10132,7 @@
       "_id": {
         "$oid": "6922bfa83532066315eed94d"
       },
-      "userId": 7310513003.0,
+      "userId": 7310513003,
       "username": "n4fvckk",
       "firstName": "nico",
       "lastName": null,
@@ -10169,7 +10168,7 @@
       "_id": {
         "$oid": "6922bfb53532066315eed94f"
       },
-      "userId": 7478487715.0,
+      "userId": 7478487715,
       "username": "basitn09",
       "firstName": "ÑàrêjôLÊÀDÉR",
       "lastName": null,
@@ -10187,7 +10186,7 @@
       "_id": {
         "$oid": "6922bfb63532066315eed950"
       },
-      "userId": 7445384529.0,
+      "userId": 7445384529,
       "username": null,
       "firstName": "Nick",
       "lastName": "Boy",
@@ -10205,7 +10204,7 @@
       "_id": {
         "$oid": "6922bfd8130696131772a557"
       },
-      "userId": 7622193030.0,
+      "userId": 7622193030,
       "username": null,
       "firstName": "Ofu🍅",
       "lastName": null,
@@ -10223,7 +10222,7 @@
       "_id": {
         "$oid": "6922bfe9130696131772a558"
       },
-      "userId": 7612165609.0,
+      "userId": 7612165609,
       "username": null,
       "firstName": "Ror",
       "lastName": null,
@@ -10259,7 +10258,7 @@
       "_id": {
         "$oid": "6922c06d130696131772a55a"
       },
-      "userId": 7976069697.0,
+      "userId": 7976069697,
       "username": "Hshsshsbjhs",
       "firstName": "Mango",
       "lastName": "People",
@@ -10277,7 +10276,7 @@
       "_id": {
         "$oid": "6922c086130696131772a55b"
       },
-      "userId": 7457354263.0,
+      "userId": 7457354263,
       "username": "fahim0001110",
       "firstName": "Fahim",
       "lastName": null,
@@ -10295,7 +10294,7 @@
       "_id": {
         "$oid": "6922c0c1891267a046506772"
       },
-      "userId": 8170709502.0,
+      "userId": 8170709502,
       "username": "Supav12",
       "firstName": "Unknown",
       "lastName": null,
@@ -10313,7 +10312,7 @@
       "_id": {
         "$oid": "6922c0ed891267a046506773"
       },
-      "userId": 6959029269.0,
+      "userId": 6959029269,
       "username": "RaesMalang",
       "firstName": "🤍𓆩𝗥𝗔𝗬𝗘𝗘𝗦.𝗝𝗔𝗦𝗢𝗥🤍",
       "lastName": null,
@@ -10331,7 +10330,7 @@
       "_id": {
         "$oid": "6922c119891267a046506774"
       },
-      "userId": 8364801869.0,
+      "userId": 8364801869,
       "username": null,
       "firstName": "یونس",
       "lastName": "نورزهی",
@@ -10349,7 +10348,7 @@
       "_id": {
         "$oid": "6922c16b891267a046506775"
       },
-      "userId": 7819734380.0,
+      "userId": 7819734380,
       "username": "sncv158",
       "firstName": "xnbz",
       "lastName": null,
@@ -10367,7 +10366,7 @@
       "_id": {
         "$oid": "6922c1879d62f7eab8180c8a"
       },
-      "userId": 7681263220.0,
+      "userId": 7681263220,
       "username": null,
       "firstName": "Juansixx",
       "lastName": null,
@@ -10385,7 +10384,7 @@
       "_id": {
         "$oid": "6922c1939d62f7eab8180c8b"
       },
-      "userId": 6811719598.0,
+      "userId": 6811719598,
       "username": "LitonMahmud",
       "firstName": "Liton",
       "lastName": "Mahmud",
@@ -10403,7 +10402,7 @@
       "_id": {
         "$oid": "6922c1cf9d62f7eab8180c8c"
       },
-      "userId": 8107947391.0,
+      "userId": 8107947391,
       "username": "ljahhzh",
       "firstName": "Shakib",
       "lastName": null,
@@ -10421,7 +10420,7 @@
       "_id": {
         "$oid": "6922c22d9d62f7eab8180c8d"
       },
-      "userId": 7301045131.0,
+      "userId": 7301045131,
       "username": "LKMKESERUAN",
       "firstName": "⏤͟͟𝐃𝐍𝐓 || Kizz",
       "lastName": null,
@@ -10457,7 +10456,7 @@
       "_id": {
         "$oid": "6922c26f49901c00adc627c2"
       },
-      "userId": 5011489266.0,
+      "userId": 5011489266,
       "username": "O55AA",
       "firstName": "Younes",
       "lastName": "Es-sbaiy",
@@ -10475,7 +10474,7 @@
       "_id": {
         "$oid": "6922c28a49901c00adc627c3"
       },
-      "userId": 8423741032.0,
+      "userId": 8423741032,
       "username": null,
       "firstName": ".",
       "lastName": null,
@@ -10493,7 +10492,7 @@
       "_id": {
         "$oid": "6922c28c49901c00adc627c4"
       },
-      "userId": 7373748050.0,
+      "userId": 7373748050,
       "username": "HematKing",
       "firstName": "هـ،ـمـ،ـت",
       "lastName": "بـ،ـاچـ،ـا",
@@ -10511,7 +10510,7 @@
       "_id": {
         "$oid": "6922c29a49901c00adc627c5"
       },
-      "userId": 7984385957.0,
+      "userId": 7984385957,
       "username": null,
       "firstName": "☬حاجی☬ قدرت ☬ بادغیسی☬",
       "lastName": null,
@@ -10529,7 +10528,7 @@
       "_id": {
         "$oid": "6922c2ce49901c00adc627c6"
       },
-      "userId": 5670014980.0,
+      "userId": 5670014980,
       "username": "Gst0000",
       "firstName": "ufw 🥰🥰🥰🥰",
       "lastName": null,
@@ -10547,7 +10546,7 @@
       "_id": {
         "$oid": "6922c36049901c00adc627c7"
       },
-      "userId": 7180616190.0,
+      "userId": 7180616190,
       "username": null,
       "firstName": "هلمندی",
       "lastName": "جانان",
@@ -10565,7 +10564,7 @@
       "_id": {
         "$oid": "6922c39749901c00adc627c8"
       },
-      "userId": 8264060914.0,
+      "userId": 8264060914,
       "username": null,
       "firstName": "ختم",
       "lastName": "روزگار",
@@ -10583,7 +10582,7 @@
       "_id": {
         "$oid": "6922c3b149901c00adc627c9"
       },
-      "userId": 7180225934.0,
+      "userId": 7180225934,
       "username": null,
       "firstName": "Yashraj",
       "lastName": "thakur",
@@ -10601,7 +10600,7 @@
       "_id": {
         "$oid": "6922c3bb49901c00adc627ca"
       },
-      "userId": 7786521811.0,
+      "userId": 7786521811,
       "username": "TGPXSTORE",
       "firstName": "TGP STORE",
       "lastName": null,
@@ -10619,7 +10618,7 @@
       "_id": {
         "$oid": "6922c40949901c00adc627cb"
       },
-      "userId": 8380088076.0,
+      "userId": 8380088076,
       "username": null,
       "firstName": "INDRO",
       "lastName": "JIT",
@@ -10637,7 +10636,7 @@
       "_id": {
         "$oid": "6922c41a49901c00adc627cc"
       },
-      "userId": 8142051795.0,
+      "userId": 8142051795,
       "username": "qiuque2",
       "firstName": "arelinaa. rest?",
       "lastName": null,
@@ -10655,7 +10654,7 @@
       "_id": {
         "$oid": "6922c43a49901c00adc627cd"
       },
-      "userId": 5637005728.0,
+      "userId": 5637005728,
       "username": "olvidandotee",
       "firstName": "j",
       "lastName": null,
@@ -10673,7 +10672,7 @@
       "_id": {
         "$oid": "6922c47649901c00adc627ce"
       },
-      "userId": 7159904016.0,
+      "userId": 7159904016,
       "username": "Teslim000",
       "firstName": "💥Tescort",
       "lastName": null,
@@ -10691,7 +10690,7 @@
       "_id": {
         "$oid": "6922c48e49901c00adc627cf"
       },
-      "userId": 6613961912.0,
+      "userId": 6613961912,
       "username": "cocomelon08",
       "firstName": "plekkk",
       "lastName": null,
@@ -10709,7 +10708,7 @@
       "_id": {
         "$oid": "6922c4e749901c00adc627d0"
       },
-      "userId": 7887369957.0,
+      "userId": 7887369957,
       "username": "markkkkkkkk1",
       "firstName": "𝗠𝗮𝗿𝗸𝗚𝗮𝗰𝗼𝗿𝟵𝟲𝟵 🤓",
       "lastName": null,
@@ -10727,7 +10726,7 @@
       "_id": {
         "$oid": "6922c53b49901c00adc627d1"
       },
-      "userId": 7928339717.0,
+      "userId": 7928339717,
       "username": "ArdzOfficialll",
       "firstName": "𝐀𝐫𝐝𝐳 ♛",
       "lastName": null,
@@ -10763,7 +10762,7 @@
       "_id": {
         "$oid": "6922c59549901c00adc627d3"
       },
-      "userId": 7641139262.0,
+      "userId": 7641139262,
       "username": "nurisla1234",
       "firstName": "NURUZZAMAN",
       "lastName": null,
@@ -10799,7 +10798,7 @@
       "_id": {
         "$oid": "6922c61d49901c00adc627d5"
       },
-      "userId": 6794605511.0,
+      "userId": 6794605511,
       "username": "kyyzong",
       "firstName": "°m¤$k¥",
       "lastName": null,
@@ -10817,7 +10816,7 @@
       "_id": {
         "$oid": "6922c66b49901c00adc627d6"
       },
-      "userId": 5054399684.0,
+      "userId": 5054399684,
       "username": "TUUUULANG",
       "firstName": "TULANG",
       "lastName": "PUNGGUNG",
@@ -10835,7 +10834,7 @@
       "_id": {
         "$oid": "6922c69949901c00adc627d7"
       },
-      "userId": 5745179091.0,
+      "userId": 5745179091,
       "username": "A_b_o20",
       "firstName": "عبٚۅٖٚ͜دقٖٚٱه̐ہࢪه̐ہمۘ⁴⁹🇾🇪",
       "lastName": null,
@@ -10853,7 +10852,7 @@
       "_id": {
         "$oid": "6922c6a049901c00adc627d8"
       },
-      "userId": 7834923544.0,
+      "userId": 7834923544,
       "username": null,
       "firstName": "زبیح الله",
       "lastName": "زبیح الله",
@@ -10871,7 +10870,7 @@
       "_id": {
         "$oid": "6922c6ce49901c00adc627d9"
       },
-      "userId": 5934530356.0,
+      "userId": 5934530356,
       "username": "Bashiir011",
       "firstName": "MURSHAD",
       "lastName": null,
@@ -10889,7 +10888,7 @@
       "_id": {
         "$oid": "6922c77649901c00adc627da"
       },
-      "userId": 8482415906.0,
+      "userId": 8482415906,
       "username": null,
       "firstName": "زمری سالاافغان",
       "lastName": "زمری سالاافغان",
@@ -10907,7 +10906,7 @@
       "_id": {
         "$oid": "6922c7b749901c00adc627db"
       },
-      "userId": 5468063128.0,
+      "userId": 5468063128,
       "username": "prellll21",
       "firstName": "parell",
       "lastName": "limit jing",
@@ -10925,7 +10924,7 @@
       "_id": {
         "$oid": "6922c7b749901c00adc627dc"
       },
-      "userId": 5886184400.0,
+      "userId": 5886184400,
       "username": "jamil18y",
       "firstName": "MD JAMIL",
       "lastName": null,
@@ -10943,7 +10942,7 @@
       "_id": {
         "$oid": "6922c7d949901c00adc627dd"
       },
-      "userId": 5056958437.0,
+      "userId": 5056958437,
       "username": "tielSJuaj",
       "firstName": "𝗠𝘆𝗶𝗺𝗽𝗶𝗿𝗼 #𝗼𝟲𝟲𝟲",
       "lastName": null,
@@ -10961,7 +10960,7 @@
       "_id": {
         "$oid": "6922c7e649901c00adc627de"
       },
-      "userId": 8401773434.0,
+      "userId": 8401773434,
       "username": "seoahn12",
       "firstName": "vaaaaagc",
       "lastName": null,
@@ -10979,7 +10978,7 @@
       "_id": {
         "$oid": "6922c7e849901c00adc627df"
       },
-      "userId": 8405962985.0,
+      "userId": 8405962985,
       "username": "Mikaaaiiiu",
       "firstName": "❖ 𝕄𝕚𝕜𝕀𝕟𝕍𝕠𝕚𝕕 ❖",
       "lastName": null,
@@ -10997,7 +10996,7 @@
       "_id": {
         "$oid": "6922c80f49901c00adc627e0"
       },
-      "userId": 8445820301.0,
+      "userId": 8445820301,
       "username": "hamalukids",
       "firstName": "anti hama",
       "lastName": null,
@@ -11015,7 +11014,7 @@
       "_id": {
         "$oid": "6922c81549901c00adc627e1"
       },
-      "userId": 7445371051.0,
+      "userId": 7445371051,
       "username": "zxwnwnwn",
       "firstName": "SI ZIKK",
       "lastName": null,
@@ -11033,7 +11032,7 @@
       "_id": {
         "$oid": "6922c85249901c00adc627e2"
       },
-      "userId": 6777919176.0,
+      "userId": 6777919176,
       "username": "panzxiorzy",
       "firstName": "Panzxiorzy - Rehat mau Ujian",
       "lastName": null,
@@ -11051,7 +11050,7 @@
       "_id": {
         "$oid": "6922c8b749901c00adc627e3"
       },
-      "userId": 8100337495.0,
+      "userId": 8100337495,
       "username": "Mehedimehedi13",
       "firstName": "Mehedi",
       "lastName": null,
@@ -11069,7 +11068,7 @@
       "_id": {
         "$oid": "6922c8d349901c00adc627e4"
       },
-      "userId": 6851921545.0,
+      "userId": 6851921545,
       "username": "Xvenzo",
       "firstName": "xven`zo cruiser 㕠 👑",
       "lastName": null,
@@ -11087,7 +11086,7 @@
       "_id": {
         "$oid": "6922c8ed49901c00adc627e5"
       },
-      "userId": 8123805082.0,
+      "userId": 8123805082,
       "username": "uyutganteng",
       "firstName": "Uyut",
       "lastName": "Uyut",
@@ -11105,7 +11104,7 @@
       "_id": {
         "$oid": "6922c9a049901c00adc627e6"
       },
-      "userId": 6347464369.0,
+      "userId": 6347464369,
       "username": "Amrilxx",
       "firstName": "Yan",
       "lastName": null,
@@ -11123,7 +11122,7 @@
       "_id": {
         "$oid": "6922c9ae49901c00adc627e7"
       },
-      "userId": 8145141798.0,
+      "userId": 8145141798,
       "username": "deasmod",
       "firstName": "Stya` ꭙ͢ˢᵍⁱ",
       "lastName": null,
@@ -11141,7 +11140,7 @@
       "_id": {
         "$oid": "6922c9af49901c00adc627e8"
       },
-      "userId": 8214169230.0,
+      "userId": 8214169230,
       "username": "AccMart_Digital",
       "firstName": "AccMart",
       "lastName": "Digital",
@@ -11159,7 +11158,7 @@
       "_id": {
         "$oid": "6922c9c349901c00adc627e9"
       },
-      "userId": 7684467442.0,
+      "userId": 7684467442,
       "username": "aria35279",
       "firstName": "aria2",
       "lastName": null,
@@ -11177,7 +11176,7 @@
       "_id": {
         "$oid": "6922ca1949901c00adc627ea"
       },
-      "userId": 8039456131.0,
+      "userId": 8039456131,
       "username": "arikah95",
       "firstName": "Arikah",
       "lastName": "Cantika",
@@ -11195,7 +11194,7 @@
       "_id": {
         "$oid": "6922ca2c49901c00adc627eb"
       },
-      "userId": 8461528373.0,
+      "userId": 8461528373,
       "username": null,
       "firstName": "lipxzv2",
       "lastName": null,
@@ -11213,7 +11212,7 @@
       "_id": {
         "$oid": "6922ca4749901c00adc627ec"
       },
-      "userId": 8477144004.0,
+      "userId": 8477144004,
       "username": "zend200",
       "firstName": "Zen",
       "lastName": null,
@@ -11231,7 +11230,7 @@
       "_id": {
         "$oid": "6922cad049901c00adc627ed"
       },
-      "userId": 6017413115.0,
+      "userId": 6017413115,
       "username": "aanime5000",
       "firstName": "A-H",
       "lastName": "Official",
@@ -11267,7 +11266,7 @@
       "_id": {
         "$oid": "6922caf549901c00adc627ef"
       },
-      "userId": 7577856347.0,
+      "userId": 7577856347,
       "username": null,
       "firstName": "Ali",
       "lastName": "Ali",
@@ -11285,7 +11284,7 @@
       "_id": {
         "$oid": "6922cb5049901c00adc627f0"
       },
-      "userId": 8120595893.0,
+      "userId": 8120595893,
       "username": "YlXIP",
       "firstName": "﮼ﹺٰٓٱآﹺٰٓݪ إِٓيَطـآآِليِِ ℡.سـٍَِـسـ َـفاحٍِ „ إآلقليـوبـُيةُِ ـ",
       "lastName": null,
@@ -11303,7 +11302,7 @@
       "_id": {
         "$oid": "6922cbf349901c00adc627f1"
       },
-      "userId": 7166874526.0,
+      "userId": 7166874526,
       "username": "YAckKK4",
       "firstName": "𝙔𝘼𝘾𝙆 CUAN 969 反高级别",
       "lastName": null,
@@ -11321,7 +11320,7 @@
       "_id": {
         "$oid": "6922cc8949901c00adc627f2"
       },
-      "userId": 6521554104.0,
+      "userId": 6521554104,
       "username": null,
       "firstName": "Saikup",
       "lastName": "Mia",
@@ -11339,7 +11338,7 @@
       "_id": {
         "$oid": "6922cc9d49901c00adc627f3"
       },
-      "userId": 8202926222.0,
+      "userId": 8202926222,
       "username": "escupiendote",
       "firstName": "v",
       "lastName": null,
@@ -11357,7 +11356,7 @@
       "_id": {
         "$oid": "6922ccaf49901c00adc627f4"
       },
-      "userId": 8518499239.0,
+      "userId": 8518499239,
       "username": "RulzzTamvanz",
       "firstName": "⏤͟͟͞͞𝐑𝐔𝐋𝐙𝐙 𝐎𝐅𝐅𝐂⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ",
       "lastName": null,
@@ -11375,7 +11374,7 @@
       "_id": {
         "$oid": "6922cccb49901c00adc627f5"
       },
-      "userId": 7792630105.0,
+      "userId": 7792630105,
       "username": "KAKZZs",
       "firstName": "KAKZZ",
       "lastName": null,
@@ -11393,7 +11392,7 @@
       "_id": {
         "$oid": "6922ccf049901c00adc627f6"
       },
-      "userId": 6059357198.0,
+      "userId": 6059357198,
       "username": "siyam_01_ahmed",
       "firstName": "Siyam",
       "lastName": "Ahmed",
@@ -11411,7 +11410,7 @@
       "_id": {
         "$oid": "6922cd0f49901c00adc627f7"
       },
-      "userId": 7149778098.0,
+      "userId": 7149778098,
       "username": "aliibnu12",
       "firstName": "RUNGKAT88",
       "lastName": null,
@@ -11429,7 +11428,7 @@
       "_id": {
         "$oid": "6922cd2649901c00adc627f8"
       },
-      "userId": 8125677913.0,
+      "userId": 8125677913,
       "username": "YIXlP",
       "firstName": "𝓻⋆",
       "lastName": null,
@@ -11447,7 +11446,7 @@
       "_id": {
         "$oid": "6922cd4649901c00adc627f9"
       },
-      "userId": 8283525720.0,
+      "userId": 8283525720,
       "username": "lossme7",
       "firstName": "de pablo 𓁿 ⸸",
       "lastName": null,
@@ -11465,7 +11464,7 @@
       "_id": {
         "$oid": "6922cdcb49901c00adc627fa"
       },
-      "userId": 6927612227.0,
+      "userId": 6927612227,
       "username": null,
       "firstName": "Nimatullah",
       "lastName": "Atayi",
@@ -11483,7 +11482,7 @@
       "_id": {
         "$oid": "6922ce0d49901c00adc627fb"
       },
-      "userId": 7213516684.0,
+      "userId": 7213516684,
       "username": "taksimking1122",
       "firstName": "Kashif Sattar",
       "lastName": null,
@@ -11501,7 +11500,7 @@
       "_id": {
         "$oid": "6922ce1e49901c00adc627fc"
       },
-      "userId": 7455748903.0,
+      "userId": 7455748903,
       "username": "reykazx",
       "firstName": "</> —!s`ruka",
       "lastName": null,
@@ -11519,7 +11518,7 @@
       "_id": {
         "$oid": "6922ce4f49901c00adc627fd"
       },
-      "userId": 7035387702.0,
+      "userId": 7035387702,
       "username": "HeliosXss",
       "firstName": "𝐇𝐞𝐥𝐢𝐨𝐬 𝐗𝐬𝐬🇦🇿",
       "lastName": null,
@@ -11537,7 +11536,7 @@
       "_id": {
         "$oid": "6922ceb349901c00adc627fe"
       },
-      "userId": 7462658464.0,
+      "userId": 7462658464,
       "username": "M4hzn",
       "firstName": "⏤͟͟𝐀𝐏𝐗 || Mahenツ",
       "lastName": null,
@@ -11573,7 +11572,7 @@
       "_id": {
         "$oid": "6922cefb49901c00adc62800"
       },
-      "userId": 7570895048.0,
+      "userId": 7570895048,
       "username": "r_x35",
       "firstName": "𝑂 𝑀 𝐴 𝑅 .𝑁𝑈𝑀𝑃𝐸𝑅 𓊈𝑽꯭𝑰꯭𝑷ࠡࠡࠡࠡࠢ𓊉",
       "lastName": null,
@@ -11591,7 +11590,7 @@
       "_id": {
         "$oid": "6922cf0c49901c00adc62801"
       },
-      "userId": 8166549826.0,
+      "userId": 8166549826,
       "username": "DikaaPemula",
       "firstName": "𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭×͜×🍭—͟͞͞𝗗𝗶𝗸𝗮𝗮ϟ𝗣𝗲𝗺𝘂𝗹𝗮[sᴇsᴜᴅᴀʜ ϟ ᴀғᴛᴇʀ]🍭𑲭",
       "lastName": null,
@@ -11609,7 +11608,7 @@
       "_id": {
         "$oid": "6922cfb649901c00adc62802"
       },
-      "userId": 6931104480.0,
+      "userId": 6931104480,
       "username": "kttsu23",
       "firstName": "𝐊𝐀𝐓𝐒𝐔|𝗖𝗟𝗢𝗦𝗘 𝗥𝗘𝗦𝗧",
       "lastName": null,
@@ -11627,7 +11626,7 @@
       "_id": {
         "$oid": "6922d07925bc4647f5fa2504"
       },
-      "userId": 7468573436.0,
+      "userId": 7468573436,
       "username": null,
       "firstName": "Asghar",
       "lastName": "Khokhar",
@@ -11645,7 +11644,7 @@
       "_id": {
         "$oid": "6922d08025bc4647f5fa2505"
       },
-      "userId": 8577977768.0,
+      "userId": 8577977768,
       "username": null,
       "firstName": "Malik",
       "lastName": "ASLAM",
@@ -11663,7 +11662,7 @@
       "_id": {
         "$oid": "6922d08b25bc4647f5fa2506"
       },
-      "userId": 6962139493.0,
+      "userId": 6962139493,
       "username": "lhkiem01",
       "firstName": "Lhkiem",
       "lastName": "Fx",
@@ -11681,7 +11680,7 @@
       "_id": {
         "$oid": "6922d08f25bc4647f5fa2507"
       },
-      "userId": 8387166669.0,
+      "userId": 8387166669,
       "username": null,
       "firstName": "Saif",
       "lastName": "G",
@@ -11699,7 +11698,7 @@
       "_id": {
         "$oid": "6922d14125bc4647f5fa2508"
       },
-      "userId": 7611068623.0,
+      "userId": 7611068623,
       "username": null,
       "firstName": "Asghar",
       "lastName": "Khokhar",
@@ -11717,7 +11716,7 @@
       "_id": {
         "$oid": "6922d19225bc4647f5fa2509"
       },
-      "userId": 6844866021.0,
+      "userId": 6844866021,
       "username": "yanzckrkk",
       "firstName": "𝚢𝚊𝚗𝚣𝚣",
       "lastName": "| Tzy",
@@ -11735,7 +11734,7 @@
       "_id": {
         "$oid": "6922d19925bc4647f5fa250a"
       },
-      "userId": 7391031459.0,
+      "userId": 7391031459,
       "username": null,
       "firstName": "Tamjeed▪️🐾",
       "lastName": "Khan",
@@ -11753,7 +11752,7 @@
       "_id": {
         "$oid": "6922d24925bc4647f5fa250b"
       },
-      "userId": 8547064617.0,
+      "userId": 8547064617,
       "username": null,
       "firstName": "Husen",
       "lastName": "Han",
@@ -11771,7 +11770,7 @@
       "_id": {
         "$oid": "6922d36125bc4647f5fa250c"
       },
-      "userId": 8075788511.0,
+      "userId": 8075788511,
       "username": null,
       "firstName": "K",
       "lastName": "J",
@@ -11789,7 +11788,7 @@
       "_id": {
         "$oid": "6922d36725bc4647f5fa250d"
       },
-      "userId": 5641299852.0,
+      "userId": 5641299852,
       "username": "alex674783",
       "firstName": "Prince Ariyan",
       "lastName": null,
@@ -11807,7 +11806,7 @@
       "_id": {
         "$oid": "6922d38c25bc4647f5fa250e"
       },
-      "userId": 6578073504.0,
+      "userId": 6578073504,
       "username": null,
       "firstName": "Randy",
       "lastName": null,
@@ -11825,7 +11824,7 @@
       "_id": {
         "$oid": "6922d3e325bc4647f5fa250f"
       },
-      "userId": 8378916520.0,
+      "userId": 8378916520,
       "username": null,
       "firstName": "JURAGAN NOKOS💸💸",
       "lastName": null,
@@ -11843,7 +11842,7 @@
       "_id": {
         "$oid": "6922d43825bc4647f5fa2510"
       },
-      "userId": 8283915948.0,
+      "userId": 8283915948,
       "username": "Mayyvenn",
       "firstName": "mayfnaltrky",
       "lastName": null,
@@ -11861,7 +11860,7 @@
       "_id": {
         "$oid": "6922d4e825bc4647f5fa2511"
       },
-      "userId": 8129119567.0,
+      "userId": 8129119567,
       "username": "rendz_icikiwir",
       "firstName": "Rendz",
       "lastName": null,
@@ -11879,7 +11878,7 @@
       "_id": {
         "$oid": "6922d51c25bc4647f5fa2512"
       },
-      "userId": 7103531545.0,
+      "userId": 7103531545,
       "username": "presidenrusia",
       "firstName": "zero wut-wut⚡ {CPT}",
       "lastName": null,
@@ -11897,7 +11896,7 @@
       "_id": {
         "$oid": "6922d59125bc4647f5fa2513"
       },
-      "userId": 7159780756.0,
+      "userId": 7159780756,
       "username": "XyzRelzModzz",
       "firstName": "⏤͟͟͞͞𝗫𝗬𝗟𝗘𝗡𝗧 || 𝐑𝐞𝐥𝐳𝐳𝐌𝐨𝐝𝐬",
       "lastName": null,
@@ -11915,7 +11914,7 @@
       "_id": {
         "$oid": "6922d5be25bc4647f5fa2514"
       },
-      "userId": 5880101859.0,
+      "userId": 5880101859,
       "username": "Cuanonlinnee",
       "firstName": "Cuitcuit",
       "lastName": null,
@@ -11933,7 +11932,7 @@
       "_id": {
         "$oid": "6922d5dc25bc4647f5fa2515"
       },
-      "userId": 7285417527.0,
+      "userId": 7285417527,
       "username": "Mehedi4545a",
       "firstName": "Mehedi",
       "lastName": "Hasan Pavel",
@@ -11951,7 +11950,7 @@
       "_id": {
         "$oid": "6922d62925bc4647f5fa2516"
       },
-      "userId": 6831263009.0,
+      "userId": 6831263009,
       "username": "riskhen",
       "firstName": "riskhen",
       "lastName": null,
@@ -11969,7 +11968,7 @@
       "_id": {
         "$oid": "6922d63a25bc4647f5fa2517"
       },
-      "userId": 5855154362.0,
+      "userId": 5855154362,
       "username": "bijoy529",
       "firstName": "Bijoy",
       "lastName": null,
@@ -11987,7 +11986,7 @@
       "_id": {
         "$oid": "6922d66a25bc4647f5fa2518"
       },
-      "userId": 7488559395.0,
+      "userId": 7488559395,
       "username": "rased8495",
       "firstName": "Md Rasedul",
       "lastName": "Islam",
@@ -12005,7 +12004,7 @@
       "_id": {
         "$oid": "6922d6e825bc4647f5fa2519"
       },
-      "userId": 7880930564.0,
+      "userId": 7880930564,
       "username": "dikznokos1",
       "firstName": "Diki",
       "lastName": null,
@@ -12023,7 +12022,7 @@
       "_id": {
         "$oid": "6922d78b25bc4647f5fa251a"
       },
-      "userId": 7353479057.0,
+      "userId": 7353479057,
       "username": "UserRiz01",
       "firstName": "%RI$",
       "lastName": null,
@@ -12041,7 +12040,7 @@
       "_id": {
         "$oid": "6922d7fb25bc4647f5fa251b"
       },
-      "userId": 7755950614.0,
+      "userId": 7755950614,
       "username": "V_l_P_1",
       "firstName": "مــــروان 🇾🇪🚸",
       "lastName": null,
@@ -12059,7 +12058,7 @@
       "_id": {
         "$oid": "6922d81925bc4647f5fa251c"
       },
-      "userId": 6369936383.0,
+      "userId": 6369936383,
       "username": null,
       "firstName": "DMB_",
       "lastName": "GONI",
@@ -12077,7 +12076,7 @@
       "_id": {
         "$oid": "6922d90b25bc4647f5fa251d"
       },
-      "userId": 7644971598.0,
+      "userId": 7644971598,
       "username": null,
       "firstName": "Ab",
       "lastName": "_gonz",
@@ -12095,7 +12094,7 @@
       "_id": {
         "$oid": "6922d95025bc4647f5fa251e"
       },
-      "userId": 7772717882.0,
+      "userId": 7772717882,
       "username": "Sherze32",
       "firstName": "شیرزي",
       "lastName": "شمشیر بادغيسی",
@@ -12113,7 +12112,7 @@
       "_id": {
         "$oid": "6922d9c125bc4647f5fa251f"
       },
-      "userId": 8243501250.0,
+      "userId": 8243501250,
       "username": null,
       "firstName": "CR7",
       "lastName": null,
@@ -12131,7 +12130,7 @@
       "_id": {
         "$oid": "6922d9c425bc4647f5fa2520"
       },
-      "userId": 6358094532.0,
+      "userId": 6358094532,
       "username": "bonzyww",
       "firstName": "ronzz",
       "lastName": null,
@@ -12149,7 +12148,7 @@
       "_id": {
         "$oid": "6922da0125bc4647f5fa2521"
       },
-      "userId": 8329645030.0,
+      "userId": 8329645030,
       "username": "Sss3ss6",
       "firstName": "𝗬𝗘𝗦 𝗜'𝗠 𝗕𝗘𝗡𝗗𝗔𝗥𝗬",
       "lastName": null,
@@ -12167,7 +12166,7 @@
       "_id": {
         "$oid": "6922da9a25bc4647f5fa2522"
       },
-      "userId": 6619754088.0,
+      "userId": 6619754088,
       "username": "ADII_GHOURI",
       "firstName": "🌱SEED",
       "lastName": "🐈‍⬛𝐺ℎ𝑜𝑢𝑟𝑖",
@@ -12185,7 +12184,7 @@
       "_id": {
         "$oid": "6922db3625bc4647f5fa2523"
       },
-      "userId": 8455721335.0,
+      "userId": 8455721335,
       "username": "KijongLasalam07",
       "firstName": "Kijong",
       "lastName": "Lasalam07",
@@ -12203,7 +12202,7 @@
       "_id": {
         "$oid": "6922dbe325bc4647f5fa2524"
       },
-      "userId": 6319585123.0,
+      "userId": 6319585123,
       "username": null,
       "firstName": "محمود",
       "lastName": "احمد",
@@ -12221,7 +12220,7 @@
       "_id": {
         "$oid": "6922dc4225bc4647f5fa2525"
       },
-      "userId": 7870391928.0,
+      "userId": 7870391928,
       "username": "itsazizulislam",
       "firstName": "Azizul",
       "lastName": "Islam",
@@ -12239,7 +12238,7 @@
       "_id": {
         "$oid": "6922dcaebaaf9957f6717cee"
       },
-      "userId": 7796578536.0,
+      "userId": 7796578536,
       "username": "Lexzsorx",
       "firstName": "Lexz",
       "lastName": "sorx",
@@ -12257,7 +12256,7 @@
       "_id": {
         "$oid": "6922dd11baaf9957f6717cef"
       },
-      "userId": 7202023365.0,
+      "userId": 7202023365,
       "username": "Xtraviolet211111",
       "firstName": "皮尔曼 Nexus",
       "lastName": null,
@@ -12275,7 +12274,7 @@
       "_id": {
         "$oid": "6922dd3dbaaf9957f6717cf0"
       },
-      "userId": 6168397841.0,
+      "userId": 6168397841,
       "username": null,
       "firstName": "Ghost",
       "lastName": null,
@@ -12293,7 +12292,7 @@
       "_id": {
         "$oid": "6922dd3ebaaf9957f6717cf1"
       },
-      "userId": 7174746061.0,
+      "userId": 7174746061,
       "username": "Nazmull20",
       "firstName": "Md Nazmul",
       "lastName": null,
@@ -12311,7 +12310,7 @@
       "_id": {
         "$oid": "6922dd58baaf9957f6717cf2"
       },
-      "userId": 7646756940.0,
+      "userId": 7646756940,
       "username": "Sanderrrx",
       "firstName": "Sanderr",
       "lastName": null,
@@ -12329,7 +12328,7 @@
       "_id": {
         "$oid": "6922dd6fbaaf9957f6717cf3"
       },
-      "userId": 7434743032.0,
+      "userId": 7434743032,
       "username": "Rome17547",
       "firstName": "Rahman",
       "lastName": "Islam",
@@ -12347,7 +12346,7 @@
       "_id": {
         "$oid": "6922dd86baaf9957f6717cf4"
       },
-      "userId": 8469245748.0,
+      "userId": 8469245748,
       "username": "embunvincent",
       "firstName": "Embun Vincent",
       "lastName": null,
@@ -12365,7 +12364,7 @@
       "_id": {
         "$oid": "6922ddcb0b694757c57fc917"
       },
-      "userId": 6377861399.0,
+      "userId": 6377861399,
       "username": "Spartacus835",
       "firstName": "༺꙲҉ཽ𒋨𝓣𝓱𝓮 𝓚𝓲𝓷𝓰 𝓞𝓯𝓬₵ ꙲҈҉ؖ⦕𒋨",
       "lastName": null,
@@ -12383,7 +12382,7 @@
       "_id": {
         "$oid": "6922de2b0b694757c57fc918"
       },
-      "userId": 7534703327.0,
+      "userId": 7534703327,
       "username": "Tenkko22",
       "firstName": "Swtiw",
       "lastName": null,
@@ -12401,7 +12400,7 @@
       "_id": {
         "$oid": "6922dede0b694757c57fc919"
       },
-      "userId": 7822863404.0,
+      "userId": 7822863404,
       "username": "unotfunny",
       "firstName": "Kirie",
       "lastName": null,
@@ -12419,7 +12418,7 @@
       "_id": {
         "$oid": "6922df230b694757c57fc91a"
       },
-      "userId": 8336440502.0,
+      "userId": 8336440502,
       "username": "Pamangasparr",
       "firstName": "Kamran",
       "lastName": null,
@@ -12437,7 +12436,7 @@
       "_id": {
         "$oid": "6922df400b694757c57fc91b"
       },
-      "userId": 5657950558.0,
+      "userId": 5657950558,
       "username": "bristy00700",
       "firstName": "Bristy",
       "lastName": null,
@@ -12455,7 +12454,7 @@
       "_id": {
         "$oid": "6922e01e0b694757c57fc91c"
       },
-      "userId": 8357406281.0,
+      "userId": 8357406281,
       "username": null,
       "firstName": "R",
       "lastName": "N",
@@ -12473,7 +12472,7 @@
       "_id": {
         "$oid": "6922e1eb58560338a04e8a93"
       },
-      "userId": 8454313284.0,
+      "userId": 8454313284,
       "username": null,
       "firstName": "نيزاك",
       "lastName": "الفلسطيني",
@@ -12491,7 +12490,7 @@
       "_id": {
         "$oid": "6922e1fb58560338a04e8a94"
       },
-      "userId": 7025626289.0,
+      "userId": 7025626289,
       "username": "OmarALfaroug",
       "firstName": "عمر الفاروق",
       "lastName": null,
@@ -12509,7 +12508,7 @@
       "_id": {
         "$oid": "6922e1fe58560338a04e8a95"
       },
-      "userId": 7206923872.0,
+      "userId": 7206923872,
       "username": "manznewera",
       "firstName": "Manz is Here 🕊",
       "lastName": null,
@@ -12527,7 +12526,7 @@
       "_id": {
         "$oid": "6922e21f58560338a04e8a96"
       },
-      "userId": 6453051216.0,
+      "userId": 6453051216,
       "username": null,
       "firstName": "Pap",
       "lastName": "Ces",
@@ -12545,7 +12544,7 @@
       "_id": {
         "$oid": "6922e25e58560338a04e8a97"
       },
-      "userId": 8485409434.0,
+      "userId": 8485409434,
       "username": "baimpacarjajap",
       "firstName": "jajap",
       "lastName": null,
@@ -12563,7 +12562,7 @@
       "_id": {
         "$oid": "6922e3466ff7a0789b10e11d"
       },
-      "userId": 7415544204.0,
+      "userId": 7415544204,
       "username": "Wherearewouu",
       "firstName": "Grazie",
       "lastName": null,
@@ -12599,7 +12598,7 @@
       "_id": {
         "$oid": "6922e6281570705c93b94cda"
       },
-      "userId": 8064598187.0,
+      "userId": 8064598187,
       "username": "ShshidTeheenMedia",
       "firstName": "ShshidTeheenMedia",
       "lastName": "ShshidTeheenMedia",
@@ -12617,7 +12616,7 @@
       "_id": {
         "$oid": "6922e6471570705c93b94cdb"
       },
-      "userId": 7652582671.0,
+      "userId": 7652582671,
       "username": null,
       "firstName": "مست حاجی ملنگ بادغیس",
       "lastName": null,
@@ -12635,7 +12634,7 @@
       "_id": {
         "$oid": "6922e6fd1570705c93b94cdc"
       },
-      "userId": 8444249182.0,
+      "userId": 8444249182,
       "username": "Bebekjaw4",
       "firstName": "Bebek",
       "lastName": "Jawa",
@@ -12653,7 +12652,7 @@
       "_id": {
         "$oid": "6922e7111570705c93b94cdd"
       },
-      "userId": 7002298646.0,
+      "userId": 7002298646,
       "username": "Lantzyyy",
       "firstName": "𝘼𝙆𝙐𝙉 𝙆𝙃𝙐𝙎𝙐𝙎",
       "lastName": null,
@@ -12671,7 +12670,7 @@
       "_id": {
         "$oid": "6922e8031570705c93b94cde"
       },
-      "userId": 8133843673.0,
+      "userId": 8133843673,
       "username": "VenoirXII",
       "firstName": "𝕾 | 𝗗𝗲𝗲𝗽𝗟𝗼𝘂𝗱 [ 𝐂𝐄𝐎 ]",
       "lastName": null,
@@ -12689,7 +12688,7 @@
       "_id": {
         "$oid": "6922e92b1570705c93b94cdf"
       },
-      "userId": 6748769976.0,
+      "userId": 6748769976,
       "username": "Nisaa1653",
       "firstName": "Nisaa [1653]",
       "lastName": null,
@@ -12707,7 +12706,7 @@
       "_id": {
         "$oid": "6922ea8d1570705c93b94ce0"
       },
-      "userId": 6867425610.0,
+      "userId": 6867425610,
       "username": "Fhfh_656",
       "firstName": "عبود المجيدي",
       "lastName": null,
@@ -12725,7 +12724,7 @@
       "_id": {
         "$oid": "6922ecad1570705c93b94ce1"
       },
-      "userId": 8457567942.0,
+      "userId": 8457567942,
       "username": "kocelluvv",
       "firstName": "kocel",
       "lastName": null,
@@ -12743,7 +12742,7 @@
       "_id": {
         "$oid": "6922ecf11570705c93b94ce2"
       },
-      "userId": 7820845654.0,
+      "userId": 7820845654,
       "username": "hakka_shiba",
       "firstName": "𝑯𝒂𝒌𝒌𝒂𝒊 ꨄ 𝑺𝒉𝒊𝒃𝒂",
       "lastName": null,
@@ -12761,7 +12760,7 @@
       "_id": {
         "$oid": "6922ed4e1570705c93b94ce3"
       },
-      "userId": 6389552329.0,
+      "userId": 6389552329,
       "username": "justmemmy",
       "firstName": "Just",
       "lastName": "Me",
@@ -12779,7 +12778,7 @@
       "_id": {
         "$oid": "6922edcc1570705c93b94ce4"
       },
-      "userId": 6108842984.0,
+      "userId": 6108842984,
       "username": null,
       "firstName": "ip l🐾🐈▪️",
       "lastName": "🍅🐶",
@@ -12797,7 +12796,7 @@
       "_id": {
         "$oid": "6922ede91570705c93b94ce5"
       },
-      "userId": 8321105444.0,
+      "userId": 8321105444,
       "username": "XiomiWs_9",
       "firstName": "凌璇美宝油⛄",
       "lastName": null,
@@ -12815,7 +12814,7 @@
       "_id": {
         "$oid": "6922ef25ab952c49aeed6078"
       },
-      "userId": 6119205712.0,
+      "userId": 6119205712,
       "username": null,
       "firstName": "aiueo",
       "lastName": null,
@@ -12833,7 +12832,7 @@
       "_id": {
         "$oid": "6922ef3fab952c49aeed6079"
       },
-      "userId": 6889466366.0,
+      "userId": 6889466366,
       "username": "Usmanjavedawan07",
       "firstName": "Man 🐈 🐈‍⬛",
       "lastName": null,
@@ -12851,7 +12850,7 @@
       "_id": {
         "$oid": "6922efbaab952c49aeed607a"
       },
-      "userId": 8493032847.0,
+      "userId": 8493032847,
       "username": "wowodetok",
       "firstName": "kaff id 8 🇪🇹",
       "lastName": null,
@@ -12869,7 +12868,7 @@
       "_id": {
         "$oid": "6922f035ab952c49aeed607b"
       },
-      "userId": 7263221747.0,
+      "userId": 7263221747,
       "username": "samjomiloju45",
       "firstName": "Sam",
       "lastName": "Jomiloju",
@@ -12887,7 +12886,7 @@
       "_id": {
         "$oid": "6922f0d7ab952c49aeed607c"
       },
-      "userId": 7809707549.0,
+      "userId": 7809707549,
       "username": "Haamzxx",
       "firstName": "⏤͟͟͞͞͞𝐕𝐑𝐗 ||𝕽𝖆𝖉𝖎𝖙 𝖘𝖙𝖔𝖗𝖊𒈒",
       "lastName": null,
@@ -12905,7 +12904,7 @@
       "_id": {
         "$oid": "6922f173ab952c49aeed607d"
       },
-      "userId": 7771045652.0,
+      "userId": 7771045652,
       "username": "Kind_ark_99",
       "firstName": "مۘلا ص͜اح͡ب",
       "lastName": "ࢪيس بـــی کـͬــلام",
@@ -12923,7 +12922,7 @@
       "_id": {
         "$oid": "6922f204ab952c49aeed607e"
       },
-      "userId": 8339417843.0,
+      "userId": 8339417843,
       "username": "zeegacor",
       "firstName": "ᴢᴇᴇ ᴠᴛx",
       "lastName": null,
@@ -12959,7 +12958,7 @@
       "_id": {
         "$oid": "6922f2deab952c49aeed6080"
       },
-      "userId": 6977337580.0,
+      "userId": 6977337580,
       "username": "nichale",
       "firstName": "nichalee",
       "lastName": null,
@@ -12977,7 +12976,7 @@
       "_id": {
         "$oid": "6922f331ab952c49aeed6081"
       },
-      "userId": 8465145714.0,
+      "userId": 8465145714,
       "username": null,
       "firstName": "FRESH ECUADOR",
       "lastName": null,
@@ -12995,7 +12994,7 @@
       "_id": {
         "$oid": "6922f440784131a583e18090"
       },
-      "userId": 7891016141.0,
+      "userId": 7891016141,
       "username": null,
       "firstName": "X V E I N O",
       "lastName": null,
@@ -13013,7 +13012,7 @@
       "_id": {
         "$oid": "6922f4b9784131a583e18091"
       },
-      "userId": 7319676699.0,
+      "userId": 7319676699,
       "username": "Hehee97",
       "firstName": "Hehe",
       "lastName": "He",
@@ -13031,7 +13030,7 @@
       "_id": {
         "$oid": "6922f4e9784131a583e18092"
       },
-      "userId": 7940469151.0,
+      "userId": 7940469151,
       "username": "Yausuf001",
       "firstName": "ACTIVE 🤪",
       "lastName": null,
@@ -13044,6 +13043,63 @@
       "lastActive": {
         "$date": "2025-11-23T11:50:01.789000Z"
       }
+    },
+    {
+      "userId": 7826297688,
+      "firstName": "✈️جنرال هک بزرگ✈️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T14:37:54.428Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T14:37:54.431Z"
+      }
+    },
+    {
+      "userId": 7636287140,
+      "username": "Fourtall76",
+      "firstName": "𝙶𝚆𝟺 Fourtall",
+      "lastName": "ready nokos/create gc",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T14:37:54.433Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T14:37:54.434Z"
+      }
+    },
+    {
+      "userId": 7202995738,
+      "username": "Bismykhan",
+      "firstName": "Bisma",
+      "lastName": "Khan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T14:37:54.435Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T14:37:54.435Z"
+      }
+    },
+    {
+      "userId": 7970300947,
+      "username": "Belvana1",
+      "firstName": "-",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T14:38:14.384Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T14:38:14.384Z"
+      }
     }
   ],
   "groups": [
@@ -13051,7 +13107,7 @@
       "_id": {
         "$oid": "690fdda8770a8a87aa60ddc7"
       },
-      "groupId": -1002548089026.0,
+      "groupId": -1002548089026,
       "addedAt": {
         "$date": "2025-11-09T01:44:50.640000Z"
       },
@@ -13063,7 +13119,7 @@
       "_id": {
         "$oid": "690fe208770a8a87aa60ddcd"
       },
-      "groupId": -1002462440394.0,
+      "groupId": -1002462440394,
       "addedAt": {
         "$date": "2025-11-22T17:42:52.475000Z"
       },
@@ -13075,7 +13131,7 @@
       "_id": {
         "$oid": "690fe223770a8a87aa60ddd0"
       },
-      "groupId": -1002419059011.0,
+      "groupId": -1002419059011,
       "addedAt": {
         "$date": "2025-11-09T00:36:54.433000Z"
       },
@@ -13087,7 +13143,7 @@
       "_id": {
         "$oid": "690feb8b770a8a87aa60ddd3"
       },
-      "groupId": -1002475879963.0,
+      "groupId": -1002475879963,
       "addedAt": {
         "$date": "2025-11-09T01:17:03.195000Z"
       },
@@ -13099,7 +13155,7 @@
       "_id": {
         "$oid": "6921f570aef6a7e5a0366242"
       },
-      "groupId": -1002316426402.0,
+      "groupId": -1002316426402,
       "addedAt": {
         "$date": "2025-11-22T17:40:00.304000Z"
       },
@@ -13111,7 +13167,7 @@
       "_id": {
         "$oid": "69220646aef6a7e5a0366245"
       },
-      "groupId": -1002458837337.0,
+      "groupId": -1002458837337,
       "addedAt": {
         "$date": "2025-11-22T18:51:50.598000Z"
       },
@@ -13123,7 +13179,7 @@
       "_id": {
         "$oid": "6922066eaef6a7e5a0366246"
       },
-      "groupId": -1002329727371.0,
+      "groupId": -1002329727371,
       "addedAt": {
         "$date": "2025-11-22T18:52:31.206000Z"
       },
@@ -13135,7 +13191,7 @@
       "_id": {
         "$oid": "692206a3aef6a7e5a0366247"
       },
-      "groupId": -1002602874352.0,
+      "groupId": -1002602874352,
       "addedAt": {
         "$date": "2025-11-22T18:53:24.043000Z"
       },
@@ -13147,7 +13203,7 @@
       "_id": {
         "$oid": "692206c4aef6a7e5a0366248"
       },
-      "groupId": -1002604109096.0,
+      "groupId": -1002604109096,
       "addedAt": {
         "$date": "2025-11-22T18:53:57.423000Z"
       },
@@ -13159,7 +13215,7 @@
       "_id": {
         "$oid": "692206e1aef6a7e5a0366249"
       },
-      "groupId": -1002684749716.0,
+      "groupId": -1002684749716,
       "addedAt": {
         "$date": "2025-11-22T18:54:25.834000Z"
       },
@@ -13171,7 +13227,7 @@
       "_id": {
         "$oid": "692206f3aef6a7e5a036624a"
       },
-      "groupId": -1002585375052.0,
+      "groupId": -1002585375052,
       "addedAt": {
         "$date": "2025-11-22T18:54:43.767000Z"
       },
@@ -13183,7 +13239,7 @@
       "_id": {
         "$oid": "6922113daef6a7e5a036624f"
       },
-      "groupId": -1002694293151.0,
+      "groupId": -1002694293151,
       "addedAt": {
         "$date": "2025-11-22T19:39:18.576000Z"
       },
@@ -13195,14 +13251,12 @@
       "_id": {
         "$oid": "6922264faef6a7e5a0366251"
       },
-      "groupId": -1002540683650.0,
+      "groupId": -1002540683650,
       "addedAt": {
         "$date": "2025-11-22T21:08:31.339000Z"
       },
       "addedBy": 1301819689,
-      "lastUpdated": {
-        "$date": "2025-11-22T21:08:34.821000Z"
-      },
+      "lastUpdated": "2025-11-22T21:08:34.821000Z",
       "memberCount": 2,
       "title": ",,,,,,,,,,,,,,"
     },
@@ -13210,22 +13264,20 @@
       "_id": {
         "$oid": "69222704aef6a7e5a0366253"
       },
-      "groupId": -1003482156792.0,
+      "groupId": -1003482156792,
       "addedAt": {
         "$date": "2025-11-23T09:12:53.810000Z"
       },
-      "addedBy": 8105447127.0,
+      "addedBy": 8105447127,
       "memberCount": 3,
       "title": ",,",
-      "lastUpdated": {
-        "$date": "2025-11-22T21:23:41.691000Z"
-      }
+      "lastUpdated": "2025-11-22T21:23:41.691000Z"
     },
     {
       "_id": {
         "$oid": "692230a5aef6a7e5a0366256"
       },
-      "groupId": -1003139815134.0,
+      "groupId": -1003139815134,
       "addedAt": {
         "$date": "2025-11-22T22:27:47.512000Z"
       },
@@ -13237,7 +13289,7 @@
       "_id": {
         "$oid": "69224067aef6a7e5a0366259"
       },
-      "groupId": -1002226805447.0,
+      "groupId": -1002226805447,
       "addedAt": {
         "$date": "2025-11-22T22:59:51.311000Z"
       },
@@ -13249,11 +13301,11 @@
       "_id": {
         "$oid": "6922417baef6a7e5a036625a"
       },
-      "groupId": -1003240150160.0,
+      "groupId": -1003240150160,
       "addedAt": {
         "$date": "2025-11-22T23:04:27.621000Z"
       },
-      "addedBy": 6449298691.0,
+      "addedBy": 6449298691,
       "memberCount": 30,
       "title": "𝐌𝐔𝐑𝐁𝐔𝐆 𝐏𝐀𝐍𝐆𝐄𝐑𝐀𝐍 #𝟐"
     },
@@ -13261,11 +13313,11 @@
       "_id": {
         "$oid": "692241d6aef6a7e5a036625b"
       },
-      "groupId": -1003279623027.0,
+      "groupId": -1003279623027,
       "addedAt": {
         "$date": "2025-11-22T23:05:58.825000Z"
       },
-      "addedBy": 6449298691.0,
+      "addedBy": 6449298691,
       "memberCount": 101,
       "title": "𝗔𝗟𝗟 𝗧𝗘𝗔𝗠 𝗫𝗘𝗩𝗢𝗥𝗭𝗘 𝗔𝗣𝗣𝗦"
     },
@@ -13273,11 +13325,11 @@
       "_id": {
         "$oid": "69225d59aef6a7e5a036625f"
       },
-      "groupId": -1003017812829.0,
+      "groupId": -1003017812829,
       "addedAt": {
         "$date": "2025-11-23T01:03:21.131000Z"
       },
-      "addedBy": 8338146621.0,
+      "addedBy": 8338146621,
       "memberCount": 1276,
       "title": "New Otp group"
     },
@@ -13285,11 +13337,11 @@
       "_id": {
         "$oid": "69225dccaef6a7e5a0366260"
       },
-      "groupId": -1002950127867.0,
+      "groupId": -1002950127867,
       "addedAt": {
         "$date": "2025-11-23T01:05:16.768000Z"
       },
-      "addedBy": 8338146621.0,
+      "addedBy": 8338146621,
       "memberCount": 479,
       "title": "GB FIX MERAH ADAYEMLITE 🚀"
     }
