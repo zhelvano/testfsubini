@@ -15221,6 +15221,20 @@
       "lastActive": {
         "$date": "2025-11-23T23:29:57.897Z"
       }
+    },
+    {
+      "userId": 7797332296,
+      "username": "TamaNokoss",
+      "firstName": "Tama",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T23:31:27.470Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T23:31:27.470Z"
+      }
     }
   ],
   "groups": [
