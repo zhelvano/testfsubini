@@ -14644,6 +14644,19 @@
       "lastActive": {
         "$date": "2025-11-23T20:05:27.019Z"
       }
+    },
+    {
+      "userId": 1768890826,
+      "firstName": "Menor",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T20:08:25.121Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T20:08:25.121Z"
+      }
     }
   ],
   "groups": [
