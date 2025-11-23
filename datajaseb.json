@@ -15178,6 +15178,20 @@
       "lastActive": {
         "$date": "2025-11-23T23:19:27.281Z"
       }
+    },
+    {
+      "userId": 6655154005,
+      "username": "HFPB8",
+      "firstName": "عَـبـدالله |َ‌ غَـفِـرَ اللهُ لهُ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T23:25:03.412Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T23:25:03.412Z"
+      }
     }
   ],
   "groups": [
