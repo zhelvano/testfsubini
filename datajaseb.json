@@ -13546,6 +13546,20 @@
       "lastActive": {
         "$date": "2025-11-23T16:14:27.376Z"
       }
+    },
+    {
+      "userId": 6628417206,
+      "username": "lovelyjannati2025",
+      "firstName": "Jannatul Jannat",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T16:15:23.136Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T16:15:23.136Z"
+      }
     }
   ],
   "groups": [
