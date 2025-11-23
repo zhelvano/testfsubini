@@ -13490,6 +13490,34 @@
       "lastActive": {
         "$date": "2025-11-23T15:51:46.524Z"
       }
+    },
+    {
+      "userId": 6899029624,
+      "username": "fwggsb",
+      "firstName": "𓄃𝒍𝒔𝒔𝒂َ𝒎|؏",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:57:10.648Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:57:10.648Z"
+      }
+    },
+    {
+      "userId": 7807237646,
+      "username": "wongirengjembuten696",
+      "firstName": "WONGIRENGJEMBUTEN69",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:57:13.754Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:57:13.776Z"
+      }
     }
   ],
   "groups": [
