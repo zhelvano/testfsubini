@@ -14322,6 +14322,20 @@
       "lastActive": {
         "$date": "2025-11-23T18:26:34.167Z"
       }
+    },
+    {
+      "userId": 6322337525,
+      "username": "hekernub",
+      "firstName": "Penjahat Baik",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:29:02.656Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:29:02.657Z"
+      }
     }
   ],
   "groups": [
