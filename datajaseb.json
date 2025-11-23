@@ -14419,6 +14419,34 @@
       "lastActive": {
         "$date": "2025-11-23T18:49:21.014Z"
       }
+    },
+    {
+      "userId": 8030785669,
+      "username": "canky15",
+      "firstName": "canky🍰",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:50:17.167Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:50:17.167Z"
+      }
+    },
+    {
+      "userId": 6773724194,
+      "username": "NdraxzXz",
+      "firstName": "𝑵𝑫𝑹𝑨𝑿𝒁𝑰𝑩𝑳𝑰𝑺",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:50:19.854Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:50:19.854Z"
+      }
     }
   ],
   "groups": [
