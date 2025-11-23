@@ -14712,6 +14712,20 @@
       "lastActive": {
         "$date": "2025-11-23T20:23:38.013Z"
       }
+    },
+    {
+      "userId": 7490672128,
+      "username": "ogfztxh",
+      "firstName": "ش̶ه̶ز̶د̶ه̶ ا̶م̶ید̶ ب̶د̶خ̶ش̶ی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T20:27:08.931Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T20:27:08.931Z"
+      }
     }
   ],
   "groups": [
