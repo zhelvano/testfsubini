@@ -13989,6 +13989,19 @@
       "lastActive": {
         "$date": "2025-11-23T17:30:58.097Z"
       }
+    },
+    {
+      "userId": 6179605702,
+      "firstName": "Cuan dengan wa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T17:39:26.779Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T17:39:26.779Z"
+      }
     }
   ],
   "groups": [
