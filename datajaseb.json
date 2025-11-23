@@ -13263,6 +13263,21 @@
       "lastActive": {
         "$date": "2025-11-23T15:10:03.813Z"
       }
+    },
+    {
+      "userId": 7748347024,
+      "username": "amensone0",
+      "firstName": "Galal",
+      "lastName": "Sameer",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:10:49.222Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:10:49.222Z"
+      }
     }
   ],
   "groups": [
