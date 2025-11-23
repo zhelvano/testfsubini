@@ -14546,6 +14546,19 @@
       "lastActive": {
         "$date": "2025-11-23T19:21:16.568Z"
       }
+    },
+    {
+      "userId": 6510541598,
+      "firstName": "رامو",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T19:21:52.616Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T19:21:52.616Z"
+      }
     }
   ],
   "groups": [
