@@ -15250,6 +15250,20 @@
       "lastActive": {
         "$date": "2025-11-23T23:46:09.663Z"
       }
+    },
+    {
+      "userId": 7437088945,
+      "firstName": "Agusdwi",
+      "lastName": "Prastio",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T23:55:12.367Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T23:55:12.372Z"
+      }
     }
   ],
   "groups": [
