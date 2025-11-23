@@ -13377,6 +13377,21 @@
       "lastActive": {
         "$date": "2025-11-23T15:37:20.442Z"
       }
+    },
+    {
+      "userId": 8302428688,
+      "username": "Kahmardy",
+      "firstName": "𝙷̸𝙰𝙼𝙴𝙳",
+      "lastName": "𝚁𝙰𝙷𝙼𝙰𝙽𝚈̸࿐",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:39:06.637Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:39:06.637Z"
+      }
     }
   ],
   "groups": [
