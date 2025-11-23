@@ -14767,6 +14767,20 @@
       "lastActive": {
         "$date": "2025-11-23T20:32:25.385Z"
       }
+    },
+    {
+      "userId": 7728729857,
+      "username": "z_cfi",
+      "firstName": "𝐆 𝐇 𝐎 𝐒 𝐓",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T20:37:27.056Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T20:37:27.056Z"
+      }
     }
   ],
   "groups": [
