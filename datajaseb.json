@@ -13100,6 +13100,20 @@
       "lastActive": {
         "$date": "2025-11-23T14:38:14.384Z"
       }
+    },
+    {
+      "userId": 7440580372,
+      "username": "PV_HAMID_F",
+      "firstName": "━┃𝐇𝐀𝐌𝐈𝐃↻𝐇𝐀𝐂𝐊 ⍣𝟑𝟐𝟎⍣𓃮",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T14:40:10.836Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T14:40:10.836Z"
+      }
     }
   ],
   "groups": [
