@@ -13140,6 +13140,20 @@
       "lastActive": {
         "$date": "2025-11-23T14:49:51.836Z"
       }
+    },
+    {
+      "userId": 6875544568,
+      "username": "ramos_kenzi",
+      "firstName": "wenggzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T14:50:22.767Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T14:50:22.767Z"
+      }
     }
   ],
   "groups": [
