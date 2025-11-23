@@ -13698,6 +13698,20 @@
       "lastActive": {
         "$date": "2025-11-23T16:27:48.286Z"
       }
+    },
+    {
+      "userId": 5889255089,
+      "username": "axhu69",
+      "firstName": "Ashu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T16:29:37.287Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T16:29:37.293Z"
+      }
     }
   ],
   "groups": [
