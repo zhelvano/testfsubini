@@ -12777,7 +12777,6 @@
         "$oid": "6922edcc1570705c93b94ce4"
       },
       "userId": 6108842984,
-      "username": null,
       "firstName": "ip l🐾🐈▪️",
       "lastName": "🍅🐶",
       "isPremium": false,
@@ -12787,7 +12786,7 @@
         "$date": "2025-11-23T11:19:40.909000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T11:19:40.909000Z"
+        "$date": "2025-11-23T14:55:11.418Z"
       }
     },
     {
@@ -13153,6 +13152,20 @@
       },
       "lastActive": {
         "$date": "2025-11-23T14:50:22.767Z"
+      }
+    },
+    {
+      "userId": 1611981914,
+      "username": "ajdjejsjwi2i2",
+      "firstName": "N",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T14:55:01.847Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T14:55:01.847Z"
       }
     }
   ],
