@@ -39,6 +39,16 @@
       "groupsAdded": [],
       "joinedAt": "2025-11-23T14:01:07.007Z",
       "lastActive": "2025-11-23T14:01:07.007Z"
+    },
+    {
+      "userId": 6044631739,
+      "firstName": "Ali",
+      "lastName": "Khan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": "2025-11-23T14:01:53.394Z",
+      "lastActive": "2025-11-23T14:01:53.394Z"
     }
   ],
   "groups": [
