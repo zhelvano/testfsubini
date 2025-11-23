@@ -14224,6 +14224,20 @@
       "lastActive": {
         "$date": "2025-11-23T18:09:53.831Z"
       }
+    },
+    {
+      "userId": 8215133756,
+      "username": "i_i_l8",
+      "firstName": "تايكــ͜͡ـ⃫ِ℘ِــ͜͡ــر 𝗧𝗔𝗬𝗞𝗜𝗥🇸🇦",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:11:50.784Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:11:50.784Z"
+      }
     }
   ],
   "groups": [
