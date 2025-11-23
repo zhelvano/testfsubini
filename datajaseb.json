@@ -14405,6 +14405,20 @@
       "lastActive": {
         "$date": "2025-11-23T18:48:16.959Z"
       }
+    },
+    {
+      "userId": 7394690117,
+      "username": "Dbchcvdhdhhdh",
+      "firstName": "☬الحاج☬ درمان☬جانان²⁰¹¹☬",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:49:21.014Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:49:21.014Z"
+      }
     }
   ],
   "groups": [
