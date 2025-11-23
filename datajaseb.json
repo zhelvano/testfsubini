@@ -16,7 +16,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T17:56:40.832Z"
+        "$date": "2025-11-23T18:36:19.669Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -14603,6 +14603,15 @@
       "addedBy": 8338146621,
       "memberCount": 479,
       "title": "GB FIX MERAH ADAYEMLITE 🚀"
+    },
+    {
+      "groupId": -1003311819669,
+      "title": "testing",
+      "addedBy": 1301819689,
+      "addedAt": {
+        "$date": "2025-11-23T18:36:20.209Z"
+      },
+      "memberCount": 21
     }
   ]
 }
