@@ -13669,6 +13669,35 @@
       "lastActive": {
         "$date": "2025-11-23T16:26:43.239Z"
       }
+    },
+    {
+      "userId": 6236584043,
+      "username": "Mentari_04",
+      "firstName": "💞Cinta Mentari🌹",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T16:27:31.504Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T16:27:31.504Z"
+      }
+    },
+    {
+      "userId": 7130153114,
+      "username": "Jeremiah_empire",
+      "firstName": "Jeremiah",
+      "lastName": "Abundance",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T16:27:48.286Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T16:27:48.286Z"
+      }
     }
   ],
   "groups": [
