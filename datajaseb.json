@@ -3638,7 +3638,6 @@
       "userId": 6880242235,
       "username": "mmbvcdh",
       "firstName": "Kab",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -3646,7 +3645,7 @@
         "$date": "2025-11-23T03:56:51.962000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T07:11:13.593000Z"
+        "$date": "2025-11-23T19:27:58.434Z"
       }
     },
     {
