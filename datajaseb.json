@@ -14267,6 +14267,33 @@
       "lastActive": {
         "$date": "2025-11-23T18:14:28.019Z"
       }
+    },
+    {
+      "userId": 8210097635,
+      "firstName": "همن",
+      "lastName": "تتااا",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:16:19.449Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:16:19.459Z"
+      }
+    },
+    {
+      "userId": 8352912142,
+      "firstName": "༒RAHBAR༒ SAHIB ༒",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:16:24.995Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:16:24.995Z"
+      }
     }
   ],
   "groups": [
