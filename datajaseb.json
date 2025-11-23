@@ -17,7 +17,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T18:55:43.693Z"
+        "$date": "2025-11-23T18:58:23.799Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -9225,7 +9225,7 @@
         "$date": "2025-11-23T07:27:42.263000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T07:27:42.263000Z"
+        "$date": "2025-11-23T18:58:00.107Z"
       }
     },
     {
@@ -14446,21 +14446,6 @@
       },
       "lastActive": {
         "$date": "2025-11-23T18:50:19.854Z"
-      }
-    },
-    {
-      "userId": 6732869127,
-      "username": "Babakuss02",
-      "firstName": "Ismail",
-      "lastName": "Iliyasu",
-      "isPremium": false,
-      "isAdmin": false,
-      "groupsAdded": [],
-      "joinedAt": {
-        "$date": "2025-11-23T18:55:50.105Z"
-      },
-      "lastActive": {
-        "$date": "2025-11-23T18:55:50.105Z"
       }
     }
   ],
