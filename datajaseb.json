@@ -17,7 +17,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T22:18:13.359Z"
+        "$date": "2025-11-23T22:18:31.040Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -26,7 +26,7 @@
       "premiumExpiry": {
         "$date": "2025-11-24T21:52:16.124Z"
       },
-      "lastSeen": "2025-11-23T22:18:13.359Z"
+      "lastSeen": "2025-11-23T22:18:31.040Z"
     },
     {
       "_id": {
@@ -14996,6 +14996,20 @@
       },
       "lastActive": {
         "$date": "2025-11-23T22:17:53.040Z"
+      }
+    },
+    {
+      "userId": 5795550149,
+      "username": "f_x56f",
+      "firstName": "𓀛Хала Мадрид౾ 𓃵",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:18:23.349Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:18:23.349Z"
       }
     }
   ],
