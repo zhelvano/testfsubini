@@ -14238,6 +14238,20 @@
       "lastActive": {
         "$date": "2025-11-23T18:11:50.784Z"
       }
+    },
+    {
+      "userId": 7267684059,
+      "username": "Cueplayd",
+      "firstName": "Dlb",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:13:27.372Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:13:27.376Z"
+      }
     }
   ],
   "groups": [
