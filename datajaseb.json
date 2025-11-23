@@ -17,7 +17,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T21:52:50.636Z"
+        "$date": "2025-11-23T22:18:13.359Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -26,7 +26,7 @@
       "premiumExpiry": {
         "$date": "2025-11-24T21:52:16.124Z"
       },
-      "lastSeen": "2025-11-23T21:52:50.636Z"
+      "lastSeen": "2025-11-23T22:18:13.359Z"
     },
     {
       "_id": {
@@ -7605,8 +7605,9 @@
         "$date": "2025-11-23T06:19:21.480000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T09:06:23.169000Z"
-      }
+        "$date": "2025-11-23T22:17:44.551Z"
+      },
+      "lastSeen": "2025-11-23T22:17:44.548Z"
     },
     {
       "_id": {
@@ -14896,6 +14897,105 @@
       },
       "lastActive": {
         "$date": "2025-11-23T21:51:31.072Z"
+      }
+    },
+    {
+      "userId": 7784313246,
+      "firstName": "شاهین",
+      "lastName": "ستار",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:17:44.540Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:17:44.543Z"
+      }
+    },
+    {
+      "userId": 8236438918,
+      "firstName": "Tawhid",
+      "lastName": "Azimi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:17:44.545Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:17:44.545Z"
+      }
+    },
+    {
+      "userId": 5975302531,
+      "username": "fakhrul1200",
+      "firstName": "Fakhrul",
+      "lastName": "Naam",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:17:44.546Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:17:44.546Z"
+      }
+    },
+    {
+      "userId": 7583339760,
+      "username": "Edatomolaosi1",
+      "firstName": "Edatomolaosi1⏰️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:17:44.547Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:17:44.547Z"
+      }
+    },
+    {
+      "userId": 7337958432,
+      "firstName": "لوپربادعیسی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:17:44.547Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:17:44.547Z"
+      }
+    },
+    {
+      "userId": 7501787692,
+      "username": "Amsarus8",
+      "firstName": "Ibrahim",
+      "lastName": "Ahmad",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:17:44.552Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:17:44.552Z"
+      }
+    },
+    {
+      "userId": 6731564625,
+      "firstName": "Bello",
+      "lastName": "Emmanuel",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:17:53.040Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:17:53.040Z"
       }
     }
   ],
