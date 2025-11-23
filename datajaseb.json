@@ -13795,6 +13795,20 @@
       "lastActive": {
         "$date": "2025-11-23T16:49:13.168Z"
       }
+    },
+    {
+      "userId": 6725042105,
+      "username": "x3rayy",
+      "firstName": "𝕾 | ¡'m obito w5📍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T16:50:54.066Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T16:50:54.066Z"
+      }
     }
   ],
   "groups": [
