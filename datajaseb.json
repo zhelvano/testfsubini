@@ -108,7 +108,7 @@
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T18:15:43.241Z"
+        "$date": "2025-11-23T18:25:08.289Z"
       },
       "username": "RlMZOHUN"
     },
@@ -14293,6 +14293,20 @@
       },
       "lastActive": {
         "$date": "2025-11-23T18:16:24.995Z"
+      }
+    },
+    {
+      "userId": 7543223444,
+      "username": "one_loveO",
+      "firstName": "One Love❤️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:25:02.085Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:25:02.089Z"
       }
     }
   ],
