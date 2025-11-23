@@ -13126,6 +13126,20 @@
       "lastActive": {
         "$date": "2025-11-23T14:48:15.041Z"
       }
+    },
+    {
+      "userId": 7201389410,
+      "username": "palang125",
+      "firstName": "ᡕᠵ᠊ᡃ່࡚ࠢ࠘⸝່ࠡ᠊߯ᡁࠣ࠘᠊᠊ࠢ࠘气亠.......)))",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T14:49:51.836Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T14:49:51.836Z"
+      }
     }
   ],
   "groups": [
