@@ -16,7 +16,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T14:59:03.356Z"
+        "$date": "2025-11-23T15:00:47.003Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -13194,6 +13194,20 @@
       },
       "lastActive": {
         "$date": "2025-11-23T14:56:49.479Z"
+      }
+    },
+    {
+      "userId": 8100012821,
+      "username": "KINGRYUNOTDEV",
+      "firstName": "RYUU LAGI LIMIT",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:00:20.403Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:00:27.029Z"
       }
     }
   ],
