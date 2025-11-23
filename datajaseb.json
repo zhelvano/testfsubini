@@ -13363,6 +13363,20 @@
       "lastActive": {
         "$date": "2025-11-23T15:36:30.828Z"
       }
+    },
+    {
+      "userId": 8476994106,
+      "username": "Kevinnn_7",
+      "firstName": "Kevin",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:37:20.442Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:37:20.442Z"
+      }
     }
   ],
   "groups": [
