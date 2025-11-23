@@ -14796,6 +14796,20 @@
       "lastActive": {
         "$date": "2025-11-23T20:47:22.688Z"
       }
+    },
+    {
+      "userId": 8003506456,
+      "username": "Impresivel",
+      "firstName": "Pllom",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T20:53:58.420Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T20:53:58.425Z"
+      }
     }
   ],
   "groups": [
