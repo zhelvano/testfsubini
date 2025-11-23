@@ -15192,6 +15192,21 @@
       "lastActive": {
         "$date": "2025-11-23T23:25:03.412Z"
       }
+    },
+    {
+      "userId": 7074834858,
+      "username": "Coachnafsu",
+      "firstName": "Coach",
+      "lastName": "Nafsuzzakiyya",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T23:29:55.958Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T23:29:55.962Z"
+      }
     }
   ],
   "groups": [
