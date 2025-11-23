@@ -16,7 +16,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T16:43:38.433Z"
+        "$date": "2025-11-23T16:49:35.257Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -13767,6 +13767,33 @@
       },
       "lastActive": {
         "$date": "2025-11-23T16:45:54.563Z"
+      }
+    },
+    {
+      "userId": 7170188116,
+      "firstName": "ࢪيسـⷨـــⷷ↚ᷢ.↛ᷯـــⷨــــ حـۙ✿ـٍۛؗسـⷨـــⷷ↚ᷢ.↛ᷯـــⷨــــيب ڪـ𖤓‌ــٰٰٖٖ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T16:49:13.165Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T16:49:13.167Z"
+      }
+    },
+    {
+      "userId": 5934163666,
+      "username": "agentkuuat",
+      "firstName": "AGENT",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T16:49:13.168Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T16:49:13.168Z"
       }
     }
   ],
