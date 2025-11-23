@@ -13392,6 +13392,20 @@
       "lastActive": {
         "$date": "2025-11-23T15:39:06.637Z"
       }
+    },
+    {
+      "userId": 7647561265,
+      "username": "alfito77",
+      "firstName": "𝗶𝘁𝗼ᴀʀᴢxꜱʜᴇɴ_",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:39:39.611Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:39:39.611Z"
+      }
     }
   ],
   "groups": [
