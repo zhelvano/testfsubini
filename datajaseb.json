@@ -17,7 +17,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T19:07:39.185Z"
+        "$date": "2025-11-23T19:08:17.535Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -14474,6 +14474,20 @@
       },
       "lastActive": {
         "$date": "2025-11-23T19:01:36.675Z"
+      }
+    },
+    {
+      "userId": 7813768215,
+      "username": "PROFLEADERMOCHNANGGXR",
+      "firstName": "낭 타케시 센세이 🇰🇷",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T19:08:12.160Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T19:08:12.160Z"
       }
     }
   ],
