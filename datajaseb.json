@@ -13446,7 +13446,21 @@
         "$date": "2025-11-23T15:49:46.844Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T15:49:46.844Z"
+        "$date": "2025-11-23T15:50:15.259Z"
+      }
+    },
+    {
+      "userId": 8422989275,
+      "username": "Ra1iyy",
+      "firstName": "Rai",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:50:05.005Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:50:05.005Z"
       }
     }
   ],
