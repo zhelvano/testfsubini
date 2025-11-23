@@ -13171,5 +13171,19 @@
     "lastActive": {
       "$date": "2025-11-23T14:25:59.935Z"
     }
+  },
+  {
+    "userId": 7191417462,
+    "username": "PARWAN4KEDITOR",
+    "firstName": "یــ𝟒𝒌ـاســ𝒚𝒂𝒔𝒆𝒓ــﺭ",
+    "isPremium": false,
+    "isAdmin": false,
+    "groupsAdded": [],
+    "joinedAt": {
+      "$date": "2025-11-23T14:27:36.533Z"
+    },
+    "lastActive": {
+      "$date": "2025-11-23T14:27:36.533Z"
+    }
   }
 ]
