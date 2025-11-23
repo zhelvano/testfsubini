@@ -13128,5 +13128,19 @@
     "lastActive": {
       "$date": "2025-11-23T14:22:37.510Z"
     }
+  },
+  {
+    "userId": 6672529768,
+    "username": "KaioshinDRB",
+    "firstName": "𝙆𝙄𝙉𝙂 𝘽𝙞𝙗𝙯𝙯 [𝘿𝙍𝘽]",
+    "isPremium": false,
+    "isAdmin": false,
+    "groupsAdded": [],
+    "joinedAt": {
+      "$date": "2025-11-23T14:24:37.948Z"
+    },
+    "lastActive": {
+      "$date": "2025-11-23T14:24:37.963Z"
+    }
   }
 ]
