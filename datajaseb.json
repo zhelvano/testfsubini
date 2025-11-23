@@ -14002,6 +14002,19 @@
       "lastActive": {
         "$date": "2025-11-23T17:39:26.779Z"
       }
+    },
+    {
+      "userId": 8368798362,
+      "firstName": "Dinda oktaviani️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T17:41:08.766Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T17:41:08.766Z"
+      }
     }
   ],
   "groups": [
