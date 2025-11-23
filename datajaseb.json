@@ -15235,6 +15235,21 @@
       "lastActive": {
         "$date": "2025-11-23T23:31:27.470Z"
       }
+    },
+    {
+      "userId": 5191560461,
+      "username": "King_koyos",
+      "firstName": "King",
+      "lastName": "Sultan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T23:46:09.663Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T23:46:09.663Z"
+      }
     }
   ],
   "groups": [
