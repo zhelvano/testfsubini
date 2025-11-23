@@ -15,9 +15,8 @@
       "$date": "2025-11-22T22:22:32.539Z"
     },
     "lastActive": {
-      "$date": "2025-11-23T11:43:50.111Z"
+      "$date": "2025-11-23T14:22:01.828Z"
     },
-    "lastName": null,
     "username": "RimZohun",
     "premiumSince": {
       "$date": "2025-11-23T07:30:51.080Z"
@@ -13042,6 +13041,77 @@
     },
     "lastActive": {
       "$date": "2025-11-23T11:50:01.789Z"
+    }
+  },
+  {
+    "userId": 1247768557,
+    "username": "raihannn5",
+    "firstName": "raihan",
+    "isPremium": false,
+    "isAdmin": false,
+    "groupsAdded": [],
+    "joinedAt": {
+      "$date": "2025-11-23T14:21:48.295Z"
+    },
+    "lastActive": {
+      "$date": "2025-11-23T14:21:48.298Z"
+    }
+  },
+  {
+    "userId": 7505684840,
+    "username": "Guzz_4",
+    "firstName": "Guzzpanel",
+    "isPremium": false,
+    "isAdmin": false,
+    "groupsAdded": [],
+    "joinedAt": {
+      "$date": "2025-11-23T14:21:48.301Z"
+    },
+    "lastActive": {
+      "$date": "2025-11-23T14:21:48.301Z"
+    }
+  },
+  {
+    "userId": 7988024085,
+    "username": "baachoott",
+    "firstName": "Bacoth",
+    "isPremium": false,
+    "isAdmin": false,
+    "groupsAdded": [],
+    "joinedAt": {
+      "$date": "2025-11-23T14:21:48.303Z"
+    },
+    "lastActive": {
+      "$date": "2025-11-23T14:21:48.303Z"
+    }
+  },
+  {
+    "userId": 8205331398,
+    "firstName": "Jafer",
+    "lastName": "Fernandez",
+    "isPremium": false,
+    "isAdmin": false,
+    "groupsAdded": [],
+    "joinedAt": {
+      "$date": "2025-11-23T14:21:48.304Z"
+    },
+    "lastActive": {
+      "$date": "2025-11-23T14:21:48.305Z"
+    }
+  },
+  {
+    "userId": 8117531043,
+    "username": "team_black_host",
+    "firstName": "Hasnain",
+    "lastName": "Mumtaz",
+    "isPremium": false,
+    "isAdmin": false,
+    "groupsAdded": [],
+    "joinedAt": {
+      "$date": "2025-11-23T14:22:06.799Z"
+    },
+    "lastActive": {
+      "$date": "2025-11-23T14:22:06.799Z"
     }
   }
 ]
