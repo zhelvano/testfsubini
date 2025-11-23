@@ -15039,6 +15039,20 @@
       "lastActive": {
         "$date": "2025-11-23T22:31:27.829Z"
       }
+    },
+    {
+      "userId": 7982850628,
+      "username": "nasyyaaa",
+      "firstName": "𝓷𝓪𝓼𝔂𝓪",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:36:14.467Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:36:14.467Z"
+      }
     }
   ],
   "groups": [
