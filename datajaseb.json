@@ -13921,6 +13921,20 @@
       "lastActive": {
         "$date": "2025-11-23T17:03:24.837Z"
       }
+    },
+    {
+      "userId": 6330900348,
+      "username": "Satpam02",
+      "firstName": "SATPAM ID",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T17:05:50.577Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T17:05:50.577Z"
+      }
     }
   ],
   "groups": [
