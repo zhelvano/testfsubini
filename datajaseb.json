@@ -13656,6 +13656,19 @@
       "lastActive": {
         "$date": "2025-11-23T16:25:54.651Z"
       }
+    },
+    {
+      "userId": 7216372267,
+      "firstName": "shfa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T16:26:43.239Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T16:26:43.239Z"
+      }
     }
   ],
   "groups": [
