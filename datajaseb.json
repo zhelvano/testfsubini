@@ -13989,6 +13989,20 @@
       "lastActive": {
         "$date": "2025-11-23T17:30:58.097Z"
       }
+    },
+    {
+      "userId": 5423063747,
+      "firstName": "Maqa_101",
+      "lastName": "Maqa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T17:36:24.256Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T17:36:24.256Z"
+      }
     }
   ],
   "groups": [
