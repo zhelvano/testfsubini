@@ -13628,6 +13628,21 @@
       "lastActive": {
         "$date": "2025-11-23T16:23:04.169Z"
       }
+    },
+    {
+      "userId": 6105227924,
+      "username": "Rizky49",
+      "firstName": "Rizky",
+      "lastName": "almubarok",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T16:25:41.270Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T16:25:41.276Z"
+      }
     }
   ],
   "groups": [
