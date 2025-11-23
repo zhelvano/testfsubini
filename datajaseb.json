@@ -13643,6 +13643,19 @@
       "lastActive": {
         "$date": "2025-11-23T16:25:41.276Z"
       }
+    },
+    {
+      "userId": 8071988568,
+      "firstName": "ریس باران",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T16:25:54.651Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T16:25:54.651Z"
+      }
     }
   ],
   "groups": [
