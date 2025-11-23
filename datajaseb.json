@@ -16,7 +16,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T17:03:36.317Z"
+        "$date": "2025-11-23T17:12:27.312Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -3635,7 +3635,6 @@
       "userId": 6880242235,
       "username": "mmbvcdh",
       "firstName": "Kab",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -3643,7 +3642,7 @@
         "$date": "2025-11-23T03:56:51.962000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T07:11:13.593000Z"
+        "$date": "2025-11-23T17:11:58.386Z"
       }
     },
     {
@@ -13934,6 +13933,64 @@
       },
       "lastActive": {
         "$date": "2025-11-23T17:05:50.577Z"
+      }
+    },
+    {
+      "userId": 6404205903,
+      "firstName": "MODS",
+      "lastName": "JAN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T17:11:58.381Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T17:11:58.385Z"
+      }
+    },
+    {
+      "userId": 6429741007,
+      "username": "Lucky001g",
+      "firstName": "Lucky001g@Barden🐎Chukuriwa🍅🐾",
+      "lastName": "🐾🐾PAWS emoji🆙 UXUY",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T17:11:58.388Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T17:11:58.388Z"
+      }
+    },
+    {
+      "userId": 7625961678,
+      "username": "akbarmaulana7",
+      "firstName": "akbar",
+      "lastName": "maulana",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T17:11:58.389Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T17:11:58.389Z"
+      }
+    },
+    {
+      "userId": 8484066133,
+      "username": "Opacandote",
+      "firstName": "GaboXduglas",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T17:11:58.390Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T17:11:58.390Z"
       }
     }
   ],
