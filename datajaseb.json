@@ -16,7 +16,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T16:49:35.257Z"
+        "$date": "2025-11-23T17:03:36.317Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -13865,6 +13865,61 @@
       },
       "lastActive": {
         "$date": "2025-11-23T16:54:23.272Z"
+      }
+    },
+    {
+      "userId": 8031295917,
+      "username": "bernandbot",
+      "firstName": "伯纳德机器人WS/TG",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T17:03:14.421Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T17:03:14.423Z"
+      }
+    },
+    {
+      "userId": 7854092914,
+      "username": "valdet21",
+      "firstName": "x-dilz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T17:03:14.425Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T17:03:14.425Z"
+      }
+    },
+    {
+      "userId": 8036195989,
+      "username": "m_m3ts",
+      "firstName": "𝑲𝑼𝑴𝑨",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T17:03:14.427Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T17:03:14.427Z"
+      }
+    },
+    {
+      "userId": 6864054825,
+      "firstName": "乃丹丂工尺",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T17:03:24.837Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T17:03:24.837Z"
       }
     }
   ],
