@@ -15134,6 +15134,20 @@
       "lastActive": {
         "$date": "2025-11-23T22:51:16.525Z"
       }
+    },
+    {
+      "userId": 8381263241,
+      "firstName": "habib",
+      "lastName": "baho",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T22:59:35.066Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T22:59:35.066Z"
+      }
     }
   ],
   "groups": [
