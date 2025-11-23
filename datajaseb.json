@@ -14629,6 +14629,21 @@
       "lastActive": {
         "$date": "2025-11-23T20:02:58.528Z"
       }
+    },
+    {
+      "userId": 7904046579,
+      "username": "Abdullah505ah",
+      "firstName": ".•.؏ــبـ⁵͢⁰⁵ـد الله الـ͜͡ـديـري",
+      "lastName": "🖤.』⤹",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T20:05:27.019Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T20:05:27.019Z"
+      }
     }
   ],
   "groups": [
