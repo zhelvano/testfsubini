@@ -13113,6 +13113,20 @@
       "lastActive": {
         "$date": "2025-11-23T14:40:10.836Z"
       }
+    },
+    {
+      "userId": 7201231498,
+      "username": "Lieebarat",
+      "firstName": "Lieebaratt",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T14:48:15.041Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T14:48:15.041Z"
+      }
     }
   ],
   "groups": [
