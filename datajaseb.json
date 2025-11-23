@@ -13278,6 +13278,20 @@
       "lastActive": {
         "$date": "2025-11-23T15:10:49.222Z"
       }
+    },
+    {
+      "userId": 7669121543,
+      "username": "isshyzzz",
+      "firstName": "Berenice",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:11:27.524Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:11:27.524Z"
+      }
     }
   ],
   "groups": [
