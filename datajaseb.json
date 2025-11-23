@@ -14684,6 +14684,20 @@
       "lastActive": {
         "$date": "2025-11-23T20:15:37.454Z"
       }
+    },
+    {
+      "userId": 7737164524,
+      "username": "AMBONMARKET",
+      "firstName": "𝟳𝟱𝟬 {𝗢𝗡 𝗥𝗘𝗞𝗕𝗘𝗥 𝟮𝟰 𝗝𝗔𝗠}",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T20:16:28.373Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T20:16:28.373Z"
+      }
     }
   ],
   "groups": [
