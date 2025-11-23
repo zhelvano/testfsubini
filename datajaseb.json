@@ -13838,6 +13838,20 @@
       "lastActive": {
         "$date": "2025-11-23T16:52:49.340Z"
       }
+    },
+    {
+      "userId": 8049045381,
+      "username": "kguwkm",
+      "firstName": "ماجد",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T16:53:17.054Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T16:53:17.054Z"
+      }
     }
   ],
   "groups": [
