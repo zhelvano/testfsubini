@@ -1835,7 +1835,6 @@
         "$oid": "6922711cd36a0357c0e0bcbc"
       },
       "userId": 7071917936,
-      "username": null,
       "firstName": "Im",
       "lastName": "An",
       "isPremium": false,
@@ -1845,7 +1844,7 @@
         "$date": "2025-11-23T02:27:40.720000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T11:07:51.212000Z"
+        "$date": "2025-11-23T23:45:24.831Z"
       }
     },
     {
