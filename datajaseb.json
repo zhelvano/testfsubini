@@ -13852,6 +13852,20 @@
       "lastActive": {
         "$date": "2025-11-23T16:53:17.054Z"
       }
+    },
+    {
+      "userId": 6577110129,
+      "firstName": "وطن دوست فاریابی ستودیو +989190801958",
+      "lastName": "+989190801958وطن دوست فاریابی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T16:54:23.272Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T16:54:23.272Z"
+      }
     }
   ],
   "groups": [
