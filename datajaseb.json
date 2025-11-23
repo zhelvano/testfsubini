@@ -14391,6 +14391,20 @@
       "lastActive": {
         "$date": "2025-11-23T18:44:56.279Z"
       }
+    },
+    {
+      "userId": 5356993044,
+      "username": "Blissybillion",
+      "firstName": "Blissy Billion",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T18:48:16.955Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T18:48:16.959Z"
+      }
     }
   ],
   "groups": [
