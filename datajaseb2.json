@@ -13185,5 +13185,19 @@
     "lastActive": {
       "$date": "2025-11-23T14:27:36.533Z"
     }
+  },
+  {
+    "userId": 8367898358,
+    "firstName": "الاﻣـبِࢪاطٚوࢪ𝑬𝐕𝐀𝐍🤘🏻",
+    "lastName": "اليمن 🇾🇪",
+    "isPremium": false,
+    "isAdmin": false,
+    "groupsAdded": [],
+    "joinedAt": {
+      "$date": "2025-11-23T14:29:18.416Z"
+    },
+    "lastActive": {
+      "$date": "2025-11-23T14:29:18.416Z"
+    }
   }
 ]
