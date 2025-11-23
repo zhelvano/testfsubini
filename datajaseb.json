@@ -14447,6 +14447,20 @@
       "lastActive": {
         "$date": "2025-11-23T18:50:19.854Z"
       }
+    },
+    {
+      "userId": 8115160131,
+      "username": "kingbackerr",
+      "firstName": "𝐊𝐈𝐍𝐆 𝐁𝐀𝐂𝐊𝐄𝐑",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T19:01:22.335Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T19:01:22.343Z"
+      }
     }
   ],
   "groups": [
