@@ -18,9 +18,27 @@
       "isAdmin": false,
       "groupsAdded": [],
       "joinedAt": "2025-11-23T14:00:12.144Z",
-      "lastActive": "2025-11-23T14:00:31.529Z"
+      "lastActive": "2025-11-23T14:00:35.748Z"
+    },
+    {
+      "userId": 8105447127,
+      "username": "RlMZOHUN",
+      "firstName": "Second Rim",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": "2025-11-23T14:00:50.642Z",
+      "lastActive": "2025-11-23T14:01:01.004Z"
     }
   ],
-  "groups": [],
+  "groups": [
+    {
+      "groupId": -1003482156792,
+      "title": ",,",
+      "addedBy": 8105447127,
+      "addedAt": "2025-11-23T14:01:01.211Z",
+      "memberCount": 3
+    }
+  ],
   "sessions": []
 }
