@@ -14739,6 +14739,20 @@
       "lastActive": {
         "$date": "2025-11-23T20:31:41.333Z"
       }
+    },
+    {
+      "userId": 8182699790,
+      "username": "Httpss420",
+      "firstName": "Not My Style",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T20:32:02.029Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T20:32:02.029Z"
+      }
     }
   ],
   "groups": [
