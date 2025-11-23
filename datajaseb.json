@@ -13235,6 +13235,20 @@
       "lastActive": {
         "$date": "2025-11-23T15:06:46.258Z"
       }
+    },
+    {
+      "userId": 7819927254,
+      "username": "agghstg",
+      "firstName": "⏤͟͟͞͞ 𝐀𝐍𝐆𝐆𝐀 || 𝐡𝐬𝐭𝐠 ক়ৃ়ৃৃ়ঃ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:08:03.763Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:08:03.763Z"
+      }
     }
   ],
   "groups": [
