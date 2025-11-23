@@ -13334,6 +13334,20 @@
       "lastActive": {
         "$date": "2025-11-23T15:19:18.753Z"
       }
+    },
+    {
+      "userId": 8310220310,
+      "firstName": "Alv",
+      "lastName": "Alv",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:25:01.839Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:25:01.839Z"
+      }
     }
   ],
   "groups": [
