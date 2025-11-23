@@ -16,7 +16,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T15:17:38.400Z"
+        "$date": "2025-11-23T15:19:37.118Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -13319,6 +13319,20 @@
       },
       "lastActive": {
         "$date": "2025-11-23T15:13:38.170Z"
+      }
+    },
+    {
+      "userId": 7780113104,
+      "username": "mamska1",
+      "firstName": "naa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:19:18.753Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:19:18.753Z"
       }
     }
   ],
