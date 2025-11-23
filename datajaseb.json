@@ -14670,6 +14670,20 @@
       "lastActive": {
         "$date": "2025-11-23T20:11:10.040Z"
       }
+    },
+    {
+      "userId": 8199054378,
+      "username": "E_l1_I",
+      "firstName": "محمد",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T20:15:37.453Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T20:15:37.454Z"
+      }
     }
   ],
   "groups": [
