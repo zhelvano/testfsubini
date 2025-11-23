@@ -13406,6 +13406,20 @@
       "lastActive": {
         "$date": "2025-11-23T15:39:39.611Z"
       }
+    },
+    {
+      "userId": 8475236027,
+      "username": "izz2x",
+      "firstName": "⏤͟͟͞͞𝗜𝘇𝘇𝘅.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:42:32.992Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:42:32.998Z"
+      }
     }
   ],
   "groups": [
