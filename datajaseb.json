@@ -14726,6 +14726,19 @@
       "lastActive": {
         "$date": "2025-11-23T20:27:08.931Z"
       }
+    },
+    {
+      "userId": 1217554914,
+      "firstName": "Youssef Salwi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T20:31:41.333Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T20:31:41.333Z"
+      }
     }
   ],
   "groups": [
