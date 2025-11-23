@@ -13348,6 +13348,21 @@
       "lastActive": {
         "$date": "2025-11-23T15:25:01.839Z"
       }
+    },
+    {
+      "userId": 8355699235,
+      "username": "Twilightzero",
+      "firstName": "Twilight",
+      "lastName": "Zeroo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T15:36:30.817Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T15:36:30.828Z"
+      }
     }
   ],
   "groups": [
