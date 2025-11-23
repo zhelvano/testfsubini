@@ -14517,6 +14517,21 @@
       "lastActive": {
         "$date": "2025-11-23T19:10:08.093Z"
       }
+    },
+    {
+      "userId": 8466877087,
+      "username": "ahz0p",
+      "firstName": "احسان",
+      "lastName": "افغان",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-23T19:20:23.962Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-23T19:20:23.966Z"
+      }
     }
   ],
   "groups": [
