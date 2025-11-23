@@ -13156,5 +13156,20 @@
     "lastActive": {
       "$date": "2025-11-23T14:25:11.212Z"
     }
+  },
+  {
+    "userId": 8178423882,
+    "username": "Kiashackin",
+    "firstName": "jahanger",
+    "lastName": "mibariz",
+    "isPremium": false,
+    "isAdmin": false,
+    "groupsAdded": [],
+    "joinedAt": {
+      "$date": "2025-11-23T14:25:59.935Z"
+    },
+    "lastActive": {
+      "$date": "2025-11-23T14:25:59.935Z"
+    }
   }
 ]
