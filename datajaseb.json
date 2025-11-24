@@ -21661,6 +21661,19 @@
       "lastActive": {
         "$date": "2025-11-24T18:30:36.888Z"
       }
+    },
+    {
+      "userId": 7445775557,
+      "firstName": "𝑲𝒍𝒂𝒚𝒆𝒏",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T18:34:17.032Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T18:34:17.032Z"
+      }
     }
   ],
   "groups": [
