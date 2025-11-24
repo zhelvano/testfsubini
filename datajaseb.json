@@ -21674,6 +21674,20 @@
       "lastActive": {
         "$date": "2025-11-24T18:34:17.032Z"
       }
+    },
+    {
+      "userId": 7098342795,
+      "username": "shiehoa",
+      "firstName": "集团供 ws 应商",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T18:37:21.578Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T18:37:21.578Z"
+      }
     }
   ],
   "groups": [
