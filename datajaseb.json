@@ -17687,6 +17687,20 @@
       "lastActive": {
         "$date": "2025-11-24T08:23:48.445Z"
       }
+    },
+    {
+      "userId": 8110844013,
+      "username": "EMAL_PV",
+      "firstName": "〲 ࢪیس ایمݪ ࢪیپۅࢪتࢪ〲²⁰²⁴",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T08:30:43.949Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T08:30:43.949Z"
+      }
     }
   ],
   "groups": [
