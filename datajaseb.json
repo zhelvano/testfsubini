@@ -22077,6 +22077,20 @@
       "lastActive": {
         "$date": "2025-11-24T20:41:32.371Z"
       }
+    },
+    {
+      "userId": 5035443495,
+      "username": "Andrea_5A9",
+      "firstName": "Andrea",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T20:42:30.182Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T20:42:30.182Z"
+      }
     }
   ],
   "groups": [
