@@ -62,7 +62,8 @@
       "userId": 1087968824,
       "firstName": "Group",
       "groupsAdded": [
-        -1002419059011
+        -1002419059011,
+        -1002490014926
       ],
       "isAdmin": false,
       "isPremium": false,
@@ -70,7 +71,7 @@
         "$date": "2025-11-09T00:36:52.773000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T02:04:59.788Z"
+        "$date": "2025-11-24T09:51:46.740Z"
       },
       "username": "GroupAnonymousBot"
     },
@@ -18463,6 +18464,15 @@
         "$date": "2025-11-24T09:51:38.737Z"
       },
       "memberCount": 4
+    },
+    {
+      "groupId": -1002490014926,
+      "title": "EasyPay Indonesia",
+      "addedBy": 1087968824,
+      "addedAt": {
+        "$date": "2025-11-24T09:51:46.738Z"
+      },
+      "memberCount": 53
     }
   ]
 }
