@@ -15815,6 +15815,35 @@
       "lastActive": {
         "$date": "2025-11-24T01:33:37.628Z"
       }
+    },
+    {
+      "userId": 6711398562,
+      "username": "Cryptokings26",
+      "firstName": "Crypto",
+      "lastName": "Kings🐾",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T01:39:40.977Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T01:39:40.977Z"
+      }
+    },
+    {
+      "userId": 6738320981,
+      "username": "sohrabhack310",
+      "firstName": "━┃ 𝗦𝗢𝗛𝗥𝗔𝗕.𝗛𝗔𝗖𝗞↻𓆩•𝟑𝟏𝟎•𓆪 𓃮",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T01:40:04.982Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T01:40:04.982Z"
+      }
     }
   ],
   "groups": [
