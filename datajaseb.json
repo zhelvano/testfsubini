@@ -15787,6 +15787,20 @@
       "lastActive": {
         "$date": "2025-11-24T01:29:45.937Z"
       }
+    },
+    {
+      "userId": 8255312071,
+      "firstName": "R0yal",
+      "lastName": "Qu11n",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T01:31:54.192Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T01:31:54.192Z"
+      }
     }
   ],
   "groups": [
