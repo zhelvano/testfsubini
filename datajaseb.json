@@ -21947,6 +21947,20 @@
       "lastActive": {
         "$date": "2025-11-24T20:00:45.886Z"
       }
+    },
+    {
+      "userId": 8569151913,
+      "firstName": "Pablo",
+      "lastName": "Emiliano",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T20:17:11.615Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T20:17:11.620Z"
+      }
     }
   ],
   "groups": [
