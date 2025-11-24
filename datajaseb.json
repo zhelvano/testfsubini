@@ -21121,6 +21121,20 @@
       "lastActive": {
         "$date": "2025-11-24T16:15:33.650Z"
       }
+    },
+    {
+      "userId": 6556076114,
+      "username": "Kulthum64",
+      "firstName": "Ummukulsum",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:16:31.629Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:16:31.629Z"
+      }
     }
   ],
   "groups": [
