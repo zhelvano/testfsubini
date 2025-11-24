@@ -20766,6 +20766,21 @@
       "lastActive": {
         "$date": "2025-11-24T15:17:42.475Z"
       }
+    },
+    {
+      "userId": 7840709369,
+      "username": "ryfhnzx",
+      "firstName": "Pan",
+      "lastName": "Jul",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T15:18:28.629Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T15:18:28.652Z"
+      }
     }
   ],
   "groups": [
