@@ -22673,6 +22673,47 @@
       "lastActive": {
         "$date": "2025-11-24T23:19:55.538Z"
       }
+    },
+    {
+      "userId": 6977387872,
+      "username": "genera00M",
+      "firstName": "⚘꙰᜴꯭❥𝐌𝐔𝐇𝐀𝐌𝐌𝐀𝐃❥᭬‌⚘꙰",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T23:22:11.586Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T23:22:11.586Z"
+      }
+    },
+    {
+      "userId": 8012757341,
+      "firstName": "꧁༒MORALITY༒꧂FF",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T23:22:15.995Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T23:22:15.995Z"
+      }
+    },
+    {
+      "userId": 7559107653,
+      "username": "Aldy20",
+      "firstName": "cau 集团卖家 WS 2017-2019",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T23:22:31.039Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T23:22:31.039Z"
+      }
     }
   ],
   "groups": [
