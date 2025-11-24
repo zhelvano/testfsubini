@@ -21179,6 +21179,20 @@
       "lastActive": {
         "$date": "2025-11-24T16:25:26.256Z"
       }
+    },
+    {
+      "userId": 7641641997,
+      "username": "Vinzzdf",
+      "firstName": "☬ - 𝖋𝖙 𝘼𝙡𝙞𝙘𝙚 || Vinzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:26:54.484Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:26:54.484Z"
+      }
     }
   ],
   "groups": [
