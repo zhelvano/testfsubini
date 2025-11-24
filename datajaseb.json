@@ -21961,6 +21961,20 @@
       "lastActive": {
         "$date": "2025-11-24T20:17:11.620Z"
       }
+    },
+    {
+      "userId": 6119795676,
+      "username": "Jrxup8",
+      "firstName": "P monday",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T20:18:42.861Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T20:18:42.862Z"
+      }
     }
   ],
   "groups": [
