@@ -16748,6 +16748,35 @@
       "lastActive": {
         "$date": "2025-11-24T05:37:18.303Z"
       }
+    },
+    {
+      "userId": 5189267359,
+      "username": "YM_771",
+      "firstName": "البروفيسور",
+      "lastName": "♕",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T05:45:05.117Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T05:45:05.117Z"
+      }
+    },
+    {
+      "userId": 5957594807,
+      "username": "lbhdbh",
+      "firstName": "𝒔𝒍𝒐𝒂𓃠𓆪سلوىᏉ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T05:45:05.118Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T05:45:05.118Z"
+      }
     }
   ],
   "groups": [
