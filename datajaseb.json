@@ -15557,6 +15557,21 @@
       "lastActive": {
         "$date": "2025-11-24T00:38:26.778Z"
       }
+    },
+    {
+      "userId": 7226850041,
+      "username": "aiychin",
+      "firstName": "⧉ MD 𝑰𝑩𝑹𝑨𝑯𝑰𝑴",
+      "lastName": "⧉ 𝑯𝑶𝑺𝑺𝑨𝑰𝑵",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:43:35.380Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:43:35.385Z"
+      }
     }
   ],
   "groups": [
