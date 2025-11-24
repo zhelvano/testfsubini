@@ -21533,6 +21533,20 @@
       "lastActive": {
         "$date": "2025-11-24T17:22:14.707Z"
       }
+    },
+    {
+      "userId": 5452611941,
+      "username": "gundam5",
+      "firstName": "GUNDAM",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T17:23:35.191Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T17:23:35.193Z"
+      }
     }
   ],
   "groups": [
