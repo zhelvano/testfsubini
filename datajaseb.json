@@ -20979,6 +20979,20 @@
       "lastActive": {
         "$date": "2025-11-24T15:55:47.167Z"
       }
+    },
+    {
+      "userId": 6356940782,
+      "username": "vynnn012",
+      "firstName": "アルピン",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T15:57:48.891Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T15:57:48.891Z"
+      }
     }
   ],
   "groups": [
