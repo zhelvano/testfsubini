@@ -20059,6 +20059,20 @@
       "lastActive": {
         "$date": "2025-11-24T13:38:58.177Z"
       }
+    },
+    {
+      "userId": 6990497405,
+      "username": "itspanzx",
+      "firstName": "-wpanzx\"",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:40:04.497Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:40:04.497Z"
+      }
     }
   ],
   "groups": [
