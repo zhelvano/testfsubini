@@ -17548,6 +17548,20 @@
       "lastActive": {
         "$date": "2025-11-24T08:02:48.694Z"
       }
+    },
+    {
+      "userId": 6593625894,
+      "username": "error_htmI",
+      "firstName": "./MR . E",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T08:04:09.805Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T08:04:09.805Z"
+      }
     }
   ],
   "groups": [
