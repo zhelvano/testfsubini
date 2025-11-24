@@ -21135,6 +21135,21 @@
       "lastActive": {
         "$date": "2025-11-24T16:16:31.629Z"
       }
+    },
+    {
+      "userId": 7767573384,
+      "username": "Somaiyasjje",
+      "firstName": "𝐌𝐎𝐑𝐒𝐀𝐋𝐈𝐍",
+      "lastName": "💥【﻿𝐆𝐫𝐞𝐧𝐝 】",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:23:58.151Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:23:58.155Z"
+      }
     }
   ],
   "groups": [
