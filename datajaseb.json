@@ -21892,6 +21892,19 @@
       "lastActive": {
         "$date": "2025-11-24T19:46:38.793Z"
       }
+    },
+    {
+      "userId": 7727189605,
+      "firstName": "کندهاری",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T19:51:30.715Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T19:51:30.715Z"
+      }
     }
   ],
   "groups": [
