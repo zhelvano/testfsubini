@@ -15715,6 +15715,20 @@
       "lastActive": {
         "$date": "2025-11-24T01:19:34.855Z"
       }
+    },
+    {
+      "userId": 7044872511,
+      "username": "lynxx_is_gaming",
+      "firstName": "ᴛʜᴇʀᴇᴀʟᴀsʜᴀᴡᴏ❤️‍🩹🀄️ ⃝꙰⃝꙰⃝꙰⃝꙰⃝꙰⃝꙰⃝꙰⃝꙰⃝꙰⃝",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T01:23:24.825Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T01:23:24.825Z"
+      }
     }
   ],
   "groups": [
