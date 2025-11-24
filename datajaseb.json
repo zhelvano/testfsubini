@@ -22470,6 +22470,21 @@
       "lastActive": {
         "$date": "2025-11-24T22:35:48.340Z"
       }
+    },
+    {
+      "userId": 5772282212,
+      "username": "adjieherliana",
+      "firstName": "adji",
+      "lastName": "herliana",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T22:48:00.149Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T22:48:00.153Z"
+      }
     }
   ],
   "groups": [
