@@ -16081,6 +16081,20 @@
       "lastActive": {
         "$date": "2025-11-24T02:41:29.678Z"
       }
+    },
+    {
+      "userId": 5424231876,
+      "username": "abdallahshehata3",
+      "firstName": "بودي",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T02:43:43.989Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T02:43:43.989Z"
+      }
     }
   ],
   "groups": [
