@@ -17562,6 +17562,19 @@
       "lastActive": {
         "$date": "2025-11-24T08:04:09.805Z"
       }
+    },
+    {
+      "userId": 6502887134,
+      "firstName": "⏤͟͟͞͞KyySoftSpoken",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T08:09:15.789Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T08:09:15.792Z"
+      }
     }
   ],
   "groups": [
