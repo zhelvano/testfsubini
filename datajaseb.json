@@ -22255,6 +22255,21 @@
       "lastActive": {
         "$date": "2025-11-24T21:25:02.667Z"
       }
+    },
+    {
+      "userId": 8585371365,
+      "username": "gorilazpedia",
+      "firstName": "GORILAZZ",
+      "lastName": "PEDIA",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T21:34:35.462Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T21:34:35.462Z"
+      }
     }
   ],
   "groups": [
