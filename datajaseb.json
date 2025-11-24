@@ -15801,6 +15801,20 @@
       "lastActive": {
         "$date": "2025-11-24T01:31:54.192Z"
       }
+    },
+    {
+      "userId": 6335435687,
+      "firstName": "Md",
+      "lastName": "Shawon",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T01:33:37.627Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T01:33:37.628Z"
+      }
     }
   ],
   "groups": [
