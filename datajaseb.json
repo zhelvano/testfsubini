@@ -15998,6 +15998,20 @@
       "lastActive": {
         "$date": "2025-11-24T02:14:44.315Z"
       }
+    },
+    {
+      "userId": 8295249867,
+      "firstName": "Meraj",
+      "lastName": "Islam",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T02:23:46.096Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T02:23:46.096Z"
+      }
     }
   ],
   "groups": [
