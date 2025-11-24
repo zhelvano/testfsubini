@@ -5097,9 +5097,7 @@
         "$oid": "69229252d36a0357c0e0bd71"
       },
       "userId": 7682433866,
-      "username": null,
       "firstName": "Rif--",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -5107,7 +5105,7 @@
         "$date": "2025-11-23T04:49:22.153000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T04:49:22.153000Z"
+        "$date": "2025-11-24T09:26:00.309Z"
       }
     },
     {
