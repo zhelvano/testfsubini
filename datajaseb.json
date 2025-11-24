@@ -16163,7 +16163,21 @@
         "$date": "2025-11-24T03:09:31.284Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T03:09:31.287Z"
+        "$date": "2025-11-24T03:09:53.758Z"
+      }
+    },
+    {
+      "userId": 7741716233,
+      "username": "Sakibul_hasan9",
+      "firstName": "SαƙιႦυʅ [ADMIN]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T03:09:53.758Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T03:09:53.758Z"
       }
     }
   ],
