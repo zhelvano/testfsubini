@@ -20349,6 +20349,20 @@
       "lastActive": {
         "$date": "2025-11-24T14:06:39.225Z"
       }
+    },
+    {
+      "userId": 7318322914,
+      "username": "nicoarnz21",
+      "firstName": "Nzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:08:14.748Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:08:14.748Z"
+      }
     }
   ],
   "groups": [
