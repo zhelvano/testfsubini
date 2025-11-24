@@ -18583,6 +18583,35 @@
       "lastActive": {
         "$date": "2025-11-24T11:39:41.168Z"
       }
+    },
+    {
+      "userId": 8213673680,
+      "username": "Sabbir_vi",
+      "firstName": "Sabbir",
+      "lastName": "Vi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:40:08.760Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:40:08.760Z"
+      }
+    },
+    {
+      "userId": 7952538459,
+      "username": "Hiddennoob",
+      "firstName": "..",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:40:17.355Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:40:17.355Z"
+      }
     }
   ],
   "groups": [
