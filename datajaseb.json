@@ -20143,6 +20143,21 @@
       "lastActive": {
         "$date": "2025-11-24T13:45:14.506Z"
       }
+    },
+    {
+      "userId": 7949711843,
+      "username": "sajjid44",
+      "firstName": "Md",
+      "lastName": "Sanjim Islam",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:45:40.289Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:45:40.289Z"
+      }
     }
   ],
   "groups": [
