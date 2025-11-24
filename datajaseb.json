@@ -17716,6 +17716,20 @@
       "lastActive": {
         "$date": "2025-11-24T08:34:58.794Z"
       }
+    },
+    {
+      "userId": 7125354553,
+      "username": "claybolottzy",
+      "firstName": "雷汉工人",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T08:36:51.628Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T08:36:51.628Z"
+      }
     }
   ],
   "groups": [
