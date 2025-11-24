@@ -17575,6 +17575,20 @@
       "lastActive": {
         "$date": "2025-11-24T08:09:15.792Z"
       }
+    },
+    {
+      "userId": 5170466419,
+      "username": "AKATSUKIxHOKAGE",
+      "firstName": "AKATSUKI",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T08:10:08.458Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T08:10:08.458Z"
+      }
     }
   ],
   "groups": [
