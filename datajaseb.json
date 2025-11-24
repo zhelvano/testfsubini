@@ -21919,6 +21919,20 @@
       "lastActive": {
         "$date": "2025-11-24T19:55:47.883Z"
       }
+    },
+    {
+      "userId": 7662319142,
+      "firstName": "Grant",
+      "lastName": "Lawrence",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T19:57:00.790Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T19:57:00.790Z"
+      }
     }
   ],
   "groups": [
