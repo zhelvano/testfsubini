@@ -15500,6 +15500,20 @@
       "lastActive": {
         "$date": "2025-11-24T00:33:46.716Z"
       }
+    },
+    {
+      "userId": 7225277372,
+      "username": "Zessbabi",
+      "firstName": "kuzesss CAS-AHOLIC",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:34:23.516Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:34:23.517Z"
+      }
     }
   ],
   "groups": [
