@@ -17813,6 +17813,20 @@
       "lastActive": {
         "$date": "2025-11-24T08:54:40.163Z"
       }
+    },
+    {
+      "userId": 7757418225,
+      "username": "halmmmbvv",
+      "firstName": "𝐃𝐮𝐦𝟗𝟔𝟗王",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:02:31.722Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:02:31.722Z"
+      }
     }
   ],
   "groups": [
