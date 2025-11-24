@@ -20838,6 +20838,20 @@
       "lastActive": {
         "$date": "2025-11-24T15:28:46.356Z"
       }
+    },
+    {
+      "userId": 8578586294,
+      "firstName": "Naruto",
+      "lastName": "MARKET",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T15:34:13.961Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T15:34:13.961Z"
+      }
     }
   ],
   "groups": [
