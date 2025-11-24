@@ -16920,6 +16920,19 @@
       "lastActive": {
         "$date": "2025-11-24T06:04:59.658Z"
       }
+    },
+    {
+      "userId": 6352930954,
+      "firstName": "Dewa murben",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:09:16.433Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:09:16.433Z"
+      }
     }
   ],
   "groups": [
