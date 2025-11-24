@@ -18370,6 +18370,20 @@
       "lastActive": {
         "$date": "2025-11-24T10:52:27.509Z"
       }
+    },
+    {
+      "userId": 7522332081,
+      "username": "Flyyetshenn",
+      "firstName": "𝗙𝗹𝘆𝘆ᴀʀᴢxꜱʜᴇɴ_",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T10:53:59.571Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T10:53:59.571Z"
+      }
     }
   ],
   "groups": [
