@@ -22004,6 +22004,20 @@
       "lastActive": {
         "$date": "2025-11-24T20:23:10.091Z"
       }
+    },
+    {
+      "userId": 6915542569,
+      "username": "godzilla638",
+      "firstName": "Godzilla",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T20:28:16.665Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T20:28:16.669Z"
+      }
     }
   ],
   "groups": [
