@@ -19145,6 +19145,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:07:46.045Z"
       }
+    },
+    {
+      "userId": 7018609998,
+      "username": "S_a_d_i_d_h_a_s_a_n",
+      "firstName": "SADID HASAN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:09:25.786Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:09:25.786Z"
+      }
     }
   ],
   "groups": [
