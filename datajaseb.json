@@ -20321,6 +20321,34 @@
       "lastActive": {
         "$date": "2025-11-24T14:05:48.165Z"
       }
+    },
+    {
+      "userId": 7193603741,
+      "username": "RafiAdmin0709",
+      "firstName": "Rafi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:06:34.173Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:06:34.173Z"
+      }
+    },
+    {
+      "userId": 8295644457,
+      "username": "Mahmoodallh76",
+      "firstName": "Mahmoodallhmahmoody",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:06:39.225Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:06:39.225Z"
+      }
     }
   ],
   "groups": [
