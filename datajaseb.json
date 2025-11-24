@@ -15701,6 +15701,20 @@
       "lastActive": {
         "$date": "2025-11-24T01:18:58.269Z"
       }
+    },
+    {
+      "userId": 5596486345,
+      "username": "ZYX123454",
+      "firstName": "MaLiik",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T01:19:34.855Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T01:19:34.855Z"
+      }
     }
   ],
   "groups": [
