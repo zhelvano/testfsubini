@@ -20752,6 +20752,20 @@
       "lastActive": {
         "$date": "2025-11-24T15:16:45.679Z"
       }
+    },
+    {
+      "userId": 7747325290,
+      "username": "cacayyyv",
+      "firstName": "Wish you happiness",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T15:17:42.475Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T15:17:42.475Z"
+      }
     }
   ],
   "groups": [
