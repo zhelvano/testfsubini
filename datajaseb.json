@@ -15398,6 +15398,21 @@
       "lastActive": {
         "$date": "2025-11-24T00:20:49.210Z"
       }
+    },
+    {
+      "userId": 8070928085,
+      "username": "Ashrafkhan1s",
+      "firstName": "Ashraful",
+      "lastName": "Alam",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:23:53.563Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:23:53.563Z"
+      }
     }
   ],
   "groups": [
