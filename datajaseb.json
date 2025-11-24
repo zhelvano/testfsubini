@@ -20965,6 +20965,20 @@
       "lastActive": {
         "$date": "2025-11-24T15:55:10.499Z"
       }
+    },
+    {
+      "userId": 6676627912,
+      "username": "timsarrs",
+      "firstName": "atrás #personality",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T15:55:47.167Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T15:55:47.167Z"
+      }
     }
   ],
   "groups": [
