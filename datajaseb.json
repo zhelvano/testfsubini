@@ -20823,6 +20823,21 @@
       "lastActive": {
         "$date": "2025-11-24T15:26:16.138Z"
       }
+    },
+    {
+      "userId": 7315115789,
+      "username": "Wasifali007",
+      "firstName": "Wasif",
+      "lastName": "Ali007🔥",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T15:28:46.356Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T15:28:46.356Z"
+      }
     }
   ],
   "groups": [
