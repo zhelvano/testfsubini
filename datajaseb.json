@@ -17785,6 +17785,20 @@
       "lastActive": {
         "$date": "2025-11-24T08:49:52.185Z"
       }
+    },
+    {
+      "userId": 8428156008,
+      "username": "pullseleb",
+      "firstName": "pull? apa fans",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T08:51:46.951Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T08:51:46.951Z"
+      }
     }
   ],
   "groups": [
