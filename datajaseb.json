@@ -21877,6 +21877,21 @@
       "lastActive": {
         "$date": "2025-11-24T19:38:39.186Z"
       }
+    },
+    {
+      "userId": 7527307014,
+      "username": "oumneeherl005",
+      "firstName": "Oum🐾neeharl 🐾",
+      "lastName": "▪️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T19:46:38.778Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T19:46:38.793Z"
+      }
     }
   ],
   "groups": [
