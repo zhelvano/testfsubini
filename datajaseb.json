@@ -8553,7 +8553,7 @@
         "$oid": "6922affa4e23132d6f0aa413"
       },
       "userId": 8567620506,
-      "firstName": "He",
+      "firstName": "Roy",
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -8561,8 +8561,9 @@
         "$date": "2025-11-23T06:55:54.709000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T08:39:14.883Z"
-      }
+        "$date": "2025-11-24T22:27:02.325Z"
+      },
+      "username": "pendobjir"
     },
     {
       "_id": {
