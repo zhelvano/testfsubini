@@ -20682,6 +20682,20 @@
       "lastActive": {
         "$date": "2025-11-24T15:02:21.711Z"
       }
+    },
+    {
+      "userId": 992267207,
+      "username": "tenorzy",
+      "firstName": "senior",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T15:03:25.578Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T15:03:25.578Z"
+      }
     }
   ],
   "groups": [
