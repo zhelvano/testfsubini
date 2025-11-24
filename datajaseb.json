@@ -20555,6 +20555,20 @@
       "lastActive": {
         "$date": "2025-11-24T14:50:37.402Z"
       }
+    },
+    {
+      "userId": 8367933469,
+      "username": "Rurictp",
+      "firstName": "⏤͟͟𝐃𝐍𝐓 || Ruri",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:51:43.116Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:51:43.117Z"
+      }
     }
   ],
   "groups": [
