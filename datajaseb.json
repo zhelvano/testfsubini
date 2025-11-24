@@ -17199,6 +17199,21 @@
       "lastActive": {
         "$date": "2025-11-24T06:50:58.859Z"
       }
+    },
+    {
+      "userId": 6360764386,
+      "username": "Zeynn4k",
+      "firstName": "Zeynn",
+      "lastName": "4K",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:57:58.178Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:57:58.178Z"
+      }
     }
   ],
   "groups": [
