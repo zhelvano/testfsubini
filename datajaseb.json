@@ -17477,6 +17477,34 @@
       "lastActive": {
         "$date": "2025-11-24T08:00:38.690Z"
       }
+    },
+    {
+      "userId": 8369662780,
+      "firstName": "Diki",
+      "lastName": "Diki",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T08:01:04.152Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T08:01:04.152Z"
+      }
+    },
+    {
+      "userId": 8304900932,
+      "username": "OBITO_OT1",
+      "firstName": "ⓄⒷⒾⓉⓄ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T08:01:05.688Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T08:01:05.688Z"
+      }
     }
   ],
   "groups": [
