@@ -15772,6 +15772,21 @@
       "lastActive": {
         "$date": "2025-11-24T01:28:20.387Z"
       }
+    },
+    {
+      "userId": 6305104270,
+      "username": "Lord_Obitow",
+      "firstName": "𝙎𝙃𝘼𝙉𝙆𝙎",
+      "lastName": "🖤",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T01:29:45.937Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T01:29:45.937Z"
+      }
     }
   ],
   "groups": [
