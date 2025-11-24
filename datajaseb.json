@@ -19653,6 +19653,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:42:52.454Z"
       }
+    },
+    {
+      "userId": 8407637353,
+      "username": "crazyzeno",
+      "firstName": "Зено [ zeno ]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:44:33.563Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:44:33.563Z"
+      }
     }
   ],
   "groups": [
