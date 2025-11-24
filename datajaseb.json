@@ -18037,6 +18037,20 @@
       "lastActive": {
         "$date": "2025-11-24T09:37:32.836Z"
       }
+    },
+    {
+      "userId": 8166195309,
+      "username": "HamzOffccc",
+      "firstName": "Hamdan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:38:17.574Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:38:17.574Z"
+      }
     }
   ],
   "groups": [
