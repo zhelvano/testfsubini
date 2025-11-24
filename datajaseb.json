@@ -16610,6 +16610,20 @@
       "lastActive": {
         "$date": "2025-11-24T05:12:09.448Z"
       }
+    },
+    {
+      "userId": 7173113682,
+      "firstName": "Parz",
+      "lastName": "Epep",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T05:16:24.620Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T05:16:24.620Z"
+      }
     }
   ],
   "groups": [
