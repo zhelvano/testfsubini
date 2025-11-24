@@ -19291,6 +19291,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:17:26.888Z"
       }
+    },
+    {
+      "userId": 8449859566,
+      "firstName": "Jeremy",
+      "lastName": "Huang",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:18:28.762Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:18:28.762Z"
+      }
     }
   ],
   "groups": [
