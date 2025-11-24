@@ -15758,6 +15758,20 @@
       "lastActive": {
         "$date": "2025-11-24T01:25:06.132Z"
       }
+    },
+    {
+      "userId": 8137313251,
+      "username": "BALZNOTDEV2",
+      "firstName": "⏤͟͟͞͞𝐀𝐕𝐗 | BALZNOTDEV2",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T01:28:20.387Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T01:28:20.387Z"
+      }
     }
   ],
   "groups": [
