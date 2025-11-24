@@ -21834,6 +21834,20 @@
       "lastActive": {
         "$date": "2025-11-24T19:29:42.981Z"
       }
+    },
+    {
+      "userId": 8146372214,
+      "username": "Hanzpler",
+      "firstName": "𝐄𝐕𝐎𝐗 𝟏𝟖𝟖 || ハンズ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T19:32:29.727Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T19:32:29.727Z"
+      }
     }
   ],
   "groups": [
