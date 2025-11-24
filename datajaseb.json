@@ -18329,6 +18329,20 @@
       "lastActive": {
         "$date": "2025-11-24T10:45:06.140Z"
       }
+    },
+    {
+      "userId": 2012383693,
+      "username": "XxX1nmb",
+      "firstName": "#idgaf999.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T10:48:50.583Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T10:48:50.583Z"
+      }
     }
   ],
   "groups": [
