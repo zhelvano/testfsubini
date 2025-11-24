@@ -22338,6 +22338,20 @@
       "lastActive": {
         "$date": "2025-11-24T21:53:16.799Z"
       }
+    },
+    {
+      "userId": 8257547188,
+      "username": "kazozghostfighter",
+      "firstName": "kazoz⁴⁴⁴",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T22:01:56.342Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T22:01:56.351Z"
+      }
     }
   ],
   "groups": [
