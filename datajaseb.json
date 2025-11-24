@@ -4532,7 +4532,7 @@
         "$date": "2025-11-23T04:32:29.550000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T05:51:40.975000Z"
+        "$date": "2025-11-24T06:01:53.484Z"
       }
     },
     {
@@ -16819,6 +16819,21 @@
       },
       "lastActive": {
         "$date": "2025-11-24T05:55:17.883Z"
+      }
+    },
+    {
+      "userId": 6898699870,
+      "username": "jahangirmdalom42",
+      "firstName": "Md Jahangir",
+      "lastName": "Alom",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:01:55.451Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:01:55.452Z"
       }
     }
   ],
