@@ -21207,6 +21207,35 @@
       "lastActive": {
         "$date": "2025-11-24T16:27:54.260Z"
       }
+    },
+    {
+      "userId": 6635541823,
+      "firstName": "Itz",
+      "lastName": "Turaki",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:32:36.099Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:32:36.102Z"
+      }
+    },
+    {
+      "userId": 8099343009,
+      "username": "DitzzNokos",
+      "firstName": "Aditzz",
+      "lastName": "Nokoss",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:32:56.122Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:32:56.122Z"
+      }
     }
   ],
   "groups": [
