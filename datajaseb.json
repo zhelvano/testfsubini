@@ -17144,6 +17144,34 @@
       "lastActive": {
         "$date": "2025-11-24T06:42:06.243Z"
       }
+    },
+    {
+      "userId": 6873124892,
+      "username": "barzjet",
+      "firstName": "𝖇𝖆𝖗𝖟𝖏𝖊𝖙 𝖗𝖊𝖆𝖑 🕊👾",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:43:59.576Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:43:59.576Z"
+      }
+    },
+    {
+      "userId": 6206495078,
+      "firstName": "O",
+      "lastName": "حسگوبوءوء",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:44:06.268Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:44:06.268Z"
+      }
     }
   ],
   "groups": [
