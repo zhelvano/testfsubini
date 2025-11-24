@@ -19,7 +19,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T14:26:52.898Z"
+        "$date": "2025-11-24T14:21:57.979Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -20446,33 +20446,6 @@
       },
       "lastActive": {
         "$date": "2025-11-24T14:20:46.773Z"
-      }
-    },
-    {
-      "userId": 7554042094,
-      "username": "lexxyidgaf",
-      "firstName": "⏤͟͟͞͞Lexxy",
-      "isPremium": false,
-      "isAdmin": false,
-      "groupsAdded": [],
-      "joinedAt": {
-        "$date": "2025-11-24T14:28:25.723Z"
-      },
-      "lastActive": {
-        "$date": "2025-11-24T14:28:25.724Z"
-      }
-    },
-    {
-      "userId": 8106764375,
-      "firstName": "خان سورسترگی زندانی",
-      "isPremium": false,
-      "isAdmin": false,
-      "groupsAdded": [],
-      "joinedAt": {
-        "$date": "2025-11-24T14:29:22.560Z"
-      },
-      "lastActive": {
-        "$date": "2025-11-24T14:29:22.561Z"
       }
     }
   ],
