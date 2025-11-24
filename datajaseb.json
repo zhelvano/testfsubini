@@ -20894,6 +20894,20 @@
       "lastActive": {
         "$date": "2025-11-24T15:38:33.813Z"
       }
+    },
+    {
+      "userId": 6721835080,
+      "username": "Mohagm_elkber",
+      "firstName": "ࢪݛمـضـﭑᘓɹ̇ آࢦــبـحـࢪاﯢي 💀❕",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T15:44:48.329Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T15:44:48.329Z"
+      }
     }
   ],
   "groups": [
