@@ -19582,6 +19582,34 @@
       "lastActive": {
         "$date": "2025-11-24T12:38:39.399Z"
       }
+    },
+    {
+      "userId": 7683116474,
+      "username": "AL_HOSTING",
+      "firstName": "⏤͟͟͞͞𝑨𝑳_𝑯𝑶𝑺𝑻𝑰𝑵𝑮",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:41:30.441Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:41:30.441Z"
+      }
+    },
+    {
+      "userId": 7525965242,
+      "username": "Privatee478",
+      "firstName": "Mammadov",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:41:34.301Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:41:34.301Z"
+      }
     }
   ],
   "groups": [
