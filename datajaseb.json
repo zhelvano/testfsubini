@@ -19305,6 +19305,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:18:28.762Z"
       }
+    },
+    {
+      "userId": 8065493466,
+      "firstName": "الله نور افغان4",
+      "lastName": "44",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:19:21.781Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:19:21.781Z"
+      }
     }
   ],
   "groups": [
