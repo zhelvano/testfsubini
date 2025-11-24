@@ -20724,6 +20724,20 @@
       "lastActive": {
         "$date": "2025-11-24T15:08:19.403Z"
       }
+    },
+    {
+      "userId": 7252552815,
+      "username": "hemilv",
+      "firstName": "𝗠𝗗 𝗛𝗲𝗺𝗲𝗹👑",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T15:12:57.262Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T15:12:57.262Z"
+      }
     }
   ],
   "groups": [
