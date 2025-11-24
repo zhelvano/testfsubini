@@ -19159,6 +19159,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:09:25.786Z"
       }
+    },
+    {
+      "userId": 8331673208,
+      "username": "salzeeak",
+      "firstName": "putra stur",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:10:08.832Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:10:08.832Z"
+      }
     }
   ],
   "groups": [
