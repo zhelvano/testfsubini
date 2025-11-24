@@ -20623,6 +20623,20 @@
       "lastActive": {
         "$date": "2025-11-24T14:56:58.737Z"
       }
+    },
+    {
+      "userId": 8416336560,
+      "username": "famoshina",
+      "firstName": "lievanxczl",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:57:15.073Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:57:15.074Z"
+      }
     }
   ],
   "groups": [
