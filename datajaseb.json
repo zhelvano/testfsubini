@@ -17420,6 +17420,20 @@
       "lastActive": {
         "$date": "2025-11-24T07:43:41.413Z"
       }
+    },
+    {
+      "userId": 6352428321,
+      "username": "R4NJHA",
+      "firstName": "🖤⃝ℝanjha ᭄🕊️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T07:50:29.075Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T07:50:29.075Z"
+      }
     }
   ],
   "groups": [
