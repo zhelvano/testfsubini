@@ -20528,6 +20528,20 @@
       "lastActive": {
         "$date": "2025-11-24T14:49:18.464Z"
       }
+    },
+    {
+      "userId": 7475311811,
+      "username": "hcbozz",
+      "firstName": "lee",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:49:36.906Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:49:36.906Z"
+      }
     }
   ],
   "groups": [
