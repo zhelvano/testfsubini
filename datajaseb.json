@@ -16511,6 +16511,20 @@
       "lastActive": {
         "$date": "2025-11-24T04:42:47.288Z"
       }
+    },
+    {
+      "userId": 7621668854,
+      "username": "dycupp",
+      "firstName": "Ditcupp",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T04:50:24.692Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T04:50:24.692Z"
+      }
     }
   ],
   "groups": [
