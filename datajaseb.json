@@ -21547,6 +21547,20 @@
       "lastActive": {
         "$date": "2025-11-24T17:23:35.193Z"
       }
+    },
+    {
+      "userId": 7652921064,
+      "username": "Anjyya9",
+      "firstName": "Name game",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T17:28:17.271Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T17:28:17.276Z"
+      }
     }
   ],
   "groups": [
