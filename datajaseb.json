@@ -15514,6 +15514,49 @@
       "lastActive": {
         "$date": "2025-11-24T00:34:23.517Z"
       }
+    },
+    {
+      "userId": 8123150498,
+      "username": "k1021318",
+      "firstName": "My🐾",
+      "lastName": "Tv25",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:38:03.893Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:38:03.898Z"
+      }
+    },
+    {
+      "userId": 8206946008,
+      "username": "Roizanggono12k",
+      "firstName": "@roizz",
+      "lastName": "Anggono12",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:38:22.853Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:38:22.853Z"
+      }
+    },
+    {
+      "userId": 5679175345,
+      "firstName": "حمو المشاكس",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:38:26.778Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:38:26.778Z"
+      }
     }
   ],
   "groups": [
