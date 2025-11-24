@@ -4522,7 +4522,7 @@
         "$date": "2025-11-23T04:32:29.550000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T16:39:01.397Z"
+        "$date": "2025-11-24T18:30:57.779Z"
       }
     },
     {
@@ -21646,6 +21646,20 @@
       },
       "lastActive": {
         "$date": "2025-11-24T18:19:46.306Z"
+      }
+    },
+    {
+      "userId": 7342118326,
+      "username": "KIwi59802",
+      "firstName": "Alvaro",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T18:30:36.882Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T18:30:36.888Z"
       }
     }
   ],
