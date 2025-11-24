@@ -21449,6 +21449,19 @@
       "lastActive": {
         "$date": "2025-11-24T17:03:43.592Z"
       }
+    },
+    {
+      "userId": 8599341899,
+      "firstName": "فوضى القلوب",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T17:09:52.424Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T17:09:52.429Z"
+      }
     }
   ],
   "groups": [
