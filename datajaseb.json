@@ -16109,6 +16109,21 @@
       "lastActive": {
         "$date": "2025-11-24T02:57:03.064Z"
       }
+    },
+    {
+      "userId": 8402076711,
+      "username": "myownsammer",
+      "firstName": "Fer",
+      "lastName": "Naki",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T02:58:40.172Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T02:58:40.172Z"
+      }
     }
   ],
   "groups": [
