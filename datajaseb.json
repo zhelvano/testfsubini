@@ -16878,6 +16878,34 @@
       "lastActive": {
         "$date": "2025-11-24T06:03:35.536Z"
       }
+    },
+    {
+      "userId": 8596175431,
+      "username": "ryan001280",
+      "firstName": "YanYinYun.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:04:35.365Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:04:35.365Z"
+      }
+    },
+    {
+      "userId": 6781473856,
+      "username": "Udinese888",
+      "firstName": "998",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:04:35.564Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:04:35.564Z"
+      }
     }
   ],
   "groups": [
