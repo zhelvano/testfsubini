@@ -17619,6 +17619,19 @@
       "lastActive": {
         "$date": "2025-11-24T08:14:24.107Z"
       }
+    },
+    {
+      "userId": 7897213962,
+      "firstName": "عبدالرحیم",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T08:16:54.424Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T08:16:54.424Z"
+      }
     }
   ],
   "groups": [
