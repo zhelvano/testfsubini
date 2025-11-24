@@ -16624,6 +16624,19 @@
       "lastActive": {
         "$date": "2025-11-24T05:16:24.620Z"
       }
+    },
+    {
+      "userId": 8481244572,
+      "firstName": "Rahil Aja",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T05:20:14.568Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T05:20:14.568Z"
+      }
     }
   ],
   "groups": [
