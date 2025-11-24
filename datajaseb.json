@@ -22018,6 +22018,20 @@
       "lastActive": {
         "$date": "2025-11-24T20:28:16.669Z"
       }
+    },
+    {
+      "userId": 5419582547,
+      "username": "gwswarup1",
+      "firstName": "ꜱᴡᴀʀᴜᴘ ꜱᴀʜᴀ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T20:31:54.132Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T20:31:54.132Z"
+      }
     }
   ],
   "groups": [
