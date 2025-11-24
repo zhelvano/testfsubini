@@ -20461,6 +20461,19 @@
       "lastActive": {
         "$date": "2025-11-24T14:28:25.724Z"
       }
+    },
+    {
+      "userId": 8106764375,
+      "firstName": "خان سورسترگی زندانی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:29:22.560Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:29:22.561Z"
+      }
     }
   ],
   "groups": [
