@@ -16095,6 +16095,20 @@
       "lastActive": {
         "$date": "2025-11-24T02:43:43.989Z"
       }
+    },
+    {
+      "userId": 8078829312,
+      "username": "hypxxss_txror",
+      "firstName": "𝗛𝘆𝗽𝗼𝘀🇺🇸",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T02:57:03.064Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T02:57:03.064Z"
+      }
     }
   ],
   "groups": [
