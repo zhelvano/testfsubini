@@ -15572,6 +15572,20 @@
       "lastActive": {
         "$date": "2025-11-24T00:43:35.385Z"
       }
+    },
+    {
+      "userId": 7190613451,
+      "username": "dayeye12",
+      "firstName": "dayeye",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:44:26.593Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:44:26.593Z"
+      }
     }
   ],
   "groups": [
