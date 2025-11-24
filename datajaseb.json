@@ -22032,6 +22032,21 @@
       "lastActive": {
         "$date": "2025-11-24T20:31:54.132Z"
       }
+    },
+    {
+      "userId": 7902785288,
+      "username": "hamzamiun213",
+      "firstName": "Zeah",
+      "lastName": "Frshy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T20:34:40.567Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T20:34:40.568Z"
+      }
     }
   ],
   "groups": [
