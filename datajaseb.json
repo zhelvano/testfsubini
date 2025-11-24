@@ -17701,6 +17701,21 @@
       "lastActive": {
         "$date": "2025-11-24T08:30:43.949Z"
       }
+    },
+    {
+      "userId": 7509300721,
+      "username": "tosikuy",
+      "firstName": "𝙏𝙍𝙈¦—𝟔𝟗𝟔 𝙂𝘼𝙇𝙇 ˗ˏˋ ✞ ˎˊ˗",
+      "lastName": "(LAGI JUAL NOKOS)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T08:34:58.794Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T08:34:58.794Z"
+      }
     }
   ],
   "groups": [
