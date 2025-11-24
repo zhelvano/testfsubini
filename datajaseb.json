@@ -16791,6 +16791,35 @@
       "lastActive": {
         "$date": "2025-11-24T05:49:15.601Z"
       }
+    },
+    {
+      "userId": 1883904693,
+      "username": "Coiiigacorr",
+      "firstName": "ᴄᴏɪɪ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T05:55:08.727Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T05:55:08.727Z"
+      }
+    },
+    {
+      "userId": 7558836552,
+      "username": "elvicenzi",
+      "firstName": "@elvicenzi",
+      "lastName": "(Agen Pulsa,seller robux)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T05:55:17.882Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T05:55:17.883Z"
+      }
     }
   ],
   "groups": [
