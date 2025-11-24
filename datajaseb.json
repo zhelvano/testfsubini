@@ -22455,6 +22455,21 @@
       "lastActive": {
         "$date": "2025-11-24T22:26:29.756Z"
       }
+    },
+    {
+      "userId": 8241589260,
+      "username": "sikingke2",
+      "firstName": "King",
+      "lastName": "King nokozs",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T22:35:48.338Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T22:35:48.340Z"
+      }
     }
   ],
   "groups": [
