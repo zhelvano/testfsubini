@@ -21407,6 +21407,21 @@
       "lastActive": {
         "$date": "2025-11-24T16:51:11.289Z"
       }
+    },
+    {
+      "userId": 7041531561,
+      "username": "athramb",
+      "firstName": "Vitaman",
+      "lastName": "Live",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:52:53.356Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:52:53.356Z"
+      }
     }
   ],
   "groups": [
