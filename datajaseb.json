@@ -20880,6 +20880,20 @@
       "lastActive": {
         "$date": "2025-11-24T15:37:40.025Z"
       }
+    },
+    {
+      "userId": 8379974721,
+      "firstName": "iqbal",
+      "lastName": "mhmd",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T15:38:33.813Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T15:38:33.813Z"
+      }
     }
   ],
   "groups": [
