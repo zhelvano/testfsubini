@@ -15687,6 +15687,20 @@
       "lastActive": {
         "$date": "2025-11-24T01:14:08.911Z"
       }
+    },
+    {
+      "userId": 6503920752,
+      "username": "from_khazakztan",
+      "firstName": "Андрей Аль-Фаризки",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T01:18:58.269Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T01:18:58.269Z"
+      }
     }
   ],
   "groups": [
