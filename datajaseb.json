@@ -18525,6 +18525,21 @@
       "lastActive": {
         "$date": "2025-11-24T11:27:09.360Z"
       }
+    },
+    {
+      "userId": 8551809114,
+      "username": "YanzNew_Eraa",
+      "firstName": "⏤͟͟͞͞𝗫𝗬𝗟𝗘𝗡𝗧",
+      "lastName": "<||> 𝐕𝐕𝐈𝐏_-𝗬𝘆𝗮𝗻𝘇_𝗡𝗲𝘄𝗘𝗿𝗮 || 𝙁𝙡𝙤𝙬𝙚𝙧𝙨¹²",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:37:10.361Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:37:10.365Z"
+      }
     }
   ],
   "groups": [
