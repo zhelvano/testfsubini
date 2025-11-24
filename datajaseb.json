@@ -19695,6 +19695,34 @@
       "lastActive": {
         "$date": "2025-11-24T12:46:54.720Z"
       }
+    },
+    {
+      "userId": 7374685269,
+      "username": "wizzkin9",
+      "firstName": "pw",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:47:57.301Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:47:57.301Z"
+      }
+    },
+    {
+      "userId": 6898341747,
+      "username": "Brokenjanii",
+      "firstName": "٨ـﮩ.𝘽𝙍𝙊𝙆𝙀𝙉 ٨ـ💔ﮩﮩـ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:48:02.990Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:48:02.990Z"
+      }
     }
   ],
   "groups": [
