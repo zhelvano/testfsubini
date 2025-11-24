@@ -21731,6 +21731,21 @@
       "lastActive": {
         "$date": "2025-11-24T18:44:55.760Z"
       }
+    },
+    {
+      "userId": 5978005242,
+      "username": "lkrb295",
+      "firstName": "ابو سيف للقروض العامة",
+      "lastName": "تواصل وتساب 0539852545",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T18:58:44.646Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T18:58:44.652Z"
+      }
     }
   ],
   "groups": [
