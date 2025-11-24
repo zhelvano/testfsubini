@@ -20447,6 +20447,20 @@
       "lastActive": {
         "$date": "2025-11-24T14:20:46.773Z"
       }
+    },
+    {
+      "userId": 7554042094,
+      "username": "lexxyidgaf",
+      "firstName": "⏤͟͟͞͞Lexxy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:28:25.723Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:28:25.724Z"
+      }
     }
   ],
   "groups": [
