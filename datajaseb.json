@@ -16680,6 +16680,34 @@
       "lastActive": {
         "$date": "2025-11-24T05:25:15.363Z"
       }
+    },
+    {
+      "userId": 7086961750,
+      "username": "Qhueks",
+      "firstName": "𝘿𝙧𝙮。",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T05:27:37.671Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T05:27:37.671Z"
+      }
+    },
+    {
+      "userId": 6659234370,
+      "username": "Xza_dari01",
+      "firstName": ".𝙎𝙋 EJAKK",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T05:28:05.115Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T05:28:05.115Z"
+      }
     }
   ],
   "groups": [
