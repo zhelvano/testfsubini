@@ -16665,6 +16665,21 @@
       "lastActive": {
         "$date": "2025-11-24T05:22:10.721Z"
       }
+    },
+    {
+      "userId": 7104099840,
+      "username": "Chilsand",
+      "firstName": "Orang",
+      "lastName": "Biasa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T05:25:15.358Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T05:25:15.363Z"
+      }
     }
   ],
   "groups": [
