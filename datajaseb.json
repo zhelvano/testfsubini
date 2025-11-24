@@ -20569,6 +20569,19 @@
       "lastActive": {
         "$date": "2025-11-24T14:51:43.117Z"
       }
+    },
+    {
+      "userId": 7430981068,
+      "firstName": "Kokokk",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:53:14.026Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:53:14.026Z"
+      }
     }
   ],
   "groups": [
