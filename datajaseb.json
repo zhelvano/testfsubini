@@ -21589,6 +21589,20 @@
       "lastActive": {
         "$date": "2025-11-24T17:36:20.610Z"
       }
+    },
+    {
+      "userId": 6237205864,
+      "firstName": "Anime",
+      "lastName": "Lover",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T17:40:10.156Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T17:40:10.156Z"
+      }
     }
   ],
   "groups": [
