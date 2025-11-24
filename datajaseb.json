@@ -16349,6 +16349,20 @@
       "lastActive": {
         "$date": "2025-11-24T03:50:32.187Z"
       }
+    },
+    {
+      "userId": 6998859618,
+      "username": "Py_ARBAB_POYA",
+      "firstName": "𝐑𝚫Ⴤ𝐄𝐄𝐒ˣ𝐏𝐎Ⴤ𝚫 x̸ ꪜ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T03:54:53.503Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T03:54:53.503Z"
+      }
     }
   ],
   "groups": [
