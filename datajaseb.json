@@ -21561,6 +21561,20 @@
       "lastActive": {
         "$date": "2025-11-24T17:28:17.276Z"
       }
+    },
+    {
+      "userId": 8446967492,
+      "username": "mikeee6969",
+      "firstName": "mikee",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T17:33:13.073Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T17:33:13.073Z"
+      }
     }
   ],
   "groups": [
