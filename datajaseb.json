@@ -22427,6 +22427,20 @@
       "lastActive": {
         "$date": "2025-11-24T22:22:39.771Z"
       }
+    },
+    {
+      "userId": 7794160402,
+      "username": "gasz969",
+      "firstName": "",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T22:23:10.196Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T22:23:20.563Z"
+      }
     }
   ],
   "groups": [
