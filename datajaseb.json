@@ -15629,6 +15629,21 @@
       "lastActive": {
         "$date": "2025-11-24T00:46:41.736Z"
       }
+    },
+    {
+      "userId": 6843666568,
+      "username": "Lilytsxo2e",
+      "firstName": "Christana",
+      "lastName": "Diana🤖",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:53:53.351Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:53:53.359Z"
+      }
     }
   ],
   "groups": [
