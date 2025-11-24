@@ -19723,6 +19723,21 @@
       "lastActive": {
         "$date": "2025-11-24T12:48:02.990Z"
       }
+    },
+    {
+      "userId": 7375965486,
+      "username": "FaVe1136",
+      "firstName": "Favor",
+      "lastName": "Me",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:48:35.080Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:48:35.080Z"
+      }
     }
   ],
   "groups": [
