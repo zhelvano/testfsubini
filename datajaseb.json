@@ -17087,6 +17087,21 @@
       "lastActive": {
         "$date": "2025-11-24T06:29:12.282Z"
       }
+    },
+    {
+      "userId": 6259954205,
+      "username": "dokinggg1",
+      "firstName": "member",
+      "lastName": "jmk",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:30:20.891Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:30:20.891Z"
+      }
     }
   ],
   "groups": [
