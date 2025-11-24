@@ -17392,6 +17392,20 @@
       "lastActive": {
         "$date": "2025-11-24T07:40:28.178Z"
       }
+    },
+    {
+      "userId": 6225973481,
+      "username": "cq4you",
+      "firstName": "crl",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T07:40:58.053Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T07:40:58.053Z"
+      }
     }
   ],
   "groups": [
