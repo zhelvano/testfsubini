@@ -21150,6 +21150,21 @@
       "lastActive": {
         "$date": "2025-11-24T16:23:58.155Z"
       }
+    },
+    {
+      "userId": 6917780590,
+      "username": "Kyyps02",
+      "firstName": "Kyy",
+      "lastName": "Ps02",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:24:59.867Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:24:59.867Z"
+      }
     }
   ],
   "groups": [
