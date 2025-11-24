@@ -22202,6 +22202,33 @@
       "lastActive": {
         "$date": "2025-11-24T20:56:24.179Z"
       }
+    },
+    {
+      "userId": 1962794529,
+      "username": "O_s_1x",
+      "firstName": "ㅤㅤㅤㅤㅤㅤㅤㅤأسامة الحاشدي",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T21:00:37.428Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T21:00:37.433Z"
+      }
+    },
+    {
+      "userId": 8070796649,
+      "firstName": "lz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T21:00:45.840Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T21:00:45.840Z"
+      }
     }
   ],
   "groups": [
