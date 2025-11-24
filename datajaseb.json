@@ -20307,6 +20307,20 @@
       "lastActive": {
         "$date": "2025-11-24T14:04:32.853Z"
       }
+    },
+    {
+      "userId": 6404939689,
+      "username": "Faruk22497",
+      "firstName": "Faruk Hossen",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:05:48.162Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:05:48.165Z"
+      }
     }
   ],
   "groups": [
