@@ -15914,6 +15914,20 @@
       "lastActive": {
         "$date": "2025-11-24T01:52:22.602Z"
       }
+    },
+    {
+      "userId": 7711458408,
+      "username": "rhiadi",
+      "firstName": "𝙑𝙄𝙍𝙂𝙄𝙄𝘽𝘼𝘾𝙆𝙆",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T02:00:40.711Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T02:00:40.711Z"
+      }
     }
   ],
   "groups": [
