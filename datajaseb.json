@@ -16975,6 +16975,19 @@
       "lastActive": {
         "$date": "2025-11-24T06:14:35.632Z"
       }
+    },
+    {
+      "userId": 7285415321,
+      "firstName": "nuxx",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:16:51.935Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:16:51.935Z"
+      }
     }
   ],
   "groups": [
