@@ -102,19 +102,24 @@
       "userId": 8105447127,
       "firstName": "Second Rim",
       "groupsAdded": [
-        -1002548089026
+        -1002548089026,
+        -1003482156792
       ],
       "isAdmin": false,
-      "isPremium": false,
+      "isPremium": true,
       "joinedAt": {
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T11:49:42.053Z"
+        "$date": "2025-11-24T11:50:32.178Z"
       },
       "username": "RlMZOHUN",
-      "premiumSince": null,
-      "premiumExpiry": null
+      "premiumSince": {
+        "$date": "2025-11-24T11:50:10.060Z"
+      },
+      "premiumExpiry": {
+        "$date": "2025-11-26T11:50:10.060Z"
+      }
     },
     {
       "_id": {
@@ -18691,6 +18696,35 @@
       "lastActive": {
         "$date": "2025-11-24T11:45:55.640Z"
       }
+    },
+    {
+      "userId": 8061674469,
+      "username": "Natzuyou",
+      "firstName": "⏤͟͟͞͞Natzyy||Limitz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:50:23.535Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:50:23.535Z"
+      }
+    },
+    {
+      "userId": 8099700627,
+      "username": "quenscam",
+      "firstName": "ferr",
+      "lastName": "1559 o666 #curtycals",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:50:25.085Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:50:25.085Z"
+      }
     }
   ],
   "groups": [
@@ -18853,7 +18887,7 @@
       "title": ",,",
       "addedBy": 8105447127,
       "addedAt": {
-        "$date": "2025-11-24T11:42:06.678Z"
+        "$date": "2025-11-24T11:50:09.836Z"
       },
       "memberCount": 21
     },
