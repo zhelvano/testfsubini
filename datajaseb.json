@@ -18,7 +18,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T13:11:26.427Z"
+        "$date": "2025-11-24T13:12:13.597Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -19919,6 +19919,20 @@
       },
       "lastActive": {
         "$date": "2025-11-24T13:11:09.294Z"
+      }
+    },
+    {
+      "userId": 8063335892,
+      "username": "ZANGANTENGBET",
+      "firstName": "𝙕𝙖𝙣𝙭 || 𝘿𝙚𝙨𝙩𝙧𝙤⁴⁴⁴",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:12:09.391Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:12:09.391Z"
       }
     }
   ],
