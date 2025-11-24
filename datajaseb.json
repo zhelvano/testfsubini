@@ -179,8 +179,7 @@
       },
       "userId": 8439128139,
       "username": "ALZZSTORE123",
-      "firstName": "⏤͟͞͞𝐑𝐘𝐔𝐔 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋遠",
-      "lastName": null,
+      "firstName": "⏤͟͞͞𝐀𝐋𝐙𝐙 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋遠",
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -188,7 +187,7 @@
         "$date": "2025-11-23T01:04:24.246000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T01:04:24.246000Z"
+        "$date": "2025-11-24T12:31:44.346Z"
       }
     },
     {
@@ -19484,6 +19483,20 @@
       },
       "lastActive": {
         "$date": "2025-11-24T12:29:54.652Z"
+      }
+    },
+    {
+      "userId": 8353437300,
+      "firstName": "reree",
+      "lastName": "почему?",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:31:50.657Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:31:50.657Z"
       }
     }
   ],
