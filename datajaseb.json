@@ -19319,6 +19319,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:19:21.781Z"
       }
+    },
+    {
+      "userId": 8023925004,
+      "username": "geraldinegantengbgt",
+      "firstName": "Geraldine",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:20:29.549Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:20:29.549Z"
+      }
     }
   ],
   "groups": [
