@@ -110,7 +110,7 @@
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T12:28:56.213Z"
+        "$date": "2025-11-24T12:32:42.034Z"
       },
       "username": "RlMZOHUN",
       "premiumSince": null,
@@ -19497,6 +19497,20 @@
       },
       "lastActive": {
         "$date": "2025-11-24T12:31:50.657Z"
+      }
+    },
+    {
+      "userId": 7840362703,
+      "username": "iz3_x",
+      "firstName": "مصطفى الجابر🫆",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:32:34.101Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:32:34.105Z"
       }
     }
   ],
