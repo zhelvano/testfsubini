@@ -17897,6 +17897,20 @@
       "lastActive": {
         "$date": "2025-11-24T09:21:59.768Z"
       }
+    },
+    {
+      "userId": 8427294907,
+      "username": "Wlff0887",
+      "firstName": "查找表 （专注于销售WS/TG组）",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:26:27.844Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:26:27.844Z"
+      }
     }
   ],
   "groups": [
