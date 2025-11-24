@@ -20908,6 +20908,21 @@
       "lastActive": {
         "$date": "2025-11-24T15:44:48.329Z"
       }
+    },
+    {
+      "userId": 7472030923,
+      "username": "marup990",
+      "firstName": "Marup",
+      "lastName": "bhuiyan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T15:50:19.910Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T15:50:19.911Z"
+      }
     }
   ],
   "groups": [
