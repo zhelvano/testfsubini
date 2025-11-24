@@ -111,7 +111,7 @@
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T11:26:57.558Z"
+        "$date": "2025-11-24T11:27:11.575Z"
       },
       "username": "RlMZOHUN",
       "premiumSince": {
@@ -18511,6 +18511,20 @@
       "lastActive": {
         "$date": "2025-11-24T11:25:05.844Z"
       }
+    },
+    {
+      "userId": 7593899682,
+      "username": "tak_ramin",
+      "firstName": "📍⩇⩇:⩇َُِّ بےحوصلـہ📍 ‎‌‌",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:27:09.360Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:27:09.360Z"
+      }
     }
   ],
   "groups": [
@@ -18673,7 +18687,7 @@
       "title": ",,",
       "addedBy": 8105447127,
       "addedAt": {
-        "$date": "2025-11-23T22:28:50.775Z"
+        "$date": "2025-11-24T11:27:12.059Z"
       },
       "memberCount": 21
     },
