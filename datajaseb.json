@@ -17672,6 +17672,21 @@
       "lastActive": {
         "$date": "2025-11-24T08:22:19.500Z"
       }
+    },
+    {
+      "userId": 5353649176,
+      "username": "hirukhan99",
+      "firstName": "Hiru",
+      "lastName": "Khan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T08:23:48.445Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T08:23:48.445Z"
+      }
     }
   ],
   "groups": [
