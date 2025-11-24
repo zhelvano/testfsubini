@@ -18540,6 +18540,49 @@
       "lastActive": {
         "$date": "2025-11-24T11:37:10.365Z"
       }
+    },
+    {
+      "userId": 8586405426,
+      "firstName": "ریس انعام",
+      "lastName": "بغلان",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:39:27.571Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:39:27.571Z"
+      }
+    },
+    {
+      "userId": 8009492715,
+      "username": "cacul",
+      "firstName": "acil",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:39:32.415Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:39:32.415Z"
+      }
+    },
+    {
+      "userId": 6589852460,
+      "username": "Crackbin786",
+      "firstName": "System",
+      "lastName": "Error",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:39:41.168Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:39:41.168Z"
+      }
     }
   ],
   "groups": [
