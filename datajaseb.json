@@ -17337,6 +17337,20 @@
       "lastActive": {
         "$date": "2025-11-24T07:33:43.999Z"
       }
+    },
+    {
+      "userId": 7595814768,
+      "username": "SeIIernokos",
+      "firstName": "Hanz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T07:34:11.967Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T07:34:11.967Z"
+      }
     }
   ],
   "groups": [
