@@ -20378,6 +20378,20 @@
       "lastActive": {
         "$date": "2025-11-24T14:08:21.220Z"
       }
+    },
+    {
+      "userId": 7386659560,
+      "username": "The_Sakib_0",
+      "firstName": "⏤͟͞𝑴𝒅 𝑺𝒂𝒌𝒊𝒃",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:11:44.453Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:11:44.453Z"
+      }
     }
   ],
   "groups": [
