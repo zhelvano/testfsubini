@@ -22588,6 +22588,20 @@
       "lastActive": {
         "$date": "2025-11-24T23:02:09.979Z"
       }
+    },
+    {
+      "userId": 7895803570,
+      "firstName": "Nahid",
+      "lastName": "Hassan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T23:03:14.518Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T23:03:14.518Z"
+      }
     }
   ],
   "groups": [
