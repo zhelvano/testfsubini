@@ -16454,6 +16454,20 @@
       "lastActive": {
         "$date": "2025-11-24T04:12:46.219Z"
       }
+    },
+    {
+      "userId": 8325900189,
+      "firstName": "Ali",
+      "lastName": "Brand",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T04:21:15.339Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T04:21:15.339Z"
+      }
     }
   ],
   "groups": [
