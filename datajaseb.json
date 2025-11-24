@@ -16292,6 +16292,21 @@
       "lastActive": {
         "$date": "2025-11-24T03:37:31.883Z"
       }
+    },
+    {
+      "userId": 8333453884,
+      "username": "Fajar7788",
+      "firstName": "zay",
+      "lastName": "fajar",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T03:38:28.123Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T03:38:28.124Z"
+      }
     }
   ],
   "groups": [
