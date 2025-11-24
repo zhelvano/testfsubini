@@ -18384,6 +18384,20 @@
       "lastActive": {
         "$date": "2025-11-24T10:53:59.571Z"
       }
+    },
+    {
+      "userId": 7942658923,
+      "username": "mkrmkr38",
+      "firstName": "Abdul Mannan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T10:55:39.739Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T10:55:39.739Z"
+      }
     }
   ],
   "groups": [
