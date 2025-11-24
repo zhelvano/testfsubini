@@ -15485,6 +15485,21 @@
       "lastActive": {
         "$date": "2025-11-24T00:32:51.337Z"
       }
+    },
+    {
+      "userId": 8207945560,
+      "username": "linxzy1",
+      "firstName": "Zii",
+      "lastName": "Need Pacar",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:33:46.716Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:33:46.716Z"
+      }
     }
   ],
   "groups": [
