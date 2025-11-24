@@ -111,7 +111,7 @@
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T12:21:55.585Z"
+        "$date": "2025-11-24T12:22:13.903Z"
       },
       "username": "RlMZOHUN",
       "premiumSince": {
@@ -19346,6 +19346,20 @@
       },
       "lastActive": {
         "$date": "2025-11-24T12:21:43.205Z"
+      }
+    },
+    {
+      "userId": 7289484285,
+      "username": "Janzz025",
+      "firstName": "詹茲好男孩",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:22:16.252Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:22:16.252Z"
       }
     }
   ],
