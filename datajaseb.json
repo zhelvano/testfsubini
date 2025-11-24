@@ -19780,6 +19780,19 @@
       "lastActive": {
         "$date": "2025-11-24T12:52:29.362Z"
       }
+    },
+    {
+      "userId": 7535491567,
+      "firstName": "Arulz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:53:23.261Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:53:23.261Z"
+      }
     }
   ],
   "groups": [
