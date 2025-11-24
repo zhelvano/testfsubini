@@ -20738,6 +20738,20 @@
       "lastActive": {
         "$date": "2025-11-24T15:12:57.262Z"
       }
+    },
+    {
+      "userId": 8287723898,
+      "firstName": "نیازمحمد",
+      "lastName": "ګندهاری",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T15:16:45.675Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T15:16:45.679Z"
+      }
     }
   ],
   "groups": [
