@@ -5003,9 +5003,7 @@
         "$oid": "6922913ad36a0357c0e0bd6c"
       },
       "userId": 8091035300,
-      "username": null,
       "firstName": "Nampung gc",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -5013,7 +5011,7 @@
         "$date": "2025-11-23T04:44:42.607000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T04:44:42.607000Z"
+        "$date": "2025-11-24T10:06:04.213Z"
       }
     },
     {
