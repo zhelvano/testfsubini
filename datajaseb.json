@@ -21975,6 +21975,20 @@
       "lastActive": {
         "$date": "2025-11-24T20:18:42.862Z"
       }
+    },
+    {
+      "userId": 1672847094,
+      "username": "mahmoud_elshrqawy",
+      "firstName": "آلَشــرقــآوُى👽",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T20:20:57.416Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T20:20:57.423Z"
+      }
     }
   ],
   "groups": [
