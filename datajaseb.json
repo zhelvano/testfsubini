@@ -22515,6 +22515,20 @@
       "lastActive": {
         "$date": "2025-11-24T22:53:10.329Z"
       }
+    },
+    {
+      "userId": 915417440,
+      "firstName": "عوض",
+      "lastName": "الله",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T22:56:17.047Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T22:56:17.047Z"
+      }
     }
   ],
   "groups": [
