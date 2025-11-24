@@ -16637,6 +16637,21 @@
       "lastActive": {
         "$date": "2025-11-24T05:20:14.568Z"
       }
+    },
+    {
+      "userId": 1336706580,
+      "username": "iYanz09",
+      "firstName": "Y",
+      "lastName": "302",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T05:21:29.567Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T05:21:29.567Z"
+      }
     }
   ],
   "groups": [
