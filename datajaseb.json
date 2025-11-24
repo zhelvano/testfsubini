@@ -18468,6 +18468,21 @@
       "lastActive": {
         "$date": "2025-11-24T11:03:10.106Z"
       }
+    },
+    {
+      "userId": 7295616439,
+      "username": "vinzzbotz",
+      "firstName": "Vinn",
+      "lastName": "Stroee",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:10:25.029Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:10:25.035Z"
+      }
     }
   ],
   "groups": [
