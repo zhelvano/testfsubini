@@ -19471,6 +19471,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:29:32.847Z"
       }
+    },
+    {
+      "userId": 8409390100,
+      "username": "Txysz",
+      "firstName": "kepowxz(Open Unband lumut batu)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:29:54.652Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:29:54.652Z"
+      }
     }
   ],
   "groups": [
