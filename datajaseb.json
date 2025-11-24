@@ -15362,12 +15362,14 @@
       "firstName": "𝙓 - 𝙇𝙤𝙡𝙞𝙥𝙤𝙥 | 𝙕𝘼𝙍𝙍",
       "isPremium": false,
       "isAdmin": false,
-      "groupsAdded": [],
+      "groupsAdded": [
+        -1002967915534
+      ],
       "joinedAt": {
         "$date": "2025-11-24T00:16:33.972Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T00:20:27.275Z"
+        "$date": "2025-11-24T00:20:51.690Z"
       }
     },
     {
@@ -15381,6 +15383,20 @@
       },
       "lastActive": {
         "$date": "2025-11-24T00:20:11.310Z"
+      }
+    },
+    {
+      "userId": 5633018990,
+      "username": "MR_SABBIR1",
+      "firstName": "ՏΛBBᎥᏒ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:20:49.210Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:20:49.210Z"
       }
     }
   ],
@@ -15664,6 +15680,15 @@
         "$date": "2025-11-24T00:20:03.319Z"
       },
       "memberCount": 4
+    },
+    {
+      "groupId": -1002967915534,
+      "title": "𝐌𝐔𝐑𝐁𝐔𝐆 𝐏𝐑𝐈𝐕𝐀𝐓 𝐁𝐘 𝐙𝐀𝐑𝐑🥶🔥",
+      "addedBy": 8035037851,
+      "addedAt": {
+        "$date": "2025-11-24T00:20:51.687Z"
+      },
+      "memberCount": 21
     }
   ]
 }
