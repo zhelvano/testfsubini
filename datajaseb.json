@@ -19087,6 +19087,21 @@
       "lastActive": {
         "$date": "2025-11-24T12:03:58.470Z"
       }
+    },
+    {
+      "userId": 5264469967,
+      "username": "Faysal616",
+      "firstName": "زول",
+      "lastName": "زواويل",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:04:42.856Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:04:42.856Z"
+      }
     }
   ],
   "groups": [
