@@ -7595,9 +7595,7 @@
         "$oid": "6922a7694e23132d6f0aa3dd"
       },
       "userId": 8011698181,
-      "username": null,
       "firstName": "A",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -7605,7 +7603,7 @@
         "$date": "2025-11-23T06:19:21.480000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T22:17:44.551Z"
+        "$date": "2025-11-24T07:16:20.944Z"
       },
       "lastSeen": "2025-11-23T22:17:44.548Z"
     },
