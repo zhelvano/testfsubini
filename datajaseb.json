@@ -19,7 +19,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T13:46:17.394Z"
+        "$date": "2025-11-24T13:46:47.066Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -20142,7 +20142,7 @@
         "$date": "2025-11-24T13:45:14.506Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T13:45:14.506Z"
+        "$date": "2025-11-24T13:46:20.618Z"
       }
     },
     {
@@ -20158,6 +20158,36 @@
       },
       "lastActive": {
         "$date": "2025-11-24T13:45:40.289Z"
+      }
+    },
+    {
+      "userId": 5873131737,
+      "username": "Mimichan17",
+      "firstName": "Mimi",
+      "lastName": "Chan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:46:20.618Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:46:20.618Z"
+      }
+    },
+    {
+      "userId": 7838148285,
+      "username": "Wilazx",
+      "firstName": "WILZZ",
+      "lastName": "Tzy🤓",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:46:37.131Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:46:37.131Z"
       }
     }
   ],
