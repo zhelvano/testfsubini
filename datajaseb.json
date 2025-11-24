@@ -16652,6 +16652,19 @@
       "lastActive": {
         "$date": "2025-11-24T05:21:29.567Z"
       }
+    },
+    {
+      "userId": 6734304878,
+      "firstName": "Euronymous",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T05:22:10.721Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T05:22:10.721Z"
+      }
     }
   ],
   "groups": [
