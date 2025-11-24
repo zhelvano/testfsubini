@@ -20129,6 +20129,20 @@
       "lastActive": {
         "$date": "2025-11-24T13:43:44.140Z"
       }
+    },
+    {
+      "userId": 8250293175,
+      "firstName": "ریس احمد مزار ریپورتر",
+      "lastName": "اربابی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:45:14.506Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:45:14.506Z"
+      }
     }
   ],
   "groups": [
