@@ -18315,6 +18315,20 @@
       "lastActive": {
         "$date": "2025-11-24T10:41:39.828Z"
       }
+    },
+    {
+      "userId": 7496429398,
+      "username": "scqpm",
+      "firstName": "حمـزهہ‌‏ | 《ＯＰ》",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T10:45:06.140Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T10:45:06.140Z"
+      }
     }
   ],
   "groups": [
