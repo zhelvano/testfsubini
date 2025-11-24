@@ -19361,6 +19361,21 @@
       "lastActive": {
         "$date": "2025-11-24T12:22:16.252Z"
       }
+    },
+    {
+      "userId": 7529527408,
+      "username": "HaJi_9255",
+      "firstName": "ܟߺߊ‌ܟ᳝ߺܨ",
+      "lastName": "ߊ‌ܢߺ߭ܢߺ࡙ܠ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:23:35.810Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:23:35.810Z"
+      }
     }
   ],
   "groups": [
