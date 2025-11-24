@@ -18079,6 +18079,20 @@
       "lastActive": {
         "$date": "2025-11-24T09:40:47.526Z"
       }
+    },
+    {
+      "userId": 8156909340,
+      "username": "renaader",
+      "firstName": "renn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:41:50.710Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:41:50.710Z"
+      }
     }
   ],
   "groups": [
