@@ -21079,6 +21079,20 @@
       "lastActive": {
         "$date": "2025-11-24T16:12:11.536Z"
       }
+    },
+    {
+      "userId": 7843215056,
+      "username": "Cullzzzz",
+      "firstName": "无忧- Cullzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:14:35.963Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:14:35.963Z"
+      }
     }
   ],
   "groups": [
