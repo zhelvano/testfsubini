@@ -22741,6 +22741,20 @@
       "lastActive": {
         "$date": "2025-11-24T23:31:14.303Z"
       }
+    },
+    {
+      "userId": 6281530589,
+      "username": "BRDY_2",
+      "firstName": "𝕭𝕽𝕺𝕯𝖄 ✧ ✧",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T23:38:42.704Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T23:38:42.704Z"
+      }
     }
   ],
   "groups": [
