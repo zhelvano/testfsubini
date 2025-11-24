@@ -15586,6 +15586,49 @@
       "lastActive": {
         "$date": "2025-11-24T00:44:26.593Z"
       }
+    },
+    {
+      "userId": 6414277104,
+      "username": "Azharul868",
+      "firstName": "Md🍅",
+      "lastName": "Azaharul",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:46:36.757Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:46:36.757Z"
+      }
+    },
+    {
+      "userId": 6329926441,
+      "firstName": "Creutzfeldt",
+      "lastName": "Synch",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:46:37.645Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:46:37.645Z"
+      }
+    },
+    {
+      "userId": 8055377112,
+      "username": "foryourpagehhe",
+      "firstName": "nonsense 🍂",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:46:41.736Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:46:41.736Z"
+      }
     }
   ],
   "groups": [
