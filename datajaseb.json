@@ -17253,6 +17253,19 @@
       "lastActive": {
         "$date": "2025-11-24T07:09:36.977Z"
       }
+    },
+    {
+      "userId": 7960809708,
+      "firstName": "😇ع-ب-د-الله جان🏴‍☠️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T07:25:19.163Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T07:25:19.167Z"
+      }
     }
   ],
   "groups": [
