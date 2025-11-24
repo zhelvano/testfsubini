@@ -18228,6 +18228,21 @@
       "lastActive": {
         "$date": "2025-11-24T10:08:01.753Z"
       }
+    },
+    {
+      "userId": 8501553108,
+      "username": "pregnatasf678",
+      "firstName": "Ashley",
+      "lastName": "Cavil",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T10:15:10.820Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T10:15:10.830Z"
+      }
     }
   ],
   "groups": [
