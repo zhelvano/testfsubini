@@ -21688,6 +21688,20 @@
       "lastActive": {
         "$date": "2025-11-24T18:37:21.578Z"
       }
+    },
+    {
+      "userId": 8132287203,
+      "username": "Mmmmt688",
+      "firstName": "Mohamed Adel",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T18:42:25.176Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T18:42:25.181Z"
+      }
     }
   ],
   "groups": [
