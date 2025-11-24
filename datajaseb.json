@@ -21618,6 +21618,21 @@
       "lastActive": {
         "$date": "2025-11-24T17:40:54.989Z"
       }
+    },
+    {
+      "userId": 6979240300,
+      "username": "Quatro6677",
+      "firstName": "Sajib",
+      "lastName": "Hira",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T17:57:43.273Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T17:57:43.273Z"
+      }
     }
   ],
   "groups": [
