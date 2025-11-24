@@ -110,7 +110,7 @@
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T11:42:22.484Z"
+        "$date": "2025-11-24T11:43:02.667Z"
       },
       "username": "RlMZOHUN",
       "premiumSince": null,
@@ -18977,6 +18977,15 @@
         "$date": "2025-11-24T09:51:46.738Z"
       },
       "memberCount": 53
+    },
+    {
+      "groupId": -5016129138,
+      "title": "testing",
+      "addedBy": 8105447127,
+      "addedAt": {
+        "$date": "2025-11-24T11:43:02.877Z"
+      },
+      "memberCount": 4
     }
   ]
 }
