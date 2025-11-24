@@ -19117,6 +19117,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:05:28.105Z"
       }
+    },
+    {
+      "userId": 6614719637,
+      "username": "XaTenTaCion",
+      "firstName": "⏤𝐙𝐫𝐚𝐚 𝐀 𝐆𝐞𝐧𝐞𝐫𝐨𝐮𝐬 𝐌𝐚𝐧 ⏤͟͟͞͞💸",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:06:42.794Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:06:42.794Z"
+      }
     }
   ],
   "groups": [
