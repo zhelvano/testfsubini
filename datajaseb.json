@@ -18923,6 +18923,35 @@
       "lastActive": {
         "$date": "2025-11-24T11:56:03.065Z"
       }
+    },
+    {
+      "userId": 7692921178,
+      "username": "maklohadeh",
+      "firstName": "rһᥱᥒz𝗍᥆ძ",
+      "lastName": "么",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:56:34.179Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:56:34.179Z"
+      }
+    },
+    {
+      "userId": 5196603940,
+      "username": "Lig4ss",
+      "firstName": "gilzzy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:56:36.893Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:56:36.893Z"
+      }
     }
   ],
   "groups": [
