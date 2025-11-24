@@ -21052,6 +21052,20 @@
       "lastActive": {
         "$date": "2025-11-24T16:10:26.009Z"
       }
+    },
+    {
+      "userId": 6455091216,
+      "username": "Cemalandmeee",
+      "firstName": "Cemal shopping",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:11:40.951Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:11:40.951Z"
+      }
     }
   ],
   "groups": [
