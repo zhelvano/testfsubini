@@ -15442,6 +15442,34 @@
       "lastActive": {
         "$date": "2025-11-24T00:26:50.445Z"
       }
+    },
+    {
+      "userId": 6379574933,
+      "username": "fikrimuafi",
+      "firstName": "Jiwoo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:30:19.403Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:30:19.403Z"
+      }
+    },
+    {
+      "userId": 5324686601,
+      "username": "glamouronfy",
+      "firstName": "alipp da moréna",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:30:21.100Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:30:21.100Z"
+      }
     }
   ],
   "groups": [
