@@ -17185,6 +17185,20 @@
       "lastActive": {
         "$date": "2025-11-24T06:48:11.847Z"
       }
+    },
+    {
+      "userId": 8160445526,
+      "username": "callme_kyyxzz",
+      "firstName": "kyy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:50:43.007Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:50:58.859Z"
+      }
     }
   ],
   "groups": [
