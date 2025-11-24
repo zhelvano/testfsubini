@@ -16335,6 +16335,20 @@
       "lastActive": {
         "$date": "2025-11-24T03:40:01.927Z"
       }
+    },
+    {
+      "userId": 6428905235,
+      "username": "Bypqueo",
+      "firstName": "Unsupported characters",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T03:50:32.183Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T03:50:32.187Z"
+      }
     }
   ],
   "groups": [
