@@ -22146,6 +22146,20 @@
       "lastActive": {
         "$date": "2025-11-24T20:51:29.241Z"
       }
+    },
+    {
+      "userId": 8204537747,
+      "username": "Pinzzalpin",
+      "firstName": "⏤͞𝟒𝐊 alpin",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T20:54:58.373Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T20:54:58.379Z"
+      }
     }
   ],
   "groups": [
