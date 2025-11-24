@@ -21293,6 +21293,20 @@
       "lastActive": {
         "$date": "2025-11-24T16:40:49.961Z"
       }
+    },
+    {
+      "userId": 6621426033,
+      "firstName": "Ali",
+      "lastName": "Khan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:41:41.884Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:41:41.884Z"
+      }
     }
   ],
   "groups": [
