@@ -21393,6 +21393,20 @@
       "lastActive": {
         "$date": "2025-11-24T16:49:11.597Z"
       }
+    },
+    {
+      "userId": 7382077513,
+      "firstName": "Ai Rohaeni",
+      "lastName": "Ai",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:51:11.289Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:51:11.289Z"
+      }
     }
   ],
   "groups": [
