@@ -20102,6 +20102,20 @@
       "lastActive": {
         "$date": "2025-11-24T13:41:28.433Z"
       }
+    },
+    {
+      "userId": 7821238145,
+      "firstName": "Af",
+      "lastName": "Ds",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:42:06.266Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:42:06.267Z"
+      }
     }
   ],
   "groups": [
