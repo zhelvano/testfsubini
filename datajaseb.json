@@ -15942,6 +15942,20 @@
       "lastActive": {
         "$date": "2025-11-24T02:05:25.600Z"
       }
+    },
+    {
+      "userId": 8235335877,
+      "username": "dilzz444",
+      "firstName": "ᅠᅠᅠ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T02:09:34.665Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T02:09:34.665Z"
+      }
     }
   ],
   "groups": [
