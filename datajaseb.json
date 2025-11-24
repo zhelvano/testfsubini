@@ -102,19 +102,24 @@
       "userId": 8105447127,
       "firstName": "Second Rim",
       "groupsAdded": [
-        -1002548089026
+        -1002548089026,
+        -1003482156792
       ],
       "isAdmin": false,
-      "isPremium": false,
+      "isPremium": true,
       "joinedAt": {
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T11:59:33.667Z"
+        "$date": "2025-11-24T12:00:09.350Z"
       },
       "username": "RlMZOHUN",
-      "premiumSince": null,
-      "premiumExpiry": null
+      "premiumSince": {
+        "$date": "2025-11-24T12:00:09.350Z"
+      },
+      "premiumExpiry": {
+        "$date": "2025-11-26T12:00:09.350Z"
+      }
     },
     {
       "_id": {
@@ -18962,6 +18967,48 @@
       "lastActive": {
         "$date": "2025-11-24T11:59:35.291Z"
       }
+    },
+    {
+      "userId": 7800948081,
+      "username": "woadn",
+      "firstName": "𝐒",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:59:42.772Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:59:42.772Z"
+      }
+    },
+    {
+      "userId": 8584398061,
+      "username": "hoftxyn",
+      "firstName": "xyween",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:59:48.052Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:59:48.052Z"
+      }
+    },
+    {
+      "userId": 5431205920,
+      "username": "Skyncek14",
+      "firstName": "꠵ࣧࣧࣧࣧࣧࣧࣧࣧ𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ࿆࿆I ⪻ŚӃ𝙔𝑁𝙘€",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:59:49.360Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:59:49.360Z"
+      }
     }
   ],
   "groups": [
@@ -19124,7 +19171,7 @@
       "title": ",,",
       "addedBy": 8105447127,
       "addedAt": {
-        "$date": "2025-11-24T11:50:09.836Z"
+        "$date": "2025-11-24T12:00:09.132Z"
       },
       "memberCount": 21
     },
