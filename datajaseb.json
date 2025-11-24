@@ -16947,6 +16947,34 @@
       "lastActive": {
         "$date": "2025-11-24T06:11:05.054Z"
       }
+    },
+    {
+      "userId": 6776097107,
+      "username": "Landak319",
+      "firstName": "Pred",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:14:21.460Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:14:21.460Z"
+      }
+    },
+    {
+      "userId": 7591122792,
+      "username": "Farhn411",
+      "firstName": "..",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:14:35.632Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:14:35.632Z"
+      }
     }
   ],
   "groups": [
