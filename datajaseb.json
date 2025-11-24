@@ -17871,6 +17871,34 @@
       "lastActive": {
         "$date": "2025-11-24T09:18:30.701Z"
       }
+    },
+    {
+      "userId": 8017064340,
+      "username": "RIDDA_REKBER",
+      "firstName": "Kacung",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:21:54.717Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:21:54.717Z"
+      }
+    },
+    {
+      "userId": 6463822068,
+      "username": "WDPW99",
+      "firstName": "𝗸𝗶𝗸𝗶",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:21:59.768Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:21:59.768Z"
+      }
     }
   ],
   "groups": [
