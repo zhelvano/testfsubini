@@ -20461,6 +20461,20 @@
       "lastActive": {
         "$date": "2025-11-24T14:38:09.056Z"
       }
+    },
+    {
+      "userId": 5938911026,
+      "username": "abisyntx",
+      "firstName": "✧ 𝗔𝗕𝗜 ⏤𝗦 𝗬 𝗡 𝗧 𝗫",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:39:25.584Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:39:25.584Z"
+      }
     }
   ],
   "groups": [
