@@ -20262,6 +20262,21 @@
       "lastActive": {
         "$date": "2025-11-24T13:54:08.667Z"
       }
+    },
+    {
+      "userId": 1194584658,
+      "username": "mkmim1",
+      "firstName": "MK",
+      "lastName": "MiM",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:58:36.635Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:58:36.638Z"
+      }
     }
   ],
   "groups": [
