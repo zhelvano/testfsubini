@@ -19892,6 +19892,20 @@
       "lastActive": {
         "$date": "2025-11-24T13:08:41.360Z"
       }
+    },
+    {
+      "userId": 8413797866,
+      "username": "bomfyuo",
+      "firstName": "M COMEBACK",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:10:06.415Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:10:06.418Z"
+      }
     }
   ],
   "groups": [
