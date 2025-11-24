@@ -22324,6 +22324,20 @@
       "lastActive": {
         "$date": "2025-11-24T21:50:08.828Z"
       }
+    },
+    {
+      "userId": 7151363875,
+      "username": "DezzTobrut",
+      "firstName": "德兹",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T21:51:36.006Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T21:51:36.006Z"
+      }
     }
   ],
   "groups": [
