@@ -22727,6 +22727,20 @@
       "lastActive": {
         "$date": "2025-11-24T23:28:18.098Z"
       }
+    },
+    {
+      "userId": 6915427564,
+      "username": "xviuondo",
+      "firstName": "(✶) 1559",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T23:31:14.303Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T23:31:14.303Z"
+      }
     }
   ],
   "groups": [
