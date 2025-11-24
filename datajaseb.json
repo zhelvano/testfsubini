@@ -17827,6 +17827,21 @@
       "lastActive": {
         "$date": "2025-11-24T09:02:31.722Z"
       }
+    },
+    {
+      "userId": 8109784581,
+      "username": "Ejzbjek",
+      "firstName": "Mustafa",
+      "lastName": "Akbari",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:03:58.911Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:03:58.911Z"
+      }
     }
   ],
   "groups": [
