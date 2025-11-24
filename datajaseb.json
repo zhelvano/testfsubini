@@ -21633,6 +21633,20 @@
       "lastActive": {
         "$date": "2025-11-24T17:57:43.273Z"
       }
+    },
+    {
+      "userId": 5467458580,
+      "username": "F4rszd",
+      "firstName": "Fars",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T18:19:46.302Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T18:19:46.306Z"
+      }
     }
   ],
   "groups": [
