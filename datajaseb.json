@@ -19878,6 +19878,20 @@
       "lastActive": {
         "$date": "2025-11-24T13:05:03.644Z"
       }
+    },
+    {
+      "userId": 6597237826,
+      "username": "s0ourcek",
+      "firstName": "RAPZZ OPEN MC",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:08:41.354Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:08:41.360Z"
+      }
     }
   ],
   "groups": [
