@@ -15729,6 +15729,20 @@
       "lastActive": {
         "$date": "2025-11-24T01:23:24.825Z"
       }
+    },
+    {
+      "userId": 6219016552,
+      "username": "da_legend",
+      "firstName": "Legend",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T01:23:52.906Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T01:23:52.906Z"
+      }
     }
   ],
   "groups": [
