@@ -20474,6 +20474,19 @@
       "lastActive": {
         "$date": "2025-11-24T14:39:25.584Z"
       }
+    },
+    {
+      "userId": 8221207953,
+      "firstName": "Gg",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:43:02.361Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:43:02.361Z"
+      }
     }
   ],
   "groups": [
