@@ -17519,6 +17519,35 @@
       "lastActive": {
         "$date": "2025-11-24T08:01:14.109Z"
       }
+    },
+    {
+      "userId": 7389540866,
+      "username": "V_N9M",
+      "firstName": "..",
+      "lastName": "ouf",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T08:02:42.714Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T08:02:42.714Z"
+      }
+    },
+    {
+      "userId": 8393649146,
+      "username": "LotusChild00",
+      "firstName": "! 越南官方 🇻🇳",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T08:02:48.694Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T08:02:48.694Z"
+      }
     }
   ],
   "groups": [
