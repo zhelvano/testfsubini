@@ -16482,6 +16482,20 @@
       "lastActive": {
         "$date": "2025-11-24T04:25:26.183Z"
       }
+    },
+    {
+      "userId": 8329520456,
+      "firstName": "لــཀོــوےبــغــཀོـــلانــے ᯓ⁪⁬",
+      "lastName": "420",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T04:31:22.964Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T04:31:22.964Z"
+      }
     }
   ],
   "groups": [
