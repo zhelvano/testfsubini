@@ -22229,6 +22229,19 @@
       "lastActive": {
         "$date": "2025-11-24T21:00:45.840Z"
       }
+    },
+    {
+      "userId": 7874700089,
+      "firstName": "🌹جانسیف خان 🌹",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T21:14:47.549Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T21:14:47.549Z"
+      }
     }
   ],
   "groups": [
