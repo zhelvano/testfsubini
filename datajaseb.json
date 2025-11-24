@@ -20447,6 +20447,20 @@
       "lastActive": {
         "$date": "2025-11-24T14:20:46.773Z"
       }
+    },
+    {
+      "userId": 8155076257,
+      "username": "JokiCsrGess",
+      "firstName": "OYYO X",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:38:09.054Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:38:09.056Z"
+      }
     }
   ],
   "groups": [
