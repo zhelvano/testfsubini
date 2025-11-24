@@ -16221,6 +16221,34 @@
       "lastActive": {
         "$date": "2025-11-24T03:27:22.855Z"
       }
+    },
+    {
+      "userId": 6351428823,
+      "firstName": "*الزعيم المخفي الهاكر*",
+      "lastName": "2012",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T03:28:57.055Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T03:28:57.055Z"
+      }
+    },
+    {
+      "userId": 5904009317,
+      "username": "Bjeyku",
+      "firstName": "BJey",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T03:29:11.409Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T03:29:11.409Z"
+      }
     }
   ],
   "groups": [
