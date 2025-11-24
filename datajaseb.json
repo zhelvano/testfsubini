@@ -17434,6 +17434,20 @@
       "lastActive": {
         "$date": "2025-11-24T07:50:29.075Z"
       }
+    },
+    {
+      "userId": 7897388597,
+      "username": "Basogoreng23",
+      "firstName": "ANDRI",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T07:53:17.930Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T07:53:17.930Z"
+      }
     }
   ],
   "groups": [
