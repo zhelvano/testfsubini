@@ -20923,6 +20923,19 @@
       "lastActive": {
         "$date": "2025-11-24T15:50:19.911Z"
       }
+    },
+    {
+      "userId": 2071188270,
+      "firstName": "🌃",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T15:52:29.886Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T15:52:29.886Z"
+      }
     }
   ],
   "groups": [
