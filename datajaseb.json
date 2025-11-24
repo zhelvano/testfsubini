@@ -20033,6 +20033,19 @@
       "lastActive": {
         "$date": "2025-11-24T13:21:52.084Z"
       }
+    },
+    {
+      "userId": 8239623388,
+      "firstName": "آوٌآزٍ خِوٌآنِ عٌآشُقُ بًچٓهّ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:32:46.612Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:32:46.617Z"
+      }
     }
   ],
   "groups": [
