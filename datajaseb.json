@@ -17017,6 +17017,20 @@
       "lastActive": {
         "$date": "2025-11-24T06:21:16.636Z"
       }
+    },
+    {
+      "userId": 7860524753,
+      "username": "Himo098",
+      "firstName": "Riyan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:21:23.601Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:21:23.601Z"
+      }
     }
   ],
   "groups": [
