@@ -20500,6 +20500,20 @@
       "lastActive": {
         "$date": "2025-11-24T14:45:33.955Z"
       }
+    },
+    {
+      "userId": 8381877025,
+      "firstName": "Arain",
+      "lastName": "Zada",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:46:04.543Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:46:04.543Z"
+      }
     }
   ],
   "groups": [
