@@ -16249,6 +16249,20 @@
       "lastActive": {
         "$date": "2025-11-24T03:29:11.409Z"
       }
+    },
+    {
+      "userId": 7337925651,
+      "username": "VinzxOffc",
+      "firstName": "⏤͟͟͞͞𝐗𝐈𝐎𝐑 || 𝐕𝐈𝐍𝐙",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T03:30:00.248Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T03:30:00.248Z"
+      }
     }
   ],
   "groups": [
