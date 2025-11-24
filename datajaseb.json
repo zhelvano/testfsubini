@@ -21008,6 +21008,20 @@
       "lastActive": {
         "$date": "2025-11-24T16:02:31.849Z"
       }
+    },
+    {
+      "userId": 7600810583,
+      "username": "panzvip",
+      "firstName": "rrep4n jir",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:06:58.975Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:06:58.975Z"
+      }
     }
   ],
   "groups": [
