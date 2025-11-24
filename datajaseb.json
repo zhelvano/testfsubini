@@ -18650,6 +18650,20 @@
       "lastActive": {
         "$date": "2025-11-24T11:42:42.868Z"
       }
+    },
+    {
+      "userId": 7620021716,
+      "username": "Myclashofclanss",
+      "firstName": "π∆",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:43:50.758Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:43:50.758Z"
+      }
     }
   ],
   "groups": [
