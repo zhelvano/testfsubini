@@ -21422,6 +21422,19 @@
       "lastActive": {
         "$date": "2025-11-24T16:52:53.356Z"
       }
+    },
+    {
+      "userId": 7915461896,
+      "firstName": "شموخي قاهرهم❤️♡:",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:57:09.261Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:57:09.265Z"
+      }
     }
   ],
   "groups": [
