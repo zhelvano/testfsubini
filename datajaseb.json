@@ -102,17 +102,24 @@
       "userId": 8105447127,
       "firstName": "Second Rim",
       "groupsAdded": [
-        -1003482156792
+        -1003482156792,
+        -1002548089026
       ],
       "isAdmin": false,
-      "isPremium": false,
+      "isPremium": true,
       "joinedAt": {
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T00:02:24.611Z"
+        "$date": "2025-11-24T00:02:33.990Z"
       },
-      "username": "RlMZOHUN"
+      "username": "RlMZOHUN",
+      "premiumSince": {
+        "$date": "2025-11-24T00:02:33.987Z"
+      },
+      "premiumExpiry": {
+        "$date": "2025-11-25T00:02:33.987Z"
+      }
     },
     {
       "_id": {
@@ -15280,20 +15287,31 @@
       "lastActive": {
         "$date": "2025-11-23T23:55:55.888Z"
       }
+    },
+    {
+      "userId": 6770116404,
+      "username": "coresxd",
+      "firstName": "Egzz #Meldoras",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:02:44.991Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:02:44.994Z"
+      }
     }
   ],
   "groups": [
     {
-      "_id": {
-        "$oid": "690fdda8770a8a87aa60ddc7"
-      },
       "groupId": -1002548089026,
+      "title": "Logs Maker",
+      "addedBy": 8105447127,
       "addedAt": {
-        "$date": "2025-11-09T01:44:50.640000Z"
+        "$date": "2025-11-24T00:02:33.791Z"
       },
-      "addedBy": 1301819689,
-      "memberCount": 0,
-      "title": "Logs Maker"
+      "memberCount": 21
     },
     {
       "_id": {
