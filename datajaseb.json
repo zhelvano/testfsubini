@@ -18009,6 +18009,20 @@
       "lastActive": {
         "$date": "2025-11-24T09:34:30.855Z"
       }
+    },
+    {
+      "userId": 7242049380,
+      "username": "continouv",
+      "firstName": "StvenXáviar",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:37:02.723Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:37:02.723Z"
+      }
     }
   ],
   "groups": [
