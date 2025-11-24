@@ -22160,6 +22160,48 @@
       "lastActive": {
         "$date": "2025-11-24T20:54:58.379Z"
       }
+    },
+    {
+      "userId": 8022190714,
+      "username": "fl_t_r",
+      "firstName": ": ⃝⃪⃕🥀ત᎗ɺɺỈ נɹฺ ͢ ̶ͥ ̶ ̶ͣ ͓ ̶ͫჺ🥀℠ ⌚️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T20:56:02.429Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T20:56:02.429Z"
+      }
+    },
+    {
+      "userId": 7334359994,
+      "username": "Rudzx4youstr18",
+      "firstName": "RUDZX4YOU",
+      "lastName": "STORE",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T20:56:19.940Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T20:56:19.941Z"
+      }
+    },
+    {
+      "userId": 7340765149,
+      "firstName": "꧁C͚u͚t͚e͚ B͚o͚y͚꧂",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T20:56:24.179Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T20:56:24.179Z"
+      }
     }
   ],
   "groups": [
