@@ -15901,6 +15901,20 @@
       "lastActive": {
         "$date": "2025-11-24T01:51:16.659Z"
       }
+    },
+    {
+      "userId": 8375378773,
+      "firstName": "المصمم",
+      "lastName": "المنبجي😤🖤",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T01:52:22.602Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T01:52:22.602Z"
+      }
     }
   ],
   "groups": [
