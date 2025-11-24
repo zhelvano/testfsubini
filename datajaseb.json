@@ -18065,6 +18065,20 @@
       "lastActive": {
         "$date": "2025-11-24T09:39:12.676Z"
       }
+    },
+    {
+      "userId": 7918478435,
+      "username": "facebookwow",
+      "firstName": "z",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:40:47.523Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:40:47.526Z"
+      }
     }
   ],
   "groups": [
