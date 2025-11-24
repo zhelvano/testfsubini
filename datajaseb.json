@@ -18051,6 +18051,20 @@
       "lastActive": {
         "$date": "2025-11-24T09:38:17.574Z"
       }
+    },
+    {
+      "userId": 6186884671,
+      "username": "ramdnanakbaik",
+      "firstName": "ramdn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:39:12.676Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:39:12.676Z"
+      }
     }
   ],
   "groups": [
