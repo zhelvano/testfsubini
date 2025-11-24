@@ -17323,6 +17323,20 @@
       "lastActive": {
         "$date": "2025-11-24T07:31:46.113Z"
       }
+    },
+    {
+      "userId": 6613693988,
+      "username": "pembantai_ajal",
+      "firstName": "๏์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์_—͞ALEX_-๏์์์์์์์์์์์์์์์์์์",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T07:33:43.999Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T07:33:43.999Z"
+      }
     }
   ],
   "groups": [
