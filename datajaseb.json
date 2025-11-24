@@ -19766,6 +19766,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:50:09.092Z"
       }
+    },
+    {
+      "userId": 6924327367,
+      "username": "frt1342",
+      "firstName": "𝙛𝙧𝙩__",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:52:29.361Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:52:29.362Z"
+      }
     }
   ],
   "groups": [
