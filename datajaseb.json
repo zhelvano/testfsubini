@@ -19277,6 +19277,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:15:01.838Z"
       }
+    },
+    {
+      "userId": 8345272614,
+      "username": "Fyafineshy",
+      "firstName": "Fyya",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:17:26.888Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:17:26.888Z"
+      }
     }
   ],
   "groups": [
