@@ -18258,6 +18258,21 @@
       "lastActive": {
         "$date": "2025-11-24T10:22:33.592Z"
       }
+    },
+    {
+      "userId": 7103864677,
+      "username": "Hhanzla",
+      "firstName": "M.",
+      "lastName": "Hanzla",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T10:31:46.687Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T10:31:46.691Z"
+      }
     }
   ],
   "groups": [
