@@ -19187,6 +19187,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:10:22.800Z"
       }
+    },
+    {
+      "userId": 6858546255,
+      "username": "Abdulatief123",
+      "firstName": "Abdul Latief",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:11:16.133Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:11:16.133Z"
+      }
     }
   ],
   "groups": [
