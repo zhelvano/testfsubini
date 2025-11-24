@@ -22242,6 +22242,19 @@
       "lastActive": {
         "$date": "2025-11-24T21:14:47.549Z"
       }
+    },
+    {
+      "userId": 8351454588,
+      "firstName": "Megamente",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T21:25:02.667Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T21:25:02.667Z"
+      }
     }
   ],
   "groups": [
