@@ -19948,6 +19948,20 @@
       "lastActive": {
         "$date": "2025-11-24T13:14:55.899Z"
       }
+    },
+    {
+      "userId": 6675939399,
+      "username": "boogieeez",
+      "firstName": "𝐺𝐼𝐸𝐸𝐸࿐",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:16:17.072Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:16:17.079Z"
+      }
     }
   ],
   "groups": [
