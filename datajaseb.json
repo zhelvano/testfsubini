@@ -17158,7 +17158,7 @@
         "$date": "2025-11-24T06:44:06.268Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T07:01:02.534Z"
+        "$date": "2025-11-24T09:59:09.793Z"
       }
     },
     {
@@ -18174,6 +18174,33 @@
       },
       "lastActive": {
         "$date": "2025-11-24T09:55:10.493Z"
+      }
+    },
+    {
+      "userId": 6799331831,
+      "username": "u44tt",
+      "firstName": "⸤🇾🇪☠ساﺳگي ☠🇾🇪⸣",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:59:06.240Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:59:06.243Z"
+      }
+    },
+    {
+      "userId": 7890565544,
+      "firstName": "hafiz jayarullah",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:59:11.234Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:59:11.234Z"
       }
     }
   ],
