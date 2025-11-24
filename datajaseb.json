@@ -18273,6 +18273,20 @@
       "lastActive": {
         "$date": "2025-11-24T10:31:46.691Z"
       }
+    },
+    {
+      "userId": 6838310859,
+      "username": "sadut1127",
+      "firstName": "Sadut",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T10:32:40.267Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T10:32:40.267Z"
+      }
     }
   ],
   "groups": [
