@@ -111,7 +111,7 @@
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T12:14:18.708Z"
+        "$date": "2025-11-24T12:15:09.844Z"
       },
       "username": "RlMZOHUN",
       "premiumSince": {
@@ -19262,6 +19262,20 @@
       },
       "lastActive": {
         "$date": "2025-11-24T12:14:37.248Z"
+      }
+    },
+    {
+      "userId": 7675440606,
+      "username": "mxsamiul002",
+      "firstName": "Samiul",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:15:01.838Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:15:01.838Z"
       }
     }
   ],
