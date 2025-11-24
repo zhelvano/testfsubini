@@ -15301,6 +15301,20 @@
       "lastActive": {
         "$date": "2025-11-24T00:02:44.994Z"
       }
+    },
+    {
+      "userId": 8502133309,
+      "username": "LH7771911lH",
+      "firstName": "𝙇𝙃𝟳𝟳𝟳",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:04:02.549Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:04:02.677Z"
+      }
     }
   ],
   "groups": [
