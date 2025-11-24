@@ -18357,6 +18357,19 @@
       "lastActive": {
         "$date": "2025-11-24T10:51:04.140Z"
       }
+    },
+    {
+      "userId": 6087527947,
+      "firstName": "ArbAb",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T10:52:27.509Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T10:52:27.509Z"
+      }
     }
   ],
   "groups": [
