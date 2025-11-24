@@ -20004,6 +20004,21 @@
       "lastActive": {
         "$date": "2025-11-24T13:18:50.014Z"
       }
+    },
+    {
+      "userId": 8024088091,
+      "username": "Tamaa13",
+      "firstName": "Tama",
+      "lastName": "Pratama",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:21:35.448Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:21:40.512Z"
+      }
     }
   ],
   "groups": [
