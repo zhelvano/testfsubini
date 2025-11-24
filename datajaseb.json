@@ -17968,6 +17968,20 @@
       "lastActive": {
         "$date": "2025-11-24T09:29:16.820Z"
       }
+    },
+    {
+      "userId": 8379869700,
+      "username": "teleronz",
+      "firstName": "⏤͟͞𝟕𝟑𝗧 || 𝐑𝐎𝐍𝐙_𝐒𝐓𝐎𝐑𝐄_𝐑𝐄𝐀𝐋 ᝄ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:30:51.796Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:30:51.796Z"
+      }
     }
   ],
   "groups": [
