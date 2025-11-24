@@ -16208,6 +16208,19 @@
       "lastActive": {
         "$date": "2025-11-24T03:16:43.122Z"
       }
+    },
+    {
+      "userId": 5197318107,
+      "firstName": "Bivas",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T03:27:22.850Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T03:27:22.855Z"
+      }
     }
   ],
   "groups": [
