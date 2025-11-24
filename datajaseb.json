@@ -19541,6 +19541,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:34:23.633Z"
       }
+    },
+    {
+      "userId": 6256455692,
+      "username": "ovaidllah",
+      "firstName": "╰‿╯ ϟ 𝚁𝙸𝙵𝙴 ꧂",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:35:42.811Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:35:42.812Z"
+      }
     }
   ],
   "groups": [
