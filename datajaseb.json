@@ -21761,6 +21761,21 @@
       "lastActive": {
         "$date": "2025-11-24T19:02:42.753Z"
       }
+    },
+    {
+      "userId": 2084087485,
+      "username": "Always_Mumet",
+      "firstName": "nggak ada",
+      "lastName": "Nama",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T19:06:06.738Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T19:06:06.738Z"
+      }
     }
   ],
   "groups": [
