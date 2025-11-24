@@ -19385,6 +19385,50 @@
       "lastActive": {
         "$date": "2025-11-24T12:24:24.203Z"
       }
+    },
+    {
+      "userId": 7294359494,
+      "username": "guntur966",
+      "firstName": "Rangger",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:27:24.128Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:27:24.128Z"
+      }
+    },
+    {
+      "userId": 7359405437,
+      "username": "PakHash444",
+      "firstName": "Usama",
+      "lastName": "Mughal 🇵🇰",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:27:38.957Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:27:38.957Z"
+      }
+    },
+    {
+      "userId": 7862547220,
+      "username": "AbidMalang2018",
+      "firstName": "𓆩𖡟»ع̶ــا̶ب̶ــدک̶ــن̶ــده̶ــا̶ر̶ی«𖡟𓆪",
+      "lastName": "𓆩਼਼𝟐𝟎𝟏𝟖਼𓆪",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:27:39.210Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:27:39.210Z"
+      }
     }
   ],
   "groups": [
