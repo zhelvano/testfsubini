@@ -22413,6 +22413,20 @@
       "lastActive": {
         "$date": "2025-11-24T22:19:21.250Z"
       }
+    },
+    {
+      "userId": 6425383799,
+      "username": "Yenzz4",
+      "firstName": "F",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T22:22:39.771Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T22:22:39.771Z"
+      }
     }
   ],
   "groups": [
