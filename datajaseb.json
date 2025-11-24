@@ -22713,6 +22713,20 @@
       "lastActive": {
         "$date": "2025-11-24T23:22:31.039Z"
       }
+    },
+    {
+      "userId": 7388461822,
+      "username": "reall127",
+      "firstName": "real",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T23:28:18.095Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T23:28:18.098Z"
+      }
     }
   ],
   "groups": [
