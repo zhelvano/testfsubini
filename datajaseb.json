@@ -15328,6 +15328,34 @@
       "lastActive": {
         "$date": "2025-11-24T00:05:26.236Z"
       }
+    },
+    {
+      "userId": 7528793664,
+      "username": "devemps",
+      "firstName": "𝙲𝙾𝙳𝙴𝙱𝚁𝙴𝙰𝙺𝙴𝚁",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:09:33.840Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:09:33.841Z"
+      }
+    },
+    {
+      "userId": 6045612423,
+      "username": "paboys7",
+      "firstName": "𝙁𝙍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:09:48.106Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:09:48.106Z"
+      }
     }
   ],
   "groups": [
