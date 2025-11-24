@@ -20542,6 +20542,19 @@
       "lastActive": {
         "$date": "2025-11-24T14:49:36.906Z"
       }
+    },
+    {
+      "userId": 5923231087,
+      "firstName": "udin",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:50:37.402Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:50:37.402Z"
+      }
     }
   ],
   "groups": [
