@@ -21264,6 +21264,20 @@
       "lastActive": {
         "$date": "2025-11-24T16:38:42.676Z"
       }
+    },
+    {
+      "userId": 8220398798,
+      "firstName": "Ditz",
+      "lastName": "Store",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:39:35.977Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:39:35.977Z"
+      }
     }
   ],
   "groups": [
