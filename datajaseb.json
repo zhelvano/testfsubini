@@ -18398,6 +18398,20 @@
       "lastActive": {
         "$date": "2025-11-24T10:55:39.739Z"
       }
+    },
+    {
+      "userId": 8511254303,
+      "username": "Hacker_Ahmed_Darwesh",
+      "firstName": "احـ ـمـ ـد دࢪويـ ـش الـ ـفـ ـاجـ ـࢪ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T10:59:35.187Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T10:59:35.187Z"
+      }
     }
   ],
   "groups": [
