@@ -19555,6 +19555,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:35:42.812Z"
       }
+    },
+    {
+      "userId": 8028957303,
+      "firstName": "همت",
+      "lastName": "صیب",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:36:15.877Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:36:15.877Z"
+      }
     }
   ],
   "groups": [
