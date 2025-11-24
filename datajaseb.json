@@ -21519,6 +21519,20 @@
       "lastActive": {
         "$date": "2025-11-24T17:21:10.888Z"
       }
+    },
+    {
+      "userId": 8483237625,
+      "firstName": "Md",
+      "lastName": "Sorif",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T17:22:14.707Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T17:22:14.707Z"
+      }
     }
   ],
   "groups": [
