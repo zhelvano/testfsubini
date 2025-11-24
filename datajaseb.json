@@ -18243,6 +18243,21 @@
       "lastActive": {
         "$date": "2025-11-24T10:15:10.830Z"
       }
+    },
+    {
+      "userId": 8387797166,
+      "username": "lokzxYangGanteng",
+      "firstName": "lokzx",
+      "lastName": "str13",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T10:22:33.592Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T10:22:33.592Z"
+      }
     }
   ],
   "groups": [
