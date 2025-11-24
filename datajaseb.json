@@ -16468,6 +16468,20 @@
       "lastActive": {
         "$date": "2025-11-24T04:21:15.339Z"
       }
+    },
+    {
+      "userId": 8218231844,
+      "firstName": "Mohmmadmuhsen",
+      "lastName": "Ahmdi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T04:25:26.183Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T04:25:26.183Z"
+      }
     }
   ],
   "groups": [
