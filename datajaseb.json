@@ -15844,6 +15844,20 @@
       "lastActive": {
         "$date": "2025-11-24T01:40:04.982Z"
       }
+    },
+    {
+      "userId": 8183775105,
+      "username": "deann12",
+      "firstName": "dean12",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T01:41:32.584Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T01:41:32.584Z"
+      }
     }
   ],
   "groups": [
