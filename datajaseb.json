@@ -16777,7 +16777,7 @@
         "$date": "2025-11-24T05:55:08.727Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T22:07:26.751Z"
+        "$date": "2025-11-24T22:07:48.853Z"
       }
     },
     {
@@ -22351,6 +22351,21 @@
       },
       "lastActive": {
         "$date": "2025-11-24T22:01:56.351Z"
+      }
+    },
+    {
+      "userId": 7103786264,
+      "username": "Funrun21",
+      "firstName": "Fun",
+      "lastName": "Run",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T22:08:01.862Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T22:08:01.862Z"
       }
     }
   ],
