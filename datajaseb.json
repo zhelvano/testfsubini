@@ -16427,6 +16427,20 @@
       "premiumExpiry": {
         "$date": "2025-11-25T04:01:53.837Z"
       }
+    },
+    {
+      "userId": 6982751553,
+      "username": "fianmodss",
+      "firstName": "𝒻𝒾𝒶𝓃𝓂ℴ𝒹𝓈𝓈",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T04:11:53.296Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T04:11:53.296Z"
+      }
     }
   ],
   "groups": [
