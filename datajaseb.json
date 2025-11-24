@@ -16735,6 +16735,19 @@
       "lastActive": {
         "$date": "2025-11-24T05:36:29.821Z"
       }
+    },
+    {
+      "userId": 8226292562,
+      "firstName": "Arzsky",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T05:37:18.302Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T05:37:18.303Z"
+      }
     }
   ],
   "groups": [
