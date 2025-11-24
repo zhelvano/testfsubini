@@ -21702,6 +21702,35 @@
       "lastActive": {
         "$date": "2025-11-24T18:42:25.181Z"
       }
+    },
+    {
+      "userId": 7192391281,
+      "username": "itzWahaj280",
+      "firstName": "Muhammad Wahaj",
+      "lastName": "Shafiq",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T18:44:46.732Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T18:44:46.732Z"
+      }
+    },
+    {
+      "userId": 6741562973,
+      "username": "A_QD_A",
+      "firstName": "˼ آحِٰـِۢمِٰـِۢد ᯐᴀʜᴍᴇᴅ ࿈ ˹",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T18:44:55.760Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T18:44:55.760Z"
+      }
     }
   ],
   "groups": [
