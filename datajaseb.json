@@ -22441,6 +22441,20 @@
       "lastActive": {
         "$date": "2025-11-24T22:23:20.563Z"
       }
+    },
+    {
+      "userId": 8284800544,
+      "username": "umerabbasi36",
+      "firstName": "Umer",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T22:26:29.754Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T22:26:29.756Z"
+      }
     }
   ],
   "groups": [
