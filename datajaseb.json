@@ -18093,6 +18093,20 @@
       "lastActive": {
         "$date": "2025-11-24T09:41:50.710Z"
       }
+    },
+    {
+      "userId": 7554986552,
+      "username": "NAGAMERAH666",
+      "firstName": "Z I N O",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:42:18.289Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:42:18.290Z"
+      }
     }
   ],
   "groups": [
