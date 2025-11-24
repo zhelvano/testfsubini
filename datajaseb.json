@@ -16721,6 +16721,20 @@
       "lastActive": {
         "$date": "2025-11-24T05:33:41.980Z"
       }
+    },
+    {
+      "userId": 5582807137,
+      "username": "popprmz",
+      "firstName": "⏤͞𝟒𝐊 Poprmz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T05:36:29.821Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T05:36:29.821Z"
+      }
     }
   ],
   "groups": [
