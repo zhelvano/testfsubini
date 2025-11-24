@@ -18213,6 +18213,21 @@
       "lastActive": {
         "$date": "2025-11-24T10:04:55.803Z"
       }
+    },
+    {
+      "userId": 8013391995,
+      "username": "kyuzabongol",
+      "firstName": "Zenna",
+      "lastName": "F4N`T",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T10:08:01.753Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T10:08:01.753Z"
+      }
     }
   ],
   "groups": [
