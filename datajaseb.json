@@ -21505,6 +21505,20 @@
       "lastActive": {
         "$date": "2025-11-24T17:19:45.543Z"
       }
+    },
+    {
+      "userId": 6889490648,
+      "firstName": "MUSAB",
+      "lastName": "Ali",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T17:21:10.888Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T17:21:10.888Z"
+      }
     }
   ],
   "groups": [
