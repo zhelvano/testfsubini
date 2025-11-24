@@ -21022,6 +21022,21 @@
       "lastActive": {
         "$date": "2025-11-24T16:06:58.975Z"
       }
+    },
+    {
+      "userId": 8489187092,
+      "username": "Avcxxxxc",
+      "firstName": "✗⏤͟͟͞͞𝐌σяя",
+      "lastName": "🇻🇳",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:08:09.731Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:08:09.731Z"
+      }
     }
   ],
   "groups": [
