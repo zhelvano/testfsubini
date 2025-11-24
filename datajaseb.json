@@ -19849,6 +19849,21 @@
       "lastActive": {
         "$date": "2025-11-24T13:01:19.872Z"
       }
+    },
+    {
+      "userId": 6656501634,
+      "username": "mokbulahmed1234",
+      "firstName": "Mokbul Ahmed",
+      "lastName": "Sopun",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:04:36.569Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:04:36.569Z"
+      }
     }
   ],
   "groups": [
