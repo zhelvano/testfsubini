@@ -102,24 +102,19 @@
       "userId": 8105447127,
       "firstName": "Second Rim",
       "groupsAdded": [
-        -1003482156792,
         -1002548089026
       ],
       "isAdmin": false,
-      "isPremium": true,
+      "isPremium": false,
       "joinedAt": {
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T11:42:08.170Z"
+        "$date": "2025-11-24T11:42:22.484Z"
       },
       "username": "RlMZOHUN",
-      "premiumSince": {
-        "$date": "2025-11-24T11:33:09.499Z"
-      },
-      "premiumExpiry": {
-        "$date": "2025-11-26T11:33:09.499Z"
-      }
+      "premiumSince": null,
+      "premiumExpiry": null
     },
     {
       "_id": {
@@ -4761,7 +4756,7 @@
         "$date": "2025-11-23T04:38:01.209000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T09:03:05.441Z"
+        "$date": "2025-11-24T11:42:46.161Z"
       }
     },
     {
@@ -18625,6 +18620,35 @@
       },
       "lastActive": {
         "$date": "2025-11-24T11:41:17.193Z"
+      }
+    },
+    {
+      "userId": 7796077461,
+      "username": "Xaxexaxe111",
+      "firstName": "𝟒𝐗 || 𝑵𝒆𝒙𝒖𝒔",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:42:42.060Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:42:42.060Z"
+      }
+    },
+    {
+      "userId": 8448127640,
+      "username": "Jogan21",
+      "firstName": "Jogan",
+      "lastName": "Real",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:42:42.868Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:42:42.868Z"
       }
     }
   ],
