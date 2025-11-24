@@ -18131,6 +18131,20 @@
       "lastActive": {
         "$date": "2025-11-24T09:48:11.962Z"
       }
+    },
+    {
+      "userId": 7756341703,
+      "username": "XinaPayID",
+      "firstName": "XinaKode",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:50:42.431Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:50:42.436Z"
+      }
     }
   ],
   "groups": [
