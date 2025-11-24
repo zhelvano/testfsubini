@@ -17102,6 +17102,20 @@
       "lastActive": {
         "$date": "2025-11-24T06:30:20.891Z"
       }
+    },
+    {
+      "userId": 7060612291,
+      "firstName": "tomy",
+      "lastName": "xyz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:32:00.997Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:32:00.997Z"
+      }
     }
   ],
   "groups": [
