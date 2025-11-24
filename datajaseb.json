@@ -15858,6 +15858,21 @@
       "lastActive": {
         "$date": "2025-11-24T01:41:32.584Z"
       }
+    },
+    {
+      "userId": 6791157462,
+      "username": "Akther429",
+      "firstName": "Jarin",
+      "lastName": "Tova",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T01:49:45.965Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T01:49:45.965Z"
+      }
     }
   ],
   "groups": [
