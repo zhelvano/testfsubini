@@ -16053,6 +16053,21 @@
       "lastActive": {
         "$date": "2025-11-24T02:37:05.657Z"
       }
+    },
+    {
+      "userId": 7920451891,
+      "username": "rdxsxs",
+      "firstName": "jour",
+      "lastName": "klowors ⛏ CROSS PLAY",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T02:39:45.884Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T02:39:45.885Z"
+      }
     }
   ],
   "groups": [
