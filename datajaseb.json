@@ -15367,7 +15367,20 @@
         "$date": "2025-11-24T00:16:33.972Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T00:19:52.078Z"
+        "$date": "2025-11-24T00:20:27.275Z"
+      }
+    },
+    {
+      "userId": 8419921657,
+      "firstName": "Candelier",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:20:11.310Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:20:11.310Z"
       }
     }
   ],
@@ -15642,6 +15655,15 @@
         "$date": "2025-11-24T00:19:35.384Z"
       },
       "memberCount": 5
+    },
+    {
+      "groupId": -1003443875994,
+      "title": "MURBAND BY ZARR",
+      "addedBy": 8035037851,
+      "addedAt": {
+        "$date": "2025-11-24T00:20:03.319Z"
+      },
+      "memberCount": 4
     }
   ]
 }
