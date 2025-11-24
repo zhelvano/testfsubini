@@ -16263,6 +16263,21 @@
       "lastActive": {
         "$date": "2025-11-24T03:30:00.248Z"
       }
+    },
+    {
+      "userId": 7413526706,
+      "username": "allspiks",
+      "firstName": "⏤͟͟͞͞ 𝐄𝐑𝐄𝐍 || →デ •𝐀𝐥𝐥 Ω",
+      "lastName": "[ LIMIT ]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T03:36:36.578Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T03:36:36.578Z"
+      }
     }
   ],
   "groups": [
