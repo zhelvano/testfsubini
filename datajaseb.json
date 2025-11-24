@@ -21905,6 +21905,20 @@
       "lastActive": {
         "$date": "2025-11-24T19:51:30.715Z"
       }
+    },
+    {
+      "userId": 7681161485,
+      "username": "Karwanjoo",
+      "firstName": "𝖞𝖔𝖚𝖘𝖘𝖊𝖋",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T19:55:47.883Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T19:55:47.883Z"
+      }
     }
   ],
   "groups": [
