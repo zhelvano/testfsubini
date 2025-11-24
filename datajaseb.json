@@ -9467,8 +9467,7 @@
       },
       "userId": 7600706434,
       "username": "ZxXxxzzzr",
-      "firstName": "R∆∆J",
-      "lastName": null,
+      "firstName": "Zzzzzxxxx",
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -9476,7 +9475,7 @@
         "$date": "2025-11-23T07:37:22.364000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T07:37:22.364000Z"
+        "$date": "2025-11-24T07:40:32.576Z"
       }
     },
     {
@@ -17378,6 +17377,20 @@
       },
       "lastActive": {
         "$date": "2025-11-24T07:39:35.543Z"
+      }
+    },
+    {
+      "userId": 7982858180,
+      "username": "Nill273311",
+      "firstName": "MD: BIPLOB HOSSON🌍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T07:40:28.178Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T07:40:28.178Z"
       }
     }
   ],
