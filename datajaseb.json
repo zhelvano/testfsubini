@@ -21746,6 +21746,21 @@
       "lastActive": {
         "$date": "2025-11-24T18:58:44.652Z"
       }
+    },
+    {
+      "userId": 6783365226,
+      "username": "Azahel_09",
+      "firstName": "Soto Kaito",
+      "lastName": "Hitokagawa Valiente Hoenhaim Hitatsuki",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T19:02:42.357Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T19:02:42.753Z"
+      }
     }
   ],
   "groups": [
