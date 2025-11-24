@@ -17130,6 +17130,20 @@
       "lastActive": {
         "$date": "2025-11-24T06:36:30.943Z"
       }
+    },
+    {
+      "userId": 7646852683,
+      "username": "Asuukoer",
+      "firstName": "Asuuu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:42:06.243Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:42:06.243Z"
+      }
     }
   ],
   "groups": [
