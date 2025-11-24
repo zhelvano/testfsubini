@@ -103,19 +103,24 @@
       "userId": 8105447127,
       "firstName": "Second Rim",
       "groupsAdded": [
-        -1002548089026
+        -1002548089026,
+        -1003482156792
       ],
       "isAdmin": false,
-      "isPremium": false,
+      "isPremium": true,
       "joinedAt": {
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T13:03:17.084Z"
+        "$date": "2025-11-24T22:12:43.405Z"
       },
       "username": "RlMZOHUN",
-      "premiumSince": null,
-      "premiumExpiry": null
+      "premiumSince": {
+        "$date": "2025-11-24T22:12:42.002Z"
+      },
+      "premiumExpiry": {
+        "$date": "2025-11-26T22:12:42.002Z"
+      }
     },
     {
       "_id": {
@@ -22557,9 +22562,9 @@
       "title": ",,",
       "addedBy": 8105447127,
       "addedAt": {
-        "$date": "2025-11-24T12:24:55.204Z"
+        "$date": "2025-11-24T22:12:41.576Z"
       },
-      "memberCount": 21
+      "memberCount": 24
     },
     {
       "_id": {
