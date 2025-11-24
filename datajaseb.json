@@ -17214,6 +17214,33 @@
       "lastActive": {
         "$date": "2025-11-24T06:57:58.178Z"
       }
+    },
+    {
+      "userId": 8254097471,
+      "firstName": "77ghkjgj@gmail.com",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T07:01:22.765Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T07:01:22.765Z"
+      }
+    },
+    {
+      "userId": 7912898627,
+      "username": "ardistore2010",
+      "firstName": "orangkece",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T07:01:36.719Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T07:01:36.719Z"
+      }
     }
   ],
   "groups": [
