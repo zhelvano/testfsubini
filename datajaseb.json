@@ -16988,6 +16988,35 @@
       "lastActive": {
         "$date": "2025-11-24T06:16:51.935Z"
       }
+    },
+    {
+      "userId": 7591992821,
+      "username": "naymy780",
+      "firstName": "رئـــیــس بــاسـ.ط 𝐌𝐀𝐆𝐀𝐙𝐘َٰٰٰٖٖٖٖٖ͜͜͜͜͡͡͡͡͡͡͡❦",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:20:55.715Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:20:55.715Z"
+      }
+    },
+    {
+      "userId": 6411657750,
+      "username": "Alonezm79",
+      "firstName": "ZM (TG 批量)",
+      "lastName": "❄️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:21:16.636Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:21:16.636Z"
+      }
     }
   ],
   "groups": [
