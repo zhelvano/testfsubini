@@ -20852,6 +20852,20 @@
       "lastActive": {
         "$date": "2025-11-24T15:34:13.961Z"
       }
+    },
+    {
+      "userId": 6665631839,
+      "username": "zaks4you",
+      "firstName": "𝙕𝙖𝙠𝙨4𝙮𝙤𝙪 [READY NOKOS]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T15:36:33.546Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T15:36:33.546Z"
+      }
     }
   ],
   "groups": [
