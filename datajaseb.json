@@ -7815,7 +7815,6 @@
       "userId": 7129090618,
       "username": "inosukees",
       "firstName": "Chozee",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -7823,7 +7822,7 @@
         "$date": "2025-11-23T06:28:35.344000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T06:28:35.344000Z"
+        "$date": "2025-11-24T13:01:43.169Z"
       }
     },
     {
