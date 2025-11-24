@@ -15887,6 +15887,20 @@
       "lastActive": {
         "$date": "2025-11-24T01:50:43.233Z"
       }
+    },
+    {
+      "userId": 8249300794,
+      "username": "hvhchvvgghg",
+      "firstName": "یکتاپرست",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T01:51:16.658Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T01:51:16.659Z"
+      }
     }
   ],
   "groups": [
