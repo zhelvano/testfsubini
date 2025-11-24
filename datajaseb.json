@@ -16581,6 +16581,20 @@
       "lastActive": {
         "$date": "2025-11-24T04:59:16.665Z"
       }
+    },
+    {
+      "userId": 7242620079,
+      "username": "Manuelito00007",
+      "firstName": "ꪶ͢Sєcσηуcꫂ⁷",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T05:00:15.549Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T05:00:15.549Z"
+      }
     }
   ],
   "groups": [
