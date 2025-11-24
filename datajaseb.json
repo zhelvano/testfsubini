@@ -19131,6 +19131,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:06:42.794Z"
       }
+    },
+    {
+      "userId": 7210630360,
+      "username": "Farhadbhaii",
+      "firstName": "—͟͞͞ᴍᴅ ꜰᴀʀʜᴀᴅ ɪꜱʟᴀᴍ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:07:46.045Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:07:46.045Z"
+      }
     }
   ],
   "groups": [
