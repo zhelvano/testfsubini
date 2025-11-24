@@ -16553,6 +16553,20 @@
       "lastActive": {
         "$date": "2025-11-24T04:53:43.741Z"
       }
+    },
+    {
+      "userId": 7749670292,
+      "username": "Napzzssakunkedua",
+      "firstName": "𝑁𝑎𝑝𝑧𝑧 𝐿𝑎𝑔𝑢𝑛𝑎 𝐴𝑘𝑢𝑛 𝑘𝑒 𝐷𝑢𝑎🌷",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T04:57:56.598Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T04:57:56.598Z"
+      }
     }
   ],
   "groups": [
