@@ -111,7 +111,7 @@
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T12:14:01.113Z"
+        "$date": "2025-11-24T12:14:18.708Z"
       },
       "username": "RlMZOHUN",
       "premiumSince": {
@@ -19234,6 +19234,34 @@
       },
       "lastActive": {
         "$date": "2025-11-24T12:13:37.846Z"
+      }
+    },
+    {
+      "userId": 8049753892,
+      "firstName": "فرمانده طوفان",
+      "lastName": "تنها",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:14:29.547Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:14:29.547Z"
+      }
+    },
+    {
+      "userId": 1206203514,
+      "username": "vazzelt",
+      "firstName": "凯齐亚 [WS] VAZZELT",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:14:37.248Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:14:37.248Z"
       }
     }
   ],
