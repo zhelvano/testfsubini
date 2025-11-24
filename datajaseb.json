@@ -15673,6 +15673,20 @@
       "lastActive": {
         "$date": "2025-11-24T01:13:00.914Z"
       }
+    },
+    {
+      "userId": 7862913951,
+      "username": "znyqy00",
+      "firstName": "zynqyu いいね",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T01:14:08.911Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T01:14:08.911Z"
+      }
     }
   ],
   "groups": [
