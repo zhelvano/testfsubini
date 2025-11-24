@@ -21805,6 +21805,20 @@
       "lastActive": {
         "$date": "2025-11-24T19:18:57.014Z"
       }
+    },
+    {
+      "userId": 8365547664,
+      "username": "adayemlitebackup",
+      "firstName": "ᴀᴅᴀʏᴇᴍʟɪᴛᴇ ᴀɴᴛɪ ᴘᴇᴛɪɴɢɢɪ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T19:24:32.175Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T19:24:32.179Z"
+      }
     }
   ],
   "groups": [
