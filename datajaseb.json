@@ -21236,6 +21236,20 @@
       "lastActive": {
         "$date": "2025-11-24T16:32:56.122Z"
       }
+    },
+    {
+      "userId": 7998103003,
+      "firstName": "𝐸𝑀𝑅𝟒𝑁",
+      "lastName": "𝐴ℎ𝑚𝑎𝑑𝑖",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:34:09.654Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:34:09.654Z"
+      }
     }
   ],
   "groups": [
