@@ -21847,6 +21847,21 @@
       "lastActive": {
         "$date": "2025-11-24T19:32:29.727Z"
       }
+    },
+    {
+      "userId": 7846721366,
+      "username": "Aldyypratamaa",
+      "firstName": "Aldy",
+      "lastName": "Pratamaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T19:36:05.548Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T19:36:05.548Z"
+      }
     }
   ],
   "groups": [
