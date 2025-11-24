@@ -19821,6 +19821,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:58:50.564Z"
       }
+    },
+    {
+      "userId": 7054943523,
+      "username": "MORA_ALMIRA28",
+      "firstName": "MORA OPEN CV USDT TO RP",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:00:44.711Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:00:44.711Z"
+      }
     }
   ],
   "groups": [
