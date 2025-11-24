@@ -21165,6 +21165,20 @@
       "lastActive": {
         "$date": "2025-11-24T16:24:59.867Z"
       }
+    },
+    {
+      "userId": 7744984654,
+      "username": "elautna",
+      "firstName": "ㅤz!xuㅤ𝐆ᥣ᥆𝗋𝗂α་࿐",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:25:26.256Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:25:26.256Z"
+      }
     }
   ],
   "groups": [
