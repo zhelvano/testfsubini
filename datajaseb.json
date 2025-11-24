@@ -21933,6 +21933,20 @@
       "lastActive": {
         "$date": "2025-11-24T19:57:00.790Z"
       }
+    },
+    {
+      "userId": 8407077592,
+      "firstName": "الهام صاب",
+      "lastName": "فهبهبهبخبخع۷",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T20:00:45.886Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T20:00:45.886Z"
+      }
     }
   ],
   "groups": [
