@@ -21491,6 +21491,20 @@
       "lastActive": {
         "$date": "2025-11-24T17:14:20.416Z"
       }
+    },
+    {
+      "userId": 7827444095,
+      "username": "Mdnaim12341",
+      "firstName": "𒆜-𝐍𝐀𝐈𝐌 𝐕𝐀𝐈 ☞[𝐀𝐃𝐌𝐈𝐍]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T17:19:45.539Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T17:19:45.543Z"
+      }
     }
   ],
   "groups": [
