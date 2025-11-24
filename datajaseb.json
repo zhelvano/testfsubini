@@ -17116,6 +17116,20 @@
       "lastActive": {
         "$date": "2025-11-24T06:32:00.997Z"
       }
+    },
+    {
+      "userId": 6257949081,
+      "username": "wellxyo",
+      "firstName": "warr need batagor",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:36:30.943Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:36:30.943Z"
+      }
     }
   ],
   "groups": [
