@@ -15413,6 +15413,35 @@
       "lastActive": {
         "$date": "2025-11-24T00:23:53.563Z"
       }
+    },
+    {
+      "userId": 7735804308,
+      "username": "Toko_VivEk",
+      "firstName": "TOKO GC FRESH+OLD",
+      "lastName": "[VIVEK]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:26:46.878Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:26:46.878Z"
+      }
+    },
+    {
+      "userId": 8074607637,
+      "username": "Ptrchn01",
+      "firstName": "CLARS G77",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:26:50.445Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:26:50.445Z"
+      }
     }
   ],
   "groups": [
