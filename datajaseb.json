@@ -18023,6 +18023,20 @@
       "lastActive": {
         "$date": "2025-11-24T09:37:02.723Z"
       }
+    },
+    {
+      "userId": 6400564628,
+      "username": "ansjadon",
+      "firstName": "Ansh jadon",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:37:32.836Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:37:32.836Z"
+      }
     }
   ],
   "groups": [
