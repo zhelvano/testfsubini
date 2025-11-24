@@ -21477,6 +21477,20 @@
       "lastActive": {
         "$date": "2025-11-24T17:10:21.874Z"
       }
+    },
+    {
+      "userId": 8096474604,
+      "username": "rabbitcorpses",
+      "firstName": "ㅤ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T17:14:20.416Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T17:14:20.416Z"
+      }
     }
   ],
   "groups": [
