@@ -16409,16 +16409,23 @@
       "userId": 8392121548,
       "username": "cecepbrother",
       "firstName": "who?",
-      "isPremium": false,
+      "isPremium": true,
       "isAdmin": false,
       "groupsAdded": [
-        -1002580184998
+        -1002580184998,
+        -1002899322155
       ],
       "joinedAt": {
         "$date": "2025-11-24T04:01:32.437Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T04:01:33.844Z"
+        "$date": "2025-11-24T04:01:53.845Z"
+      },
+      "premiumSince": {
+        "$date": "2025-11-24T04:01:53.837Z"
+      },
+      "premiumExpiry": {
+        "$date": "2025-11-25T04:01:53.837Z"
       }
     }
   ],
@@ -16720,6 +16727,15 @@
         "$date": "2025-11-24T04:01:33.834Z"
       },
       "memberCount": 43
+    },
+    {
+      "groupId": -1002899322155,
+      "title": "𝙈𝙐𝙍𝙉𝙊𝙆 𝙈𝙊𝙊𝙉𝙍𝙀𝘿",
+      "addedBy": 8392121548,
+      "addedAt": {
+        "$date": "2025-11-24T04:01:53.232Z"
+      },
+      "memberCount": 26
     }
   ]
 }
