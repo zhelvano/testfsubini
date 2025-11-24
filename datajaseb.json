@@ -20487,6 +20487,19 @@
       "lastActive": {
         "$date": "2025-11-24T14:43:02.361Z"
       }
+    },
+    {
+      "userId": 6881473975,
+      "firstName": "ᴛᴇʀᴇx",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:45:33.955Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:45:33.955Z"
+      }
     }
   ],
   "groups": [
