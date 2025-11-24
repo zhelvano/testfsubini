@@ -16026,6 +16026,19 @@
       "lastActive": {
         "$date": "2025-11-24T02:32:35.040Z"
       }
+    },
+    {
+      "userId": 5708093445,
+      "firstName": "Taslix",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T02:36:30.631Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T02:36:30.631Z"
+      }
     }
   ],
   "groups": [
