@@ -20582,6 +20582,20 @@
       "lastActive": {
         "$date": "2025-11-24T14:53:14.026Z"
       }
+    },
+    {
+      "userId": 6831495598,
+      "username": "winaagustin28",
+      "firstName": "wina agustin",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:53:53.716Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:53:53.716Z"
+      }
     }
   ],
   "groups": [
