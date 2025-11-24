@@ -22500,6 +22500,21 @@
       "lastActive": {
         "$date": "2025-11-24T22:48:49.070Z"
       }
+    },
+    {
+      "userId": 6952634711,
+      "username": "ANJAYdipz",
+      "firstName": "ANJAY",
+      "lastName": ".",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T22:53:10.327Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T22:53:10.329Z"
+      }
     }
   ],
   "groups": [
