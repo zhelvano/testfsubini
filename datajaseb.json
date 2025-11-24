@@ -22630,6 +22630,20 @@
       "lastActive": {
         "$date": "2025-11-24T23:15:46.804Z"
       }
+    },
+    {
+      "userId": 7514819920,
+      "username": "QQXXTVB",
+      "firstName": "BASZ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T23:18:01.478Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T23:18:01.478Z"
+      }
     }
   ],
   "groups": [
