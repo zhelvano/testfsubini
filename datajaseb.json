@@ -18811,6 +18811,34 @@
       "lastActive": {
         "$date": "2025-11-24T11:51:47.547Z"
       }
+    },
+    {
+      "userId": 6995919157,
+      "firstName": "Maklo",
+      "lastName": "Tobrut",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:52:09.273Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:52:09.273Z"
+      }
+    },
+    {
+      "userId": 8222156746,
+      "username": "ONLY_ARWIN777",
+      "firstName": "ࢪِٜیـــ⚠︎ــس آٜرویــ☠︎︎ـــن 4𝗸",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:52:25.935Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:52:25.935Z"
+      }
     }
   ],
   "groups": [
