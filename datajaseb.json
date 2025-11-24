@@ -19,7 +19,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T14:20:15.293Z"
+        "$date": "2025-11-24T14:20:32.995Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -20432,6 +20432,20 @@
       },
       "lastActive": {
         "$date": "2025-11-24T14:18:16.504Z"
+      }
+    },
+    {
+      "userId": 6232282831,
+      "username": "tusar240",
+      "firstName": "◌⑅⃝●⋆❤‍🔥♡Md.Tusar♡❤‍🔥●⑅⃝◌ ☣️❄",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:20:46.773Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:20:46.773Z"
       }
     }
   ],
