@@ -111,7 +111,7 @@
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T11:50:32.178Z"
+        "$date": "2025-11-24T11:51:06.436Z"
       },
       "username": "RlMZOHUN",
       "premiumSince": {
@@ -18724,6 +18724,34 @@
       },
       "lastActive": {
         "$date": "2025-11-24T11:50:25.085Z"
+      }
+    },
+    {
+      "userId": 7151324291,
+      "username": "saxc178",
+      "firstName": "𝐒𝐄𝐍𝐇𝐄𝐗.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:50:44.430Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:50:44.430Z"
+      }
+    },
+    {
+      "userId": 8035258728,
+      "username": "mortablow",
+      "firstName": "pablo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:51:01.424Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:51:01.424Z"
       }
     }
   ],
