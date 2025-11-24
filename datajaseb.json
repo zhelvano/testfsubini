@@ -16404,6 +16404,22 @@
       "lastActive": {
         "$date": "2025-11-24T03:57:53.648Z"
       }
+    },
+    {
+      "userId": 8392121548,
+      "username": "cecepbrother",
+      "firstName": "who?",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [
+        -1002580184998
+      ],
+      "joinedAt": {
+        "$date": "2025-11-24T04:01:32.437Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T04:01:33.844Z"
+      }
     }
   ],
   "groups": [
@@ -16695,6 +16711,15 @@
         "$date": "2025-11-24T00:20:51.687Z"
       },
       "memberCount": 21
+    },
+    {
+      "groupId": -1002580184998,
+      "title": "OTP FREE 💯",
+      "addedBy": 8392121548,
+      "addedAt": {
+        "$date": "2025-11-24T04:01:33.834Z"
+      },
+      "memberCount": 43
     }
   ]
 }
