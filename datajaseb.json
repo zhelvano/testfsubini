@@ -15470,6 +15470,21 @@
       "lastActive": {
         "$date": "2025-11-24T00:30:21.100Z"
       }
+    },
+    {
+      "userId": 6447161875,
+      "username": "Siam_King_Boss",
+      "firstName": "Siam Hossan",
+      "lastName": "🌍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T00:32:51.337Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T00:32:51.337Z"
+      }
     }
   ],
   "groups": [
