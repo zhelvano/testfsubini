@@ -19990,6 +19990,20 @@
       "lastActive": {
         "$date": "2025-11-24T13:18:07.885Z"
       }
+    },
+    {
+      "userId": 7791067515,
+      "username": "albrazele",
+      "firstName": "البࢪآزيلي آلڪآࢪف",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:18:50.014Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:18:50.014Z"
+      }
     }
   ],
   "groups": [
