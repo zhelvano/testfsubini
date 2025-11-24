@@ -19960,7 +19960,21 @@
         "$date": "2025-11-24T13:16:17.072Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T13:16:17.079Z"
+        "$date": "2025-11-24T13:16:44.985Z"
+      }
+    },
+    {
+      "userId": 7723708759,
+      "firstName": "Day",
+      "lastName": "Night",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:16:24.802Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:16:24.802Z"
       }
     }
   ],
