@@ -17462,6 +17462,21 @@
       "lastActive": {
         "$date": "2025-11-24T07:56:52.930Z"
       }
+    },
+    {
+      "userId": 7331469111,
+      "username": "brand_shuvo",
+      "firstName": "☠️ OFFLINE",
+      "lastName": "☠️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T08:00:38.690Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T08:00:38.690Z"
+      }
     }
   ],
   "groups": [
