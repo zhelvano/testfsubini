@@ -21335,6 +21335,35 @@
       "lastActive": {
         "$date": "2025-11-24T16:44:49.298Z"
       }
+    },
+    {
+      "userId": 5919358605,
+      "username": "krayGtps",
+      "firstName": "kray",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:48:06.571Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:48:06.571Z"
+      }
+    },
+    {
+      "userId": 5926172220,
+      "username": "mudasir_awan",
+      "firstName": "MuDaSir",
+      "lastName": "aWaN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:48:11.980Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:48:11.980Z"
+      }
     }
   ],
   "groups": [
