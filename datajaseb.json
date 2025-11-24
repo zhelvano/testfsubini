@@ -17856,6 +17856,21 @@
       "lastActive": {
         "$date": "2025-11-24T09:05:50.442Z"
       }
+    },
+    {
+      "userId": 7283927499,
+      "username": "TTRZW1888",
+      "firstName": "𝐑𝐒𝐆 | 𝙍𝙞𝙯𝙯",
+      "lastName": "NEED INDIAN WORKER",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:18:30.695Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:18:30.701Z"
+      }
     }
   ],
   "groups": [
