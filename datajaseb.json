@@ -18618,7 +18618,7 @@
         "$date": "2025-11-24T11:41:17.191Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T11:46:36.017Z"
+        "$date": "2025-11-24T12:46:58.672Z"
       }
     },
     {
@@ -19680,6 +19680,20 @@
       },
       "lastActive": {
         "$date": "2025-11-24T12:44:41.056Z"
+      }
+    },
+    {
+      "userId": 8163479296,
+      "firstName": "hariz adam",
+      "lastName": "hisham",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:46:54.720Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:46:54.720Z"
       }
     }
   ],
