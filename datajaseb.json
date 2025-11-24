@@ -22616,6 +22616,20 @@
       "lastActive": {
         "$date": "2025-11-24T23:12:04.422Z"
       }
+    },
+    {
+      "userId": 7612849215,
+      "firstName": "Ch",
+      "lastName": "ASAD",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T23:15:46.804Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T23:15:46.804Z"
+      }
     }
   ],
   "groups": [
