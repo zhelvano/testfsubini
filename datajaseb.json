@@ -17448,6 +17448,20 @@
       "lastActive": {
         "$date": "2025-11-24T07:53:17.930Z"
       }
+    },
+    {
+      "userId": 8437447993,
+      "firstName": "Rian",
+      "lastName": "To",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T07:56:52.930Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T07:56:52.930Z"
+      }
     }
   ],
   "groups": [
