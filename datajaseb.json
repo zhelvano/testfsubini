@@ -17279,6 +17279,35 @@
       "lastActive": {
         "$date": "2025-11-24T07:29:00.434Z"
       }
+    },
+    {
+      "userId": 6301196351,
+      "username": "sallxml1",
+      "firstName": "Sall Authority",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T07:29:12.771Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T07:29:12.772Z"
+      }
+    },
+    {
+      "userId": 7919651052,
+      "username": "Rizkystores",
+      "firstName": "Rizky",
+      "lastName": "Store",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T07:29:33.422Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T07:29:33.422Z"
+      }
     }
   ],
   "groups": [
