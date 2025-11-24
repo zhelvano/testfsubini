@@ -20247,6 +20247,21 @@
       "lastActive": {
         "$date": "2025-11-24T13:52:50.619Z"
       }
+    },
+    {
+      "userId": 8042347118,
+      "username": "Rakibul55r",
+      "firstName": "Md Rakibul",
+      "lastName": "Hk",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:54:08.667Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:54:08.667Z"
+      }
     }
   ],
   "groups": [
