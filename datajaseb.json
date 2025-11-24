@@ -22118,6 +22118,34 @@
       "lastActive": {
         "$date": "2025-11-24T20:50:21.141Z"
       }
+    },
+    {
+      "userId": 7266368559,
+      "firstName": "muhammad elyas",
+      "lastName": "qanie",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T20:51:11.810Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T20:51:11.810Z"
+      }
+    },
+    {
+      "userId": 7170638465,
+      "username": "vvr_c",
+      "firstName": "ديڣݪ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T20:51:29.241Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T20:51:29.241Z"
+      }
     }
   ],
   "groups": [
