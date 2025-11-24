@@ -7164,9 +7164,8 @@
         "$oid": "6922a4c64e23132d6f0aa3c5"
       },
       "userId": 7823053099,
-      "username": null,
-      "firstName": "Gustixiter",
-      "lastName": "Xiter",
+      "firstName": "Hacking",
+      "lastName": "Pemula",
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -7174,7 +7173,7 @@
         "$date": "2025-11-23T06:08:06.742000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T06:08:06.742000Z"
+        "$date": "2025-11-24T06:23:35.858Z"
       }
     },
     {
