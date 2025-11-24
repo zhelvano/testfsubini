@@ -16152,6 +16152,19 @@
       "lastActive": {
         "$date": "2025-11-24T03:05:42.109Z"
       }
+    },
+    {
+      "userId": 7932617589,
+      "firstName": "Vima",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T03:09:31.284Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T03:09:31.287Z"
+      }
     }
   ],
   "groups": [
