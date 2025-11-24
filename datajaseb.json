@@ -19173,6 +19173,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:10:08.832Z"
       }
+    },
+    {
+      "userId": 8247180283,
+      "firstName": "AHMAD",
+      "lastName": "alham",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:10:22.800Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:10:22.800Z"
+      }
     }
   ],
   "groups": [
