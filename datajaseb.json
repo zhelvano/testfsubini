@@ -19864,6 +19864,20 @@
       "lastActive": {
         "$date": "2025-11-24T13:04:36.569Z"
       }
+    },
+    {
+      "userId": 6741820113,
+      "username": "Soikat69x",
+      "firstName": "—͞𝑺𝑶𝑰𝑲𝑨𝑻 𝟔𝟗𝑿",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:05:03.643Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:05:03.644Z"
+      }
     }
   ],
   "groups": [
