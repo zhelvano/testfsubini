@@ -21462,6 +21462,21 @@
       "lastActive": {
         "$date": "2025-11-24T17:09:52.429Z"
       }
+    },
+    {
+      "userId": 5306856697,
+      "username": "sazzad911",
+      "firstName": "Sazzad",
+      "lastName": "Shahriar",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T17:10:21.874Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T17:10:21.874Z"
+      }
     }
   ],
   "groups": [
