@@ -22644,6 +22644,20 @@
       "lastActive": {
         "$date": "2025-11-24T23:18:01.478Z"
       }
+    },
+    {
+      "userId": 5026834694,
+      "username": "YM_YLY",
+      "firstName": "ᏞΌᏙᎬ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T23:18:38.062Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T23:18:38.062Z"
+      }
     }
   ],
   "groups": [
