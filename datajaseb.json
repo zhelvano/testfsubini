@@ -19752,6 +19752,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:50:03.185Z"
       }
+    },
+    {
+      "userId": 7869957886,
+      "username": "yanzytzy_2",
+      "firstName": "YANZYLAGIREHATDULU.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:50:09.091Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:50:09.092Z"
+      }
     }
   ],
   "groups": [
