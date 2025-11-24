@@ -15970,6 +15970,20 @@
       "lastActive": {
         "$date": "2025-11-24T02:10:20.513Z"
       }
+    },
+    {
+      "userId": 7658817643,
+      "username": "KMON_870",
+      "firstName": "𝐊@𝐌𝐎𝐍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T02:11:53.625Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T02:11:53.625Z"
+      }
     }
   ],
   "groups": [
