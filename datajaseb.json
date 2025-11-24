@@ -21307,6 +21307,20 @@
       "lastActive": {
         "$date": "2025-11-24T16:41:41.884Z"
       }
+    },
+    {
+      "userId": 8475340262,
+      "firstName": "Golden",
+      "lastName": "Pearlx",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:42:38.831Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:42:38.831Z"
+      }
     }
   ],
   "groups": [
