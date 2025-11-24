@@ -17241,6 +17241,20 @@
       "lastActive": {
         "$date": "2025-11-24T07:01:36.719Z"
       }
+    },
+    {
+      "userId": 5991194812,
+      "firstName": "𓆩🇫🇷شـراغـابـاچـاه🇫🇷𓆪",
+      "lastName": "Unsupported characters",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T07:09:36.977Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T07:09:36.977Z"
+      }
     }
   ],
   "groups": [
