@@ -22284,6 +22284,32 @@
       "lastActive": {
         "$date": "2025-11-24T21:37:00.866Z"
       }
+    },
+    {
+      "userId": 7899465537,
+      "firstName": "brazi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T21:41:33.674Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T21:41:33.675Z"
+      }
+    },
+    {
+      "userId": 8306395237,
+      "firstName": "+213782706218",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T21:41:45.110Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T21:41:45.110Z"
+      }
     }
   ],
   "groups": [
