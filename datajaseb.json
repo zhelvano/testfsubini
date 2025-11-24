@@ -16906,6 +16906,20 @@
       "lastActive": {
         "$date": "2025-11-24T06:04:35.564Z"
       }
+    },
+    {
+      "userId": 8225260995,
+      "username": "duqueee07",
+      "firstName": "Duquetufather7",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:04:59.658Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:04:59.658Z"
+      }
     }
   ],
   "groups": [
