@@ -16933,6 +16933,20 @@
       "lastActive": {
         "$date": "2025-11-24T06:09:16.433Z"
       }
+    },
+    {
+      "userId": 8024032618,
+      "username": "PV_Fasad352",
+      "firstName": "ࡄ֒ࡅ࡙ߺܟ۬ߺܢ ߊ‌‌ࡋߺܦ߭ࡄߊ‌‌ܥ‌‌ ܦ߭❟ߊ‌‌ܥ‌‌",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:11:05.054Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:11:05.054Z"
+      }
     }
   ],
   "groups": [
