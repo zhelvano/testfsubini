@@ -19667,6 +19667,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:44:33.563Z"
       }
+    },
+    {
+      "userId": 6310957897,
+      "firstName": "Sudheer",
+      "lastName": "Hemant",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:44:41.056Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:44:41.056Z"
+      }
     }
   ],
   "groups": [
