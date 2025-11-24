@@ -17954,6 +17954,20 @@
       "lastActive": {
         "$date": "2025-11-24T09:28:49.957Z"
       }
+    },
+    {
+      "userId": 7672769515,
+      "firstName": "گلاپ",
+      "lastName": "علی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:29:16.820Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:29:16.820Z"
+      }
     }
   ],
   "groups": [
