@@ -17995,6 +17995,20 @@
       "lastActive": {
         "$date": "2025-11-24T09:31:34.887Z"
       }
+    },
+    {
+      "userId": 7186740620,
+      "username": "Gustavo6783",
+      "firstName": "Gustavo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T09:34:30.855Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T09:34:30.855Z"
+      }
     }
   ],
   "groups": [
