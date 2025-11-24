@@ -18483,6 +18483,20 @@
       "lastActive": {
         "$date": "2025-11-24T11:10:25.035Z"
       }
+    },
+    {
+      "userId": 7200440672,
+      "username": "rapteji22",
+      "firstName": "raptejii",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:19:02.746Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:19:02.751Z"
+      }
     }
   ],
   "groups": [
