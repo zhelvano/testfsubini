@@ -16194,6 +16194,20 @@
       "lastActive": {
         "$date": "2025-11-24T03:14:35.880Z"
       }
+    },
+    {
+      "userId": 8319917960,
+      "firstName": "MS",
+      "lastName": "Mizan Raz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T03:16:43.122Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T03:16:43.122Z"
+      }
     }
   ],
   "groups": [
