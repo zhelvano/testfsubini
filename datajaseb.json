@@ -17044,6 +17044,34 @@
       "lastActive": {
         "$date": "2025-11-24T06:23:40.589Z"
       }
+    },
+    {
+      "userId": 8119617847,
+      "username": "ARWS1",
+      "firstName": "empty ⚝",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:25:39.605Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:25:39.605Z"
+      }
+    },
+    {
+      "userId": 6118506365,
+      "username": "Wongkounik1",
+      "firstName": "ルトピイ小学校💲",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T06:25:59.761Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T06:25:59.761Z"
+      }
     }
   ],
   "groups": [
