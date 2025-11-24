@@ -21379,6 +21379,20 @@
       "lastActive": {
         "$date": "2025-11-24T16:48:46.805Z"
       }
+    },
+    {
+      "userId": 7409847665,
+      "firstName": "Sabor",
+      "lastName": "Ahmadi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:49:11.597Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:49:11.597Z"
+      }
     }
   ],
   "groups": [
