@@ -21364,6 +21364,21 @@
       "lastActive": {
         "$date": "2025-11-24T16:48:11.980Z"
       }
+    },
+    {
+      "userId": 8213461201,
+      "username": "xiaomei8990",
+      "firstName": "Xiao",
+      "lastName": "Xiao",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:48:46.805Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:48:46.805Z"
+      }
     }
   ],
   "groups": [
