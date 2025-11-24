@@ -18412,6 +18412,20 @@
       "lastActive": {
         "$date": "2025-11-24T10:59:35.187Z"
       }
+    },
+    {
+      "userId": 7193094579,
+      "firstName": "Jarot",
+      "lastName": "Bb",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:00:40.722Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:00:40.722Z"
+      }
     }
   ],
   "groups": [
