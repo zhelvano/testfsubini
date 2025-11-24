@@ -21107,6 +21107,20 @@
       "lastActive": {
         "$date": "2025-11-24T16:15:15.033Z"
       }
+    },
+    {
+      "userId": 7750876950,
+      "firstName": "Queen",
+      "lastName": "Gacor",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T16:15:33.650Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T16:15:33.650Z"
+      }
     }
   ],
   "groups": [
