@@ -19906,6 +19906,20 @@
       "lastActive": {
         "$date": "2025-11-24T13:10:06.418Z"
       }
+    },
+    {
+      "userId": 7083289556,
+      "firstName": "Ali",
+      "lastName": "Mohammadi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:11:09.290Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:11:09.294Z"
+      }
     }
   ],
   "groups": [
