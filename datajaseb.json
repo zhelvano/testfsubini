@@ -18783,6 +18783,34 @@
       "lastActive": {
         "$date": "2025-11-24T11:51:09.519Z"
       }
+    },
+    {
+      "userId": 7840159911,
+      "username": "Zxhy7",
+      "firstName": "𝗠𝗶𝗱𝗻𝗶𝗴𝗵𝘁𝗦𝗸𝘆",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:51:46.374Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:51:46.374Z"
+      }
+    },
+    {
+      "userId": 7032581655,
+      "firstName": "سنگری زخمی فاریابی²¹¹",
+      "lastName": "👑𝐒𝐀𝐍𝐐𝐀𝐑𝐀 𝐈𝐙𝐀𝐇𝐈𝐌𝐈 𝐏𝐀𝐑𝐈𝐘𝐀𝐁𝐈👑",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:51:47.546Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:51:47.547Z"
+      }
     }
   ],
   "groups": [
