@@ -15984,6 +15984,20 @@
       "lastActive": {
         "$date": "2025-11-24T02:11:53.625Z"
       }
+    },
+    {
+      "userId": 7080592302,
+      "username": "RohmanMakanBatu",
+      "firstName": "Manz 🐯",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T02:14:44.315Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T02:14:44.315Z"
+      }
     }
   ],
   "groups": [
