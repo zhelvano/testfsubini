@@ -17757,6 +17757,20 @@
       "lastActive": {
         "$date": "2025-11-24T08:45:09.720Z"
       }
+    },
+    {
+      "userId": 7223886958,
+      "username": "Yannxyz25",
+      "firstName": "𝐘𝐀𝐍𝐍 [𝐑𝐄𝐊𝐁𝐄𝐑]🇮🇩",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T08:47:47.228Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T08:47:47.228Z"
+      }
     }
   ],
   "groups": [
