@@ -20045,6 +20045,20 @@
       "lastActive": {
         "$date": "2025-11-24T13:32:46.617Z"
       }
+    },
+    {
+      "userId": 6803522371,
+      "username": "Tnt6724",
+      "firstName": "𝐌 𝐀 𝐑 𝐔 𝐅 ʙᴇᴍ™",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:38:58.176Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:38:58.177Z"
+      }
     }
   ],
   "groups": [
