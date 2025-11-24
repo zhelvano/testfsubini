@@ -1869,7 +1869,7 @@
         "$date": "2025-11-23T02:27:51.161000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T02:27:51.161000Z"
+        "$date": "2025-11-24T03:39:47.550Z"
       }
     },
     {
@@ -16320,6 +16320,20 @@
       },
       "lastActive": {
         "$date": "2025-11-24T03:38:51.996Z"
+      }
+    },
+    {
+      "userId": 6575640301,
+      "username": "funtake004",
+      "firstName": "iyaH",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T03:40:01.927Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T03:40:01.927Z"
       }
     }
   ],
