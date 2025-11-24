@@ -20218,6 +20218,20 @@
       "lastActive": {
         "$date": "2025-11-24T13:49:34.674Z"
       }
+    },
+    {
+      "userId": 7183764669,
+      "username": "Xiaoo21",
+      "firstName": "princee Xiao",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:50:12.250Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:50:12.250Z"
+      }
     }
   ],
   "groups": [
