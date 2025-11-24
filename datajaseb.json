@@ -20637,6 +20637,21 @@
       "lastActive": {
         "$date": "2025-11-24T14:57:15.074Z"
       }
+    },
+    {
+      "userId": 6354828055,
+      "username": "Saymon_44",
+      "firstName": "Md",
+      "lastName": "Saymon",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:58:06.939Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:58:06.940Z"
+      }
     }
   ],
   "groups": [
