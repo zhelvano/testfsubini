@@ -20116,6 +20116,19 @@
       "lastActive": {
         "$date": "2025-11-24T13:42:06.267Z"
       }
+    },
+    {
+      "userId": 8140288879,
+      "firstName": "Camii4",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:43:44.140Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:43:44.140Z"
+      }
     }
   ],
   "groups": [
