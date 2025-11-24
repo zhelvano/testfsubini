@@ -22270,6 +22270,20 @@
       "lastActive": {
         "$date": "2025-11-24T21:34:35.462Z"
       }
+    },
+    {
+      "userId": 7604307898,
+      "username": "ikramcompany",
+      "firstName": "𝑰𝑲𝑹𝑨𝑴 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹 [ 𝖯𝖱𝖮𝖬𝖮𝖲𝖨 ]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T21:37:00.866Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T21:37:00.866Z"
+      }
     }
   ],
   "groups": [
