@@ -22400,6 +22400,19 @@
       "lastActive": {
         "$date": "2025-11-24T22:09:29.698Z"
       }
+    },
+    {
+      "userId": 8411496715,
+      "firstName": "Tann",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T22:19:21.246Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T22:19:21.250Z"
+      }
     }
   ],
   "groups": [
