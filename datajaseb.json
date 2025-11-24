@@ -20609,6 +20609,20 @@
       "lastActive": {
         "$date": "2025-11-24T14:54:28.542Z"
       }
+    },
+    {
+      "userId": 8034640566,
+      "username": "Saefudin19",
+      "firstName": "Jamal",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T14:56:58.737Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T14:56:58.737Z"
+      }
     }
   ],
   "groups": [
