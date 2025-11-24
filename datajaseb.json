@@ -18300,6 +18300,21 @@
       "lastActive": {
         "$date": "2025-11-24T10:32:54.857Z"
       }
+    },
+    {
+      "userId": 7347584482,
+      "username": "fizlar",
+      "firstName": "Fizki",
+      "lastName": "Large",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T10:41:39.828Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T10:41:39.828Z"
+      }
     }
   ],
   "groups": [
