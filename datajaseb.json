@@ -22529,6 +22529,50 @@
       "lastActive": {
         "$date": "2025-11-24T22:56:17.047Z"
       }
+    },
+    {
+      "userId": 5223106454,
+      "username": "o_o_kam",
+      "firstName": "متجر BASIM للأرقام الوهمي",
+      "lastName": "https://t.me/basim_bik",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T22:57:04.494Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T22:57:04.494Z"
+      }
+    },
+    {
+      "userId": 8303337249,
+      "username": "Rezagokz",
+      "firstName": "Reza",
+      "lastName": "Gok",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T22:57:13.568Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T22:57:13.568Z"
+      }
+    },
+    {
+      "userId": 8509166320,
+      "username": "SennMieAyam",
+      "firstName": "sènn ¿? 🇫🇷",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T22:57:22.915Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T22:57:22.915Z"
+      }
     }
   ],
   "groups": [
