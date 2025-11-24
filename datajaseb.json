@@ -19457,6 +19457,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:28:27.486Z"
       }
+    },
+    {
+      "userId": 7517684348,
+      "username": "HMEDIAPRO",
+      "firstName": "Hmediaprooo√",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:29:32.847Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:29:32.847Z"
+      }
     }
   ],
   "groups": [
