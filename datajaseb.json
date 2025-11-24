@@ -20073,6 +20073,35 @@
       "lastActive": {
         "$date": "2025-11-24T13:40:04.497Z"
       }
+    },
+    {
+      "userId": 8085949338,
+      "username": "rxsiam02",
+      "firstName": "Rx",
+      "lastName": "Siam",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:41:20.286Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:41:20.286Z"
+      }
+    },
+    {
+      "userId": 6220342385,
+      "firstName": "Hartono GG",
+      "lastName": "Hartono",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T13:41:28.433Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T13:41:28.433Z"
+      }
     }
   ],
   "groups": [
