@@ -20696,6 +20696,20 @@
       "lastActive": {
         "$date": "2025-11-24T15:03:25.578Z"
       }
+    },
+    {
+      "userId": 7261328573,
+      "firstName": "Syed Huzaifa",
+      "lastName": "Shah",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T15:07:16.263Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T15:07:16.263Z"
+      }
     }
   ],
   "groups": [
