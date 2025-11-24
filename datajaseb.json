@@ -19610,6 +19610,35 @@
       "lastActive": {
         "$date": "2025-11-24T12:41:34.301Z"
       }
+    },
+    {
+      "userId": 6806045145,
+      "username": "KANZO_EMON",
+      "firstName": "𝙊𝙬𝙣𝙚𝙧",
+      "lastName": "𝙆𝙖𝙣𝙯𝙤🔥🖤",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:41:40.821Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:41:40.821Z"
+      }
+    },
+    {
+      "userId": 7627521122,
+      "username": "Rimcukurkuk",
+      "firstName": "Rim disirkelin",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:41:45.109Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:41:45.110Z"
+      }
     }
   ],
   "groups": [
