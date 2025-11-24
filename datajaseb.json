@@ -22047,6 +22047,21 @@
       "lastActive": {
         "$date": "2025-11-24T20:34:40.568Z"
       }
+    },
+    {
+      "userId": 7590992029,
+      "username": "Xy666645",
+      "firstName": "hayabusa",
+      "lastName": "Gggg",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T20:41:28.650Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T20:41:28.654Z"
+      }
     }
   ],
   "groups": [
