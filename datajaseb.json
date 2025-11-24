@@ -18664,6 +18664,33 @@
       "lastActive": {
         "$date": "2025-11-24T11:43:50.758Z"
       }
+    },
+    {
+      "userId": 7874013344,
+      "firstName": "جــ‌ـ‌ـ᭄ـزابڪــ‌ـ᭄ــ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:45:52.932Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:45:52.932Z"
+      }
+    },
+    {
+      "userId": 7452680569,
+      "username": "Khaaa16",
+      "firstName": "Kha Chinaa #𝟿𝟿𝟿💐",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T11:45:55.640Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T11:45:55.640Z"
+      }
     }
   ],
   "groups": [
