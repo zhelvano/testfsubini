@@ -19793,6 +19793,20 @@
       "lastActive": {
         "$date": "2025-11-24T12:53:23.261Z"
       }
+    },
+    {
+      "userId": 8561120340,
+      "username": "backupflorexstore",
+      "firstName": "ᵀ-ᴿᴱˣ||𝑭𝑳𝑶𝑹𝑬𝑿𝑺𝑻𝑶𝑹𝑬",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T12:56:46.824Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T12:56:46.824Z"
+      }
     }
   ],
   "groups": [
