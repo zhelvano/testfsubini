@@ -21435,6 +21435,20 @@
       "lastActive": {
         "$date": "2025-11-24T16:57:09.265Z"
       }
+    },
+    {
+      "userId": 7531278043,
+      "firstName": "yaka",
+      "lastName": "m7luna",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-24T17:03:43.586Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-24T17:03:43.592Z"
+      }
     }
   ],
   "groups": [
