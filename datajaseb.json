@@ -26238,7 +26238,7 @@
         "$date": "2025-11-25T10:58:49.138Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T10:58:49.138Z"
+        "$date": "2025-11-25T13:20:00.658Z"
       }
     },
     {
@@ -26480,7 +26480,7 @@
         "$date": "2025-11-25T11:59:28.404Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T11:59:28.407Z"
+        "$date": "2025-11-25T13:20:00.657Z"
       }
     },
     {
@@ -27680,6 +27680,35 @@
       },
       "lastActive": {
         "$date": "2025-11-25T13:19:28.388Z"
+      }
+    },
+    {
+      "userId": 7231355494,
+      "username": "appovadoo",
+      "firstName": "akml pengen turu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:19:58.657Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:19:58.657Z"
+      }
+    },
+    {
+      "userId": 8410541699,
+      "username": "cici_clyrinee",
+      "firstName": "cici",
+      "lastName": "clyriné",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:20:00.657Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:20:00.658Z"
       }
     }
   ],
