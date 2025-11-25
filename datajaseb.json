@@ -25615,6 +25615,20 @@
       "lastActive": {
         "$date": "2025-11-25T09:27:56.244Z"
       }
+    },
+    {
+      "userId": 6224524288,
+      "username": "coconutcip",
+      "firstName": "piwnope2",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:28:13.397Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:28:13.398Z"
+      }
     }
   ],
   "groups": [
