@@ -27866,6 +27866,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:26:31.194Z"
       }
+    },
+    {
+      "userId": 8517269858,
+      "username": "hanagakimichikun",
+      "firstName": "×͜× || 𝐇𝐚𝐧𝐚𝐠𝐚𝐤𝐢 一緒",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:29:02.524Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:29:02.526Z"
+      }
     }
   ],
   "groups": [
