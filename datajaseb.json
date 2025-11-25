@@ -25711,6 +25711,20 @@
       "lastActive": {
         "$date": "2025-11-25T09:38:48.070Z"
       }
+    },
+    {
+      "userId": 7694315204,
+      "username": "Mikey_97",
+      "firstName": "SUPERMIKEY",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:45:39.671Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:45:39.671Z"
+      }
     }
   ],
   "groups": [
