@@ -25961,6 +25961,20 @@
       "lastActive": {
         "$date": "2025-11-25T10:27:14.291Z"
       }
+    },
+    {
+      "userId": 5901320200,
+      "username": "zaiverid",
+      "firstName": "🗿",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:29:23.254Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:29:23.254Z"
+      }
     }
   ],
   "groups": [
