@@ -38,19 +38,24 @@
       "firstName": "kundrat",
       "groupsAdded": [
         -1003240150160,
-        -1003279623027
+        -1003279623027,
+        -1002548089026
       ],
       "isAdmin": false,
-      "isPremium": false,
+      "isPremium": true,
       "joinedAt": {
         "$date": "2025-11-22T19:07:56.252000Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T17:18:56.048Z"
+        "$date": "2025-11-25T17:21:02.303Z"
       },
       "username": "nahkaniya123",
-      "premiumExpiry": null,
-      "premiumSince": null
+      "premiumExpiry": {
+        "$date": "2025-11-28T17:20:47.744Z"
+      },
+      "premiumSince": {
+        "$date": "2025-11-25T17:20:47.744Z"
+      }
     },
     {
       "_id": {
@@ -30014,11 +30019,11 @@
     {
       "groupId": -1002548089026,
       "title": "Logs Maker",
-      "addedBy": 8105447127,
+      "addedBy": 6449298691,
       "addedAt": {
-        "$date": "2025-11-24T00:02:33.791Z"
+        "$date": "2025-11-25T17:20:47.544Z"
       },
-      "memberCount": 21
+      "memberCount": 22
     },
     {
       "_id": {
