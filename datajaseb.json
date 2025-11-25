@@ -28637,6 +28637,19 @@
       "lastActive": {
         "$date": "2025-11-25T14:54:24.457Z"
       }
+    },
+    {
+      "userId": 7622882682,
+      "firstName": "そして 💯",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:56:02.790Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:56:02.790Z"
+      }
     }
   ],
   "groups": [
