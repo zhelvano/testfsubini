@@ -27415,6 +27415,20 @@
       "lastActive": {
         "$date": "2025-11-25T12:56:36.095Z"
       }
+    },
+    {
+      "userId": 7994157285,
+      "username": "Jualakuntel",
+      "firstName": "JAMAL OFFICIAL",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:59:27.572Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:59:27.576Z"
+      }
     }
   ],
   "groups": [
