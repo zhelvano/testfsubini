@@ -24767,6 +24767,21 @@
       "lastActive": {
         "$date": "2025-11-25T07:06:34.773Z"
       }
+    },
+    {
+      "userId": 8476555570,
+      "username": "usertamvan1",
+      "firstName": "Ryza D.",
+      "lastName": "skywings",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:13:50.218Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:13:50.218Z"
+      }
     }
   ],
   "groups": [
