@@ -25629,6 +25629,19 @@
       "lastActive": {
         "$date": "2025-11-25T09:28:13.398Z"
       }
+    },
+    {
+      "userId": 2077045449,
+      "firstName": "verbans",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:30:06.182Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:30:06.182Z"
+      }
     }
   ],
   "groups": [
