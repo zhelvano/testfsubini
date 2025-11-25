@@ -25725,6 +25725,34 @@
       "lastActive": {
         "$date": "2025-11-25T09:45:39.671Z"
       }
+    },
+    {
+      "userId": 6172232459,
+      "username": "SpeedGank45",
+      "firstName": "𝕾𝖕𝖊𝖊𝖉 𝖌𝖆𝖓𝖐💨",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:55:07.096Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:55:07.096Z"
+      }
+    },
+    {
+      "userId": 6835026054,
+      "firstName": "Salman",
+      "lastName": "Yusuf",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:55:16.284Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:55:16.284Z"
+      }
     }
   ],
   "groups": [
