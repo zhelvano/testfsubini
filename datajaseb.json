@@ -29819,6 +29819,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:51:41.284Z"
       }
+    },
+    {
+      "userId": 7906995709,
+      "username": "dyannn1",
+      "firstName": "𝐃𝐲𝐚𝐧𝐧𝐧 𝐧𝐞𝐰𝐛𝐢𝐞",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:53:41.802Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:53:41.802Z"
+      }
     }
   ],
   "groups": [
