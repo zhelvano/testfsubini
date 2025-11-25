@@ -29748,6 +29748,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:44:11.350Z"
       }
+    },
+    {
+      "userId": 6045881406,
+      "username": "Xxwyxrcix994",
+      "firstName": "616 — L E N T Z X #ultimate (δ)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:45:36.435Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:45:36.435Z"
+      }
     }
   ],
   "groups": [
