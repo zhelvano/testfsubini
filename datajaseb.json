@@ -30982,6 +30982,34 @@
       "lastActive": {
         "$date": "2025-11-25T20:37:20.939Z"
       }
+    },
+    {
+      "userId": 6805931347,
+      "username": "BOBNUEL001",
+      "firstName": "BOB",
+      "lastName": "NUEL",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:38:49.957Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:38:49.957Z"
+      }
+    },
+    {
+      "userId": 7566391678,
+      "firstName": "ariana❤️💝🙈🙈😻",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:39:00.642Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:39:00.642Z"
+      }
     }
   ],
   "groups": [
