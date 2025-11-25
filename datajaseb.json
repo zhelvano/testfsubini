@@ -28902,6 +28902,20 @@
       "lastActive": {
         "$date": "2025-11-25T15:17:00.821Z"
       }
+    },
+    {
+      "userId": 7871363342,
+      "username": "pannlawrance04",
+      "firstName": "N̷̛͈̹̻͎͛͠𝑻𝑹𝑿 || 𝗽𝗮𝗻𝗻𝗹𝗮𝘄𝗿𝗮𝗻𝗰𝗲",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:20:55.649Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:20:55.649Z"
+      }
     }
   ],
   "groups": [
