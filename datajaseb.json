@@ -5310,7 +5310,7 @@
         "$date": "2025-11-23T05:01:38.080000Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T03:14:09.960Z"
+        "$date": "2025-11-25T05:45:39.302Z"
       }
     },
     {
@@ -24230,6 +24230,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T05:39:48.638Z"
+      }
+    },
+    {
+      "userId": 7106647426,
+      "username": "kyzcuah",
+      "firstName": "p",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T05:45:56.197Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T05:45:56.197Z"
       }
     }
   ],
