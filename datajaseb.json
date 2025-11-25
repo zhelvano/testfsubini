@@ -24908,6 +24908,34 @@
       "lastActive": {
         "$date": "2025-11-25T07:33:24.027Z"
       }
+    },
+    {
+      "userId": 8017900934,
+      "username": "JARZXGANTENG",
+      "firstName": "⏤͟͟͞͞𝐀𝐏𝐗 || JARZX",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:36:51.199Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:37:01.439Z"
+      }
+    },
+    {
+      "userId": 6569036347,
+      "username": "Ahmadi4k",
+      "firstName": "𝐴ℎ𝑚𝑎𝑑𝑖 4𝐾",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:37:00.004Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:37:00.004Z"
+      }
     }
   ],
   "groups": [
