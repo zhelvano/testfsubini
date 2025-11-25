@@ -22939,6 +22939,19 @@
       "lastActive": {
         "$date": "2025-11-25T00:57:22.455Z"
       }
+    },
+    {
+      "userId": 8217695612,
+      "firstName": "张",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T01:02:37.868Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T01:02:37.868Z"
+      }
     }
   ],
   "groups": [
