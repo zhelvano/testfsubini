@@ -29971,6 +29971,20 @@
       "lastActive": {
         "$date": "2025-11-25T17:15:15.188Z"
       }
+    },
+    {
+      "userId": 8360651613,
+      "username": "sun3032",
+      "firstName": "SUN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:16:01.894Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:16:01.895Z"
+      }
     }
   ],
   "groups": [
