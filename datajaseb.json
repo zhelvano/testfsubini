@@ -31821,6 +31821,20 @@
       "lastActive": {
         "$date": "2025-11-25T23:28:23.437Z"
       }
+    },
+    {
+      "userId": 6566759002,
+      "username": "Suprit2",
+      "firstName": ".",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:30:07.574Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:30:07.574Z"
+      }
     }
   ],
   "groups": [
