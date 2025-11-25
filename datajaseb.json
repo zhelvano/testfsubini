@@ -29776,6 +29776,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:47:41.537Z"
       }
+    },
+    {
+      "userId": 8445099132,
+      "username": "wandareall",
+      "firstName": "Wanda 真實的",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:48:50.140Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:48:50.140Z"
+      }
     }
   ],
   "groups": [
