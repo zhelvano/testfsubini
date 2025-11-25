@@ -41,20 +41,16 @@
         -1003279623027
       ],
       "isAdmin": false,
-      "isPremium": true,
+      "isPremium": false,
       "joinedAt": {
         "$date": "2025-11-22T19:07:56.252000Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T06:03:25.719Z"
+        "$date": "2025-11-25T17:18:56.048Z"
       },
       "username": "nahkaniya123",
-      "premiumExpiry": {
-        "$date": "2025-11-23T23:05:59.527000Z"
-      },
-      "premiumSince": {
-        "$date": "2025-11-22T23:05:59.527000Z"
-      }
+      "premiumExpiry": null,
+      "premiumSince": null
     },
     {
       "_id": {
