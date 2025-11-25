@@ -28036,6 +28036,35 @@
       "lastActive": {
         "$date": "2025-11-25T13:48:55.076Z"
       }
+    },
+    {
+      "userId": 6793235107,
+      "username": "F_ARYADI_JAN255",
+      "firstName": "*☬الحاج فریادی ☬جانان²⁰¹¹",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:49:34.447Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:49:34.447Z"
+      }
+    },
+    {
+      "userId": 7750470557,
+      "username": "mehedi51212",
+      "firstName": "Md",
+      "lastName": "Mehedi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:49:40.324Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:49:40.324Z"
+      }
     }
   ],
   "groups": [
