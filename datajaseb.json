@@ -30867,6 +30867,20 @@
       "lastActive": {
         "$date": "2025-11-25T20:20:25.997Z"
       }
+    },
+    {
+      "userId": 7390197225,
+      "username": "aryanara1",
+      "firstName": "teatrkzacky",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:22:38.891Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:22:38.896Z"
+      }
     }
   ],
   "groups": [
