@@ -31737,6 +31737,20 @@
       "lastActive": {
         "$date": "2025-11-25T23:19:05.353Z"
       }
+    },
+    {
+      "userId": 8010042028,
+      "firstName": "Kadek",
+      "lastName": "Bawa Yasa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:20:09.781Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:20:09.781Z"
+      }
     }
   ],
   "groups": [
