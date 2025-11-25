@@ -31452,6 +31452,21 @@
       "lastActive": {
         "$date": "2025-11-25T22:15:10.215Z"
       }
+    },
+    {
+      "userId": 6093396136,
+      "username": "Kesehot3",
+      "firstName": "Kese",
+      "lastName": "ho𓆩⁣⃝๏์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์(Tãsïñ)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T22:16:39.989Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T22:16:39.989Z"
+      }
     }
   ],
   "groups": [
