@@ -28399,6 +28399,34 @@
       "lastActive": {
         "$date": "2025-11-25T14:35:13.098Z"
       }
+    },
+    {
+      "userId": 7216271280,
+      "username": "shamim999k",
+      "firstName": "MD SHAMIM",
+      "lastName": "ISLAM",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:37:04.833Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:37:04.833Z"
+      }
+    },
+    {
+      "userId": 5672622967,
+      "firstName": "احمد بشیر قادری",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:37:04.834Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:37:04.834Z"
+      }
     }
   ],
   "groups": [
