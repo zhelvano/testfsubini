@@ -27231,6 +27231,21 @@
       "lastActive": {
         "$date": "2025-11-25T12:45:53.770Z"
       }
+    },
+    {
+      "userId": 7166767671,
+      "username": "Pakhtoonpower95",
+      "firstName": "ƜƛƦƦƖƠƦ",
+      "lastName": "ƤƛƘӇƬƠƠƝ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:46:26.479Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:46:26.480Z"
+      }
     }
   ],
   "groups": [
