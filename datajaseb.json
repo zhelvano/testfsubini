@@ -29355,6 +29355,34 @@
       "lastActive": {
         "$date": "2025-11-25T16:03:59.681Z"
       }
+    },
+    {
+      "userId": 6499249278,
+      "username": "lYl_lllI",
+      "firstName": "𝖒𝖎𝖈𝖍𝖆𝖊𝖑 𝖘𝖈𝖔𝖋𝖎𝖊𝖑𝖉",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:04:13.108Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:04:13.108Z"
+      }
+    },
+    {
+      "userId": 5337020358,
+      "firstName": "Adeloye",
+      "lastName": "Kikelomo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:04:22.795Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:04:22.795Z"
+      }
     }
   ],
   "groups": [
