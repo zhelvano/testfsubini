@@ -26496,6 +26496,20 @@
       "lastActive": {
         "$date": "2025-11-25T12:06:58.775Z"
       }
+    },
+    {
+      "userId": 8115617621,
+      "username": "najibon",
+      "firstName": "najib",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:07:01.799Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:07:01.799Z"
+      }
     }
   ],
   "groups": [
