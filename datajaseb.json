@@ -24258,6 +24258,20 @@
       "lastActive": {
         "$date": "2025-11-25T05:50:13.421Z"
       }
+    },
+    {
+      "userId": 8184844368,
+      "firstName": "FAIZULLAH",
+      "lastName": "ELHAM",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T05:55:36.101Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T05:55:36.101Z"
+      }
     }
   ],
   "groups": [
