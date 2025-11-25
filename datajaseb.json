@@ -28385,6 +28385,20 @@
       "lastActive": {
         "$date": "2025-11-25T14:34:32.232Z"
       }
+    },
+    {
+      "userId": 6383608078,
+      "username": "Malgrim01",
+      "firstName": "Malgrim",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:35:13.096Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:35:13.098Z"
+      }
     }
   ],
   "groups": [
