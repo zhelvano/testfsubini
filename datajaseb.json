@@ -27922,6 +27922,21 @@
       "lastActive": {
         "$date": "2025-11-25T13:36:52.303Z"
       }
+    },
+    {
+      "userId": 8229155047,
+      "username": "akbarutamaaa",
+      "firstName": "AKBAR",
+      "lastName": "UTAMA",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:37:04.807Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:37:04.807Z"
+      }
     }
   ],
   "groups": [
