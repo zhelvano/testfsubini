@@ -24527,6 +24527,21 @@
       "lastActive": {
         "$date": "2025-11-25T06:37:12.677Z"
       }
+    },
+    {
+      "userId": 5040027129,
+      "username": "SaMi_SaiN",
+      "firstName": "Samii",
+      "lastName": "Malick",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:38:45.006Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:38:45.006Z"
+      }
     }
   ],
   "groups": [
