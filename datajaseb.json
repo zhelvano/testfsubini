@@ -28650,6 +28650,21 @@
       "lastActive": {
         "$date": "2025-11-25T14:56:02.790Z"
       }
+    },
+    {
+      "userId": 7225591488,
+      "username": "jfjfhf6567dj",
+      "firstName": "ابو سعيد",
+      "lastName": "المتمرذ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:57:42.093Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:57:42.096Z"
+      }
     }
   ],
   "groups": [
