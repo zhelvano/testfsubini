@@ -25237,6 +25237,20 @@
       "lastActive": {
         "$date": "2025-11-25T08:27:23.086Z"
       }
+    },
+    {
+      "userId": 7514437428,
+      "username": "AditBaeee",
+      "firstName": "𝐀𝐃𝐈𝐓'英",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T08:34:43.570Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T08:34:43.570Z"
+      }
     }
   ],
   "groups": [
