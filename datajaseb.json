@@ -17303,7 +17303,7 @@
         "$date": "2025-11-24T07:31:46.113Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T07:31:46.113Z"
+        "$date": "2025-11-25T00:00:03.609Z"
       }
     },
     {
@@ -22768,6 +22768,20 @@
       },
       "lastActive": {
         "$date": "2025-11-24T23:59:25.643Z"
+      }
+    },
+    {
+      "userId": 6170848760,
+      "username": "usernxyz",
+      "firstName": "xxbbxu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T00:00:22.198Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T00:00:22.198Z"
       }
     }
   ],
