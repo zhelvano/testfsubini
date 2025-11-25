@@ -24017,6 +24017,21 @@
       "lastActive": {
         "$date": "2025-11-25T04:51:01.360Z"
       }
+    },
+    {
+      "userId": 7457555908,
+      "username": "hamid_alyy",
+      "firstName": "🐰🐰🐰🐰",
+      "lastName": "🐰🐰🐰",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:53:01.574Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:53:01.574Z"
+      }
     }
   ],
   "groups": [
