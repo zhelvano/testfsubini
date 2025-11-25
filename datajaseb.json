@@ -25031,6 +25031,20 @@
       "lastActive": {
         "$date": "2025-11-25T07:42:17.833Z"
       }
+    },
+    {
+      "userId": 7980582746,
+      "username": "nanaimutsekali",
+      "firstName": "𝙽𝙰𝙽𝙰中国",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:45:04.948Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:45:04.948Z"
+      }
     }
   ],
   "groups": [
