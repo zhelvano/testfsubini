@@ -29943,6 +29943,20 @@
       "lastActive": {
         "$date": "2025-11-25T17:09:39.894Z"
       }
+    },
+    {
+      "userId": 7583236588,
+      "username": "m0onst4r28",
+      "firstName": "𝓓𝓮𝓼𝔂𝔂 𝜗𝜚˚⋆𓍯 ִֶָ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:11:42.244Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:11:42.244Z"
+      }
     }
   ],
   "groups": [
