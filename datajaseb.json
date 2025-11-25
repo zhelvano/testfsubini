@@ -26510,6 +26510,34 @@
       "lastActive": {
         "$date": "2025-11-25T12:07:01.799Z"
       }
+    },
+    {
+      "userId": 8038202073,
+      "username": "Mister_5H4D0W_480",
+      "firstName": "ᛍ🇷🇺᚛𓆩•⁠থৣՏʜᗩᗪᗝᗯ ཧᕽ 𝖝𝟜𝟠𝟘 ཀོ•𓆪᚜🇷🇺ᛍ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:08:10.168Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:08:10.168Z"
+      }
+    },
+    {
+      "userId": 8261041574,
+      "username": "TanzThisBoy",
+      "firstName": "./TanzКороль#77",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:08:14.823Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:08:14.823Z"
+      }
     }
   ],
   "groups": [
