@@ -30251,6 +30251,20 @@
       "lastActive": {
         "$date": "2025-11-25T18:00:01.679Z"
       }
+    },
+    {
+      "userId": 5661799308,
+      "username": "nvigation",
+      "firstName": "Obrigado",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:00:36.640Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:00:36.640Z"
+      }
     }
   ],
   "groups": [
