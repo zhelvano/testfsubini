@@ -25560,6 +25560,20 @@
       "lastActive": {
         "$date": "2025-11-25T09:15:23.556Z"
       }
+    },
+    {
+      "userId": 7928695010,
+      "firstName": "Munir",
+      "lastName": "khan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:21:32.477Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:21:32.477Z"
+      }
     }
   ],
   "groups": [
