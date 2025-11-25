@@ -29651,6 +29651,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:31:05.055Z"
       }
+    },
+    {
+      "userId": 6805695079,
+      "username": "ZabiullahFayZi",
+      "firstName": "رــــیس ذبیـــــــح کنـــــــدزی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:35:27.850Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:35:27.853Z"
+      }
     }
   ],
   "groups": [
