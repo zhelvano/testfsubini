@@ -24204,6 +24204,20 @@
       "lastActive": {
         "$date": "2025-11-25T05:31:36.409Z"
       }
+    },
+    {
+      "userId": 7112281608,
+      "username": "Bold117b",
+      "firstName": "𝙆𝙀𝙔𝙕𝘽𝙇𝙊𝘿🏅",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T05:34:29.135Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T05:34:29.136Z"
+      }
     }
   ],
   "groups": [
