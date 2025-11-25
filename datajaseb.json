@@ -30110,6 +30110,20 @@
       "lastActive": {
         "$date": "2025-11-25T17:42:53.205Z"
       }
+    },
+    {
+      "userId": 8005902749,
+      "firstName": "David",
+      "lastName": "forex",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:44:16.453Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:44:16.453Z"
+      }
     }
   ],
   "groups": [
