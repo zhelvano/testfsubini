@@ -30292,6 +30292,20 @@
       "lastActive": {
         "$date": "2025-11-25T18:01:13.457Z"
       }
+    },
+    {
+      "userId": 7870295166,
+      "username": "DamzOfficiall",
+      "firstName": "𝘿𝙖𝙢𝙯_𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:01:50.124Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:01:59.636Z"
+      }
     }
   ],
   "groups": [
