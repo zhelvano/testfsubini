@@ -23712,6 +23712,19 @@
       "lastActive": {
         "$date": "2025-11-25T03:59:54.266Z"
       }
+    },
+    {
+      "userId": 8355843321,
+      "firstName": "Y",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:00:41.753Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:00:41.753Z"
+      }
     }
   ],
   "groups": [
