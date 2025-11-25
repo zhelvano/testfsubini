@@ -27792,7 +27792,7 @@
         "$date": "2025-11-25T13:24:28.501Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T13:25:01.065Z"
+        "$date": "2025-11-25T13:25:57.849Z"
       }
     },
     {
@@ -27807,6 +27807,48 @@
       },
       "lastActive": {
         "$date": "2025-11-25T13:24:52.932Z"
+      }
+    },
+    {
+      "userId": 6974432400,
+      "username": "Orang087",
+      "firstName": "Orang",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:25:40.770Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:25:40.770Z"
+      }
+    },
+    {
+      "userId": 8321303206,
+      "username": "odinchestvoo",
+      "firstName": "Хайдар ‎",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:25:41.624Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:25:41.624Z"
+      }
+    },
+    {
+      "userId": 8022808743,
+      "username": "razehunt",
+      "firstName": "XYLENT || ZARD",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:25:55.024Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:25:55.024Z"
       }
     }
   ],
@@ -28234,6 +28276,15 @@
         "$date": "2025-11-25T12:01:43.847Z"
       },
       "memberCount": 6
+    },
+    {
+      "groupId": -1003229380920,
+      "title": "gb",
+      "addedBy": 8357179328,
+      "addedAt": {
+        "$date": "2025-11-25T13:25:58.403Z"
+      },
+      "memberCount": 7
     }
   ]
 }
