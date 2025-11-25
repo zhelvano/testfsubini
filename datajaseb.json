@@ -26138,7 +26138,7 @@
         "$date": "2025-11-25T10:43:22.311Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T10:43:39.735Z"
+        "$date": "2025-11-25T16:54:29.441Z"
       }
     },
     {
@@ -29832,6 +29832,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T16:53:41.802Z"
+      }
+    },
+    {
+      "userId": 7980978803,
+      "firstName": "Eimal",
+      "lastName": "khusrawi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:54:24.705Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:54:24.705Z"
       }
     }
   ],
