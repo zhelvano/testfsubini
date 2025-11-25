@@ -28329,6 +28329,19 @@
       "lastActive": {
         "$date": "2025-11-25T14:22:49.599Z"
       }
+    },
+    {
+      "userId": 7768353372,
+      "firstName": "Kr",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:26:31.714Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:26:31.719Z"
+      }
     }
   ],
   "groups": [
