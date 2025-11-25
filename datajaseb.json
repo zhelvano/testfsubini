@@ -27951,6 +27951,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:40:29.098Z"
       }
+    },
+    {
+      "userId": 8063013022,
+      "username": "King26211",
+      "firstName": "⚔️BOSS💥",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:40:35.864Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:40:35.864Z"
+      }
     }
   ],
   "groups": [
