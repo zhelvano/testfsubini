@@ -28582,6 +28582,33 @@
       "lastActive": {
         "$date": "2025-11-25T14:52:36.493Z"
       }
+    },
+    {
+      "userId": 7533522640,
+      "firstName": "Malik",
+      "lastName": "Asif",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:53:06.099Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:53:06.099Z"
+      }
+    },
+    {
+      "userId": 6000653751,
+      "firstName": "BangBroz Jpg",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:53:28.357Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:53:28.357Z"
+      }
     }
   ],
   "groups": [
