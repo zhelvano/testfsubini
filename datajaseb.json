@@ -30644,6 +30644,20 @@
       "lastActive": {
         "$date": "2025-11-25T19:09:17.613Z"
       }
+    },
+    {
+      "userId": 8347435828,
+      "firstName": "💎SAMÆD💎",
+      "lastName": "💎Najï💎",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T19:12:47.511Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T19:12:47.515Z"
+      }
     }
   ],
   "groups": [
