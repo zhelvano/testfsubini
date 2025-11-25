@@ -26411,6 +26411,21 @@
       "lastActive": {
         "$date": "2025-11-25T11:37:36.018Z"
       }
+    },
+    {
+      "userId": 6620763543,
+      "username": "zahraaaa89q",
+      "firstName": "—𝐘𝐚𝐲𝐲`",
+      "lastName": "好的",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T11:45:14.718Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T11:45:14.724Z"
+      }
     }
   ],
   "groups": [
