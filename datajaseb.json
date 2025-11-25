@@ -31650,6 +31650,20 @@
       "lastActive": {
         "$date": "2025-11-25T22:59:11.384Z"
       }
+    },
+    {
+      "userId": 7877495728,
+      "username": "usteaz",
+      "firstName": "LEGEND",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:05:25.532Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:05:25.535Z"
+      }
     }
   ],
   "groups": [
