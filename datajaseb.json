@@ -24683,6 +24683,34 @@
       "lastActive": {
         "$date": "2025-11-25T06:52:52.450Z"
       }
+    },
+    {
+      "userId": 6626963539,
+      "username": "rakhawyourfav",
+      "firstName": "rkh",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:56:34.414Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:56:34.414Z"
+      }
+    },
+    {
+      "userId": 7443203379,
+      "username": "pleaseban",
+      "firstName": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:56:38.153Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:56:38.153Z"
+      }
     }
   ],
   "groups": [
