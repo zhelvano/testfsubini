@@ -30181,6 +30181,48 @@
       "lastActive": {
         "$date": "2025-11-25T17:52:24.379Z"
       }
+    },
+    {
+      "userId": 8482719475,
+      "firstName": "Asraful 🌿",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:54:08.017Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:54:08.017Z"
+      }
+    },
+    {
+      "userId": 6815217548,
+      "username": "michaeledgar",
+      "firstName": "‎ ‎ ‎miguel",
+      "lastName": "somalia./δ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:54:16.912Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:54:16.912Z"
+      }
+    },
+    {
+      "userId": 8427488268,
+      "username": "pokkiis",
+      "firstName": "vani 🍁",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:54:32.248Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:54:32.248Z"
+      }
     }
   ],
   "groups": [
