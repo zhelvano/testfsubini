@@ -23975,6 +23975,20 @@
       "lastActive": {
         "$date": "2025-11-25T04:47:26.940Z"
       }
+    },
+    {
+      "userId": 8202275716,
+      "firstName": "نلیب",
+      "lastName": "نلییخی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:50:30.232Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:50:30.233Z"
+      }
     }
   ],
   "groups": [
