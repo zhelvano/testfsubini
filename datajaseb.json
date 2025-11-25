@@ -30168,6 +30168,19 @@
       "lastActive": {
         "$date": "2025-11-25T17:51:59.262Z"
       }
+    },
+    {
+      "userId": 7696572390,
+      "firstName": "Uzer#666🪐",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:52:24.376Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:52:24.379Z"
+      }
     }
   ],
   "groups": [
