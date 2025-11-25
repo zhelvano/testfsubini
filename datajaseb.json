@@ -23012,6 +23012,19 @@
       "lastActive": {
         "$date": "2025-11-25T01:22:57.287Z"
       }
+    },
+    {
+      "userId": 7709118556,
+      "firstName": "Beledogan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T01:25:21.599Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T01:25:21.599Z"
+      }
     }
   ],
   "groups": [
