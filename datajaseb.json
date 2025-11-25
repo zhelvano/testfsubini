@@ -23795,6 +23795,20 @@
       "lastActive": {
         "$date": "2025-11-25T04:06:28.114Z"
       }
+    },
+    {
+      "userId": 7588449861,
+      "username": "criptocuba_oficial",
+      "firstName": "Crypto Cuba🇨🇺",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:09:57.892Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:09:57.892Z"
+      }
     }
   ],
   "groups": [
