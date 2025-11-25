@@ -30304,7 +30304,35 @@
         "$date": "2025-11-25T18:01:50.124Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T18:01:59.636Z"
+        "$date": "2025-11-25T18:02:06.811Z"
+      }
+    },
+    {
+      "userId": 7530389463,
+      "username": "hxjcjckfkfkgk",
+      "firstName": "إبن الدولة 711🇾🇪 ₸",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:02:16.090Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:02:16.090Z"
+      }
+    },
+    {
+      "userId": 6861353331,
+      "username": "hapinneses",
+      "firstName": "Happineses",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:02:34.546Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:02:34.546Z"
       }
     }
   ],
