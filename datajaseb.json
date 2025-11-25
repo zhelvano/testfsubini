@@ -23517,6 +23517,20 @@
       "lastActive": {
         "$date": "2025-11-25T02:58:11.872Z"
       }
+    },
+    {
+      "userId": 7142122701,
+      "username": "skyzammm",
+      "firstName": "skyooooo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T03:00:23.147Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T03:00:23.147Z"
+      }
     }
   ],
   "groups": [
