@@ -23446,6 +23446,20 @@
       "lastActive": {
         "$date": "2025-11-25T02:46:38.643Z"
       }
+    },
+    {
+      "userId": 6802345089,
+      "username": "raportar",
+      "firstName": "𝐑𝐄𝐈𝐒 𝐀𝐒𝐄𝐌𝐀𝐄𝐈𝐋",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:48:14.898Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:48:14.898Z"
+      }
     }
   ],
   "groups": [
