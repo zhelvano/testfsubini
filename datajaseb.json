@@ -23641,6 +23641,21 @@
       "lastActive": {
         "$date": "2025-11-25T03:35:03.965Z"
       }
+    },
+    {
+      "userId": 6647605778,
+      "username": "Esteban0ale",
+      "firstName": "Esteban",
+      "lastName": "Alejandro",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T03:37:23.301Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T03:37:23.301Z"
+      }
     }
   ],
   "groups": [
