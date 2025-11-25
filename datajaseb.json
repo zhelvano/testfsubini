@@ -24915,12 +24915,14 @@
       "firstName": "⏤͟͟͞͞𝐀𝐏𝐗 || JARZX",
       "isPremium": false,
       "isAdmin": false,
-      "groupsAdded": [],
+      "groupsAdded": [
+        -1003477822273
+      ],
       "joinedAt": {
         "$date": "2025-11-25T07:36:51.199Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T07:37:01.439Z"
+        "$date": "2025-11-25T07:37:28.683Z"
       }
     },
     {
@@ -25326,6 +25328,15 @@
         "$date": "2025-11-25T01:37:22.232Z"
       },
       "memberCount": 57
+    },
+    {
+      "groupId": -1003477822273,
+      "title": "KUSUS CRET PANEL",
+      "addedBy": 8017900934,
+      "addedAt": {
+        "$date": "2025-11-25T07:37:28.676Z"
+      },
+      "memberCount": 97
     }
   ]
 }
