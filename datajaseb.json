@@ -28470,6 +28470,20 @@
       "lastActive": {
         "$date": "2025-11-25T14:44:20.935Z"
       }
+    },
+    {
+      "userId": 8028914304,
+      "username": "xiznine",
+      "firstName": "levv♿",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:44:41.493Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:44:41.493Z"
+      }
     }
   ],
   "groups": [
