@@ -26622,6 +26622,34 @@
       "lastActive": {
         "$date": "2025-11-25T12:18:57.983Z"
       }
+    },
+    {
+      "userId": 7570404627,
+      "username": "CRISH_NATHAN",
+      "firstName": "阿蘇 孟加拉邦薩德 康托拉蘇 孟加拉邦薩德 康托拉蘇 孟加拉邦薩德 康托拉蘇 孟加拉邦薩德 康托拉蘇 孟加拉邦薩德 康托拉蘇 孟",
+      "lastName": "muka loe",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:19:24.191Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:19:24.191Z"
+      }
+    },
+    {
+      "userId": 8296875526,
+      "firstName": "Danial",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:19:31.269Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:19:31.269Z"
+      }
     }
   ],
   "groups": [
