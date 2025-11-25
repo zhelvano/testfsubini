@@ -27174,6 +27174,20 @@
       "lastActive": {
         "$date": "2025-11-25T12:43:51.292Z"
       }
+    },
+    {
+      "userId": 7882113455,
+      "username": "LikzTrica",
+      "firstName": "Likz트리샤",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:45:22.072Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:45:22.072Z"
+      }
     }
   ],
   "groups": [
