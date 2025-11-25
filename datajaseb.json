@@ -30237,6 +30237,20 @@
       "lastActive": {
         "$date": "2025-11-25T17:57:53.271Z"
       }
+    },
+    {
+      "userId": 8402122244,
+      "firstName": "Şahin",
+      "lastName": "Hesenov",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:00:01.679Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:00:01.679Z"
+      }
     }
   ],
   "groups": [
