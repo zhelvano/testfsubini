@@ -28427,6 +28427,20 @@
       "lastActive": {
         "$date": "2025-11-25T14:37:04.834Z"
       }
+    },
+    {
+      "userId": 8289956300,
+      "username": "anonimous_a2025",
+      "firstName": "🌿AnónimousGB🌿",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:40:10.490Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:40:10.496Z"
+      }
     }
   ],
   "groups": [
