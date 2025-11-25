@@ -26469,6 +26469,19 @@
       "lastActive": {
         "$date": "2025-11-25T11:51:47.716Z"
       }
+    },
+    {
+      "userId": 8363092657,
+      "firstName": "Vall",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T11:59:28.404Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T11:59:28.407Z"
+      }
     }
   ],
   "groups": [
