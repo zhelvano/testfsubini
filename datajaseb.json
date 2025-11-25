@@ -26213,6 +26213,20 @@
       "lastActive": {
         "$date": "2025-11-25T10:54:58.088Z"
       }
+    },
+    {
+      "userId": 8267474122,
+      "username": "PangeranXvz",
+      "firstName": "—友 𝚈𝙼𝚉 || 𝙿𝙰𝙽𝙶𝙴𝚁𝙰𝙽 𝚇𝚅𝚉 友—",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:55:41.328Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:55:41.331Z"
+      }
     }
   ],
   "groups": [
