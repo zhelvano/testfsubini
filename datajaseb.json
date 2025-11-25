@@ -23822,6 +23822,19 @@
       "lastActive": {
         "$date": "2025-11-25T04:10:40.995Z"
       }
+    },
+    {
+      "userId": 5676627074,
+      "firstName": "بریالی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:17:10.500Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:17:10.500Z"
+      }
     }
   ],
   "groups": [
