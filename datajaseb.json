@@ -31079,6 +31079,33 @@
       "lastActive": {
         "$date": "2025-11-25T20:48:53.490Z"
       }
+    },
+    {
+      "userId": 6774012739,
+      "firstName": "Shadow",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:50:42.299Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:50:42.300Z"
+      }
+    },
+    {
+      "userId": 8200838696,
+      "username": "pv_mujibahm",
+      "firstName": "Ahmadi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:50:46.224Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:50:46.224Z"
+      }
     }
   ],
   "groups": [
