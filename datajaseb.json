@@ -23698,6 +23698,20 @@
       "lastActive": {
         "$date": "2025-11-25T03:51:48.582Z"
       }
+    },
+    {
+      "userId": 8025875481,
+      "username": "anakcelo",
+      "firstName": "© ⏤͟͟𝐃𝐍𝐓 ⵢ METEOR𝚵",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T03:59:00.534Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T03:59:11.772Z"
+      }
     }
   ],
   "groups": [
