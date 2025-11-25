@@ -25546,6 +25546,20 @@
       "lastActive": {
         "$date": "2025-11-25T09:14:11.704Z"
       }
+    },
+    {
+      "userId": 6807232950,
+      "username": "ARMIN_JAN",
+      "firstName": "𝐀𝐑𝐌𝐈𝐍 𝐉𝐀𝐍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:15:23.556Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:15:23.556Z"
+      }
     }
   ],
   "groups": [
