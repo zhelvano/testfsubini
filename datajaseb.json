@@ -28300,6 +28300,21 @@
       "lastActive": {
         "$date": "2025-11-25T14:18:47.058Z"
       }
+    },
+    {
+      "userId": 1253946224,
+      "username": "Sila_Talia",
+      "firstName": "Sila♥️♥️",
+      "lastName": "Talia",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:21:33.801Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:21:33.801Z"
+      }
     }
   ],
   "groups": [
