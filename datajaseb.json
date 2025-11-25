@@ -31120,6 +31120,20 @@
       "lastActive": {
         "$date": "2025-11-25T20:52:28.926Z"
       }
+    },
+    {
+      "userId": 6489319148,
+      "username": "ManggLzz666",
+      "firstName": "⸙𝐌𝐚𝐧𝐠 𝐋𝐳 𝟔.𝟔.𝟔 (agent tidak kuat)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:54:24.125Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:54:24.126Z"
+      }
     }
   ],
   "groups": [
