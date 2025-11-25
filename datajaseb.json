@@ -24839,6 +24839,20 @@
       "lastActive": {
         "$date": "2025-11-25T07:20:55.727Z"
       }
+    },
+    {
+      "userId": 7877072756,
+      "username": "Ricios7",
+      "firstName": "Ricios #7",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:23:44.477Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:23:44.477Z"
+      }
     }
   ],
   "groups": [
