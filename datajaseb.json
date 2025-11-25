@@ -29328,6 +29328,33 @@
       "lastActive": {
         "$date": "2025-11-25T16:00:34.288Z"
       }
+    },
+    {
+      "userId": 7825164304,
+      "firstName": "1806053371",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:03:54.769Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:03:54.769Z"
+      }
+    },
+    {
+      "userId": 7965148465,
+      "username": "excuisme",
+      "firstName": "Sultanz (0)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:03:59.681Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:03:59.681Z"
+      }
     }
   ],
   "groups": [
