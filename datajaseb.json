@@ -28163,6 +28163,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:59:04.220Z"
       }
+    },
+    {
+      "userId": 6770644828,
+      "username": "Sultanaghs",
+      "firstName": "Sultana 🐈‍⬛🐾",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:59:41.449Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:59:41.449Z"
+      }
     }
   ],
   "groups": [
