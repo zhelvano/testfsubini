@@ -27188,6 +27188,49 @@
       "lastActive": {
         "$date": "2025-11-25T12:45:22.072Z"
       }
+    },
+    {
+      "userId": 8487359196,
+      "username": "Reessamir4k",
+      "firstName": "❗🌱MR™SAMiR🌱❗",
+      "lastName": "❗🌱MR™SAMiR🌱❗",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:45:38.621Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:45:38.621Z"
+      }
+    },
+    {
+      "userId": 6028678776,
+      "username": "Modee223",
+      "firstName": "Modewinnera",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:45:44.207Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:45:44.207Z"
+      }
+    },
+    {
+      "userId": 7709605967,
+      "username": "dapxzoffc",
+      "firstName": "𓆩𓂍•⏤͟͟͞͞Xv7| |⏤͟͟͞͞𝐗𝐢𝐕❀ᵈᵃᵖˣᶻᵒᶠᶠᶜ•𓂍𓆪",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:45:53.770Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:45:53.770Z"
+      }
     }
   ],
   "groups": [
