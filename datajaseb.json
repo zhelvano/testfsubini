@@ -25404,6 +25404,64 @@
       "lastActive": {
         "$date": "2025-11-25T08:51:03.184Z"
       }
+    },
+    {
+      "userId": 8219810817,
+      "username": "Fki58",
+      "firstName": "Md",
+      "lastName": "Team",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:02:43.100Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:02:43.102Z"
+      }
+    },
+    {
+      "userId": 8388649100,
+      "username": "primeevertime",
+      "firstName": "ℙℝ𝕀𝕄𝔼",
+      "lastName": "𝔼𝕍𝔼ℝ𝕋𝕀𝕄𝔼",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:02:43.104Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:02:43.106Z"
+      }
+    },
+    {
+      "userId": 6486526238,
+      "username": "Ipsellernoman",
+      "firstName": "Proxy Sellar 🌐",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:02:43.107Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:02:43.107Z"
+      }
+    },
+    {
+      "userId": 7876250114,
+      "username": "math4ww",
+      "firstName": "cccellotej!p (4)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:03:11.135Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:03:11.135Z"
+      }
     }
   ],
   "groups": [
