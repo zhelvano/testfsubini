@@ -30027,6 +30027,20 @@
       "lastActive": {
         "$date": "2025-11-25T17:22:15.109Z"
       }
+    },
+    {
+      "userId": 5800112797,
+      "username": "nym_khan",
+      "firstName": "NYM 👑 | #TAPPgang",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:26:27.144Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:26:27.147Z"
+      }
     }
   ],
   "groups": [
