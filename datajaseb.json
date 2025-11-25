@@ -31807,6 +31807,20 @@
       "lastActive": {
         "$date": "2025-11-25T23:23:50.240Z"
       }
+    },
+    {
+      "userId": 8401731495,
+      "firstName": "Gulam",
+      "lastName": "Kadar",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:28:23.437Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:28:23.437Z"
+      }
     }
   ],
   "groups": [
