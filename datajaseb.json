@@ -8527,7 +8527,6 @@
       "userId": 8373868162,
       "username": "iyan4youu",
       "firstName": "Zann ϟ 𝐆𝐨𝐥𝐝𝐞𝐧",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -8535,7 +8534,7 @@
         "$date": "2025-11-23T06:55:30.788000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T06:56:04.696000Z"
+        "$date": "2025-11-25T10:56:55.029Z"
       }
     },
     {
@@ -26225,7 +26224,7 @@
         "$date": "2025-11-25T10:55:41.328Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T10:56:27.682Z"
+        "$date": "2025-11-25T10:56:37.878Z"
       }
     }
   ],
