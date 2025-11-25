@@ -27937,6 +27937,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:37:04.807Z"
       }
+    },
+    {
+      "userId": 7136221423,
+      "firstName": "Qurrota",
+      "lastName": "A'yun",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:40:29.093Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:40:29.098Z"
+      }
     }
   ],
   "groups": [
