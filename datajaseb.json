@@ -31950,6 +31950,20 @@
       "lastActive": {
         "$date": "2025-11-25T23:49:52.831Z"
       }
+    },
+    {
+      "userId": 2035167288,
+      "username": "AiIa711",
+      "firstName": "الجد علوي 🧔",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:52:40.314Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:52:40.314Z"
+      }
     }
   ],
   "groups": [
