@@ -27346,6 +27346,20 @@
       "lastActive": {
         "$date": "2025-11-25T12:51:57.497Z"
       }
+    },
+    {
+      "userId": 8421512602,
+      "username": "ajgluwh",
+      "firstName": "⏤͟͟͞𝗭𝟒 || Lucezhe",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:52:29.573Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:52:29.573Z"
+      }
     }
   ],
   "groups": [
