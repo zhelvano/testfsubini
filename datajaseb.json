@@ -26949,6 +26949,34 @@
       "lastActive": {
         "$date": "2025-11-25T12:29:00.013Z"
       }
+    },
+    {
+      "userId": 7766359536,
+      "firstName": "Adit",
+      "lastName": "Bendit",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:30:25.449Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:30:25.449Z"
+      }
+    },
+    {
+      "userId": 6648677381,
+      "username": "misss_hania",
+      "firstName": "Coder",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:30:28.341Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:30:28.341Z"
+      }
     }
   ],
   "groups": [
