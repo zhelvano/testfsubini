@@ -18819,7 +18819,7 @@
         "$date": "2025-11-24T11:52:25.935Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T12:08:16.604Z"
+        "$date": "2025-11-25T15:45:57.500Z"
       }
     },
     {
@@ -29143,6 +29143,35 @@
       },
       "lastActive": {
         "$date": "2025-11-25T15:43:28.157Z"
+      }
+    },
+    {
+      "userId": 7655081196,
+      "firstName": "مطیع لله",
+      "lastName": "ملنگ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:45:42.087Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:45:42.091Z"
+      }
+    },
+    {
+      "userId": 7655283822,
+      "username": "dinda12309",
+      "firstName": "Saya",
+      "lastName": "Carmila",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:45:57.859Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:45:57.859Z"
       }
     }
   ],
