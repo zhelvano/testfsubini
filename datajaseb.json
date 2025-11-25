@@ -26325,6 +26325,35 @@
       "lastActive": {
         "$date": "2025-11-25T11:16:47.795Z"
       }
+    },
+    {
+      "userId": 7691023542,
+      "username": "siapasajaatau",
+      "firstName": "Kiyaa L",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T11:27:19.552Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T11:27:19.552Z"
+      }
+    },
+    {
+      "userId": 8470938344,
+      "username": "edcyid",
+      "firstName": "Yuttaa",
+      "lastName": "[Rest Sampe Ws Kembali Berkuasa]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T11:27:28.451Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T11:27:28.451Z"
+      }
     }
   ],
   "groups": [
