@@ -24399,6 +24399,20 @@
       "lastActive": {
         "$date": "2025-11-25T06:10:02.732Z"
       }
+    },
+    {
+      "userId": 8469189087,
+      "firstName": "Ratan",
+      "lastName": "MIA",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:13:54.079Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:13:54.082Z"
+      }
     }
   ],
   "groups": [
