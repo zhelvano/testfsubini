@@ -24894,6 +24894,20 @@
       "lastActive": {
         "$date": "2025-11-25T07:31:58.760Z"
       }
+    },
+    {
+      "userId": 8401476664,
+      "username": "Sl996Ws",
+      "firstName": "Ryzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:33:24.027Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:33:24.027Z"
+      }
     }
   ],
   "groups": [
