@@ -25038,7 +25038,7 @@
         "$date": "2025-11-25T07:45:04.948Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T07:45:04.948Z"
+        "$date": "2025-11-25T20:35:29.437Z"
       }
     },
     {
@@ -30923,6 +30923,21 @@
       },
       "lastActive": {
         "$date": "2025-11-25T20:34:36.698Z"
+      }
+    },
+    {
+      "userId": 7161266290,
+      "username": "Ebella7",
+      "firstName": "Sandra",
+      "lastName": "E",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:35:22.009Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:35:22.009Z"
       }
     }
   ],
