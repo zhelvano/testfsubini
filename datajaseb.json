@@ -24853,6 +24853,21 @@
       "lastActive": {
         "$date": "2025-11-25T07:23:44.477Z"
       }
+    },
+    {
+      "userId": 7386159984,
+      "username": "Arafat_ry",
+      "firstName": "Arafat",
+      "lastName": "Ontor",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:25:34.214Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:25:34.214Z"
+      }
     }
   ],
   "groups": [
