@@ -28889,6 +28889,19 @@
       "lastActive": {
         "$date": "2025-11-25T15:15:55.183Z"
       }
+    },
+    {
+      "userId": 8289722443,
+      "firstName": "Rama",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:17:00.821Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:17:00.821Z"
+      }
     }
   ],
   "groups": [
