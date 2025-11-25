@@ -26254,6 +26254,20 @@
       "lastActive": {
         "$date": "2025-11-25T11:00:08.674Z"
       }
+    },
+    {
+      "userId": 8423486826,
+      "username": "Hayy120p",
+      "firstName": "Frsh",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T11:06:31.206Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T11:06:31.209Z"
+      }
     }
   ],
   "groups": [
