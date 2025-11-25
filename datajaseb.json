@@ -27456,6 +27456,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:01:27.801Z"
       }
+    },
+    {
+      "userId": 7855067905,
+      "username": "XBlcakVoidX",
+      "firstName": "XBlcakVoidX",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:04:48.473Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:04:48.477Z"
+      }
     }
   ],
   "groups": [
