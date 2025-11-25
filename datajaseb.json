@@ -30953,6 +30953,20 @@
       "lastActive": {
         "$date": "2025-11-25T20:35:53.862Z"
       }
+    },
+    {
+      "userId": 6888235101,
+      "username": "vigilandote",
+      "firstName": "Cris sidoso",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:36:53.118Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:36:53.118Z"
+      }
     }
   ],
   "groups": [
