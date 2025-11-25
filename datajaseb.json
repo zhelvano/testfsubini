@@ -8549,7 +8549,7 @@
         "$date": "2025-11-23T06:55:54.709000Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T12:03:21.864Z"
+        "$date": "2025-11-25T22:36:23.612Z"
       },
       "username": "bjirjsjjbe"
     },
@@ -31579,6 +31579,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T22:35:45.257Z"
+      }
+    },
+    {
+      "userId": 6988142973,
+      "username": "youknowput17",
+      "firstName": "PUTRA STORE",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T22:36:20.792Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T22:36:20.792Z"
       }
     }
   ],
