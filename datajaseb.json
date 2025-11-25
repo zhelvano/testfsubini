@@ -27894,6 +27894,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:31:02.385Z"
       }
+    },
+    {
+      "userId": 5231427970,
+      "username": "krespoid7",
+      "firstName": "kris | Never Dm First | web3",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:33:48.507Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:33:48.513Z"
+      }
     }
   ],
   "groups": [
