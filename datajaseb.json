@@ -23739,6 +23739,34 @@
       "lastActive": {
         "$date": "2025-11-25T04:01:17.092Z"
       }
+    },
+    {
+      "userId": 7894698360,
+      "username": "The_Sakib_00",
+      "firstName": "Полина",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:01:55.033Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:01:55.033Z"
+      }
+    },
+    {
+      "userId": 7145111222,
+      "username": "Sspl00900",
+      "firstName": "Sspl",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:02:06.958Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:02:06.958Z"
+      }
     }
   ],
   "groups": [
