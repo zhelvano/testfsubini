@@ -30124,6 +30124,21 @@
       "lastActive": {
         "$date": "2025-11-25T17:44:16.453Z"
       }
+    },
+    {
+      "userId": 6627999909,
+      "username": "Niftyx0",
+      "firstName": "Nifty50",
+      "lastName": "94",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:50:46.377Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:50:46.377Z"
+      }
     }
   ],
   "groups": [
