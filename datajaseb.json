@@ -30348,6 +30348,20 @@
       "lastActive": {
         "$date": "2025-11-25T18:05:22.985Z"
       }
+    },
+    {
+      "userId": 7485045098,
+      "username": "X_YXYX",
+      "firstName": "مۘ͢ـــۗ͢͡͠ ورد ارقامۘ͢ـــ وهمي لتفعيل الٖ͢͠͡͠وتس",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:06:51.244Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:06:51.244Z"
+      }
     }
   ],
   "groups": [
