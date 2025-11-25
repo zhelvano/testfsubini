@@ -28623,6 +28623,20 @@
       "lastActive": {
         "$date": "2025-11-25T14:53:38.248Z"
       }
+    },
+    {
+      "userId": 1960795017,
+      "username": "Pop2o",
+      "firstName": "ڪڜـڅۡــ͡ـهةۃ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:54:24.457Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:54:24.457Z"
+      }
     }
   ],
   "groups": [
