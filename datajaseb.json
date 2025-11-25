@@ -24571,6 +24571,20 @@
       "lastActive": {
         "$date": "2025-11-25T06:40:10.515Z"
       }
+    },
+    {
+      "userId": 6773667256,
+      "username": "nonamee1712",
+      "firstName": "Saya siapa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:42:14.609Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:42:14.609Z"
+      }
     }
   ],
   "groups": [
