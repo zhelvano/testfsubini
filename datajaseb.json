@@ -23489,6 +23489,34 @@
       "lastActive": {
         "$date": "2025-11-25T02:51:36.720Z"
       }
+    },
+    {
+      "userId": 8329896263,
+      "username": "pandugacor777",
+      "firstName": "𝙓𝙞𝙖𝙣𝙕𝙤𝙣𝙜",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:57:58.460Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:57:58.460Z"
+      }
+    },
+    {
+      "userId": 8211627560,
+      "username": "Xiao1382",
+      "firstName": "肖旋",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:58:11.872Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:58:11.872Z"
+      }
     }
   ],
   "groups": [
