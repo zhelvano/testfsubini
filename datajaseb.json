@@ -23333,6 +23333,20 @@
       "lastActive": {
         "$date": "2025-11-25T02:38:40.782Z"
       }
+    },
+    {
+      "userId": 5271651001,
+      "username": "sanxcfuck",
+      "firstName": "𝘚4𝘕𝘟 ’ 𝘟𝘠𝘡¿!",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:39:35.026Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:39:35.026Z"
+      }
     }
   ],
   "groups": [
