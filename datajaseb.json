@@ -24753,6 +24753,20 @@
       "lastActive": {
         "$date": "2025-11-25T07:05:59.445Z"
       }
+    },
+    {
+      "userId": 8150842535,
+      "username": "NOFAKE81",
+      "firstName": "꧁•⊹٭𝙔𝙆 𝘿𝙇𝙐𝙓٭⊹•꧂",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:06:34.773Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:06:34.773Z"
+      }
     }
   ],
   "groups": [
