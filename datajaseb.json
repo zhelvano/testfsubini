@@ -30139,6 +30139,20 @@
       "lastActive": {
         "$date": "2025-11-25T17:50:46.377Z"
       }
+    },
+    {
+      "userId": 8390407965,
+      "firstName": "Raza",
+      "lastName": "Khan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:51:21.228Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:51:21.228Z"
+      }
     }
   ],
   "groups": [
