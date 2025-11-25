@@ -29998,6 +29998,20 @@
       "lastActive": {
         "$date": "2025-11-25T17:16:15.434Z"
       }
+    },
+    {
+      "userId": 7016665259,
+      "username": "relfannnn",
+      "firstName": "xinn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:18:32.609Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:18:32.609Z"
+      }
     }
   ],
   "groups": [
