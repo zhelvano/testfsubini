@@ -22826,6 +22826,20 @@
       "lastActive": {
         "$date": "2025-11-25T00:04:49.518Z"
       }
+    },
+    {
+      "userId": 7392719530,
+      "username": "Zanz7492",
+      "firstName": "⏤‌‌‌𝑿𝟗 𝒁𝒂𝒏 l 𝑾𝟗",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T00:07:52.114Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T00:07:52.114Z"
+      }
     }
   ],
   "groups": [
