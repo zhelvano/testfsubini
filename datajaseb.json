@@ -22910,6 +22910,20 @@
       "lastActive": {
         "$date": "2025-11-25T00:36:17.980Z"
       }
+    },
+    {
+      "userId": 8396400419,
+      "username": "rndikrnwn20",
+      "firstName": "Rendi Kurniawan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T00:50:55.669Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T00:50:55.672Z"
+      }
     }
   ],
   "groups": [
