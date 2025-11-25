@@ -27724,6 +27724,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:20:15.680Z"
       }
+    },
+    {
+      "userId": 7877051456,
+      "username": "newbie085",
+      "firstName": "Bxenny.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:22:15.394Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:22:15.394Z"
+      }
     }
   ],
   "groups": [
