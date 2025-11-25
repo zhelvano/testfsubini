@@ -28930,6 +28930,20 @@
       "lastActive": {
         "$date": "2025-11-25T15:21:17.929Z"
       }
+    },
+    {
+      "userId": 7196984140,
+      "firstName": "A",
+      "lastName": "bi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:21:49.942Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:21:49.942Z"
+      }
     }
   ],
   "groups": [
