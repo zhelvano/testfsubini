@@ -27792,7 +27792,21 @@
         "$date": "2025-11-25T13:24:28.501Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T13:24:28.508Z"
+        "$date": "2025-11-25T13:25:01.065Z"
+      }
+    },
+    {
+      "userId": 7547859175,
+      "username": "WanzzXiter",
+      "firstName": "Wanzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:24:52.932Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:24:52.932Z"
       }
     }
   ],
