@@ -29596,6 +29596,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:24:10.783Z"
       }
+    },
+    {
+      "userId": 7415950459,
+      "firstName": "Yeb",
+      "lastName": "Yeb",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:29:01.114Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:29:01.122Z"
+      }
     }
   ],
   "groups": [
