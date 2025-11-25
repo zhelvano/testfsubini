@@ -26138,7 +26138,7 @@
         "$date": "2025-11-25T10:43:22.311Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T16:55:02.702Z"
+        "$date": "2025-11-25T16:55:08.983Z"
       }
     },
     {
@@ -29846,6 +29846,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T16:54:24.705Z"
+      }
+    },
+    {
+      "userId": 7492856294,
+      "username": "Rxjamm",
+      "firstName": "꧁Rxjamm꧂ 🇮🇩",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:55:19.040Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:55:19.040Z"
       }
     }
   ],
