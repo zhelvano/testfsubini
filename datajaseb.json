@@ -24190,6 +24190,20 @@
       "lastActive": {
         "$date": "2025-11-25T05:25:29.420Z"
       }
+    },
+    {
+      "userId": 8380036133,
+      "firstName": "Ryuuuu",
+      "lastName": "Ryuuuu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T05:31:36.409Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T05:31:36.409Z"
+      }
     }
   ],
   "groups": [
