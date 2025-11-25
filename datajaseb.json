@@ -25067,7 +25067,7 @@
         "$date": "2025-11-25T07:50:00.216Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T12:48:35.881Z"
+        "$date": "2025-11-25T12:51:47.493Z"
       }
     },
     {
@@ -27317,6 +27317,34 @@
       },
       "lastActive": {
         "$date": "2025-11-25T12:51:22.837Z"
+      }
+    },
+    {
+      "userId": 7667475174,
+      "firstName": "ZUXXYY",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:51:43.404Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:51:43.404Z"
+      }
+    },
+    {
+      "userId": 5530807432,
+      "username": "shahedmunshi12",
+      "firstName": "Shahed",
+      "lastName": "Munshi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:51:57.497Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:51:57.497Z"
       }
     }
   ],
