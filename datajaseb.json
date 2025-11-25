@@ -30588,6 +30588,20 @@
       "lastActive": {
         "$date": "2025-11-25T18:52:09.264Z"
       }
+    },
+    {
+      "userId": 8455164337,
+      "username": "deniss_eror",
+      "firstName": "ALFA BAU kW ini",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:52:44.937Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:52:44.937Z"
+      }
     }
   ],
   "groups": [
