@@ -25087,6 +25087,19 @@
       "lastActive": {
         "$date": "2025-11-25T08:01:56.034Z"
       }
+    },
+    {
+      "userId": 6462375694,
+      "firstName": "nadcooll",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T08:06:29.743Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T08:06:29.743Z"
+      }
     }
   ],
   "groups": [
