@@ -23403,6 +23403,20 @@
       "lastActive": {
         "$date": "2025-11-25T02:42:20.090Z"
       }
+    },
+    {
+      "userId": 8389211835,
+      "username": "AldzzTzyX",
+      "firstName": "⏤͟͞𝟕𝟑𝗧 || 𝘼𝙡𝙙𝙯𝙯𝙏𝙯𝙮𝙓 �",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:43:41.085Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:43:41.085Z"
+      }
     }
   ],
   "groups": [
