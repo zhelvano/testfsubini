@@ -72,7 +72,7 @@
         "$date": "2025-11-09T00:36:52.773000Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T06:31:36.108Z"
+        "$date": "2025-11-25T12:01:43.355Z"
       },
       "username": "GroupAnonymousBot"
     },
@@ -8550,7 +8550,7 @@
         "$date": "2025-11-23T06:55:54.709000Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T12:01:14.492Z"
+        "$date": "2025-11-25T12:01:56.663Z"
       },
       "username": "bjirjsjjbe"
     },
@@ -26899,6 +26899,15 @@
         "$date": "2025-11-25T07:39:23.561Z"
       },
       "memberCount": 25
+    },
+    {
+      "groupId": -1003142922165,
+      "title": "FREE PANEL",
+      "addedBy": 1087968824,
+      "addedAt": {
+        "$date": "2025-11-25T12:01:43.847Z"
+      },
+      "memberCount": 6
     }
   ]
 }
