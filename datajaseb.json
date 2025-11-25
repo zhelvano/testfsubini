@@ -29567,6 +29567,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:19:29.767Z"
       }
+    },
+    {
+      "userId": 7472379830,
+      "username": "Ihinsollu",
+      "firstName": "propdrmb",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:20:09.144Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:20:09.144Z"
+      }
     }
   ],
   "groups": [
