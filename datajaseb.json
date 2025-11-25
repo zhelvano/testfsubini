@@ -30153,6 +30153,21 @@
       "lastActive": {
         "$date": "2025-11-25T17:51:21.228Z"
       }
+    },
+    {
+      "userId": 7769312604,
+      "username": "wilzaristos",
+      "firstName": "Wilzzz",
+      "lastName": "[ 𝐖𝐒 ]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:51:59.262Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:51:59.262Z"
+      }
     }
   ],
   "groups": [
