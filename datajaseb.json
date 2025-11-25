@@ -24782,6 +24782,21 @@
       "lastActive": {
         "$date": "2025-11-25T07:13:50.218Z"
       }
+    },
+    {
+      "userId": 8176643226,
+      "username": "miracleboyy8",
+      "firstName": "𝕸𝖎𝖗𝖆𝖈𝖑𝖊",
+      "lastName": "Boyy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:15:01.135Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:15:01.135Z"
+      }
     }
   ],
   "groups": [
