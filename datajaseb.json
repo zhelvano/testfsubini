@@ -15214,7 +15214,7 @@
         "$date": "2025-11-23T23:31:27.470Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T23:31:27.470Z"
+        "$date": "2025-11-25T02:31:25.606Z"
       }
     },
     {
@@ -23261,6 +23261,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T02:27:40.066Z"
+      }
+    },
+    {
+      "userId": 6284853675,
+      "username": "Ryy777777",
+      "firstName": "ryuzii",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:31:36.483Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:31:36.483Z"
       }
     }
   ],
