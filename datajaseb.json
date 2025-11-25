@@ -26893,6 +26893,20 @@
       "lastActive": {
         "$date": "2025-11-25T12:26:13.821Z"
       }
+    },
+    {
+      "userId": 7471446224,
+      "username": "Tariq_brohi",
+      "firstName": "R O L E X ❗",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:27:36.646Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:27:36.646Z"
+      }
     }
   ],
   "groups": [
