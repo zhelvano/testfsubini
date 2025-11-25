@@ -22967,6 +22967,21 @@
       "lastActive": {
         "$date": "2025-11-25T01:07:25.258Z"
       }
+    },
+    {
+      "userId": 7791620922,
+      "username": "HuzaifaRana452",
+      "firstName": "Huzaifa",
+      "lastName": "Saeed",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T01:08:09.596Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T01:08:09.596Z"
+      }
     }
   ],
   "groups": [
