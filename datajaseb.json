@@ -29397,6 +29397,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:06:32.344Z"
       }
+    },
+    {
+      "userId": 7075120575,
+      "username": "RamoAndMee",
+      "firstName": "☬ 𝐑 𝐀 𝐌 𝐎",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:08:24.993Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:08:24.993Z"
+      }
     }
   ],
   "groups": [
