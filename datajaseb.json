@@ -27470,6 +27470,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:04:48.477Z"
       }
+    },
+    {
+      "userId": 8325651017,
+      "username": "imortaldoxkj",
+      "firstName": "NH MORIARTY",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:05:28.459Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:05:28.459Z"
+      }
     }
   ],
   "groups": [
