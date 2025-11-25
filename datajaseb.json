@@ -27484,6 +27484,33 @@
       "lastActive": {
         "$date": "2025-11-25T13:05:28.459Z"
       }
+    },
+    {
+      "userId": 5174248719,
+      "username": "Kenxzzxidk",
+      "firstName": "BLOODVEIL ]KENZ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:06:54.903Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:06:54.904Z"
+      }
+    },
+    {
+      "userId": 7946167474,
+      "firstName": "Hanzx",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:07:00.642Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:07:00.642Z"
+      }
     }
   ],
   "groups": [
