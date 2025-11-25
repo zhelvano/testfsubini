@@ -28286,6 +28286,20 @@
       "lastActive": {
         "$date": "2025-11-25T14:17:41.972Z"
       }
+    },
+    {
+      "userId": 7753647718,
+      "username": "Ab76464",
+      "firstName": "عاشق المستقبل",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:18:47.058Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:18:47.058Z"
+      }
     }
   ],
   "groups": [
