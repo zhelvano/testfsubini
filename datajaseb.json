@@ -23207,6 +23207,20 @@
       "lastActive": {
         "$date": "2025-11-25T02:11:13.901Z"
       }
+    },
+    {
+      "userId": 7647780791,
+      "username": "dafdafut",
+      "firstName": "dafaaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:12:50.914Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:12:50.914Z"
+      }
     }
   ],
   "groups": [
