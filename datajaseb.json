@@ -24913,16 +24913,23 @@
       "userId": 8017900934,
       "username": "JARZXGANTENG",
       "firstName": "⏤͟͟͞͞𝐀𝐏𝐗 || JARZX",
-      "isPremium": false,
+      "isPremium": true,
       "isAdmin": false,
       "groupsAdded": [
-        -1003477822273
+        -1003477822273,
+        -1003219775880
       ],
       "joinedAt": {
         "$date": "2025-11-25T07:36:51.199Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T07:38:02.653Z"
+        "$date": "2025-11-25T07:38:23.591Z"
+      },
+      "premiumSince": {
+        "$date": "2025-11-25T07:38:23.586Z"
+      },
+      "premiumExpiry": {
+        "$date": "2025-11-27T07:38:23.586Z"
       }
     },
     {
@@ -24937,6 +24944,21 @@
       },
       "lastActive": {
         "$date": "2025-11-25T07:37:00.004Z"
+      }
+    },
+    {
+      "userId": 8242422872,
+      "username": "CHIKINREAL",
+      "firstName": ".",
+      "lastName": "REHAT",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:38:29.983Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:38:29.987Z"
       }
     }
   ],
@@ -25337,6 +25359,15 @@
         "$date": "2025-11-25T07:37:28.676Z"
       },
       "memberCount": 97
+    },
+    {
+      "groupId": -1003219775880,
+      "title": "Reseller Jarz public",
+      "addedBy": 8017900934,
+      "addedAt": {
+        "$date": "2025-11-25T07:38:23.357Z"
+      },
+      "memberCount": 61
     }
   ]
 }
