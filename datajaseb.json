@@ -26186,6 +26186,33 @@
       "lastActive": {
         "$date": "2025-11-25T10:54:01.425Z"
       }
+    },
+    {
+      "userId": 7689823312,
+      "firstName": "Mahsa",
+      "lastName": "Noori",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:54:44.660Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:54:44.660Z"
+      }
+    },
+    {
+      "userId": 7714407936,
+      "firstName": "ڪـ𖤓‌ــٰٰٖٖ◌ـمٛالي ้صـ​​​​​ۥٰۥٰۥٰۥٰـاحـۙ✿ـٍۛؗب",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:54:58.088Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:54:58.088Z"
+      }
     }
   ],
   "groups": [
