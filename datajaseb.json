@@ -25989,6 +25989,35 @@
       "lastActive": {
         "$date": "2025-11-25T10:30:19.090Z"
       }
+    },
+    {
+      "userId": 8548328786,
+      "username": "vizvntage",
+      "firstName": "⏤͟͟͞͞𝐃𝐂𝐌𝐓 ||𝐊𝐢𝐧𝐠𝐞𝐥𝐫𝐬𝐕𝐢𝐳𝐳𖣘",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:34:57.831Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:35:32.485Z"
+      }
+    },
+    {
+      "userId": 8592190730,
+      "username": "Ganssty",
+      "firstName": "Warbib",
+      "lastName": "WELLN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:35:03.335Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:35:03.335Z"
+      }
     }
   ],
   "groups": [
