@@ -17165,7 +17165,7 @@
         "$date": "2025-11-24T06:50:43.007Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T06:50:58.859Z"
+        "$date": "2025-11-25T11:37:58.423Z"
       }
     },
     {
@@ -26396,6 +26396,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T11:37:03.588Z"
+      }
+    },
+    {
+      "userId": 8058549699,
+      "username": "lakin8890",
+      "firstName": "lakin",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T11:37:36.018Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T11:37:36.018Z"
       }
     }
   ],
