@@ -25975,6 +25975,20 @@
       "lastActive": {
         "$date": "2025-11-25T10:29:23.254Z"
       }
+    },
+    {
+      "userId": 7083781259,
+      "username": "MRBijiOntaMars69",
+      "firstName": "̶X̶x̶x ̶t̶e̶n̶t̶a̶c̶i̶o̶n",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:30:19.090Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:30:19.090Z"
+      }
     }
   ],
   "groups": [
