@@ -31257,6 +31257,20 @@
       "lastActive": {
         "$date": "2025-11-25T21:34:17.984Z"
       }
+    },
+    {
+      "userId": 8290928803,
+      "firstName": "حاجي",
+      "lastName": "طوفان",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T21:35:03.539Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T21:35:03.539Z"
+      }
     }
   ],
   "groups": [
