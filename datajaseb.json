@@ -24711,6 +24711,19 @@
       "lastActive": {
         "$date": "2025-11-25T06:56:38.153Z"
       }
+    },
+    {
+      "userId": 8209118969,
+      "firstName": "بهرام",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:02:47.672Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:02:47.672Z"
+      }
     }
   ],
   "groups": [
