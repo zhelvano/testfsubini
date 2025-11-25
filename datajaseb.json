@@ -25838,6 +25838,20 @@
       "lastActive": {
         "$date": "2025-11-25T10:01:11.102Z"
       }
+    },
+    {
+      "userId": 8352524789,
+      "username": "Onepiecee18",
+      "firstName": "Luffi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:03:54.156Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:03:54.156Z"
+      }
     }
   ],
   "groups": [
