@@ -26482,6 +26482,20 @@
       "lastActive": {
         "$date": "2025-11-25T11:59:28.407Z"
       }
+    },
+    {
+      "userId": 7372700663,
+      "firstName": "جیلانی",
+      "lastName": "ستاری",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:06:58.775Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:06:58.775Z"
+      }
     }
   ],
   "groups": [
