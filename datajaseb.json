@@ -27061,6 +27061,21 @@
       "lastActive": {
         "$date": "2025-11-25T12:37:59.834Z"
       }
+    },
+    {
+      "userId": 8468013765,
+      "username": "Jelooljunio01",
+      "firstName": "JELOOL",
+      "lastName": "JUNIOR store",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:39:06.714Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:39:06.714Z"
+      }
     }
   ],
   "groups": [
