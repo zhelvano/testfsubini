@@ -31936,6 +31936,21 @@
       "lastActive": {
         "$date": "2025-11-25T23:49:15.442Z"
       }
+    },
+    {
+      "userId": 7244737552,
+      "username": "MubarizAFG",
+      "firstName": "Mubariz",
+      "lastName": "Janaan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:49:52.831Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:49:52.831Z"
+      }
     }
   ],
   "groups": [
