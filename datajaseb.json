@@ -23025,6 +23025,20 @@
       "lastActive": {
         "$date": "2025-11-25T01:25:21.599Z"
       }
+    },
+    {
+      "userId": 8140851179,
+      "firstName": "dapit",
+      "lastName": "alok",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T01:28:59.119Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T01:29:05.758Z"
+      }
     }
   ],
   "groups": [
