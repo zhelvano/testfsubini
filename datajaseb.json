@@ -26268,6 +26268,20 @@
       "lastActive": {
         "$date": "2025-11-25T11:06:31.209Z"
       }
+    },
+    {
+      "userId": 7445568642,
+      "username": "Paghman011",
+      "firstName": "⌊ 𝗡𝗶𝙶𝙷𝗧 ⋆ʟᴏʀᴅ⋆ 𝐀𝐌𝐈𝐑𝐈⌉",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T11:08:11.805Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T11:08:11.808Z"
+      }
     }
   ],
   "groups": [
