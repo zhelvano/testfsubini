@@ -23135,6 +23135,20 @@
       "lastActive": {
         "$date": "2025-11-25T01:57:02.880Z"
       }
+    },
+    {
+      "userId": 6524975998,
+      "username": "Tikusberdasi1",
+      "firstName": "𝐒𝐀𝐍 ᵗᵘʳᵘ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T01:57:44.040Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T01:57:44.040Z"
+      }
     }
   ],
   "groups": [
