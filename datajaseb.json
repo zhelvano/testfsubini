@@ -26808,6 +26808,34 @@
       "lastActive": {
         "$date": "2025-11-25T12:23:18.463Z"
       }
+    },
+    {
+      "userId": 7702629318,
+      "username": "jdjdjhdhjd",
+      "firstName": "قـGamblerمـار بــاز",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:23:33.633Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:23:33.634Z"
+      }
+    },
+    {
+      "userId": 7470493327,
+      "username": "bapaklubre",
+      "firstName": "lanaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:23:48.478Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:23:48.478Z"
+      }
     }
   ],
   "groups": [
