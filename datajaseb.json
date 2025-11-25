@@ -29693,6 +29693,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:38:35.449Z"
       }
+    },
+    {
+      "userId": 7059702156,
+      "username": "Rexxmodegacor",
+      "firstName": "𝙼𝚅𝚁 ʀᴇxx",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:41:01.646Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:41:01.651Z"
+      }
     }
   ],
   "groups": [
