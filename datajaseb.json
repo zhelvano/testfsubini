@@ -23962,6 +23962,19 @@
       "lastActive": {
         "$date": "2025-11-25T04:37:47.986Z"
       }
+    },
+    {
+      "userId": 8092877346,
+      "firstName": "Fax",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:47:26.940Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:47:26.940Z"
+      }
     }
   ],
   "groups": [
