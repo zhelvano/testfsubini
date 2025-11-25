@@ -25683,6 +25683,20 @@
       "lastActive": {
         "$date": "2025-11-25T09:35:40.548Z"
       }
+    },
+    {
+      "userId": 7420800913,
+      "firstName": "zidan",
+      "lastName": "pria tamvan💢",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:38:03.792Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:38:03.792Z"
+      }
     }
   ],
   "groups": [
