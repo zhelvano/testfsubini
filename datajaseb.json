@@ -22997,6 +22997,21 @@
       "lastActive": {
         "$date": "2025-11-25T01:15:00.218Z"
       }
+    },
+    {
+      "userId": 6983361818,
+      "username": "Danu878",
+      "firstName": "D@nu",
+      "lastName": "86",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T01:22:57.283Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T01:22:57.287Z"
+      }
     }
   ],
   "groups": [
