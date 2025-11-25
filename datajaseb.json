@@ -30446,6 +30446,20 @@
       "lastActive": {
         "$date": "2025-11-25T18:20:59.536Z"
       }
+    },
+    {
+      "userId": 8195880220,
+      "username": "Flowstore01",
+      "firstName": "KAYZEN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:21:18.372Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:21:18.373Z"
+      }
     }
   ],
   "groups": [
