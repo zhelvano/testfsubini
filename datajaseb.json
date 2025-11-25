@@ -24455,6 +24455,20 @@
       "lastActive": {
         "$date": "2025-11-25T06:23:09.068Z"
       }
+    },
+    {
+      "userId": 8170108633,
+      "firstName": "Tori Tori",
+      "lastName": "Loltori",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:24:56.030Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:24:56.031Z"
+      }
     }
   ],
   "groups": [
