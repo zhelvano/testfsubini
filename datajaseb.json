@@ -30939,6 +30939,20 @@
       "lastActive": {
         "$date": "2025-11-25T20:35:22.009Z"
       }
+    },
+    {
+      "userId": 7964489390,
+      "firstName": "الـحـاج مـعـصـوم",
+      "lastName": "اشـنـا",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:35:53.862Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:35:53.862Z"
+      }
     }
   ],
   "groups": [
