@@ -28079,6 +28079,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:50:26.579Z"
       }
+    },
+    {
+      "userId": 7361866350,
+      "username": "xio1156709",
+      "firstName": ".",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:51:00.985Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:51:00.985Z"
+      }
     }
   ],
   "groups": [
