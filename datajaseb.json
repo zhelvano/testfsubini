@@ -29101,6 +29101,35 @@
       "lastActive": {
         "$date": "2025-11-25T15:34:28.482Z"
       }
+    },
+    {
+      "userId": 7673701619,
+      "username": "HARBI158",
+      "firstName": "💥༺GOLD UNBEN GC༻💥",
+      "lastName": "UNBEN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:38:27.549Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:38:27.549Z"
+      }
+    },
+    {
+      "userId": 7977572357,
+      "username": "Pejuang_Rupiah96",
+      "firstName": "💪💪PEJUANG RUPIAH💸💸💸💸",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:38:30.460Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:38:30.460Z"
+      }
     }
   ],
   "groups": [
