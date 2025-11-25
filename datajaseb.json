@@ -28272,6 +28272,20 @@
       "lastActive": {
         "$date": "2025-11-25T14:14:23.623Z"
       }
+    },
+    {
+      "userId": 8042690160,
+      "username": "fxszzz",
+      "firstName": "-",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:17:41.972Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:17:41.972Z"
+      }
     }
   ],
   "groups": [
