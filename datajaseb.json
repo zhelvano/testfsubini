@@ -23989,6 +23989,34 @@
       "lastActive": {
         "$date": "2025-11-25T04:50:30.233Z"
       }
+    },
+    {
+      "userId": 1961812480,
+      "username": "Abdus_Sanim",
+      "firstName": "SANIM",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:50:56.138Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:50:56.138Z"
+      }
+    },
+    {
+      "userId": 985966791,
+      "username": "mdismail64",
+      "firstName": "Ismail Hossain",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:51:01.360Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:51:01.360Z"
+      }
     }
   ],
   "groups": [
