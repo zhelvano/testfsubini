@@ -30811,6 +30811,21 @@
       "lastActive": {
         "$date": "2025-11-25T19:55:50.328Z"
       }
+    },
+    {
+      "userId": 1188110951,
+      "username": "RIPPERANJING",
+      "firstName": "Yapping depan",
+      "lastName": "Gua sini k@ntol",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:08:41.522Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:08:41.528Z"
+      }
     }
   ],
   "groups": [
