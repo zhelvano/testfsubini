@@ -24106,6 +24106,20 @@
       "lastActive": {
         "$date": "2025-11-25T05:00:08.260Z"
       }
+    },
+    {
+      "userId": 7560696337,
+      "username": "DManxzz",
+      "firstName": "⏤͟͞𝟕𝟑𝗧 || Exzy ᝄ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T05:04:28.150Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T05:04:28.150Z"
+      }
     }
   ],
   "groups": [
