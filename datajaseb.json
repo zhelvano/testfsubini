@@ -47,7 +47,7 @@
         "$date": "2025-11-22T19:07:56.252000Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T17:21:02.303Z"
+        "$date": "2025-11-25T17:22:32.883Z"
       },
       "username": "nahkaniya123",
       "premiumExpiry": {
@@ -30012,6 +30012,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T17:18:32.609Z"
+      }
+    },
+    {
+      "userId": 6330941364,
+      "username": "LiamMavericks",
+      "firstName": "Dream Theater",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:22:15.109Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:22:15.109Z"
       }
     }
   ],
