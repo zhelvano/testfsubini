@@ -29525,6 +29525,34 @@
       "lastActive": {
         "$date": "2025-11-25T16:16:20.266Z"
       }
+    },
+    {
+      "userId": 7550603243,
+      "username": "dhanigc",
+      "firstName": "Dhani",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:17:04.704Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:17:04.704Z"
+      }
+    },
+    {
+      "userId": 8408597149,
+      "username": "rida_dewi",
+      "firstName": "リダ・デウィ | WORK HARD",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:17:05.987Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:17:05.987Z"
+      }
     }
   ],
   "groups": [
