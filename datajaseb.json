@@ -25265,6 +25265,34 @@
       "lastActive": {
         "$date": "2025-11-25T08:39:30.472Z"
       }
+    },
+    {
+      "userId": 8143470219,
+      "username": "JonzzzzX",
+      "firstName": "JO",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T08:42:04.204Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T08:42:04.204Z"
+      }
+    },
+    {
+      "userId": 8126475796,
+      "username": "kingrez505",
+      "firstName": "kingrezz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T08:42:04.206Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T08:42:04.206Z"
+      }
     }
   ],
   "groups": [
