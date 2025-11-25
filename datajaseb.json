@@ -29496,6 +29496,35 @@
       "lastActive": {
         "$date": "2025-11-25T16:13:34.254Z"
       }
+    },
+    {
+      "userId": 8589264718,
+      "firstName": "محمد",
+      "lastName": "الماس2021",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:16:11.409Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:16:11.409Z"
+      }
+    },
+    {
+      "userId": 8338333113,
+      "username": "Baby18ss",
+      "firstName": "Islam",
+      "lastName": "Khan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:16:20.266Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:16:20.266Z"
+      }
     }
   ],
   "groups": [
