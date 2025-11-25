@@ -28512,6 +28512,20 @@
       "lastActive": {
         "$date": "2025-11-25T14:46:08.694Z"
       }
+    },
+    {
+      "userId": 7884317382,
+      "username": "rysahanr",
+      "firstName": "ڪاپیتان هڪ آمࢪیڪا",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:46:54.592Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:46:54.592Z"
+      }
     }
   ],
   "groups": [
