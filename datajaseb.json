@@ -24427,6 +24427,20 @@
       "lastActive": {
         "$date": "2025-11-25T06:17:56.529Z"
       }
+    },
+    {
+      "userId": 7420489982,
+      "username": "Tumadrelagorda81",
+      "firstName": "Alan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:18:47.651Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:18:47.652Z"
+      }
     }
   ],
   "groups": [
