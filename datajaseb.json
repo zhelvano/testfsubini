@@ -16671,7 +16671,7 @@
         "$date": "2025-11-24T05:28:05.115Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T05:28:05.115Z"
+        "$date": "2025-11-25T13:44:51.421Z"
       }
     },
     {
@@ -27992,6 +27992,21 @@
       },
       "lastActive": {
         "$date": "2025-11-25T13:43:29.614Z"
+      }
+    },
+    {
+      "userId": 6196657053,
+      "username": "sumiqqq",
+      "firstName": "Sumaiya",
+      "lastName": "Akther",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:44:39.625Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:44:39.625Z"
       }
     }
   ],
