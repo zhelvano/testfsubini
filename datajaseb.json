@@ -23375,6 +23375,20 @@
       "lastActive": {
         "$date": "2025-11-25T02:40:57.045Z"
       }
+    },
+    {
+      "userId": 7325632781,
+      "username": "Fang88999",
+      "firstName": "海（认准@fang88999）",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:42:04.527Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:42:04.527Z"
+      }
     }
   ],
   "groups": [
