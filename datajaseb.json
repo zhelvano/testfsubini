@@ -31565,6 +31565,21 @@
       "lastActive": {
         "$date": "2025-11-25T22:35:13.010Z"
       }
+    },
+    {
+      "userId": 7092972986,
+      "username": "Nilakashertara0",
+      "firstName": "Samia",
+      "lastName": "Akter",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T22:35:45.257Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T22:35:45.257Z"
+      }
     }
   ],
   "groups": [
