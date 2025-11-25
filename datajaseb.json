@@ -26991,6 +26991,20 @@
       "lastActive": {
         "$date": "2025-11-25T12:31:27.552Z"
       }
+    },
+    {
+      "userId": 6535705928,
+      "username": "awaaaa009",
+      "firstName": "nazwaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:32:16.095Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:32:16.095Z"
+      }
     }
   ],
   "groups": [
