@@ -24923,7 +24923,7 @@
         "$date": "2025-11-25T07:36:51.199Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T07:38:46.909Z"
+        "$date": "2025-11-25T07:39:21.725Z"
       },
       "premiumSince": {
         "$date": "2025-11-25T07:38:23.586Z"
@@ -24953,12 +24953,28 @@
       "lastName": "REHAT",
       "isPremium": false,
       "isAdmin": false,
-      "groupsAdded": [],
+      "groupsAdded": [
+        -1003267447247
+      ],
       "joinedAt": {
         "$date": "2025-11-25T07:38:29.983Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T07:39:02.712Z"
+        "$date": "2025-11-25T07:39:23.566Z"
+      }
+    },
+    {
+      "userId": 7396956111,
+      "firstName": "Noor",
+      "lastName": "Ahmed",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:39:16.102Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:39:16.104Z"
       }
     }
   ],
@@ -25368,6 +25384,15 @@
         "$date": "2025-11-25T07:38:23.357Z"
       },
       "memberCount": 61
+    },
+    {
+      "groupId": -1003267447247,
+      "title": "PEMULUNG KODE REEDEM HUNTY ZOMBIE",
+      "addedBy": 8242422872,
+      "addedAt": {
+        "$date": "2025-11-25T07:39:23.561Z"
+      },
+      "memberCount": 25
     }
   ]
 }
