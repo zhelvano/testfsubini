@@ -24245,6 +24245,19 @@
       "lastActive": {
         "$date": "2025-11-25T05:45:56.197Z"
       }
+    },
+    {
+      "userId": 6115445443,
+      "firstName": "C R M I N A L",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T05:50:13.421Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T05:50:13.421Z"
+      }
     }
   ],
   "groups": [
