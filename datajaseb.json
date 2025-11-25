@@ -30390,6 +30390,20 @@
       "lastActive": {
         "$date": "2025-11-25T18:10:47.045Z"
       }
+    },
+    {
+      "userId": 7918747036,
+      "firstName": "Shahzad",
+      "lastName": "Khan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:12:40.613Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:12:40.613Z"
+      }
     }
   ],
   "groups": [
