@@ -27133,6 +27133,34 @@
       "lastActive": {
         "$date": "2025-11-25T12:42:44.479Z"
       }
+    },
+    {
+      "userId": 8456667740,
+      "firstName": "Shohag",
+      "lastName": "King",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:43:17.372Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:43:17.372Z"
+      }
+    },
+    {
+      "userId": 7306079424,
+      "username": "Jamaldkwin4",
+      "firstName": "🎁 Jamal 🎁 ( DKWIN Mentor )",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:43:19.309Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:43:19.309Z"
+      }
     }
   ],
   "groups": [
