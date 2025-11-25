@@ -26310,6 +26310,21 @@
       "lastActive": {
         "$date": "2025-11-25T11:09:15.461Z"
       }
+    },
+    {
+      "userId": 7094840489,
+      "username": "Sinting7",
+      "firstName": "Zig",
+      "lastName": "Zag Kribo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T11:16:47.786Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T11:16:47.795Z"
+      }
     }
   ],
   "groups": [
