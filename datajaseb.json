@@ -27017,7 +27017,7 @@
         "$date": "2025-11-25T12:33:24.849Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T12:33:24.849Z"
+        "$date": "2025-11-25T12:38:01.101Z"
       }
     },
     {
@@ -27046,6 +27046,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T12:37:28.167Z"
+      }
+    },
+    {
+      "userId": 7345497162,
+      "username": "Aurelllikaaakk",
+      "firstName": "auurelllikaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:37:59.834Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:37:59.834Z"
       }
     }
   ],
