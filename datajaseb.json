@@ -26907,6 +26907,34 @@
       "lastActive": {
         "$date": "2025-11-25T12:27:36.646Z"
       }
+    },
+    {
+      "userId": 7598638814,
+      "firstName": "احمد",
+      "lastName": "لحسون",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:28:18.506Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:28:18.506Z"
+      }
+    },
+    {
+      "userId": 5209779033,
+      "username": "Franyerx",
+      "firstName": "Franyer",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:28:24.132Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:28:24.132Z"
+      }
     }
   ],
   "groups": [
