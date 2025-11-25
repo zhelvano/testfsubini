@@ -12290,7 +12290,6 @@
       "userId": 7646756940,
       "username": "Sanderrrx",
       "firstName": "Sanderr",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -12298,7 +12297,7 @@
         "$date": "2025-11-23T10:09:28.331000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T10:09:28.331000Z"
+        "$date": "2025-11-25T05:36:53.083Z"
       }
     },
     {
