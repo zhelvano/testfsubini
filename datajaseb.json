@@ -29805,6 +29805,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:51:21.374Z"
       }
+    },
+    {
+      "userId": 7200420474,
+      "username": "jannat_419",
+      "firstName": "Jånňåt🍓",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:51:41.284Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:51:41.284Z"
+      }
     }
   ],
   "groups": [
