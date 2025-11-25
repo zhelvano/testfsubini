@@ -29482,6 +29482,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:12:35.726Z"
       }
+    },
+    {
+      "userId": 6188460119,
+      "username": "Ninjahatori95",
+      "firstName": "Ninja Hatori",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:13:34.254Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:13:34.254Z"
+      }
     }
   ],
   "groups": [
