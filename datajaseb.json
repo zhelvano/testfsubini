@@ -23147,6 +23147,21 @@
       "lastActive": {
         "$date": "2025-11-25T01:57:44.040Z"
       }
+    },
+    {
+      "userId": 6882516781,
+      "username": "khanbaloch11234",
+      "firstName": "Uzair",
+      "lastName": "Khn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T01:59:35.345Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T01:59:35.345Z"
+      }
     }
   ],
   "groups": [
