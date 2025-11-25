@@ -31310,7 +31310,21 @@
         "$date": "2025-11-25T21:43:13.788Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T21:43:13.791Z"
+        "$date": "2025-11-25T21:45:09.836Z"
+      }
+    },
+    {
+      "userId": 6768571743,
+      "username": "noeldfa",
+      "firstName": "˚²No-el 【𖠋𓐩】",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T21:45:17.107Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T21:45:17.107Z"
       }
     }
   ],
