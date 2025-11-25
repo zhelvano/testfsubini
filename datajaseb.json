@@ -24628,6 +24628,20 @@
       "lastActive": {
         "$date": "2025-11-25T06:46:54.442Z"
       }
+    },
+    {
+      "userId": 7459876640,
+      "username": "Zahraast77",
+      "firstName": "Zhra",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:49:39.626Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:49:39.626Z"
+      }
     }
   ],
   "groups": [
