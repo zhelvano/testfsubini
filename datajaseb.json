@@ -28191,6 +28191,19 @@
       "lastActive": {
         "$date": "2025-11-25T14:02:38.254Z"
       }
+    },
+    {
+      "userId": 8394870180,
+      "firstName": "IMELDA OLIVE SP.PD",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:04:53.495Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:04:53.495Z"
+      }
     }
   ],
   "groups": [
