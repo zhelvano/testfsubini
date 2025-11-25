@@ -23248,6 +23248,20 @@
       "lastActive": {
         "$date": "2025-11-25T02:22:49.235Z"
       }
+    },
+    {
+      "userId": 8309757163,
+      "username": "Iashjh",
+      "firstName": "قاچـــ‌ـ‌ـ‌ـ‌᭄ـاقچــٜٜٜٜٜٜٖٖٖٖٜٜٜٜٜٜٜٖٖٖٖٜ͜͜͡͡ـــی مـ❦ـزاࢪ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:27:40.066Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:27:40.066Z"
+      }
     }
   ],
   "groups": [
