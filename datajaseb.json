@@ -29130,6 +29130,20 @@
       "lastActive": {
         "$date": "2025-11-25T15:38:30.460Z"
       }
+    },
+    {
+      "userId": 7351650207,
+      "username": "RAIS519",
+      "firstName": "رئسـ﹏ـ آریـ﹏ـنـ﹏ـ هـ﹏ـراتـ﹏ـیـ﹏ـ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:43:28.152Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:43:28.157Z"
+      }
     }
   ],
   "groups": [
