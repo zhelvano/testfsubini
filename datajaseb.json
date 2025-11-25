@@ -26060,6 +26060,19 @@
       "lastActive": {
         "$date": "2025-11-25T10:39:44.315Z"
       }
+    },
+    {
+      "userId": 7803952608,
+      "firstName": "〲 𓃬𓆩 ߋߺܝߺ̈ߺߺܢߺ߭ ᨗߋߺܝ 𓆪 𓃬〲",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:40:03.840Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:40:03.840Z"
+      }
     }
   ],
   "groups": [
