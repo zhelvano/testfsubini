@@ -24134,6 +24134,19 @@
       "lastActive": {
         "$date": "2025-11-25T05:05:28.103Z"
       }
+    },
+    {
+      "userId": 6357471030,
+      "firstName": "Ilham",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T05:07:54.889Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T05:07:54.889Z"
+      }
     }
   ],
   "groups": [
