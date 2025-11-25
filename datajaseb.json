@@ -30460,6 +30460,21 @@
       "lastActive": {
         "$date": "2025-11-25T18:21:18.373Z"
       }
+    },
+    {
+      "userId": 7729796288,
+      "username": "Portgas_D_Ac3xs",
+      "firstName": "⚘𓏲🕐☾℘ᨵꭈ𝗍𝗀ɑ֠֩፝s_ᴅ_ᴀ𝖼ꫀ☽ೃএ🔥",
+      "lastName": "±687🇳🇨",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:21:58.002Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:21:58.002Z"
+      }
     }
   ],
   "groups": [
