@@ -23627,6 +23627,20 @@
       "lastActive": {
         "$date": "2025-11-25T03:23:12.197Z"
       }
+    },
+    {
+      "userId": 5963950371,
+      "username": "MorieeNagaChild",
+      "firstName": "How much",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T03:35:03.965Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T03:35:03.965Z"
+      }
     }
   ],
   "groups": [
