@@ -31106,6 +31106,20 @@
       "lastActive": {
         "$date": "2025-11-25T20:50:46.224Z"
       }
+    },
+    {
+      "userId": 7995612807,
+      "username": "ditzreal",
+      "firstName": "ditzzz dzt",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:52:28.926Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:52:28.926Z"
+      }
     }
   ],
   "groups": [
