@@ -28498,6 +28498,20 @@
       "lastActive": {
         "$date": "2025-11-25T14:45:46.201Z"
       }
+    },
+    {
+      "userId": 7349221977,
+      "username": "tjtjwje",
+      "firstName": "Jack A Henry",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:46:08.693Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:46:08.694Z"
+      }
     }
   ],
   "groups": [
