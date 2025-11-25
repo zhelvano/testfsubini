@@ -25669,6 +25669,20 @@
       "lastActive": {
         "$date": "2025-11-25T09:35:25.675Z"
       }
+    },
+    {
+      "userId": 1873333791,
+      "username": "mistdo",
+      "firstName": "mist",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:35:40.548Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:35:40.548Z"
+      }
     }
   ],
   "groups": [
