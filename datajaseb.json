@@ -29861,6 +29861,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:55:19.040Z"
       }
+    },
+    {
+      "userId": 6775227258,
+      "username": "Narasa_9",
+      "firstName": "Nara",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:59:29.766Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:59:29.766Z"
+      }
     }
   ],
   "groups": [
