@@ -29678,6 +29678,21 @@
       "lastActive": {
         "$date": "2025-11-25T16:36:25.129Z"
       }
+    },
+    {
+      "userId": 6462491349,
+      "username": "Quueennz22",
+      "firstName": "Desy",
+      "lastName": "Nevan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:38:35.449Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:38:35.449Z"
+      }
     }
   ],
   "groups": [
