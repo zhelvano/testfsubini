@@ -27276,6 +27276,19 @@
       "lastActive": {
         "$date": "2025-11-25T12:48:20.108Z"
       }
+    },
+    {
+      "userId": 7560911743,
+      "firstName": "Van",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:49:20.722Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:49:20.722Z"
+      }
     }
   ],
   "groups": [
