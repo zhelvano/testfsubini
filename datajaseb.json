@@ -30658,6 +30658,21 @@
       "lastActive": {
         "$date": "2025-11-25T19:12:47.515Z"
       }
+    },
+    {
+      "userId": 1205081700,
+      "username": "putznolepz",
+      "firstName": "𝙋𝙪𝙩𝙯",
+      "lastName": "𝙃𝙞𝙜𝙝",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T19:19:11.425Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T19:19:11.426Z"
+      }
     }
   ],
   "groups": [
