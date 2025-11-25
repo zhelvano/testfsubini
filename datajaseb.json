@@ -19,7 +19,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T09:27:37.873Z"
+        "$date": "2025-11-25T10:58:58.811Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -8499,7 +8499,7 @@
         "$date": "2025-11-23T06:55:14.520000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T14:40:17.860Z"
+        "$date": "2025-11-25T10:58:51.947Z"
       }
     },
     {
@@ -26225,6 +26225,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T10:56:37.878Z"
+      }
+    },
+    {
+      "userId": 8490751508,
+      "username": "tzynotdev2",
+      "firstName": "tzynotdev",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:58:49.138Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:58:49.138Z"
       }
     }
   ],
