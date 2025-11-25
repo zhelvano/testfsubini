@@ -25920,6 +25920,20 @@
       "lastActive": {
         "$date": "2025-11-25T10:16:32.311Z"
       }
+    },
+    {
+      "userId": 8419941993,
+      "username": "StevenMiracle",
+      "firstName": "Pèter Gen (2)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:18:06.980Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:18:06.980Z"
+      }
     }
   ],
   "groups": [
