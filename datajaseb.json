@@ -23670,6 +23670,34 @@
       "lastActive": {
         "$date": "2025-11-25T03:47:09.864Z"
       }
+    },
+    {
+      "userId": 8281521257,
+      "username": "Agaaaaaaaaaaaaaa",
+      "firstName": "Frtsfrtnaadvt",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T03:51:26.223Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T03:51:26.223Z"
+      }
+    },
+    {
+      "userId": 7956944379,
+      "username": "Bggocper",
+      "firstName": "Бегук",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T03:51:48.582Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T03:51:48.582Z"
+      }
     }
   ],
   "groups": [
