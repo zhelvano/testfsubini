@@ -25100,6 +25100,20 @@
       "lastActive": {
         "$date": "2025-11-25T08:06:29.743Z"
       }
+    },
+    {
+      "userId": 8266651453,
+      "username": "dravexhlw",
+      "firstName": "Dravex",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T08:08:22.669Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T08:08:22.669Z"
+      }
     }
   ],
   "groups": [
