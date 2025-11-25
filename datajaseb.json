@@ -24176,6 +24176,20 @@
       "lastActive": {
         "$date": "2025-11-25T05:21:47.525Z"
       }
+    },
+    {
+      "userId": 7675544563,
+      "firstName": "OBITO",
+      "lastName": "OBITO",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T05:25:29.420Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T05:25:29.420Z"
+      }
     }
   ],
   "groups": [
