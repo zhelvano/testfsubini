@@ -25866,6 +25866,19 @@
       "lastActive": {
         "$date": "2025-11-25T10:05:16.443Z"
       }
+    },
+    {
+      "userId": 8117467340,
+      "firstName": "[SARIPX]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:07:28.234Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:07:28.234Z"
+      }
     }
   ],
   "groups": [
