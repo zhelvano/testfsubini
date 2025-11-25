@@ -23417,6 +23417,20 @@
       "lastActive": {
         "$date": "2025-11-25T02:43:41.085Z"
       }
+    },
+    {
+      "userId": 6547284354,
+      "username": "ilkarefelbaba",
+      "firstName": "ءالـمـحـاࢪب الـآعـظـم😍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:45:38.024Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:45:38.024Z"
+      }
     }
   ],
   "groups": [
