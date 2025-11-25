@@ -28526,6 +28526,20 @@
       "lastActive": {
         "$date": "2025-11-25T14:46:54.592Z"
       }
+    },
+    {
+      "userId": 7166959625,
+      "username": "michaelpython666",
+      "firstName": "@reyji666",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:47:28.434Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:47:28.472Z"
+      }
     }
   ],
   "groups": [
