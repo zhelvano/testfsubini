@@ -31495,6 +31495,20 @@
       "lastActive": {
         "$date": "2025-11-25T22:20:41.529Z"
       }
+    },
+    {
+      "userId": 5408478510,
+      "username": "Edawar_67",
+      "firstName": "Ary_Rsy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T22:22:15.684Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T22:22:15.684Z"
+      }
     }
   ],
   "groups": [
