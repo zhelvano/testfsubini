@@ -26100,6 +26100,34 @@
       "lastActive": {
         "$date": "2025-11-25T10:41:42.686Z"
       }
+    },
+    {
+      "userId": 8357486083,
+      "firstName": "Fanzz",
+      "lastName": "Udin",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:42:40.539Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:42:40.539Z"
+      }
+    },
+    {
+      "userId": 8422810451,
+      "firstName": "Dinda",
+      "lastName": "Putryy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:42:51.698Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:42:51.698Z"
+      }
     }
   ],
   "groups": [
