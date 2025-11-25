@@ -29721,6 +29721,19 @@
       "lastActive": {
         "$date": "2025-11-25T16:41:59.150Z"
       }
+    },
+    {
+      "userId": 8281176273,
+      "firstName": "Не все в порядке",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:43:36.407Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:43:36.408Z"
+      }
     }
   ],
   "groups": [
