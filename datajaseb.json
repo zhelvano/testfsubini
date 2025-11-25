@@ -27304,6 +27304,20 @@
       "lastActive": {
         "$date": "2025-11-25T12:49:32.792Z"
       }
+    },
+    {
+      "userId": 7441148272,
+      "firstName": "Cyber",
+      "lastName": "Dan💙",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:51:22.837Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:51:22.837Z"
+      }
     }
   ],
   "groups": [
