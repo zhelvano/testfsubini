@@ -30546,6 +30546,21 @@
       "lastActive": {
         "$date": "2025-11-25T18:40:17.424Z"
       }
+    },
+    {
+      "userId": 6993825478,
+      "username": "Fuad2333_11",
+      "firstName": "Fuad",
+      "lastName": "Miriyev",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:49:48.093Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:49:48.093Z"
+      }
     }
   ],
   "groups": [
