@@ -29173,6 +29173,20 @@
       "lastActive": {
         "$date": "2025-11-25T15:45:57.859Z"
       }
+    },
+    {
+      "userId": 7059058437,
+      "username": "TTDGC4",
+      "firstName": "【一手算机房 ws拉群】 🚅",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:46:17.484Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:46:17.484Z"
+      }
     }
   ],
   "groups": [
