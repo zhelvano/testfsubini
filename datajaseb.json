@@ -30041,6 +30041,20 @@
       "lastActive": {
         "$date": "2025-11-25T17:26:27.147Z"
       }
+    },
+    {
+      "userId": 7747640293,
+      "username": "yannfaavboys",
+      "firstName": "Yanz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:29:52.368Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:29:52.373Z"
+      }
     }
   ],
   "groups": [
