@@ -29762,6 +29762,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:45:36.435Z"
       }
+    },
+    {
+      "userId": 8332569254,
+      "username": "etekell",
+      "firstName": "梅西 WS 2011-2023 真實",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:47:41.537Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:47:41.537Z"
+      }
     }
   ],
   "groups": [
