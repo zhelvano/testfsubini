@@ -30334,6 +30334,20 @@
       "lastActive": {
         "$date": "2025-11-25T18:02:34.546Z"
       }
+    },
+    {
+      "userId": 7881427403,
+      "username": "Nanani120",
+      "firstName": "Nana",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:05:22.985Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:05:22.985Z"
+      }
     }
   ],
   "groups": [
