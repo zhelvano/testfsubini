@@ -27360,6 +27360,20 @@
       "lastActive": {
         "$date": "2025-11-25T12:52:29.573Z"
       }
+    },
+    {
+      "userId": 8127127463,
+      "firstName": "انعزال القياده امير",
+      "lastName": "ا",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:53:06.413Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:53:06.413Z"
+      }
     }
   ],
   "groups": [
