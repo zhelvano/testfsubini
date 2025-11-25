@@ -31354,6 +31354,21 @@
       "lastActive": {
         "$date": "2025-11-25T21:54:07.125Z"
       }
+    },
+    {
+      "userId": 7822120292,
+      "username": "toor778",
+      "firstName": "🅐🅑🅤🅓🅐🅛",
+      "lastName": "🅙🅐🅝🅘",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T21:56:02.721Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T21:56:02.721Z"
+      }
     }
   ],
   "groups": [
