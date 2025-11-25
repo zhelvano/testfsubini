@@ -5306,7 +5306,7 @@
         "$date": "2025-11-23T05:01:38.080000Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T05:45:39.302Z"
+        "$date": "2025-11-25T12:23:31.114Z"
       }
     },
     {
@@ -26793,6 +26793,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T12:22:48.173Z"
+      }
+    },
+    {
+      "userId": 7062989554,
+      "username": "xxler01",
+      "firstName": "TRX",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:23:18.463Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:23:18.463Z"
       }
     }
   ],
