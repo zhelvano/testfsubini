@@ -19,7 +19,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T14:48:11.742Z"
+        "$date": "2025-11-25T15:04:01.650Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -28747,6 +28747,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T15:02:48.407Z"
+      }
+    },
+    {
+      "userId": 8022570384,
+      "username": "MahjongPer",
+      "firstName": "Jamal",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:03:36.902Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:03:36.902Z"
       }
     }
   ],
