@@ -24047,6 +24047,21 @@
       "lastActive": {
         "$date": "2025-11-25T04:53:36.591Z"
       }
+    },
+    {
+      "userId": 1607112738,
+      "username": "NaimNawazNihan",
+      "firstName": "NiH",
+      "lastName": "aN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:55:52.155Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:55:52.155Z"
+      }
     }
   ],
   "groups": [
