@@ -28106,6 +28106,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:51:48.211Z"
       }
+    },
+    {
+      "userId": 8009953306,
+      "firstName": "مشرصاب",
+      "lastName": "زوریدلی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:53:25.401Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:53:25.401Z"
+      }
     }
   ],
   "groups": [
