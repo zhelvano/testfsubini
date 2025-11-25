@@ -30083,6 +30083,33 @@
       "lastActive": {
         "$date": "2025-11-25T17:32:00.231Z"
       }
+    },
+    {
+      "userId": 8438033447,
+      "firstName": "𓂍ོོ⁞⤷𓆩།⋆ ߺ߲ܨ ܝ‌ܟߺܩܢ⋆།ོོ⁞𓂍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:42:42.143Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:42:42.143Z"
+      }
+    },
+    {
+      "userId": 8406648564,
+      "username": "YoshiyukiOta",
+      "firstName": "𝒀𝒐𝒔𝒉𝒊𝒚𝒖𝒌𝒊 𝑶̄𝖙𝖆",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:42:53.205Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:42:53.205Z"
+      }
     }
   ],
   "groups": [
