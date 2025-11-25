@@ -23569,7 +23569,7 @@
         "$date": "2025-11-25T03:13:05.468Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T03:13:09.746Z"
+        "$date": "2025-11-25T06:26:24.032Z"
       }
     },
     {
@@ -24468,6 +24468,21 @@
       },
       "lastActive": {
         "$date": "2025-11-25T06:24:56.031Z"
+      }
+    },
+    {
+      "userId": 7131529042,
+      "username": "Breddly",
+      "firstName": "Augusto",
+      "lastName": "Alvarado",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:26:06.216Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:26:06.216Z"
       }
     }
   ],
