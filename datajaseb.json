@@ -27626,6 +27626,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:15:25.333Z"
       }
+    },
+    {
+      "userId": 7996849643,
+      "username": "axxyl_shelby",
+      "firstName": "𝑨𝒙𝒙𝒚𝒍 𝑺𝒉𝒆𝒍𝒃𝒚",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:17:44.138Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:17:44.138Z"
+      }
     }
   ],
   "groups": [
