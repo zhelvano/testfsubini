@@ -29610,6 +29610,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:29:01.122Z"
       }
+    },
+    {
+      "userId": 1660803677,
+      "username": "Itsukiichann",
+      "firstName": "Itsukiii",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:29:56.530Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:29:56.530Z"
+      }
     }
   ],
   "groups": [
