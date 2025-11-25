@@ -31285,6 +31285,20 @@
       "lastActive": {
         "$date": "2025-11-25T21:37:01.511Z"
       }
+    },
+    {
+      "userId": 7448462365,
+      "username": "A_8_2_A",
+      "firstName": "𝑩𝑶𝑫𝑨 ᬽ𖤍 🫆",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T21:37:08.309Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T21:37:08.309Z"
+      }
     }
   ],
   "groups": [
