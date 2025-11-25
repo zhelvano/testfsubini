@@ -31139,16 +31139,23 @@
       "userId": 7506361899,
       "username": "alwaysnuszxVyl",
       "firstName": "ヌスズ・ヴィL࿐",
-      "isPremium": false,
+      "isPremium": true,
       "isAdmin": false,
       "groupsAdded": [
-        -1002928452822
+        -1002928452822,
+        -1003260923679
       ],
       "joinedAt": {
         "$date": "2025-11-25T20:54:36.096Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T21:05:29.094Z"
+        "$date": "2025-11-25T21:07:34.596Z"
+      },
+      "premiumSince": {
+        "$date": "2025-11-25T21:07:34.589Z"
+      },
+      "premiumExpiry": {
+        "$date": "2025-11-27T21:07:34.589Z"
       }
     },
     {
@@ -31673,6 +31680,15 @@
         "$date": "2025-11-25T21:05:29.092Z"
       },
       "memberCount": 30
+    },
+    {
+      "groupId": -1003260923679,
+      "title": "Luv1x Gacha Nokos Tele",
+      "addedBy": 7506361899,
+      "addedAt": {
+        "$date": "2025-11-25T21:07:34.389Z"
+      },
+      "memberCount": 84
     }
   ]
 }
