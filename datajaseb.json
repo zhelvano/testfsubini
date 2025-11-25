@@ -24557,6 +24557,20 @@
       "lastActive": {
         "$date": "2025-11-25T06:39:13.674Z"
       }
+    },
+    {
+      "userId": 6247374754,
+      "username": "Netucii",
+      "firstName": "𝐫𝐞𝐚𝐝𝐲 𝐧𝐨𝐤𝐨𝐬 𝐛𝐲 𝐮𝐜𝐢",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:40:10.515Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:40:10.515Z"
+      }
     }
   ],
   "groups": [
