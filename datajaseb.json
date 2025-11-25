@@ -30767,7 +30767,7 @@
         "$date": "2025-11-25T19:48:09.245Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T19:48:33.580Z"
+        "$date": "2025-11-25T19:49:04.545Z"
       }
     }
   ],
@@ -31213,6 +31213,24 @@
         "$date": "2025-11-25T13:26:10.441Z"
       },
       "memberCount": 29
+    },
+    {
+      "groupId": -1003253037763,
+      "title": "FryDie store",
+      "addedBy": 8461229126,
+      "addedAt": {
+        "$date": "2025-11-25T19:48:54.821Z"
+      },
+      "memberCount": 4
+    },
+    {
+      "groupId": -1003239193183,
+      "title": "MURBUG MURAH",
+      "addedBy": 8461229126,
+      "addedAt": {
+        "$date": "2025-11-25T19:49:04.783Z"
+      },
+      "memberCount": 0
     }
   ]
 }
