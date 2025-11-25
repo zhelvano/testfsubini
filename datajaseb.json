@@ -28370,6 +28370,21 @@
       "lastActive": {
         "$date": "2025-11-25T14:33:04.094Z"
       }
+    },
+    {
+      "userId": 7383957722,
+      "username": "kkkkwsy",
+      "firstName": "yanz",
+      "lastName": ".",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:34:03.609Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:34:32.232Z"
+      }
     }
   ],
   "groups": [
