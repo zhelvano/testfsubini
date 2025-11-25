@@ -28065,6 +28065,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:49:40.324Z"
       }
+    },
+    {
+      "userId": 8432004163,
+      "username": "asian9888",
+      "firstName": "亚洲",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:50:26.579Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:50:26.579Z"
+      }
     }
   ],
   "groups": [
