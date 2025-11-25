@@ -30729,6 +30729,33 @@
       "lastActive": {
         "$date": "2025-11-25T19:39:25.096Z"
       }
+    },
+    {
+      "userId": 7718096297,
+      "username": "not3online",
+      "firstName": "𝑰𝑵𝑫𝑬𝑿",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T19:46:36.911Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T19:46:36.915Z"
+      }
+    },
+    {
+      "userId": 7583173407,
+      "firstName": "bdman",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T19:47:02.707Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T19:47:02.707Z"
+      }
     }
   ],
   "groups": [
