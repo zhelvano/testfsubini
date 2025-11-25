@@ -28609,6 +28609,20 @@
       "lastActive": {
         "$date": "2025-11-25T14:53:28.357Z"
       }
+    },
+    {
+      "userId": 8303864573,
+      "firstName": "حنتا",
+      "lastName": "تتا",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:53:38.248Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:53:38.248Z"
+      }
     }
   ],
   "groups": [
