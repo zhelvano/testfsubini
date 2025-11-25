@@ -30797,6 +30797,20 @@
       "lastActive": {
         "$date": "2025-11-25T19:52:15.385Z"
       }
+    },
+    {
+      "userId": 7881660378,
+      "username": "alwyasbarr",
+      "firstName": "Barr",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T19:55:50.324Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T19:55:50.328Z"
+      }
     }
   ],
   "groups": [
