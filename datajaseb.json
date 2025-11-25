@@ -24356,6 +24356,20 @@
       "lastActive": {
         "$date": "2025-11-25T06:07:11.791Z"
       }
+    },
+    {
+      "userId": 6036990159,
+      "username": "Elenaowen681",
+      "firstName": "Elena Owen",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:07:59.101Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:07:59.101Z"
+      }
     }
   ],
   "groups": [
