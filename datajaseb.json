@@ -27005,6 +27005,20 @@
       "lastActive": {
         "$date": "2025-11-25T12:32:16.095Z"
       }
+    },
+    {
+      "userId": 8038137097,
+      "username": "shahmosa007",
+      "firstName": "🇲ꝀƗᏁᎶسید",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:33:24.849Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:33:24.849Z"
+      }
     }
   ],
   "groups": [
