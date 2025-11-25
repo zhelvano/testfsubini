@@ -25907,6 +25907,19 @@
       "lastActive": {
         "$date": "2025-11-25T10:16:21.696Z"
       }
+    },
+    {
+      "userId": 7460615886,
+      "firstName": "Rasya",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:16:32.311Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:16:32.311Z"
+      }
     }
   ],
   "groups": [
