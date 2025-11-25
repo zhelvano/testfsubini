@@ -28008,6 +28008,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:44:39.625Z"
       }
+    },
+    {
+      "userId": 7872049695,
+      "username": "arvnkhrlnz",
+      "firstName": "vin dê stalboy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:47:44.244Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:47:44.244Z"
+      }
     }
   ],
   "groups": [
