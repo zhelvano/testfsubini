@@ -27667,6 +27667,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:18:39.321Z"
       }
+    },
+    {
+      "userId": 8137071039,
+      "username": "WG_JC",
+      "firstName": "☜[𝒀𝑼𝑺𝑬𝑭] ☞",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:19:28.388Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:19:28.388Z"
+      }
     }
   ],
   "groups": [
