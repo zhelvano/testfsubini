@@ -23361,6 +23361,20 @@
       "lastActive": {
         "$date": "2025-11-25T02:40:41.174Z"
       }
+    },
+    {
+      "userId": 7454464877,
+      "username": "RapzXyzz",
+      "firstName": "Renz Is Here !!",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:40:57.045Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:40:57.045Z"
+      }
     }
   ],
   "groups": [
