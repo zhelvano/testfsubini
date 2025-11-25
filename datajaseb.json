@@ -23905,6 +23905,21 @@
       "lastActive": {
         "$date": "2025-11-25T04:25:48.339Z"
       }
+    },
+    {
+      "userId": 5668108332,
+      "username": "Lord_7_the_god",
+      "firstName": "Naruto",
+      "lastName": "Uzumaki",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:26:15.983Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:26:15.983Z"
+      }
     }
   ],
   "groups": [
