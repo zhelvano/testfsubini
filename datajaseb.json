@@ -31664,6 +31664,34 @@
       "lastActive": {
         "$date": "2025-11-25T23:05:25.535Z"
       }
+    },
+    {
+      "userId": 6437649530,
+      "firstName": "NY",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:11:38.487Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:11:52.945Z"
+      }
+    },
+    {
+      "userId": 8530325246,
+      "username": "newbiee306",
+      "firstName": "𝟑𝟎𝟔",
+      "lastName": "ᴅʙʀ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:11:58.635Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:11:58.635Z"
+      }
     }
   ],
   "groups": [
