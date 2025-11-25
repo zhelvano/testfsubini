@@ -25520,6 +25520,20 @@
       "lastActive": {
         "$date": "2025-11-25T09:09:21.276Z"
       }
+    },
+    {
+      "userId": 8007162429,
+      "firstName": "Dipzy",
+      "lastName": "Amaxik",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:09:40.013Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:09:40.013Z"
+      }
     }
   ],
   "groups": [
