@@ -25224,6 +25224,19 @@
       "lastActive": {
         "$date": "2025-11-25T08:24:46.211Z"
       }
+    },
+    {
+      "userId": 8392138744,
+      "firstName": "IYANZ {KANG NOKOS}",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T08:27:23.086Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T08:27:23.086Z"
+      }
     }
   ],
   "groups": [
