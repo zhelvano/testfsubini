@@ -31978,6 +31978,20 @@
       "lastActive": {
         "$date": "2025-11-25T23:54:10.036Z"
       }
+    },
+    {
+      "userId": 6814422018,
+      "username": "dffspv",
+      "firstName": "dap'w",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:55:50.459Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:55:50.459Z"
+      }
     }
   ],
   "groups": [
