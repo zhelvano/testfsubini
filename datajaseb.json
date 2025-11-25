@@ -23192,6 +23192,21 @@
       "lastActive": {
         "$date": "2025-11-25T02:08:42.939Z"
       }
+    },
+    {
+      "userId": 7391411963,
+      "username": "Dafxxii",
+      "firstName": "NAME",
+      "lastName": "NIGHT",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:11:13.901Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:11:13.901Z"
+      }
     }
   ],
   "groups": [
