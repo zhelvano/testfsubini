@@ -31052,6 +31052,19 @@
       "lastActive": {
         "$date": "2025-11-25T20:40:00.643Z"
       }
+    },
+    {
+      "userId": 8356972698,
+      "firstName": "siap siap",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:47:54.528Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:47:54.529Z"
+      }
     }
   ],
   "groups": [
