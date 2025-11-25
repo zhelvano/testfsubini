@@ -29553,6 +29553,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:17:05.987Z"
       }
+    },
+    {
+      "userId": 6001713039,
+      "username": "se_ahsan_jan",
+      "firstName": "𝑅𝐴𝑌𝐸𝑆 𝐸𝐻𝑆𝐴𝑁 𝐻𝐴𝐶𝐾 ³⁵²",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:19:29.763Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:19:29.767Z"
+      }
     }
   ],
   "groups": [
