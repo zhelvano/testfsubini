@@ -29581,6 +29581,21 @@
       "lastActive": {
         "$date": "2025-11-25T16:20:09.144Z"
       }
+    },
+    {
+      "userId": 6294408161,
+      "username": "bahram33333",
+      "firstName": "BAHRAM",
+      "lastName": "AHMADI",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:24:10.777Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:24:10.783Z"
+      }
     }
   ],
   "groups": [
