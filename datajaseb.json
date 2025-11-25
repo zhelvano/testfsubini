@@ -27707,7 +27707,7 @@
         "$date": "2025-11-25T13:20:00.657Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T15:13:53.269Z"
+        "$date": "2025-11-25T15:24:54.128Z"
       }
     },
     {
@@ -28970,6 +28970,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T15:23:28.020Z"
+      }
+    },
+    {
+      "userId": 8451425614,
+      "firstName": "انس",
+      "lastName": "افغان",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:24:41.733Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:24:41.733Z"
       }
     }
   ],
