@@ -30518,6 +30518,20 @@
       "lastActive": {
         "$date": "2025-11-25T18:26:57.401Z"
       }
+    },
+    {
+      "userId": 8130206442,
+      "firstName": "🐍🦒work",
+      "lastName": "7",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:28:03.861Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:28:03.861Z"
+      }
     }
   ],
   "groups": [
