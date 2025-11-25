@@ -29073,6 +29073,34 @@
       "lastActive": {
         "$date": "2025-11-25T15:31:20.516Z"
       }
+    },
+    {
+      "userId": 1078903084,
+      "username": "rreexxddym",
+      "firstName": "𝙙𝙞𝙈 | 𝙏𝙍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:34:21.140Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:34:21.140Z"
+      }
+    },
+    {
+      "userId": 8371374863,
+      "username": "pejuang_NAFKAH95",
+      "firstName": "PEJUANG NAFKAH",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:34:28.482Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:34:28.482Z"
+      }
     }
   ],
   "groups": [
