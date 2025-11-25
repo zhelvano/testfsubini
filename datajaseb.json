@@ -30362,6 +30362,21 @@
       "lastActive": {
         "$date": "2025-11-25T18:06:51.244Z"
       }
+    },
+    {
+      "userId": 7786014672,
+      "username": "el_bandido_ofc_777",
+      "firstName": "᭕᭄𝐸𝑙 𝐵𝑎𝑛𝑑𝑖𝑑a",
+      "lastName": "𝑜𝑓𝑐᭕᭄",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:10:30.703Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:10:30.709Z"
+      }
     }
   ],
   "groups": [
