@@ -23221,6 +23221,20 @@
       "lastActive": {
         "$date": "2025-11-25T02:12:50.914Z"
       }
+    },
+    {
+      "userId": 8472507330,
+      "username": "SennIsThatYou",
+      "firstName": "〩| 𝗦𝗘𝗡𝗡𝗘𝗫𝗭𝗢 🇮🇩",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:13:28.357Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:13:28.374Z"
+      }
     }
   ],
   "groups": [
