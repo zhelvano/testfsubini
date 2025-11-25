@@ -8499,7 +8499,7 @@
         "$date": "2025-11-23T06:55:14.520000Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T12:41:18.884Z"
+        "$date": "2025-11-25T12:56:51.758Z"
       }
     },
     {
@@ -27401,6 +27401,19 @@
       },
       "lastActive": {
         "$date": "2025-11-25T12:55:37.977Z"
+      }
+    },
+    {
+      "userId": 8418488908,
+      "firstName": "Goly",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:56:36.095Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:56:36.095Z"
       }
     }
   ],
