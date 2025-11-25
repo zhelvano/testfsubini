@@ -24881,6 +24881,19 @@
       "lastActive": {
         "$date": "2025-11-25T07:29:25.645Z"
       }
+    },
+    {
+      "userId": 8110487152,
+      "firstName": "𝕳𝖆𝖈𝖐𝕻𝖚𝖗𝖌𝖆𝖙𝖔𝖗𝖞〄〄",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:31:58.760Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:31:58.760Z"
+      }
     }
   ],
   "groups": [
