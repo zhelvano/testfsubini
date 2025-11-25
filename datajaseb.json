@@ -25642,6 +25642,20 @@
       "lastActive": {
         "$date": "2025-11-25T09:30:06.182Z"
       }
+    },
+    {
+      "userId": 8034316984,
+      "username": "nikiiangelynn20",
+      "firstName": "nikiilynn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:32:10.157Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:32:10.157Z"
+      }
     }
   ],
   "groups": [
