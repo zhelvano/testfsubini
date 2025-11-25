@@ -23045,14 +23045,23 @@
       "username": "gibxroy",
       "firstName": "JUAL KEBUTUHAN MU",
       "lastName": "⚡",
-      "isPremium": false,
+      "isPremium": true,
       "isAdmin": false,
-      "groupsAdded": [],
+      "groupsAdded": [
+        -1003024342386,
+        -1003284395899
+      ],
       "joinedAt": {
         "$date": "2025-11-25T01:34:24.991Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T01:35:41.794Z"
+        "$date": "2025-11-25T01:36:13.653Z"
+      },
+      "premiumSince": {
+        "$date": "2025-11-25T01:36:13.648Z"
+      },
+      "premiumExpiry": {
+        "$date": "2025-11-27T01:36:13.648Z"
       }
     },
     {
@@ -23422,6 +23431,24 @@
         "$date": "2025-11-24T22:29:38.199Z"
       },
       "memberCount": 2
+    },
+    {
+      "groupId": -1003024342386,
+      "title": "All Buyer/PT amaterasu",
+      "addedBy": 7890031039,
+      "addedAt": {
+        "$date": "2025-11-25T01:35:57.141Z"
+      },
+      "memberCount": 84
+    },
+    {
+      "groupId": -1003284395899,
+      "title": "All buyer Sc 𝗦𝗽𝗲𝗰𝘁𝗿𝗲 𝗜𝗻𝘃𝗶𝗰𝘁𝘂𝘀",
+      "addedBy": 7890031039,
+      "addedAt": {
+        "$date": "2025-11-25T01:36:13.417Z"
+      },
+      "memberCount": 141
     }
   ]
 }
