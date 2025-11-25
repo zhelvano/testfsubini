@@ -22854,6 +22854,34 @@
       "lastActive": {
         "$date": "2025-11-25T00:10:20.988Z"
       }
+    },
+    {
+      "userId": 6867864564,
+      "username": "QG_HQ",
+      "firstName": "\".𝐊𝐀𝐍𝐄𝐊𝐈.💔₊⊹⏤͟͟͞𝗫𝗼𝘃🪦󱢏₊",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T00:27:43.061Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T00:27:43.061Z"
+      }
+    },
+    {
+      "userId": 6745950098,
+      "username": "AloushoUUM",
+      "firstName": "Leo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T00:27:48.951Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T00:27:48.951Z"
+      }
     }
   ],
   "groups": [
