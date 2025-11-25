@@ -23920,6 +23920,20 @@
       "lastActive": {
         "$date": "2025-11-25T04:26:15.983Z"
       }
+    },
+    {
+      "userId": 6783691381,
+      "username": "Mohsobobw",
+      "firstName": "مــبــارزڪنــدهـاري",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:31:47.706Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:31:47.706Z"
+      }
     }
   ],
   "groups": [
