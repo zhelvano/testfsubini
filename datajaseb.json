@@ -23849,6 +23849,21 @@
       "lastActive": {
         "$date": "2025-11-25T04:17:26.183Z"
       }
+    },
+    {
+      "userId": 7189446840,
+      "username": "OnlySaport1009",
+      "firstName": "️ Sojib",
+      "lastName": "Vai ️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:19:13.904Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:19:13.904Z"
+      }
     }
   ],
   "groups": [
