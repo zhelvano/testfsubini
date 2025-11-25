@@ -27388,6 +27388,20 @@
       "lastActive": {
         "$date": "2025-11-25T12:55:29.921Z"
       }
+    },
+    {
+      "userId": 7879241055,
+      "username": "gg8181816",
+      "firstName": "利斯亚娜 WS",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:55:37.977Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:55:37.977Z"
+      }
     }
   ],
   "groups": [
