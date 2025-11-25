@@ -26382,6 +26382,21 @@
       "lastActive": {
         "$date": "2025-11-25T11:35:57.494Z"
       }
+    },
+    {
+      "userId": 5664674360,
+      "username": "jimilabradori",
+      "firstName": "Hasbi",
+      "lastName": "Fajri",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T11:37:03.588Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T11:37:03.588Z"
+      }
     }
   ],
   "groups": [
