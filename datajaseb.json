@@ -28734,6 +28734,20 @@
       "lastActive": {
         "$date": "2025-11-25T15:01:01.337Z"
       }
+    },
+    {
+      "userId": 7785391601,
+      "username": "Adisa10228",
+      "firstName": "⏤͟͟𝐃𝐍𝐓 || DI",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:02:48.407Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:02:48.407Z"
+      }
     }
   ],
   "groups": [
