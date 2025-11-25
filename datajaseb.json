@@ -31010,6 +31010,35 @@
       "lastActive": {
         "$date": "2025-11-25T20:39:00.642Z"
       }
+    },
+    {
+      "userId": 8112157754,
+      "username": "kikrijokv",
+      "firstName": "kirik",
+      "lastName": "naj",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:39:06.752Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:39:06.752Z"
+      }
+    },
+    {
+      "userId": 7199787302,
+      "username": "asmael2000",
+      "firstName": "سمعه بن الجهمي",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:39:13.952Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:39:13.952Z"
+      }
     }
   ],
   "groups": [
