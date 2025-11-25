@@ -25574,6 +25574,20 @@
       "lastActive": {
         "$date": "2025-11-25T09:21:32.477Z"
       }
+    },
+    {
+      "userId": 8376120337,
+      "username": "coypakcoy",
+      "firstName": "FARIS",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:23:25.624Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:23:25.624Z"
+      }
     }
   ],
   "groups": [
