@@ -25293,6 +25293,34 @@
       "lastActive": {
         "$date": "2025-11-25T08:42:04.206Z"
       }
+    },
+    {
+      "userId": 7945637776,
+      "username": "VINNZSTOREE",
+      "firstName": "⏤͟͟͞͞𝗩𝗜𝗡𝗭𝗭",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T08:42:59.250Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T08:42:59.250Z"
+      }
+    },
+    {
+      "userId": 8212233527,
+      "username": "cIubese",
+      "firstName": "ᴛᴀɢıʏᴇᴠᴡs 🇦🇿",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T08:43:05.976Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T08:43:05.976Z"
+      }
     }
   ],
   "groups": [
