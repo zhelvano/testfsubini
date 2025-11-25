@@ -23319,6 +23319,20 @@
       "lastActive": {
         "$date": "2025-11-25T02:36:46.684Z"
       }
+    },
+    {
+      "userId": 8303483348,
+      "username": "crisbmmw",
+      "firstName": "Crisbmmw",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:38:40.781Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:38:40.782Z"
+      }
     }
   ],
   "groups": [
