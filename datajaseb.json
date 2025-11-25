@@ -23891,6 +23891,20 @@
       "lastActive": {
         "$date": "2025-11-25T04:24:59.294Z"
       }
+    },
+    {
+      "userId": 8284187853,
+      "username": "twbann",
+      "firstName": "trici #0666",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:25:48.339Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:25:48.339Z"
+      }
     }
   ],
   "groups": [
