@@ -31880,6 +31880,21 @@
       "lastActive": {
         "$date": "2025-11-25T23:36:00.640Z"
       }
+    },
+    {
+      "userId": 8057976965,
+      "username": "hertod33",
+      "firstName": "Hertod",
+      "lastName": "Isgod",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:43:43.243Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:43:43.243Z"
+      }
     }
   ],
   "groups": [
