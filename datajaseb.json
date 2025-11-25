@@ -30475,6 +30475,20 @@
       "lastActive": {
         "$date": "2025-11-25T18:21:58.002Z"
       }
+    },
+    {
+      "userId": 8585210591,
+      "username": "warxzz_12",
+      "firstName": "warxzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:25:37.679Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:25:37.688Z"
+      }
     }
   ],
   "groups": [
