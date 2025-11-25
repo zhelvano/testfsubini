@@ -23389,6 +23389,20 @@
       "lastActive": {
         "$date": "2025-11-25T02:42:04.527Z"
       }
+    },
+    {
+      "userId": 6541162222,
+      "username": "rijbi3",
+      "firstName": "🇷 🇮 🇯 🇧 🇮",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:42:20.090Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:42:20.090Z"
+      }
     }
   ],
   "groups": [
