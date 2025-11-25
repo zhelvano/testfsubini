@@ -29901,6 +29901,20 @@
       "lastActive": {
         "$date": "2025-11-25T17:06:10.949Z"
       }
+    },
+    {
+      "userId": 8254560982,
+      "username": "saltan71",
+      "firstName": "سلــ꙰طان زمــ꙰ـاني",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:07:28.459Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:07:28.459Z"
+      }
     }
   ],
   "groups": [
