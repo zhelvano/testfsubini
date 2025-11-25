@@ -25506,6 +25506,20 @@
       "lastActive": {
         "$date": "2025-11-25T09:07:55.828Z"
       }
+    },
+    {
+      "userId": 6128107330,
+      "username": "Doflay",
+      "firstName": "𝟵𝟲𝟵 𝗗𝗼𝗳𝗹𝗮𝗺𝗶𝗻𝗴𝗼姓名",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:09:21.276Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:09:21.276Z"
+      }
     }
   ],
   "groups": [
