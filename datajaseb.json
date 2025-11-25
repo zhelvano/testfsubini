@@ -19,7 +19,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T00:44:47.612Z"
+        "$date": "2025-11-25T01:35:08.588Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -23053,6 +23053,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T01:34:24.995Z"
+      }
+    },
+    {
+      "userId": 7376150616,
+      "username": "SukaKezu",
+      "firstName": "𝙎𝙓𝙏𝙃 || 𝙈𝙞𝙨𝙪𝙯𝙪",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T01:35:03.295Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T01:35:03.295Z"
       }
     }
   ],
