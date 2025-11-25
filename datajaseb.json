@@ -25045,6 +25045,20 @@
       "lastActive": {
         "$date": "2025-11-25T07:45:04.948Z"
       }
+    },
+    {
+      "userId": 7728205038,
+      "username": "CIO3008",
+      "firstName": "ɴᴇɴ -𝟖𝟗𝟖 𝙏𝙈𝙓 𝙊𝙆𝙄 ⁹⁰⁹",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:48:17.220Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:48:17.227Z"
+      }
     }
   ],
   "groups": [
