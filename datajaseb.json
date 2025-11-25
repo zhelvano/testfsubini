@@ -29638,6 +29638,19 @@
       "lastActive": {
         "$date": "2025-11-25T16:30:22.446Z"
       }
+    },
+    {
+      "userId": 8323592427,
+      "firstName": "GG H",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:31:05.055Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:31:05.055Z"
+      }
     }
   ],
   "groups": [
