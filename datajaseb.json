@@ -31992,6 +31992,21 @@
       "lastActive": {
         "$date": "2025-11-25T23:55:50.459Z"
       }
+    },
+    {
+      "userId": 7621335956,
+      "username": "Ndlosor_gess",
+      "firstName": "Gedang",
+      "lastName": "Cauu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:56:15.482Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:56:15.482Z"
+      }
     }
   ],
   "groups": [
