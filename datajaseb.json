@@ -29426,6 +29426,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:08:41.715Z"
       }
+    },
+    {
+      "userId": 7675233166,
+      "firstName": "Hacker",
+      "lastName": "Larka",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:10:59.357Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:10:59.357Z"
+      }
     }
   ],
   "groups": [
