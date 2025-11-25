@@ -31134,6 +31134,20 @@
       "lastActive": {
         "$date": "2025-11-25T20:54:24.126Z"
       }
+    },
+    {
+      "userId": 7506361899,
+      "username": "alwaysnuszxVyl",
+      "firstName": "ヌスズ・ヴィL࿐",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:54:36.096Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:55:04.687Z"
+      }
     }
   ],
   "groups": [
