@@ -28875,6 +28875,20 @@
       "lastActive": {
         "$date": "2025-11-25T15:14:10.494Z"
       }
+    },
+    {
+      "userId": 8285672715,
+      "username": "imran75155",
+      "firstName": "Emran",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:15:55.183Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:15:55.183Z"
+      }
     }
   ],
   "groups": [
