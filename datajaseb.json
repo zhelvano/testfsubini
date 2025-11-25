@@ -25335,6 +25335,35 @@
       "lastActive": {
         "$date": "2025-11-25T08:44:41.099Z"
       }
+    },
+    {
+      "userId": 8497144060,
+      "username": "XuanWoyy",
+      "firstName": "美丽的轩",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T08:45:02.783Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T08:45:02.783Z"
+      }
+    },
+    {
+      "userId": 5107868805,
+      "username": "MrShaMiiiM",
+      "firstName": "MD",
+      "lastName": "Mohi Uddin",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T08:45:19.722Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T08:45:19.722Z"
+      }
     }
   ],
   "groups": [
