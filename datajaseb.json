@@ -31229,6 +31229,20 @@
       "lastActive": {
         "$date": "2025-11-25T21:16:12.161Z"
       }
+    },
+    {
+      "userId": 8520139090,
+      "firstName": "Hik",
+      "lastName": "Jame",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T21:19:29.773Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T21:19:29.773Z"
+      }
     }
   ],
   "groups": [
