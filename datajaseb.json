@@ -28204,6 +28204,19 @@
       "lastActive": {
         "$date": "2025-11-25T14:04:53.495Z"
       }
+    },
+    {
+      "userId": 7555686345,
+      "firstName": "Walett",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:06:40.293Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:06:40.293Z"
+      }
     }
   ],
   "groups": [
