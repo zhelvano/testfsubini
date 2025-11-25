@@ -30223,6 +30223,20 @@
       "lastActive": {
         "$date": "2025-11-25T17:54:32.248Z"
       }
+    },
+    {
+      "userId": 689162456,
+      "firstName": "نسيم",
+      "lastName": "الروح",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:57:53.267Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:57:53.271Z"
+      }
     }
   ],
   "groups": [
