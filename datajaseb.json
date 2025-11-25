@@ -28231,6 +28231,20 @@
       "lastActive": {
         "$date": "2025-11-25T14:10:51.295Z"
       }
+    },
+    {
+      "userId": 837831405,
+      "username": "Psycho9008",
+      "firstName": "Psycho",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:11:08.478Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:11:08.478Z"
+      }
     }
   ],
   "groups": [
