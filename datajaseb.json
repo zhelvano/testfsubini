@@ -28342,6 +28342,19 @@
       "lastActive": {
         "$date": "2025-11-25T14:26:31.719Z"
       }
+    },
+    {
+      "userId": 6812253773,
+      "firstName": "v'conk",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:30:49.608Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:30:49.608Z"
+      }
     }
   ],
   "groups": [
