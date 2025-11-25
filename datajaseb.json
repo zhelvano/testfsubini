@@ -29665,6 +29665,19 @@
       "lastActive": {
         "$date": "2025-11-25T16:35:27.853Z"
       }
+    },
+    {
+      "userId": 7698051396,
+      "firstName": "OM4R",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:36:25.129Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:36:25.129Z"
+      }
     }
   ],
   "groups": [
