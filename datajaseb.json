@@ -23460,6 +23460,35 @@
       "lastActive": {
         "$date": "2025-11-25T02:48:14.898Z"
       }
+    },
+    {
+      "userId": 976686337,
+      "username": "fermayil_abdullaev1",
+      "firstName": "Fərmayil",
+      "lastName": "Abdullayev",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:51:32.218Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:51:32.218Z"
+      }
+    },
+    {
+      "userId": 8458852512,
+      "username": "Penampung_2024",
+      "firstName": "容器pinzy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:51:36.720Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:51:36.720Z"
+      }
     }
   ],
   "groups": [
