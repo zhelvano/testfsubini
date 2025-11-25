@@ -23347,6 +23347,20 @@
       "lastActive": {
         "$date": "2025-11-25T02:39:35.026Z"
       }
+    },
+    {
+      "userId": 7398566680,
+      "firstName": "شاعر",
+      "lastName": "محمدی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:40:41.174Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:40:41.174Z"
+      }
     }
   ],
   "groups": [
