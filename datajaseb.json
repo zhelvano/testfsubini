@@ -31271,6 +31271,20 @@
       "lastActive": {
         "$date": "2025-11-25T21:35:03.539Z"
       }
+    },
+    {
+      "userId": 6832261343,
+      "username": "shopaolickukoshibo",
+      "firstName": "ˢkᵞ•ＧＲＥＭＭＹ☦️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T21:37:01.511Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T21:37:01.511Z"
+      }
     }
   ],
   "groups": [
