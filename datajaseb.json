@@ -23600,6 +23600,20 @@
       "lastActive": {
         "$date": "2025-11-25T03:20:11.778Z"
       }
+    },
+    {
+      "userId": 7934740868,
+      "username": "papichulooo123",
+      "firstName": "WR𝟑𝟑𝟑𝟑",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T03:20:56.749Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T03:20:56.749Z"
+      }
     }
   ],
   "groups": [
