@@ -29929,6 +29929,20 @@
       "lastActive": {
         "$date": "2025-11-25T17:09:29.986Z"
       }
+    },
+    {
+      "userId": 7730709184,
+      "username": "ahmadysahb",
+      "firstName": "کندزی صاحب",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:09:39.894Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:09:39.894Z"
+      }
     }
   ],
   "groups": [
