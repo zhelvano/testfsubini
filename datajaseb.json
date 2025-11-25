@@ -24272,6 +24272,19 @@
       "lastActive": {
         "$date": "2025-11-25T05:55:36.101Z"
       }
+    },
+    {
+      "userId": 7652514750,
+      "firstName": "سماعیلجان",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:01:10.413Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:01:10.413Z"
+      }
     }
   ],
   "groups": [
