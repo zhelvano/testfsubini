@@ -8499,7 +8499,7 @@
         "$date": "2025-11-23T06:55:14.520000Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T10:58:51.947Z"
+        "$date": "2025-11-25T12:41:18.884Z"
       }
     },
     {
@@ -27090,6 +27090,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T12:40:50.035Z"
+      }
+    },
+    {
+      "userId": 5792506527,
+      "username": "th0rfin1",
+      "firstName": "Pyxhh",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:41:31.252Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:41:31.252Z"
       }
     }
   ],
