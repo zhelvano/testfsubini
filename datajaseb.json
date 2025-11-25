@@ -27246,6 +27246,21 @@
       "lastActive": {
         "$date": "2025-11-25T12:46:26.480Z"
       }
+    },
+    {
+      "userId": 6825358874,
+      "username": "Maryrose2214",
+      "firstName": "Talent 🆙 UXUY",
+      "lastName": "Adebisi🐾",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:47:01.040Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:47:01.040Z"
+      }
     }
   ],
   "groups": [
