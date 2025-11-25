@@ -28985,6 +28985,20 @@
       "lastActive": {
         "$date": "2025-11-25T15:24:41.733Z"
       }
+    },
+    {
+      "userId": 7665940461,
+      "username": "Zzeellzz",
+      "firstName": "×͜× || 𝙕𝙀𝙇 一緒",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:26:35.255Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:26:35.255Z"
+      }
     }
   ],
   "groups": [
