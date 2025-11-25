@@ -7163,7 +7163,6 @@
       "userId": 7068153943,
       "username": "HAJI_SAHIL0011",
       "firstName": "𓆩•.〲²⁰⁰¹ س꯭ـاح‍ ‍ل͠ 〲²⁰⁰¹ .•𓆪",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -7171,7 +7170,7 @@
         "$date": "2025-11-23T06:08:07.097000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T06:08:07.097000Z"
+        "$date": "2025-11-25T17:16:27.875Z"
       }
     },
     {
@@ -29899,7 +29898,7 @@
         "$date": "2025-11-25T17:06:10.946Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T17:06:10.949Z"
+        "$date": "2025-11-25T17:16:11.472Z"
       }
     },
     {
@@ -29984,6 +29983,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T17:16:01.895Z"
+      }
+    },
+    {
+      "userId": 8391385285,
+      "firstName": "Ardan",
+      "lastName": "Apry",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:16:15.434Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:16:15.434Z"
       }
     }
   ],
