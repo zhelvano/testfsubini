@@ -29707,6 +29707,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:41:01.651Z"
       }
+    },
+    {
+      "userId": 6397631128,
+      "firstName": "Sopian",
+      "lastName": ".",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:41:59.150Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:41:59.150Z"
+      }
     }
   ],
   "groups": [
