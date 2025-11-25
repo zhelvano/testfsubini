@@ -29888,6 +29888,19 @@
       "lastActive": {
         "$date": "2025-11-25T17:01:35.146Z"
       }
+    },
+    {
+      "userId": 7689351451,
+      "firstName": "Xyee",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:06:10.946Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:06:10.949Z"
+      }
     }
   ],
   "groups": [
