@@ -31523,6 +31523,20 @@
       "lastActive": {
         "$date": "2025-11-25T22:29:12.607Z"
       }
+    },
+    {
+      "userId": 7010371286,
+      "username": "MaskedMan09",
+      "firstName": "Ø𝖇𝖎𝖙ø 𝖀́𝖈̧𝖍𝖎́𝖍𝖆́",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T22:30:50.141Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T22:30:50.141Z"
+      }
     }
   ],
   "groups": [
