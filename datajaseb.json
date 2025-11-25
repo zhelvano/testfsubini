@@ -28245,6 +28245,33 @@
       "lastActive": {
         "$date": "2025-11-25T14:11:08.478Z"
       }
+    },
+    {
+      "userId": 8349876205,
+      "username": "dexterch",
+      "firstName": "! botakGlóry(4)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:14:08.931Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:14:08.931Z"
+      }
+    },
+    {
+      "userId": 7178548869,
+      "firstName": "ALFRED",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:14:23.623Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:14:23.623Z"
+      }
     }
   ],
   "groups": [
