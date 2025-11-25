@@ -28861,6 +28861,20 @@
       "lastActive": {
         "$date": "2025-11-25T15:13:40.600Z"
       }
+    },
+    {
+      "userId": 7178533957,
+      "username": "theebeast254",
+      "firstName": "𝘼𝙉𝙉𝘼𝘽𝙀𝙇𝙇𝙀",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:14:10.494Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:14:10.494Z"
+      }
     }
   ],
   "groups": [
