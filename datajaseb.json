@@ -27511,6 +27511,21 @@
       "lastActive": {
         "$date": "2025-11-25T13:07:00.642Z"
       }
+    },
+    {
+      "userId": 8396436950,
+      "username": "Baguss090",
+      "firstName": "Bagus",
+      "lastName": "Hermawan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:08:52.940Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:08:52.940Z"
+      }
     }
   ],
   "groups": [
