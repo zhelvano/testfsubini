@@ -24614,6 +24614,20 @@
       "lastActive": {
         "$date": "2025-11-25T06:43:39.734Z"
       }
+    },
+    {
+      "userId": 8162859068,
+      "firstName": "فروش شماره های مجازی واتساپ",
+      "lastName": "ووو",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:46:54.442Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:46:54.442Z"
+      }
     }
   ],
   "groups": [
