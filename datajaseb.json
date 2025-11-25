@@ -23235,6 +23235,19 @@
       "lastActive": {
         "$date": "2025-11-25T02:13:28.374Z"
       }
+    },
+    {
+      "userId": 8445402917,
+      "firstName": "ڪۘۘـۘۘ𖥡ﹻٰ۬ۛۛـمٛ نامٛ پࢪوِان",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T02:22:49.045Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T02:22:49.235Z"
+      }
     }
   ],
   "groups": [
