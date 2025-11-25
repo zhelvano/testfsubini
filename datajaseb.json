@@ -25933,6 +25933,21 @@
       "lastActive": {
         "$date": "2025-11-25T10:18:06.980Z"
       }
+    },
+    {
+      "userId": 6451112908,
+      "username": "Fulrikong",
+      "firstName": "𝐅𝐮𝐥𝐫𝐢 ˣ ᴹᵘˡᵗᵒ",
+      "lastName": "𝙎𝙚𝙡𝙡 𝙉𝙤𝙠𝙤𝙨",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:24:34.861Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:24:34.861Z"
+      }
     }
   ],
   "groups": [
