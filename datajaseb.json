@@ -29454,6 +29454,34 @@
       "lastActive": {
         "$date": "2025-11-25T16:12:19.417Z"
       }
+    },
+    {
+      "userId": 7994449059,
+      "firstName": "lif ba ta",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:12:34.436Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:12:34.436Z"
+      }
+    },
+    {
+      "userId": 8186212120,
+      "username": "hwkcxd",
+      "firstName": "نصروت الله",
+      "lastName": "نصرت",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:12:35.726Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:12:35.726Z"
+      }
     }
   ],
   "groups": [
