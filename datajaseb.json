@@ -26566,6 +26566,20 @@
       "lastActive": {
         "$date": "2025-11-25T12:12:42.531Z"
       }
+    },
+    {
+      "userId": 8311564890,
+      "username": "zixxnewera7",
+      "firstName": "Zixxxrorrrrr💤",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:13:43.414Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:13:43.414Z"
+      }
     }
   ],
   "groups": [
