@@ -23120,6 +23120,21 @@
       "lastActive": {
         "$date": "2025-11-25T01:48:45.878Z"
       }
+    },
+    {
+      "userId": 5438410934,
+      "username": "belalBR205",
+      "firstName": "MD.Belal",
+      "lastName": "Hossen",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T01:57:02.880Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T01:57:02.880Z"
+      }
     }
   ],
   "groups": [
