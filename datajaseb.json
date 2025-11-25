@@ -25073,6 +25073,20 @@
       "lastActive": {
         "$date": "2025-11-25T07:50:00.216Z"
       }
+    },
+    {
+      "userId": 8163686335,
+      "firstName": "rizky",
+      "lastName": "ky",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T08:01:56.030Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T08:01:56.034Z"
+      }
     }
   ],
   "groups": [
