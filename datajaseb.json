@@ -29187,6 +29187,20 @@
       "lastActive": {
         "$date": "2025-11-25T15:46:17.484Z"
       }
+    },
+    {
+      "userId": 7153702990,
+      "username": "SULTAN_HAECK002",
+      "firstName": "ࢪیس سـ̮ـــ͢ـ̸̐ـــــݪطان حڪ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:47:39.073Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:47:39.073Z"
+      }
     }
   ],
   "groups": [
