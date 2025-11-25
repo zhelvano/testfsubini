@@ -31551,6 +31551,20 @@
       "lastActive": {
         "$date": "2025-11-25T22:33:42.845Z"
       }
+    },
+    {
+      "userId": 8221409582,
+      "username": "Ayanakoji_09",
+      "firstName": "𝕬𝖞𝖆𝖓𝖆𝖐ø𝖏𝖎 🎭",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T22:35:13.009Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T22:35:13.010Z"
+      }
     }
   ],
   "groups": [
