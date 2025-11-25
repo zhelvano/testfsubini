@@ -25768,6 +25768,20 @@
       "lastActive": {
         "$date": "2025-11-25T09:56:12.813Z"
       }
+    },
+    {
+      "userId": 8443924165,
+      "username": "nflzaa12",
+      "firstName": "tulatulit🥵",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:57:27.889Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:57:27.889Z"
+      }
     }
   ],
   "groups": [
