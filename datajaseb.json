@@ -32007,6 +32007,19 @@
       "lastActive": {
         "$date": "2025-11-25T23:56:15.482Z"
       }
+    },
+    {
+      "userId": 8291735152,
+      "firstName": "O",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:59:18.499Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:59:18.499Z"
+      }
     }
   ],
   "groups": [
