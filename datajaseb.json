@@ -25155,6 +25155,20 @@
       "lastActive": {
         "$date": "2025-11-25T08:13:54.411Z"
       }
+    },
+    {
+      "userId": 7636532332,
+      "username": "hanzbengkelwhatsapp",
+      "firstName": "— V3 HANZ 7STAR [ UNBAND PRIVAT]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T08:20:34.575Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T08:20:34.575Z"
+      }
     }
   ],
   "groups": [
