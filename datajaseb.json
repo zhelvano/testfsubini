@@ -30881,6 +30881,34 @@
       "lastActive": {
         "$date": "2025-11-25T20:22:38.896Z"
       }
+    },
+    {
+      "userId": 6327240695,
+      "username": "rannsajaa",
+      "firstName": "rannsaja",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:24:31.799Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:24:31.799Z"
+      }
+    },
+    {
+      "userId": 8389580431,
+      "username": "SatrazShop",
+      "firstName": "𝐒𝐚𝐭𝐫𝐚𝐳",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:24:34.059Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:24:34.121Z"
+      }
     }
   ],
   "groups": [
