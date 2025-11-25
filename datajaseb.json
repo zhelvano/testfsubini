@@ -30826,6 +30826,20 @@
       "lastActive": {
         "$date": "2025-11-25T20:08:41.528Z"
       }
+    },
+    {
+      "userId": 880776912,
+      "username": "milzamz",
+      "firstName": "Milzam",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:15:21.080Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:15:21.085Z"
+      }
     }
   ],
   "groups": [
