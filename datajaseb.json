@@ -31779,6 +31779,20 @@
       "lastActive": {
         "$date": "2025-11-25T23:21:19.666Z"
       }
+    },
+    {
+      "userId": 6185808519,
+      "username": "montanaaa_19",
+      "firstName": "🇩🇴⃤҉ M O N T A N A⏤͟͟͞͞🇪🇸",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:23:01.351Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:23:01.351Z"
+      }
     }
   ],
   "groups": [
