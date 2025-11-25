@@ -24600,6 +24600,20 @@
       "lastActive": {
         "$date": "2025-11-25T06:43:05.959Z"
       }
+    },
+    {
+      "userId": 8539752201,
+      "firstName": "Adji",
+      "lastName": "Pel",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:43:39.734Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:43:39.734Z"
+      }
     }
   ],
   "groups": [
