@@ -30701,6 +30701,20 @@
       "lastActive": {
         "$date": "2025-11-25T19:29:20.025Z"
       }
+    },
+    {
+      "userId": 6031182786,
+      "firstName": "Won",
+      "lastName": "Win",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T19:35:27.115Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T19:35:30.088Z"
+      }
     }
   ],
   "groups": [
