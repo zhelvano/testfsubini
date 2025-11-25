@@ -27738,6 +27738,19 @@
       "lastActive": {
         "$date": "2025-11-25T13:22:15.394Z"
       }
+    },
+    {
+      "userId": 7577860959,
+      "firstName": "Manboy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:23:08.003Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:23:08.003Z"
+      }
     }
   ],
   "groups": [
