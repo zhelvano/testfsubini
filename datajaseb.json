@@ -24923,7 +24923,7 @@
         "$date": "2025-11-25T07:36:51.199Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T07:39:21.725Z"
+        "$date": "2025-11-25T07:39:56.951Z"
       },
       "premiumSince": {
         "$date": "2025-11-25T07:38:23.586Z"
@@ -24975,6 +24975,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T07:39:16.104Z"
+      }
+    },
+    {
+      "userId": 8038053114,
+      "username": "Youssef_Albrans",
+      "firstName": "𝐘𝐨𝐮𝐬𝐬𝐞𝐟 𝐀𝐥𝐛𝐫𝐚𝐧𝐬",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:39:58.361Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:39:58.361Z"
       }
     }
   ],
