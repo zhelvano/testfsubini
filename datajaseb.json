@@ -22982,6 +22982,21 @@
       "lastActive": {
         "$date": "2025-11-25T01:08:09.596Z"
       }
+    },
+    {
+      "userId": 7957879710,
+      "username": "KingUpdate00",
+      "firstName": "King",
+      "lastName": "Update",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T01:15:00.216Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T01:15:00.218Z"
+      }
     }
   ],
   "groups": [
