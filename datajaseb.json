@@ -24370,6 +24370,20 @@
       "lastActive": {
         "$date": "2025-11-25T06:07:59.101Z"
       }
+    },
+    {
+      "userId": 6906672344,
+      "firstName": "Melvin",
+      "lastName": "Albian",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:09:54.738Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:09:54.742Z"
+      }
     }
   ],
   "groups": [
