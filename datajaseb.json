@@ -23656,6 +23656,20 @@
       "lastActive": {
         "$date": "2025-11-25T03:37:23.301Z"
       }
+    },
+    {
+      "userId": 8382700027,
+      "username": "hh5115111hh",
+      "firstName": "ᯓ 𓆩 𝙖𝙗𝙪-𝙣𝙖𝙬𝙖𝙨𓅓˼ 𓆪 .",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T03:47:09.864Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T03:47:09.864Z"
+      }
     }
   ],
   "groups": [
