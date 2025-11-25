@@ -26224,7 +26224,7 @@
         "$date": "2025-11-25T10:55:41.328Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T10:56:37.878Z"
+        "$date": "2025-11-25T11:36:00.425Z"
       }
     },
     {
@@ -26367,6 +26367,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T11:29:31.311Z"
+      }
+    },
+    {
+      "userId": 8230598298,
+      "username": "rexszx",
+      "firstName": "xxxtentacion`",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T11:35:57.491Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T11:35:57.494Z"
       }
     }
   ],
