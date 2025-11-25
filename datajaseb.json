@@ -30265,6 +30265,33 @@
       "lastActive": {
         "$date": "2025-11-25T18:00:36.640Z"
       }
+    },
+    {
+      "userId": 1553078768,
+      "firstName": "Ricardo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:01:10.626Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:01:10.626Z"
+      }
+    },
+    {
+      "userId": 7210534165,
+      "username": "ddaa8",
+      "firstName": "[ غـــوڪو ]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:01:13.457Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:01:13.457Z"
+      }
     }
   ],
   "groups": [
