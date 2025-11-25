@@ -29201,6 +29201,33 @@
       "lastActive": {
         "$date": "2025-11-25T15:47:39.073Z"
       }
+    },
+    {
+      "userId": 7776538530,
+      "firstName": "♯̶:حِـسافِهَ اݪہ عٰـڪَـيُـډيُ𝟓𝟎𝟓|🚸",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:48:48.473Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:48:48.473Z"
+      }
+    },
+    {
+      "userId": 7110997673,
+      "username": "Mrperfectvip617",
+      "firstName": "Mrperfect.Vip",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:49:02.284Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:49:02.284Z"
+      }
     }
   ],
   "groups": [
