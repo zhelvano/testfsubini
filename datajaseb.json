@@ -22812,6 +22812,20 @@
       "lastActive": {
         "$date": "2025-11-25T00:03:30.329Z"
       }
+    },
+    {
+      "userId": 8026554586,
+      "username": "Sjydznkq",
+      "firstName": "Hothufh",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T00:04:49.518Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T00:04:49.518Z"
+      }
     }
   ],
   "groups": [
