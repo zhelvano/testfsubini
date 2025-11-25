@@ -24413,6 +24413,20 @@
       "lastActive": {
         "$date": "2025-11-25T06:13:54.082Z"
       }
+    },
+    {
+      "userId": 7495654088,
+      "username": "Thorniedorr",
+      "firstName": "thorniee",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:17:56.529Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:17:56.529Z"
+      }
     }
   ],
   "groups": [
