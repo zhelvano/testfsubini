@@ -25533,6 +25533,19 @@
       "lastActive": {
         "$date": "2025-11-25T09:09:40.013Z"
       }
+    },
+    {
+      "userId": 7478337152,
+      "firstName": "𓄂≛⃝𝗞𝗶𝗻𝗴 𝗞𝗵𝗮𝗻⃝🦅",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:14:11.704Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:14:11.704Z"
+      }
     }
   ],
   "groups": [
