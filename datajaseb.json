@@ -16781,7 +16781,7 @@
         "$date": "2025-11-24T05:55:08.727Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T22:13:59.252Z"
+        "$date": "2025-11-25T01:07:11.616Z"
       }
     },
     {
@@ -22951,6 +22951,21 @@
       },
       "lastActive": {
         "$date": "2025-11-25T01:02:37.868Z"
+      }
+    },
+    {
+      "userId": 7667561836,
+      "username": "omor3137",
+      "firstName": "Omor",
+      "lastName": "Faruk",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T01:07:25.258Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T01:07:25.258Z"
       }
     }
   ],
