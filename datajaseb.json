@@ -30967,6 +30967,21 @@
       "lastActive": {
         "$date": "2025-11-25T20:36:53.118Z"
       }
+    },
+    {
+      "userId": 5639353535,
+      "username": "JaveliNHridoy",
+      "firstName": "Javelin +",
+      "lastName": "হৃদয়ツ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:37:20.939Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:37:20.939Z"
+      }
     }
   ],
   "groups": [
