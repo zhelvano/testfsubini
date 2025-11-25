@@ -31707,6 +31707,21 @@
       "lastActive": {
         "$date": "2025-11-25T23:13:44.360Z"
       }
+    },
+    {
+      "userId": 8178897736,
+      "username": "HaloSisa",
+      "firstName": "Koko",
+      "lastName": "Dias",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:17:13.759Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:17:13.759Z"
+      }
     }
   ],
   "groups": [
