@@ -30840,6 +30840,20 @@
       "lastActive": {
         "$date": "2025-11-25T20:15:21.085Z"
       }
+    },
+    {
+      "userId": 6342876516,
+      "username": "dims1209",
+      "firstName": "zero",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T20:19:09.020Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T20:19:09.022Z"
+      }
     }
   ],
   "groups": [
