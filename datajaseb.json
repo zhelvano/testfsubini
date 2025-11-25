@@ -25782,6 +25782,21 @@
       "lastActive": {
         "$date": "2025-11-25T09:57:27.889Z"
       }
+    },
+    {
+      "userId": 6689938251,
+      "username": "omarfaruk149",
+      "firstName": "Omar",
+      "lastName": "Faruk",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:58:02.347Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:58:02.347Z"
+      }
     }
   ],
   "groups": [
