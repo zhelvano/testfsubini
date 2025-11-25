@@ -28568,6 +28568,20 @@
       "lastActive": {
         "$date": "2025-11-25T14:49:21.102Z"
       }
+    },
+    {
+      "userId": 6047852022,
+      "username": "dpaaappa",
+      "firstName": "paaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:52:36.484Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:52:36.493Z"
+      }
     }
   ],
   "groups": [
