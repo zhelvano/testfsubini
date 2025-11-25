@@ -27640,6 +27640,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:17:44.138Z"
       }
+    },
+    {
+      "userId": 1999860807,
+      "username": "imbussy",
+      "firstName": "Req",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:18:17.340Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:18:17.340Z"
+      }
     }
   ],
   "groups": [
