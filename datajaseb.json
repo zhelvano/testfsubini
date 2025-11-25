@@ -29875,6 +29875,19 @@
       "lastActive": {
         "$date": "2025-11-25T16:59:29.766Z"
       }
+    },
+    {
+      "userId": 8114161742,
+      "firstName": "Haseeb Hassan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:01:35.146Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:01:35.146Z"
+      }
     }
   ],
   "groups": [
