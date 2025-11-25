@@ -25059,6 +25059,20 @@
       "lastActive": {
         "$date": "2025-11-25T07:48:17.227Z"
       }
+    },
+    {
+      "userId": 8404416381,
+      "username": "hamxyzz_2667",
+      "firstName": "𝗛𝗮𝗺𝘅𝘆𝘇𝘇 [ ғᴀsᴛ ʀᴇs ]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:50:00.216Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:50:00.216Z"
+      }
     }
   ],
   "groups": [
