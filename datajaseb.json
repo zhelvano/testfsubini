@@ -30574,6 +30574,20 @@
       "lastActive": {
         "$date": "2025-11-25T18:50:11.896Z"
       }
+    },
+    {
+      "userId": 7808538850,
+      "username": "SHADIN11212",
+      "firstName": "ᴬᵁᴿᴬ°᭄Dʀ ꜱʜᴀᴅɪɴ࿐........😴😴😴",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:52:09.264Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:52:09.264Z"
+      }
     }
   ],
   "groups": [
