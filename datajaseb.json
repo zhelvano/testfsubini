@@ -29915,6 +29915,20 @@
       "lastActive": {
         "$date": "2025-11-25T17:07:28.459Z"
       }
+    },
+    {
+      "userId": 6751566251,
+      "username": "MrYuzuuu",
+      "firstName": "YUZU COME BACK!!!",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T17:09:29.985Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T17:09:29.986Z"
+      }
     }
   ],
   "groups": [
