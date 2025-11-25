@@ -29624,6 +29624,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:29:56.530Z"
       }
+    },
+    {
+      "userId": 5896172586,
+      "firstName": "Teguh",
+      "lastName": "Sidik",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:30:22.446Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:30:22.446Z"
+      }
     }
   ],
   "groups": [
