@@ -30418,6 +30418,20 @@
       "lastActive": {
         "$date": "2025-11-25T18:17:33.755Z"
       }
+    },
+    {
+      "userId": 6755344760,
+      "username": "Ptmalboro",
+      "firstName": "ボシナ ᅠˈˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝ˈ⃝",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:17:40.775Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:17:40.775Z"
+      }
     }
   ],
   "groups": [
