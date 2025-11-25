@@ -29383,6 +29383,20 @@
       "lastActive": {
         "$date": "2025-11-25T16:04:22.795Z"
       }
+    },
+    {
+      "userId": 6571102192,
+      "username": "stoknoktelwiki",
+      "firstName": "X6 🇮🇩",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:06:32.344Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:06:32.344Z"
+      }
     }
   ],
   "groups": [
