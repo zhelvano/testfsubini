@@ -25473,7 +25473,7 @@
         "$date": "2025-11-25T09:05:23.652Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T09:52:33.555Z"
+        "$date": "2025-11-25T10:01:04.496Z"
       }
     },
     {
@@ -25824,6 +25824,19 @@
       },
       "lastActive": {
         "$date": "2025-11-25T10:00:25.712Z"
+      }
+    },
+    {
+      "userId": 8201585251,
+      "firstName": "gunz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:01:11.102Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:01:11.102Z"
       }
     }
   ],
