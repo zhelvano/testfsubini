@@ -26538,6 +26538,20 @@
       "lastActive": {
         "$date": "2025-11-25T12:08:14.823Z"
       }
+    },
+    {
+      "userId": 7210517032,
+      "username": "Dark_x_Sigma",
+      "firstName": "𓊈𑲭𑲭𑲭𑲭𑲭𑲭𑲭༒𝕽𝖔𝖞𝖆𝖑 𝕾𝖎𝖌𝖒𝖆𑲭𑲭𑲭𑲭𑲭𑲭𑲭𓊉",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:08:52.456Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:08:52.456Z"
+      }
     }
   ],
   "groups": [
