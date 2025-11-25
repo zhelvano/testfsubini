@@ -30630,6 +30630,20 @@
       "lastActive": {
         "$date": "2025-11-25T19:04:43.355Z"
       }
+    },
+    {
+      "userId": 7568960672,
+      "username": "Huhahahilii",
+      "firstName": "团购和团购🎄🎄 (allnokoss)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T19:09:17.608Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T19:09:17.613Z"
+      }
     }
   ],
   "groups": [
