@@ -27119,6 +27119,20 @@
       "lastActive": {
         "$date": "2025-11-25T12:42:07.128Z"
       }
+    },
+    {
+      "userId": 6852019087,
+      "username": "Shakil221020",
+      "firstName": "Shakil",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:42:44.479Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:42:44.479Z"
+      }
     }
   ],
   "groups": [
