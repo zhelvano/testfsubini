@@ -25948,6 +25948,19 @@
       "lastActive": {
         "$date": "2025-11-25T10:24:34.861Z"
       }
+    },
+    {
+      "userId": 7057477042,
+      "firstName": "VINSS",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:27:14.291Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:27:14.291Z"
+      }
     }
   ],
   "groups": [
