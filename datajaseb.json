@@ -31326,6 +31326,20 @@
       "lastActive": {
         "$date": "2025-11-25T21:45:17.107Z"
       }
+    },
+    {
+      "userId": 7085028866,
+      "username": "someonekisses",
+      "firstName": "ᝰ⛥𝄟⃝𝗠𝗥.𝗛𝗜𝗣𝗛𝗢Х̶ ̀͊̍̈́͑̓̈́̃̆́",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T21:53:48.289Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T21:53:48.289Z"
+      }
     }
   ],
   "groups": [
