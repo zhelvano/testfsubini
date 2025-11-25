@@ -14583,7 +14583,7 @@
         "$date": "2025-11-23T19:47:41.269Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T19:47:41.270Z"
+        "$date": "2025-11-25T11:09:28.006Z"
       }
     },
     {
@@ -26295,6 +26295,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T11:08:40.607Z"
+      }
+    },
+    {
+      "userId": 7582613741,
+      "username": "LT6660000",
+      "firstName": "文件老板",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T11:09:15.461Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T11:09:15.461Z"
       }
     }
   ],
