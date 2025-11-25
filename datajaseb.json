@@ -25209,6 +25209,21 @@
       "lastActive": {
         "$date": "2025-11-25T08:22:38.217Z"
       }
+    },
+    {
+      "userId": 7861671236,
+      "username": "ABCDEH_x",
+      "firstName": "Bad",
+      "lastName": "Luck",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T08:24:46.210Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T08:24:46.211Z"
+      }
     }
   ],
   "groups": [
