@@ -28693,6 +28693,47 @@
       "lastActive": {
         "$date": "2025-11-25T15:00:26.297Z"
       }
+    },
+    {
+      "userId": 7426256503,
+      "firstName": "JRL",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:00:39.613Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:00:39.613Z"
+      }
+    },
+    {
+      "userId": 7109846377,
+      "firstName": "Hasnain",
+      "lastName": "Khan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:00:55.110Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:00:55.110Z"
+      }
+    },
+    {
+      "userId": 7054029927,
+      "firstName": "افغان",
+      "lastName": "لیوانی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:01:01.337Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:01:01.337Z"
+      }
     }
   ],
   "groups": [
