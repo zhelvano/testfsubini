@@ -25068,7 +25068,7 @@
         "$date": "2025-11-25T07:50:00.216Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T10:01:52.100Z"
+        "$date": "2025-11-25T10:39:59.441Z"
       }
     },
     {
@@ -26031,6 +26031,34 @@
       },
       "lastActive": {
         "$date": "2025-11-25T10:38:09.635Z"
+      }
+    },
+    {
+      "userId": 6136344008,
+      "username": "RafasanRahi07",
+      "firstName": "Rafsan Rahi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:38:52.498Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:38:52.498Z"
+      }
+    },
+    {
+      "userId": 8002663347,
+      "username": "Blok_Goblok",
+      "firstName": "B𝐎LIV GARIS K𝗘RA𝐒 ☠☠",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:39:44.315Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:39:44.315Z"
       }
     }
   ],
