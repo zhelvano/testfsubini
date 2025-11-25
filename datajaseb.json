@@ -25753,6 +25753,21 @@
       "lastActive": {
         "$date": "2025-11-25T09:55:16.284Z"
       }
+    },
+    {
+      "userId": 274119346,
+      "username": "bobododo80",
+      "firstName": "ma",
+      "lastName": "man",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:56:12.813Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:56:12.813Z"
+      }
     }
   ],
   "groups": [
