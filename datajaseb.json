@@ -23781,6 +23781,20 @@
       "lastActive": {
         "$date": "2025-11-25T04:04:15.776Z"
       }
+    },
+    {
+      "userId": 8249571867,
+      "username": "ardhan444",
+      "firstName": "𝙰𝚁𝙳𝙷𝙰𝙽 𝟺𝟺𝟺",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:06:28.114Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:06:28.114Z"
+      }
     }
   ],
   "groups": [
