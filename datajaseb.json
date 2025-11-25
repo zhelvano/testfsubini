@@ -26354,6 +26354,20 @@
       "lastActive": {
         "$date": "2025-11-25T11:27:28.451Z"
       }
+    },
+    {
+      "userId": 8501259547,
+      "username": "F_ADRIN_84",
+      "firstName": "𓋭࣪ 𓈒𓆩𓊆𝐅𝐚𝐑𝐝𝐢𝐍ꦸོ𝐓𝐚𝐊𝐡𝐀𝐫𝐈𓊇𓆪𓈒 ࣪𓋭",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T11:29:31.311Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T11:29:31.311Z"
+      }
     }
   ],
   "groups": [
