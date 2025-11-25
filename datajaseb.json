@@ -23934,6 +23934,20 @@
       "lastActive": {
         "$date": "2025-11-25T04:31:47.706Z"
       }
+    },
+    {
+      "userId": 6414474860,
+      "username": "ark4bejir",
+      "firstName": "寻求清真食物的人",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:36:06.005Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:36:06.005Z"
+      }
     }
   ],
   "groups": [
