@@ -28538,7 +28538,7 @@
         "$date": "2025-11-25T14:47:28.434Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T14:48:59.449Z"
+        "$date": "2025-11-25T14:49:11.951Z"
       }
     },
     {
@@ -28553,6 +28553,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T14:48:12.627Z"
+      }
+    },
+    {
+      "userId": 8463080253,
+      "username": "mdapz24",
+      "firstName": "—⋆ 𝐥𝐞𝐨",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:49:21.102Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:49:21.102Z"
       }
     }
   ],
