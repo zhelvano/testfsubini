@@ -23057,7 +23057,7 @@
         "$date": "2025-11-25T01:34:24.991Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T01:39:04.330Z"
+        "$date": "2025-11-25T01:39:43.827Z"
       },
       "premiumSince": {
         "$date": "2025-11-25T01:37:22.444Z"
@@ -23078,6 +23078,20 @@
       },
       "lastActive": {
         "$date": "2025-11-25T01:35:03.295Z"
+      }
+    },
+    {
+      "userId": 5493241820,
+      "username": "vannzroxxy",
+      "firstName": "Vannz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T01:39:43.605Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T01:39:43.605Z"
       }
     }
   ],
