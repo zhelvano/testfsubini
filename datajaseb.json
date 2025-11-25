@@ -26240,6 +26240,20 @@
       "lastActive": {
         "$date": "2025-11-25T10:58:49.138Z"
       }
+    },
+    {
+      "userId": 6692856578,
+      "username": "ionhigh",
+      "firstName": "æskyhïghioń || sërënìtyy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T11:00:08.674Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T11:00:08.674Z"
+      }
     }
   ],
   "groups": [
