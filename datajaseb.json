@@ -25852,6 +25852,20 @@
       "lastActive": {
         "$date": "2025-11-25T10:03:54.156Z"
       }
+    },
+    {
+      "userId": 7981628135,
+      "firstName": "suka",
+      "lastName": "maju",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T10:05:16.443Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T10:05:16.443Z"
+      }
     }
   ],
   "groups": [
