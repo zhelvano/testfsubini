@@ -24062,6 +24062,21 @@
       "lastActive": {
         "$date": "2025-11-25T04:55:52.155Z"
       }
+    },
+    {
+      "userId": 5525329690,
+      "username": "PRIINCZXZ",
+      "firstName": "𝐏𝐫𝐢𝐢𝐧𝐜𝐞",
+      "lastName": "里夫",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:57:13.721Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:57:13.721Z"
+      }
     }
   ],
   "groups": [
