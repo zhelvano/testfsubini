@@ -24811,6 +24811,21 @@
       "lastActive": {
         "$date": "2025-11-25T07:18:06.161Z"
       }
+    },
+    {
+      "userId": 6681803302,
+      "username": "Devinhost",
+      "firstName": "𝐃𝐄𝐕𝐈𝐍",
+      "lastName": "` 𝐇𝐲𝐭𝐚𝐦 英",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:19:47.119Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:19:47.119Z"
+      }
     }
   ],
   "groups": [
