@@ -23106,6 +23106,20 @@
       "lastActive": {
         "$date": "2025-11-25T01:45:03.754Z"
       }
+    },
+    {
+      "userId": 6641219838,
+      "username": "cibul17",
+      "firstName": "-",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T01:48:45.878Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T01:48:45.878Z"
+      }
     }
   ],
   "groups": [
