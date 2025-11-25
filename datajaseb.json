@@ -29228,6 +29228,20 @@
       "lastActive": {
         "$date": "2025-11-25T15:49:02.284Z"
       }
+    },
+    {
+      "userId": 6926142943,
+      "username": "Orangsenang_12",
+      "firstName": "Pm",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:50:06.448Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:50:06.448Z"
+      }
     }
   ],
   "groups": [
