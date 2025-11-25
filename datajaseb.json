@@ -29242,6 +29242,20 @@
       "lastActive": {
         "$date": "2025-11-25T15:50:06.448Z"
       }
+    },
+    {
+      "userId": 8129763297,
+      "username": "Kantixy1",
+      "firstName": "Admin kemanjaan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:52:12.917Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:52:12.917Z"
+      }
     }
   ],
   "groups": [
