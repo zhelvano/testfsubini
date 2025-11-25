@@ -29790,6 +29790,21 @@
       "lastActive": {
         "$date": "2025-11-25T16:48:50.140Z"
       }
+    },
+    {
+      "userId": 7454831967,
+      "username": "onuav52",
+      "firstName": ".",
+      "lastName": ".",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T16:51:21.374Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T16:51:21.374Z"
+      }
     }
   ],
   "groups": [
