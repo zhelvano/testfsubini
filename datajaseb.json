@@ -24285,6 +24285,47 @@
       "lastActive": {
         "$date": "2025-11-25T06:01:10.413Z"
       }
+    },
+    {
+      "userId": 5895566352,
+      "firstName": "slayer",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:03:40.202Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:03:40.202Z"
+      }
+    },
+    {
+      "userId": 8464841641,
+      "firstName": "Adryll",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:03:41.629Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:03:41.629Z"
+      }
+    },
+    {
+      "userId": 7236105897,
+      "username": "MaulanaMv",
+      "firstName": "Maulana",
+      "lastName": "Mv",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T06:03:51.156Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T06:03:51.156Z"
+      }
     }
   ],
   "groups": [
