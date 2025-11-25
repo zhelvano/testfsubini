@@ -31243,6 +31243,20 @@
       "lastActive": {
         "$date": "2025-11-25T21:19:29.773Z"
       }
+    },
+    {
+      "userId": 7045520215,
+      "username": "W_V_M_A",
+      "firstName": "𝑩𝑶𝑹𝑻𝑮𝑯𝑨𝑳𝒀/ برتغــآلي",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T21:34:17.984Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T21:34:17.984Z"
+      }
     }
   ],
   "groups": [
