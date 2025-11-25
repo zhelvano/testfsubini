@@ -31179,6 +31179,20 @@
       "lastActive": {
         "$date": "2025-11-25T20:58:04.132Z"
       }
+    },
+    {
+      "userId": 7468633885,
+      "username": "TololYouu",
+      "firstName": "Gueee lo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T21:07:03.842Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T21:07:03.842Z"
+      }
     }
   ],
   "groups": [
