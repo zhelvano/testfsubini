@@ -28916,6 +28916,20 @@
       "lastActive": {
         "$date": "2025-11-25T15:20:55.649Z"
       }
+    },
+    {
+      "userId": 7394576031,
+      "username": "XTCidR4nd4you",
+      "firstName": "⏤͟͟͞͞𝑿𝑻𝑪𝑰𝑫 𓂀 </𝐑𝐚𝐧𝐝𝐞𝐫𝐬𝐬>",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:21:17.929Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:21:17.929Z"
+      }
     }
   ],
   "groups": [
