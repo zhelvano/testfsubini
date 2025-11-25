@@ -24162,6 +24162,20 @@
       "lastActive": {
         "$date": "2025-11-25T05:18:20.847Z"
       }
+    },
+    {
+      "userId": 7890791816,
+      "firstName": "Dailen",
+      "lastName": "Arteaga",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T05:21:47.525Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T05:21:47.525Z"
+      }
     }
   ],
   "groups": [
