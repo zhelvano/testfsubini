@@ -30404,6 +30404,20 @@
       "lastActive": {
         "$date": "2025-11-25T18:12:40.613Z"
       }
+    },
+    {
+      "userId": 8295999147,
+      "username": "Power_Usek",
+      "firstName": "بی کس",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T18:17:33.750Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T18:17:33.755Z"
+      }
     }
   ],
   "groups": [
