@@ -23559,6 +23559,20 @@
       "lastActive": {
         "$date": "2025-11-25T03:06:43.042Z"
       }
+    },
+    {
+      "userId": 8540442003,
+      "username": "firrg4cor",
+      "firstName": "𝗙𝗜𝗥𝗥",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T03:13:05.468Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T03:13:09.746Z"
+      }
     }
   ],
   "groups": [
