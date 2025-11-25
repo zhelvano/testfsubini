@@ -23545,6 +23545,20 @@
       "lastActive": {
         "$date": "2025-11-25T03:05:37.405Z"
       }
+    },
+    {
+      "userId": 7969727557,
+      "username": "pv_OMID_HACK",
+      "firstName": "━┃ 𝗢𝗠𝗜𝗗.𝗛𝗔𝗖𝗞↻𓆩•𝟑𝟏𝟎•𓆪 𓃮",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T03:06:43.042Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T03:06:43.042Z"
+      }
     }
   ],
   "groups": [
