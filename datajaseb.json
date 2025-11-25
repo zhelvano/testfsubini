@@ -31865,6 +31865,21 @@
       "lastActive": {
         "$date": "2025-11-25T23:31:59.281Z"
       }
+    },
+    {
+      "userId": 8479437469,
+      "username": "Ardinantxn",
+      "firstName": "Ardinant",
+      "lastName": "WS TG北",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:36:00.640Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:36:00.640Z"
+      }
     }
   ],
   "groups": [
