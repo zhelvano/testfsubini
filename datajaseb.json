@@ -23809,6 +23809,19 @@
       "lastActive": {
         "$date": "2025-11-25T04:09:57.892Z"
       }
+    },
+    {
+      "userId": 7390698653,
+      "firstName": "KEVIN - DAILEN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T04:10:40.995Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T04:10:40.995Z"
+      }
     }
   ],
   "groups": [
