@@ -22897,6 +22897,19 @@
       "lastActive": {
         "$date": "2025-11-25T00:35:16.299Z"
       }
+    },
+    {
+      "userId": 8406407749,
+      "firstName": "vanzxy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T00:36:17.980Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T00:36:17.980Z"
+      }
     }
   ],
   "groups": [
