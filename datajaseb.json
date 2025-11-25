@@ -31793,6 +31793,20 @@
       "lastActive": {
         "$date": "2025-11-25T23:23:01.351Z"
       }
+    },
+    {
+      "userId": 6484019142,
+      "username": "leeeeeeeeeeee28",
+      "firstName": "Leee",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T23:23:50.240Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T23:23:50.240Z"
+      }
     }
   ],
   "groups": [
