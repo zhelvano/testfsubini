@@ -24120,6 +24120,20 @@
       "lastActive": {
         "$date": "2025-11-25T05:04:28.150Z"
       }
+    },
+    {
+      "userId": 6680836037,
+      "username": "qwerty345667",
+      "firstName": "Beautiful",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T05:05:28.103Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T05:05:28.103Z"
+      }
     }
   ],
   "groups": [
