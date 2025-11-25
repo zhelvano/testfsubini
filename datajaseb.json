@@ -28217,6 +28217,20 @@
       "lastActive": {
         "$date": "2025-11-25T14:06:40.293Z"
       }
+    },
+    {
+      "userId": 7643976950,
+      "username": "Senasas21",
+      "firstName": "𝘈",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T14:10:51.295Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T14:10:51.295Z"
+      }
     }
   ],
   "groups": [
