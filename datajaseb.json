@@ -25003,6 +25003,34 @@
       "lastActive": {
         "$date": "2025-11-25T07:40:42.416Z"
       }
+    },
+    {
+      "userId": 8115359193,
+      "username": "AlSMS_Support",
+      "firstName": "AlSMS Support",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:42:09.348Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:42:09.348Z"
+      }
+    },
+    {
+      "userId": 8463471508,
+      "firstName": "Ce",
+      "lastName": "Yii",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T07:42:17.833Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T07:42:17.833Z"
+      }
     }
   ],
   "groups": [
