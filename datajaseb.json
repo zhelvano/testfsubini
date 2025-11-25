@@ -28762,6 +28762,20 @@
       "lastActive": {
         "$date": "2025-11-25T15:03:36.902Z"
       }
+    },
+    {
+      "userId": 8208918298,
+      "username": "DexDancok",
+      "firstName": "EzDex",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:10:48.672Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:10:48.672Z"
+      }
     }
   ],
   "groups": [
