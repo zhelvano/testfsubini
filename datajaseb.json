@@ -27033,6 +27033,20 @@
       "lastActive": {
         "$date": "2025-11-25T12:37:00.456Z"
       }
+    },
+    {
+      "userId": 8242874371,
+      "firstName": "بلند",
+      "lastName": "پرواز",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T12:37:28.167Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T12:37:28.167Z"
+      }
     }
   ],
   "groups": [
