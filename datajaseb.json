@@ -25697,6 +25697,20 @@
       "lastActive": {
         "$date": "2025-11-25T09:38:03.792Z"
       }
+    },
+    {
+      "userId": 8430712696,
+      "username": "taxxasixteen",
+      "firstName": "Taxă",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T09:38:48.070Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T09:38:48.070Z"
+      }
     }
   ],
   "groups": [
