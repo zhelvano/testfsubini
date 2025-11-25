@@ -22840,6 +22840,20 @@
       "lastActive": {
         "$date": "2025-11-25T00:07:52.114Z"
       }
+    },
+    {
+      "userId": 6197666352,
+      "username": "kbuqwe",
+      "firstName": "PUK",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T00:10:20.988Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T00:10:20.988Z"
+      }
     }
   ],
   "groups": [
