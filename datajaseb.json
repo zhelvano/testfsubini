@@ -28679,6 +28679,20 @@
       "lastActive": {
         "$date": "2025-11-25T14:59:27.119Z"
       }
+    },
+    {
+      "userId": 7540187774,
+      "username": "KTANJ1",
+      "firstName": "𝟮𝟱𝟭 𝙏𝘼𝙉𝙅𝙄𝙍𝙊 火龍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:00:26.297Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:00:26.297Z"
+      }
     }
   ],
   "groups": [
