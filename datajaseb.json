@@ -23572,6 +23572,34 @@
       "lastActive": {
         "$date": "2025-11-25T03:13:09.746Z"
       }
+    },
+    {
+      "userId": 8363654216,
+      "username": "i52_x",
+      "firstName": "*˹ مَنْ لَزِمَ ٱلصَّمْتَ نَجَا😔♥ ༄*",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T03:19:51.252Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T03:19:51.256Z"
+      }
+    },
+    {
+      "userId": 7691553953,
+      "username": "Dikn25",
+      "firstName": "Dkn1",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T03:20:11.778Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T03:20:11.778Z"
+      }
     }
   ],
   "groups": [
