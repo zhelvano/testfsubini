@@ -27908,6 +27908,20 @@
       "lastActive": {
         "$date": "2025-11-25T13:33:48.513Z"
       }
+    },
+    {
+      "userId": 5608008474,
+      "username": "rival_anggara001",
+      "firstName": "Ivall",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:36:52.300Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:36:52.303Z"
+      }
     }
   ],
   "groups": [
