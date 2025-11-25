@@ -27058,7 +27058,7 @@
         "$date": "2025-11-25T12:37:59.834Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T12:37:59.834Z"
+        "$date": "2025-11-25T15:11:52.007Z"
       }
     },
     {
@@ -28775,6 +28775,62 @@
       },
       "lastActive": {
         "$date": "2025-11-25T15:10:48.672Z"
+      }
+    },
+    {
+      "userId": 7537217634,
+      "username": "Zincwok",
+      "firstName": "MDR Ω ALLSTAR911™",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:11:33.513Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:11:33.513Z"
+      }
+    },
+    {
+      "userId": 7388897380,
+      "username": "Semangat_Buy",
+      "firstName": "💵 🅿️ÊJÜ🅰️🆖️ 💸 ®️'U🅿️ ℹ 🅰️ H 💵",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:11:45.912Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:11:45.912Z"
+      }
+    },
+    {
+      "userId": 7405500352,
+      "username": "cleons1",
+      "firstName": "cleon",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:11:55.961Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:11:55.961Z"
+      }
+    },
+    {
+      "userId": 6856336533,
+      "username": "Undal19",
+      "firstName": "𝙶𝚆𝟺 𝖗𝖚𝖑𝖟𝖟",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T15:11:59.943Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T15:11:59.943Z"
       }
     }
   ],
