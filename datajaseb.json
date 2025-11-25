@@ -30713,7 +30713,21 @@
         "$date": "2025-11-25T19:35:27.115Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T19:39:03.814Z"
+        "$date": "2025-11-25T19:39:15.454Z"
+      }
+    },
+    {
+      "userId": 7719689944,
+      "username": "BALO_ALHAKEM",
+      "firstName": "بالو الحاكم",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T19:39:25.096Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T19:39:25.096Z"
       }
     }
   ],
