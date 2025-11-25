@@ -8097,7 +8097,6 @@
       "userId": 8143063660,
       "username": "Ravencrast_Randy",
       "firstName": "RAVENCRAST RANDY",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -8105,7 +8104,7 @@
         "$date": "2025-11-23T06:37:43.385000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T06:37:43.385000Z"
+        "$date": "2025-11-25T10:23:06.311Z"
       }
     },
     {
