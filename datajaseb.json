@@ -28120,6 +28120,21 @@
       "lastActive": {
         "$date": "2025-11-25T13:53:25.401Z"
       }
+    },
+    {
+      "userId": 7765250818,
+      "username": "Knowx1",
+      "firstName": "NoT",
+      "lastName": "BaN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T13:55:27.130Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T13:55:27.130Z"
+      }
     }
   ],
   "groups": [
