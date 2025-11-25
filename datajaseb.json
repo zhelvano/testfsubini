@@ -30756,6 +30756,19 @@
       "lastActive": {
         "$date": "2025-11-25T19:47:02.707Z"
       }
+    },
+    {
+      "userId": 8461229126,
+      "firstName": "Rezaippo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-25T19:48:09.245Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-25T19:48:33.580Z"
+      }
     }
   ],
   "groups": [
