@@ -35312,6 +35312,20 @@
       "lastActive": {
         "$date": "2025-11-26T13:48:27.818Z"
       }
+    },
+    {
+      "userId": 8454684881,
+      "username": "texcok",
+      "firstName": "C2k",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:49:22.944Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:49:22.944Z"
+      }
     }
   ],
   "groups": [
