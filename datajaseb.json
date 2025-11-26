@@ -33277,6 +33277,35 @@
       "lastActive": {
         "$date": "2025-11-26T06:14:33.582Z"
       }
+    },
+    {
+      "userId": 7830331944,
+      "username": "Laura22212",
+      "firstName": "Laura",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T06:15:34.341Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T06:15:34.341Z"
+      }
+    },
+    {
+      "userId": 6757658629,
+      "username": "abumariyu",
+      "firstName": "Abubakar",
+      "lastName": "Umar Aliyu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T06:15:45.608Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T06:15:45.608Z"
+      }
     }
   ],
   "groups": [
