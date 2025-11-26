@@ -32670,6 +32670,21 @@
       "lastActive": {
         "$date": "2025-11-26T03:55:50.943Z"
       }
+    },
+    {
+      "userId": 7565766458,
+      "username": "Yasirffq",
+      "firstName": "Yasir",
+      "lastName": "A",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T03:56:44.580Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T03:56:44.580Z"
+      }
     }
   ],
   "groups": [
