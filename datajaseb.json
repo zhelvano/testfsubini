@@ -36734,6 +36734,20 @@
       "lastActive": {
         "$date": "2025-11-26T23:17:18.610Z"
       }
+    },
+    {
+      "userId": 7420976650,
+      "username": "Rarasnss78",
+      "firstName": "WSG™Serigala🐺",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T23:51:45.461Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T23:51:45.461Z"
+      }
     }
   ],
   "groups": [
