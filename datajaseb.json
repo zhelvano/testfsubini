@@ -35718,6 +35718,20 @@
       "lastActive": {
         "$date": "2025-11-26T15:13:00.785Z"
       }
+    },
+    {
+      "userId": 8002045405,
+      "username": "Panzzxnotdev",
+      "firstName": "PANZZX ⵢ METEORㄞ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T15:14:26.871Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T15:14:43.390Z"
+      }
     }
   ],
   "groups": [
