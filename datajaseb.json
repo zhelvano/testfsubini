@@ -32316,6 +32316,20 @@
       "lastActive": {
         "$date": "2025-11-26T01:34:38.839Z"
       }
+    },
+    {
+      "userId": 6756565652,
+      "username": "Devilmd1",
+      "firstName": "Devil😈👹",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T01:47:27.990Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T01:47:27.995Z"
+      }
     }
   ],
   "groups": [
