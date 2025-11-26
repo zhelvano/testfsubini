@@ -35691,6 +35691,20 @@
       "lastActive": {
         "$date": "2025-11-26T15:02:25.919Z"
       }
+    },
+    {
+      "userId": 8277140446,
+      "username": "leonzzsat",
+      "firstName": "LEONZZ麦克🇮🇩",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T15:06:44.745Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T15:06:44.745Z"
+      }
     }
   ],
   "groups": [
