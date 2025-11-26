@@ -35607,6 +35607,20 @@
       "lastActive": {
         "$date": "2025-11-26T14:40:04.897Z"
       }
+    },
+    {
+      "userId": 6517687785,
+      "username": "Drrhyu3",
+      "firstName": "Drrhyu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T14:41:07.898Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T14:41:07.898Z"
+      }
     }
   ],
   "groups": [
