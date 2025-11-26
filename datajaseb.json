@@ -26462,7 +26462,7 @@
     },
     {
       "userId": 8363092657,
-      "firstName": "Vall",
+      "firstName": "Rafael",
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -26470,8 +26470,9 @@
         "$date": "2025-11-25T11:59:28.404Z"
       },
       "lastActive": {
-        "$date": "2025-11-26T01:59:41.419Z"
-      }
+        "$date": "2025-11-26T23:10:56.086Z"
+      },
+      "username": "Yesus_tidakberubah"
     },
     {
       "userId": 7372700663,
