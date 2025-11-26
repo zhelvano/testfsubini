@@ -35173,6 +35173,20 @@
       "lastActive": {
         "$date": "2025-11-26T13:15:50.645Z"
       }
+    },
+    {
+      "userId": 8481095265,
+      "username": "veenajr1",
+      "firstName": "⏤͟͟͞͞𝘾𝙑𝙏 || veena",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:18:30.249Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:18:30.249Z"
+      }
     }
   ],
   "groups": [
