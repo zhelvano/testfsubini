@@ -32104,6 +32104,20 @@
       "lastActive": {
         "$date": "2025-11-26T00:19:44.638Z"
       }
+    },
+    {
+      "userId": 8099855128,
+      "username": "SHTFARAHI515",
+      "firstName": "شات فراهی جانان",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T00:35:48.549Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T00:35:48.555Z"
+      }
     }
   ],
   "groups": [
