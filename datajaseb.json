@@ -36676,6 +36676,35 @@
       "lastActive": {
         "$date": "2025-11-26T23:01:06.853Z"
       }
+    },
+    {
+      "userId": 8216913455,
+      "username": "rexxnotdevvv",
+      "firstName": "rexz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T23:02:43.209Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T23:02:43.209Z"
+      }
+    },
+    {
+      "userId": 8273115141,
+      "username": "batoksss",
+      "firstName": "Balsky犬",
+      "lastName": "💤",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T23:02:46.278Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T23:02:46.278Z"
+      }
     }
   ],
   "groups": [
