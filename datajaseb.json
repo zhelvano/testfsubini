@@ -35987,6 +35987,20 @@
       "lastActive": {
         "$date": "2025-11-26T17:20:23.723Z"
       }
+    },
+    {
+      "userId": 8218985743,
+      "username": "mv_h3d",
+      "firstName": "M '",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T17:24:57.244Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T17:24:57.244Z"
+      }
     }
   ],
   "groups": [
