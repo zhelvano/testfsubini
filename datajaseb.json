@@ -25899,7 +25899,7 @@
         "$date": "2025-11-25T10:16:17.781Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T15:52:42.945Z"
+        "$date": "2025-11-26T03:40:30.370Z"
       }
     },
     {
@@ -32628,6 +32628,19 @@
       },
       "lastActive": {
         "$date": "2025-11-26T03:39:03.640Z"
+      }
+    },
+    {
+      "userId": 7938782223,
+      "firstName": "Valen",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T03:40:31.899Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T03:40:31.899Z"
       }
     }
   ],
