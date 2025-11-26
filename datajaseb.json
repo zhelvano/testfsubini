@@ -22140,7 +22140,7 @@
         "$date": "2025-11-24T20:54:58.373Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T20:54:58.379Z"
+        "$date": "2025-11-26T14:33:45.521Z"
       }
     },
     {
@@ -35564,6 +35564,21 @@
       },
       "lastActive": {
         "$date": "2025-11-26T14:29:31.754Z"
+      }
+    },
+    {
+      "userId": 7107773069,
+      "username": "DwiiXz",
+      "firstName": "Dwii",
+      "lastName": "X",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T14:33:44.471Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T14:33:46.904Z"
       }
     }
   ],
