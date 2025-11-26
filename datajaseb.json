@@ -36748,6 +36748,20 @@
       "lastActive": {
         "$date": "2025-11-26T23:51:45.461Z"
       }
+    },
+    {
+      "userId": 8428965643,
+      "username": "Chikaalove",
+      "firstName": "𝘾𝙝𝙞𝙠𝙖 𝙇𝙤𝙫𝙚 疯狗",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T23:55:33.749Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T23:55:33.749Z"
+      }
     }
   ],
   "groups": [
