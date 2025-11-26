@@ -32600,6 +32600,20 @@
       "lastActive": {
         "$date": "2025-11-26T03:34:33.379Z"
       }
+    },
+    {
+      "userId": 8157273283,
+      "username": "HOLLOWGABBY",
+      "firstName": "𓄂⁶⁶⁷𝗚𝗔̃ßß✘",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T03:37:59.151Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T03:37:59.151Z"
+      }
     }
   ],
   "groups": [
