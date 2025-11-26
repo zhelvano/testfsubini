@@ -32798,6 +32798,19 @@
       "lastActive": {
         "$date": "2025-11-26T04:28:49.758Z"
       }
+    },
+    {
+      "userId": 7590059057,
+      "firstName": "Komal",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T04:31:55.225Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T04:31:55.232Z"
+      }
     }
   ],
   "groups": [
