@@ -33417,6 +33417,20 @@
       "lastActive": {
         "$date": "2025-11-26T06:40:15.438Z"
       }
+    },
+    {
+      "userId": 7766424657,
+      "username": "aliyeww_211",
+      "firstName": "Aliyeww",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T06:40:17.951Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T06:40:17.951Z"
+      }
     }
   ],
   "groups": [
