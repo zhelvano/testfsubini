@@ -33544,6 +33544,34 @@
       "lastActive": {
         "$date": "2025-11-26T07:05:41.730Z"
       }
+    },
+    {
+      "userId": 7198920811,
+      "username": "dadang06",
+      "firstName": "D",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T07:07:52.565Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T07:07:52.565Z"
+      }
+    },
+    {
+      "userId": 8164012226,
+      "username": "PALZZLOTUS",
+      "firstName": "PALZZZ LOTUS",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T07:07:52.762Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T07:08:04.563Z"
+      }
     }
   ],
   "groups": [
