@@ -35903,6 +35903,20 @@
       "lastActive": {
         "$date": "2025-11-26T16:31:13.143Z"
       }
+    },
+    {
+      "userId": 8566971441,
+      "firstName": "Risky",
+      "lastName": "saputra",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T16:39:48.584Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T16:39:48.606Z"
+      }
     }
   ],
   "groups": [
