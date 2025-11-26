@@ -33162,6 +33162,20 @@
       "lastActive": {
         "$date": "2025-11-26T05:48:03.180Z"
       }
+    },
+    {
+      "userId": 5951113260,
+      "firstName": "ݪۅی حاجی اࢪش",
+      "lastName": "کابلی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:54:13.109Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:54:13.117Z"
+      }
     }
   ],
   "groups": [
