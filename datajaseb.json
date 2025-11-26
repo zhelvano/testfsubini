@@ -33909,6 +33909,20 @@
       "lastActive": {
         "$date": "2025-11-26T08:41:51.063Z"
       }
+    },
+    {
+      "userId": 6707875262,
+      "username": "PV_HAJI_MUHIB_680",
+      "firstName": "𓆩𖡡⋆𝐇𝐚𝐉𝐢⋆𝐌𝐮𝐇𝐢𝐁•𝟔𝟖𝟎⋆𖡡𓆪",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T08:52:57.835Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T08:52:57.840Z"
+      }
     }
   ],
   "groups": [
