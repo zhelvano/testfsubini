@@ -33206,6 +33206,21 @@
       "lastActive": {
         "$date": "2025-11-26T05:58:11.230Z"
       }
+    },
+    {
+      "userId": 7285992700,
+      "username": "gvbuyer9",
+      "firstName": "👾 BITS Chandon ✌️Yescoiner 👾 BITS",
+      "lastName": "✌️Yescoiner 👾 BITS",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T06:07:30.623Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T06:07:30.628Z"
+      }
     }
   ],
   "groups": [
