@@ -36128,6 +36128,20 @@
       "lastActive": {
         "$date": "2025-11-26T18:22:06.722Z"
       }
+    },
+    {
+      "userId": 6531452564,
+      "username": "D_r_99",
+      "firstName": "𝔨𝔞𝔫𝔢𝔨𝔦",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T18:26:19.029Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T18:26:19.029Z"
+      }
     }
   ],
   "groups": [
