@@ -32656,6 +32656,20 @@
       "lastActive": {
         "$date": "2025-11-26T03:53:14.697Z"
       }
+    },
+    {
+      "userId": 8329617526,
+      "username": "mmklumatijir",
+      "firstName": "Hz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T03:55:50.943Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T03:55:50.943Z"
+      }
     }
   ],
   "groups": [
