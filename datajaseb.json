@@ -32233,6 +32233,20 @@
       "lastActive": {
         "$date": "2025-11-26T00:57:09.356Z"
       }
+    },
+    {
+      "userId": 6970372189,
+      "username": "kieraben",
+      "firstName": "Kieraben",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T00:59:07.136Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T00:59:07.136Z"
+      }
     }
   ],
   "groups": [
