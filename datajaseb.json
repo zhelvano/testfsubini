@@ -35634,6 +35634,20 @@
       "lastActive": {
         "$date": "2025-11-26T14:41:37.924Z"
       }
+    },
+    {
+      "userId": 7507928259,
+      "username": "eprriii",
+      "firstName": "eprii.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T14:43:52.025Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T14:43:52.025Z"
+      }
     }
   ],
   "groups": [
