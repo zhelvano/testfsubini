@@ -33614,6 +33614,20 @@
       "lastActive": {
         "$date": "2025-11-26T07:14:37.268Z"
       }
+    },
+    {
+      "userId": 7762069103,
+      "username": "RAYES_SOFI",
+      "firstName": "𝑹𝑨𝒀𝑬𝑺 𝑺𝑶𝑭𝑰",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T07:15:03.481Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T07:15:03.481Z"
+      }
     }
   ],
   "groups": [
