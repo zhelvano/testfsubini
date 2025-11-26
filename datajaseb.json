@@ -33431,6 +33431,20 @@
       "lastActive": {
         "$date": "2025-11-26T06:40:17.951Z"
       }
+    },
+    {
+      "userId": 7528759414,
+      "username": "imortaldo",
+      "firstName": "kyy #o666",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T06:41:42.005Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T06:41:42.005Z"
+      }
     }
   ],
   "groups": [
