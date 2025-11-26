@@ -32161,6 +32161,20 @@
       "lastActive": {
         "$date": "2025-11-26T00:41:05.182Z"
       }
+    },
+    {
+      "userId": 7708104681,
+      "username": "KAZUKAREN_GMAIL",
+      "firstName": "𝙆𝘼𝙕𝙐𝙆𝘼𝙍𝙀𝙉",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T00:41:30.129Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T00:41:30.129Z"
+      }
     }
   ],
   "groups": [
