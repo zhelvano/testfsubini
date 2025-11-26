@@ -32572,6 +32572,20 @@
       "lastActive": {
         "$date": "2025-11-26T03:21:23.638Z"
       }
+    },
+    {
+      "userId": 7609230047,
+      "firstName": "الله نور افغان",
+      "lastName": "17",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T03:27:42.715Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T03:27:42.721Z"
+      }
     }
   ],
   "groups": [
