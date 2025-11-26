@@ -32995,6 +32995,21 @@
       "lastActive": {
         "$date": "2025-11-26T05:10:53.730Z"
       }
+    },
+    {
+      "userId": 2106898851,
+      "username": "Hamja1122",
+      "firstName": "Hamja",
+      "lastName": "Shadin",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:12:38.789Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:12:38.789Z"
+      }
     }
   ],
   "groups": [
