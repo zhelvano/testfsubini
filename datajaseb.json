@@ -35144,6 +35144,20 @@
       "lastActive": {
         "$date": "2025-11-26T13:10:46.270Z"
       }
+    },
+    {
+      "userId": 5131525757,
+      "username": "Angelaaa199",
+      "firstName": "™Angelita",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:13:02.662Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:13:02.665Z"
+      }
     }
   ],
   "groups": [
