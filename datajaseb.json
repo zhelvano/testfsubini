@@ -34778,6 +34778,35 @@
       "lastActive": {
         "$date": "2025-11-26T11:55:59.236Z"
       }
+    },
+    {
+      "userId": 8277933762,
+      "username": "hillsYoung",
+      "firstName": "Hills",
+      "lastName": "Young 🔐",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T11:58:23.795Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T11:58:23.795Z"
+      }
+    },
+    {
+      "userId": 8088825684,
+      "firstName": "Samuel",
+      "lastName": "Ayo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T11:58:28.784Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T11:58:28.784Z"
+      }
     }
   ],
   "groups": [
