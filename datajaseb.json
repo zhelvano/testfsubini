@@ -35861,6 +35861,20 @@
       "lastActive": {
         "$date": "2025-11-26T16:10:43.660Z"
       }
+    },
+    {
+      "userId": 6840672013,
+      "username": "blackkrizz",
+      "firstName": "Lufz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T16:19:09.502Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T16:19:09.502Z"
+      }
     }
   ],
   "groups": [
