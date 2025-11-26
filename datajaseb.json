@@ -36015,6 +36015,20 @@
       "lastActive": {
         "$date": "2025-11-26T17:35:30.346Z"
       }
+    },
+    {
+      "userId": 8471864623,
+      "username": "V_ivvvvvve3",
+      "firstName": "𖣂︎ .",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T17:48:12.598Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T17:48:12.598Z"
+      }
     }
   ],
   "groups": [
