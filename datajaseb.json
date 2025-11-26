@@ -33093,6 +33093,19 @@
       "lastActive": {
         "$date": "2025-11-26T05:37:13.232Z"
       }
+    },
+    {
+      "userId": 7172117137,
+      "firstName": "Saboor",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:37:16.530Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:37:16.530Z"
+      }
     }
   ],
   "groups": [
