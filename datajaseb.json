@@ -35621,6 +35621,19 @@
       "lastActive": {
         "$date": "2025-11-26T14:41:07.898Z"
       }
+    },
+    {
+      "userId": 6981815682,
+      "firstName": "Rezz Tzy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T14:41:37.924Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T14:41:37.924Z"
+      }
     }
   ],
   "groups": [
