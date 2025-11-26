@@ -32458,6 +32458,20 @@
       "lastActive": {
         "$date": "2025-11-26T02:50:54.109Z"
       }
+    },
+    {
+      "userId": 8247558765,
+      "username": "ZEROBOY313",
+      "firstName": "𝘇𝗘𝗥𝗢™ 🤌🏻🏴",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T02:52:32.417Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T02:52:32.417Z"
+      }
     }
   ],
   "groups": [
