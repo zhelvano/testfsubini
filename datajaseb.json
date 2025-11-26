@@ -36199,6 +36199,20 @@
       "lastActive": {
         "$date": "2025-11-26T18:39:56.367Z"
       }
+    },
+    {
+      "userId": 7163920450,
+      "username": "Adaya200",
+      "firstName": "Abdullahi😳",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T18:46:29.672Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T18:46:29.672Z"
+      }
     }
   ],
   "groups": [
