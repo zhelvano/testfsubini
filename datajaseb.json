@@ -35663,6 +35663,20 @@
       "lastActive": {
         "$date": "2025-11-26T14:44:30.885Z"
       }
+    },
+    {
+      "userId": 8368976584,
+      "username": "RaezzTzy",
+      "firstName": "RaezzTzy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T14:59:39.622Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T14:59:39.622Z"
+      }
     }
   ],
   "groups": [
