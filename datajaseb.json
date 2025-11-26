@@ -33306,6 +33306,19 @@
       "lastActive": {
         "$date": "2025-11-26T06:15:45.608Z"
       }
+    },
+    {
+      "userId": 6307801203,
+      "firstName": "Edras",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T06:19:34.870Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T06:19:34.874Z"
+      }
     }
   ],
   "groups": [
