@@ -32940,6 +32940,20 @@
       "lastActive": {
         "$date": "2025-11-26T05:07:06.166Z"
       }
+    },
+    {
+      "userId": 6834372469,
+      "firstName": "Tayyab",
+      "lastName": "Chandia",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:07:42.425Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:07:42.425Z"
+      }
     }
   ],
   "groups": [
