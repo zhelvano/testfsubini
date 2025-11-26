@@ -36550,6 +36550,20 @@
       "lastActive": {
         "$date": "2025-11-26T21:31:11.635Z"
       }
+    },
+    {
+      "userId": 7503175489,
+      "firstName": "Md",
+      "lastName": "Tanverul",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T21:31:46.144Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T21:31:46.144Z"
+      }
     }
   ],
   "groups": [
