@@ -35340,6 +35340,21 @@
       "lastActive": {
         "$date": "2025-11-26T13:50:04.470Z"
       }
+    },
+    {
+      "userId": 5381241613,
+      "username": "IndahFebriansyah",
+      "firstName": "Aku",
+      "lastName": "Agunggg",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:51:42.342Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:51:42.342Z"
+      }
     }
   ],
   "groups": [
