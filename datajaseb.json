@@ -33333,6 +33333,20 @@
       "lastActive": {
         "$date": "2025-11-26T06:21:05.780Z"
       }
+    },
+    {
+      "userId": 7044893193,
+      "username": "elevennore",
+      "firstName": "𝗦𝗜𝗥||𝗻𝗮𝗳⚡",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T06:30:39.057Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T06:30:39.057Z"
+      }
     }
   ],
   "groups": [
