@@ -32246,6 +32246,20 @@
       "lastActive": {
         "$date": "2025-11-26T00:59:07.136Z"
       }
+    },
+    {
+      "userId": 6353318636,
+      "username": "shezszsopspoken",
+      "firstName": "shezzsz push 4digit🌹",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T01:29:34.939Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T01:29:34.945Z"
+      }
     }
   ],
   "groups": [
