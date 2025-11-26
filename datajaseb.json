@@ -36241,6 +36241,20 @@
       "lastActive": {
         "$date": "2025-11-26T18:53:00.217Z"
       }
+    },
+    {
+      "userId": 6660104105,
+      "username": "Novanarya1",
+      "firstName": "Aryaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T19:03:29.552Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T19:03:29.552Z"
+      }
     }
   ],
   "groups": [
