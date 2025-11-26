@@ -34822,6 +34822,20 @@
       "lastActive": {
         "$date": "2025-11-26T12:08:38.783Z"
       }
+    },
+    {
+      "userId": 8386110645,
+      "username": "VIlNCI",
+      "firstName": "Vinci tudor",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:13:02.412Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:13:02.417Z"
+      }
     }
   ],
   "groups": [
