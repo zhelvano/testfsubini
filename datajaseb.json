@@ -33191,6 +33191,21 @@
       "lastActive": {
         "$date": "2025-11-26T05:56:24.148Z"
       }
+    },
+    {
+      "userId": 7132343561,
+      "username": "Managementteam135",
+      "firstName": "Managementteam für Frau",
+      "lastName": "oberdorf",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:58:11.222Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:58:11.230Z"
+      }
     }
   ],
   "groups": [
