@@ -32373,6 +32373,20 @@
       "lastActive": {
         "$date": "2025-11-26T01:59:48.696Z"
       }
+    },
+    {
+      "userId": 8217690286,
+      "username": "toruortulu",
+      "firstName": "Sâtoruw ⛥ #Cyrus",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T02:10:39.273Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T02:10:39.278Z"
+      }
     }
   ],
   "groups": [
