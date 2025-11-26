@@ -35158,6 +35158,21 @@
       "lastActive": {
         "$date": "2025-11-26T13:13:02.665Z"
       }
+    },
+    {
+      "userId": 1722315805,
+      "username": "Natsattah",
+      "firstName": "Nats",
+      "lastName": "Attah",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:15:50.644Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:15:50.645Z"
+      }
     }
   ],
   "groups": [
