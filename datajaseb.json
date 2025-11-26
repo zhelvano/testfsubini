@@ -32189,6 +32189,21 @@
       "lastActive": {
         "$date": "2025-11-26T00:48:08.746Z"
       }
+    },
+    {
+      "userId": 5048568672,
+      "username": "alterer1",
+      "firstName": "F",
+      "lastName": "F",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T00:48:54.172Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T00:48:54.172Z"
+      }
     }
   ],
   "groups": [
