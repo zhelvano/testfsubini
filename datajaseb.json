@@ -35411,6 +35411,20 @@
       "lastActive": {
         "$date": "2025-11-26T13:56:41.869Z"
       }
+    },
+    {
+      "userId": 7815187735,
+      "firstName": "حاجی",
+      "lastName": "افغان",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T14:04:51.061Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T14:04:51.062Z"
+      }
     }
   ],
   "groups": [
