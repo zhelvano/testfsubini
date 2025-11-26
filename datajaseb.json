@@ -32742,6 +32742,20 @@
       "lastActive": {
         "$date": "2025-11-26T04:16:07.624Z"
       }
+    },
+    {
+      "userId": 7516387814,
+      "username": "ridhaefizahme",
+      "firstName": "Ridha",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T04:21:44.820Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T04:21:44.823Z"
+      }
     }
   ],
   "groups": [
