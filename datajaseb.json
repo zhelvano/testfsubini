@@ -36437,6 +36437,20 @@
       "lastActive": {
         "$date": "2025-11-26T20:57:23.145Z"
       }
+    },
+    {
+      "userId": 8014912553,
+      "username": "Vonix4youu",
+      "firstName": "NIX ?",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T21:02:08.835Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T21:02:08.835Z"
+      }
     }
   ],
   "groups": [
