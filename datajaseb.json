@@ -36283,6 +36283,21 @@
       "lastActive": {
         "$date": "2025-11-26T19:06:38.778Z"
       }
+    },
+    {
+      "userId": 8113337740,
+      "username": "Vinszz1",
+      "firstName": "VINSZ",
+      "lastName": "VINSZ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T19:08:02.027Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T19:08:02.027Z"
+      }
     }
   ],
   "groups": [
