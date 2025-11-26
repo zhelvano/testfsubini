@@ -32034,6 +32034,20 @@
       "lastActive": {
         "$date": "2025-11-26T00:02:04.233Z"
       }
+    },
+    {
+      "userId": 6593690357,
+      "username": "Kyyou14",
+      "firstName": "— 京曜 🕊",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T00:05:24.807Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T00:05:24.807Z"
+      }
     }
   ],
   "groups": [
