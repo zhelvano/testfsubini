@@ -35284,6 +35284,20 @@
       "lastActive": {
         "$date": "2025-11-26T13:46:22.183Z"
       }
+    },
+    {
+      "userId": 7407362325,
+      "username": "santos_249123",
+      "firstName": "𝐒𝐀𝐍𝐓𝐎𝐒",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:47:04.965Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:47:04.965Z"
+      }
     }
   ],
   "groups": [
