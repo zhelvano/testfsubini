@@ -36029,6 +36029,20 @@
       "lastActive": {
         "$date": "2025-11-26T17:48:12.598Z"
       }
+    },
+    {
+      "userId": 6394438548,
+      "username": "wraithxx7",
+      "firstName": "𝐖𝐫𝐚𝐢𝐭𝐡𝐱𝟕✞",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T17:48:27.344Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T17:48:27.344Z"
+      }
     }
   ],
   "groups": [
