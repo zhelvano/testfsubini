@@ -33118,6 +33118,20 @@
       "lastActive": {
         "$date": "2025-11-26T05:41:18.156Z"
       }
+    },
+    {
+      "userId": 7543608463,
+      "username": "ChalinoSanchez1",
+      "firstName": "HIDUP BLONDE",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:43:58.573Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:43:58.573Z"
+      }
     }
   ],
   "groups": [
