@@ -36380,6 +36380,20 @@
       "lastActive": {
         "$date": "2025-11-26T20:11:20.054Z"
       }
+    },
+    {
+      "userId": 7334529032,
+      "username": "rizzucal",
+      "firstName": "Kilzuvlz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T20:13:10.333Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T20:13:10.334Z"
+      }
     }
   ],
   "groups": [
