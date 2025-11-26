@@ -35326,6 +35326,20 @@
       "lastActive": {
         "$date": "2025-11-26T13:49:22.944Z"
       }
+    },
+    {
+      "userId": 7063787061,
+      "username": "xyro4youu",
+      "firstName": "xyro xv",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:50:04.470Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:50:04.470Z"
+      }
     }
   ],
   "groups": [
