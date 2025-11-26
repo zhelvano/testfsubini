@@ -32713,6 +32713,20 @@
       "lastActive": {
         "$date": "2025-11-26T04:10:45.708Z"
       }
+    },
+    {
+      "userId": 7061514331,
+      "username": "RedhuX",
+      "firstName": "Rohit bhatti",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T04:14:08.928Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T04:14:08.928Z"
+      }
     }
   ],
   "groups": [
