@@ -35495,6 +35495,20 @@
       "lastActive": {
         "$date": "2025-11-26T14:20:15.231Z"
       }
+    },
+    {
+      "userId": 7571685684,
+      "username": "nuszx_tersakiti",
+      "firstName": "nuszxは開発者ではない",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T14:22:21.927Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T14:22:21.927Z"
+      }
     }
   ],
   "groups": [
