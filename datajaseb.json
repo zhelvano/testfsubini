@@ -36705,6 +36705,20 @@
       "lastActive": {
         "$date": "2025-11-26T23:02:46.278Z"
       }
+    },
+    {
+      "userId": 8480089964,
+      "username": "noeluv",
+      "firstName": "> noel.exe",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T23:04:17.313Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T23:04:17.313Z"
+      }
     }
   ],
   "groups": [
