@@ -36451,6 +36451,20 @@
       "lastActive": {
         "$date": "2025-11-26T21:02:08.835Z"
       }
+    },
+    {
+      "userId": 8323922720,
+      "username": "Neveloop",
+      "firstName": "Neveloopp",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T21:04:50.210Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T21:04:50.210Z"
+      }
     }
   ],
   "groups": [
