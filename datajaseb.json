@@ -7304,7 +7304,6 @@
         "$oid": "6922a5884e23132d6f0aa3ce"
       },
       "userId": 7245343380,
-      "username": null,
       "firstName": "Idoy",
       "lastName": "Idoy",
       "isPremium": false,
@@ -7314,7 +7313,7 @@
         "$date": "2025-11-23T06:11:20.767000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T06:11:20.767000Z"
+        "$date": "2025-11-26T11:54:06.366Z"
       }
     },
     {
@@ -34750,6 +34749,20 @@
       },
       "lastActive": {
         "$date": "2025-11-26T11:50:48.403Z"
+      }
+    },
+    {
+      "userId": 7572253235,
+      "username": "ambabas",
+      "firstName": "Ambalabu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T11:54:12.526Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T11:54:12.526Z"
       }
     }
   ],
