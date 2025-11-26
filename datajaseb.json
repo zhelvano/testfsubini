@@ -32472,6 +32472,20 @@
       "lastActive": {
         "$date": "2025-11-26T02:52:32.417Z"
       }
+    },
+    {
+      "userId": 6845701654,
+      "username": "xsvs99",
+      "firstName": "Acilxnism",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T03:00:37.532Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T03:00:37.538Z"
+      }
     }
   ],
   "groups": [
