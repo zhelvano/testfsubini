@@ -33403,6 +33403,20 @@
       "lastActive": {
         "$date": "2025-11-26T06:39:23.355Z"
       }
+    },
+    {
+      "userId": 6939337818,
+      "username": "Raja_261",
+      "firstName": "Lol",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T06:40:15.438Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T06:40:15.438Z"
+      }
     }
   ],
   "groups": [
