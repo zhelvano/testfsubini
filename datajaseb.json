@@ -32387,6 +32387,20 @@
       "lastActive": {
         "$date": "2025-11-26T02:10:39.278Z"
       }
+    },
+    {
+      "userId": 6844106696,
+      "username": "ybb2001",
+      "firstName": "𝐕-𝐂𝐎𝐍𝐊 ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T02:23:29.395Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T02:23:29.395Z"
+      }
     }
   ],
   "groups": [
