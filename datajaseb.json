@@ -35048,6 +35048,20 @@
       "lastActive": {
         "$date": "2025-11-26T12:44:56.145Z"
       }
+    },
+    {
+      "userId": 6448280928,
+      "username": "Cibay87",
+      "firstName": "Rio🌱SEED",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:49:06.071Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:49:06.071Z"
+      }
     }
   ],
   "groups": [
