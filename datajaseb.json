@@ -32288,6 +32288,19 @@
       "lastActive": {
         "$date": "2025-11-26T01:31:50.396Z"
       }
+    },
+    {
+      "userId": 7895330190,
+      "firstName": "Pebrian",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T01:33:11.519Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T01:33:11.543Z"
+      }
     }
   ],
   "groups": [
