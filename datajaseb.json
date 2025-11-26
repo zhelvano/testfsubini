@@ -33600,6 +33600,20 @@
       "lastActive": {
         "$date": "2025-11-26T07:14:00.659Z"
       }
+    },
+    {
+      "userId": 8137910850,
+      "firstName": "Bin",
+      "lastName": "Tang",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T07:14:37.268Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T07:14:37.268Z"
+      }
     }
   ],
   "groups": [
