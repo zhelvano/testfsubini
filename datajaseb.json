@@ -35930,6 +35930,35 @@
       "lastActive": {
         "$date": "2025-11-26T16:53:02.704Z"
       }
+    },
+    {
+      "userId": 1337576709,
+      "username": "Jack_oool",
+      "firstName": "ᴬᶠᴳᴴᴬᴺ",
+      "lastName": "ˡᴺ ᴱʳᵒᵘᵖ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T16:53:23.422Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T16:53:23.422Z"
+      }
+    },
+    {
+      "userId": 7055951838,
+      "username": "PeMi12345",
+      "firstName": "Pemitha",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T16:53:33.217Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T16:53:33.217Z"
+      }
     }
   ],
   "groups": [
