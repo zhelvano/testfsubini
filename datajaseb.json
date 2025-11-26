@@ -35369,6 +35369,20 @@
       "lastActive": {
         "$date": "2025-11-26T13:52:45.677Z"
       }
+    },
+    {
+      "userId": 7640407104,
+      "username": "langggzzzz",
+      "firstName": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤiqbalz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:53:47.378Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:53:47.378Z"
+      }
     }
   ],
   "groups": [
