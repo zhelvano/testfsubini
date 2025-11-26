@@ -33868,6 +33868,20 @@
       "lastActive": {
         "$date": "2025-11-26T08:27:03.018Z"
       }
+    },
+    {
+      "userId": 7331323522,
+      "username": "xyzrexzzy",
+      "firstName": "¡m #Rexzy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T08:29:14.004Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T08:29:14.004Z"
+      }
     }
   ],
   "groups": [
