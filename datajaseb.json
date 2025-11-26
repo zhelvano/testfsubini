@@ -36001,6 +36001,20 @@
       "lastActive": {
         "$date": "2025-11-26T17:24:57.244Z"
       }
+    },
+    {
+      "userId": 7056950838,
+      "username": "Babree9",
+      "firstName": "Sohail",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T17:35:30.345Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T17:35:30.346Z"
+      }
     }
   ],
   "groups": [
