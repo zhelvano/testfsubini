@@ -32826,6 +32826,21 @@
       "lastActive": {
         "$date": "2025-11-26T04:36:00.548Z"
       }
+    },
+    {
+      "userId": 5820917167,
+      "username": "Dikduk_checker",
+      "firstName": "Ilmam",
+      "lastName": "Checker",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T04:39:15.478Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T04:39:15.481Z"
+      }
     }
   ],
   "groups": [
