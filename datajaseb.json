@@ -35270,6 +35270,20 @@
       "lastActive": {
         "$date": "2025-11-26T13:46:09.976Z"
       }
+    },
+    {
+      "userId": 8293108201,
+      "username": "jawa4sli",
+      "firstName": "ᴘᴀᴜʟ ᴍᴀʜᴀ ᴋᴜᴀsᴀ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:46:22.183Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:46:22.183Z"
+      }
     }
   ],
   "groups": [
