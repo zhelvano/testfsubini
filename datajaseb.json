@@ -27704,7 +27704,7 @@
         "$date": "2025-11-25T13:20:00.657Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T15:24:54.128Z"
+        "$date": "2025-11-26T01:54:01.694Z"
       }
     },
     {
@@ -32329,6 +32329,20 @@
       },
       "lastActive": {
         "$date": "2025-11-26T01:47:27.995Z"
+      }
+    },
+    {
+      "userId": 7039486778,
+      "username": "Sonya_6977",
+      "firstName": "𝐒ᨵׁׅׅ𝐧𝐲𝐚",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T01:54:07.193Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T01:54:07.193Z"
       }
     }
   ],
