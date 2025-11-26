@@ -35383,6 +35383,34 @@
       "lastActive": {
         "$date": "2025-11-26T13:53:47.378Z"
       }
+    },
+    {
+      "userId": 8073381255,
+      "username": "bapal0mati",
+      "firstName": "romano",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:56:22.506Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:56:22.512Z"
+      }
+    },
+    {
+      "userId": 5787424479,
+      "username": "mewwinaa",
+      "firstName": "linaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:56:41.869Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:56:41.869Z"
+      }
     }
   ],
   "groups": [
