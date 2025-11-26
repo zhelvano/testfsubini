@@ -36213,6 +36213,20 @@
       "lastActive": {
         "$date": "2025-11-26T18:46:29.672Z"
       }
+    },
+    {
+      "userId": 8219468409,
+      "username": "AllyAreeNzz",
+      "firstName": "ɧσtɑʀ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T18:47:46.061Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T18:47:46.061Z"
+      }
     }
   ],
   "groups": [
