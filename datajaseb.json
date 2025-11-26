@@ -36086,6 +36086,20 @@
       "lastActive": {
         "$date": "2025-11-26T18:05:49.128Z"
       }
+    },
+    {
+      "userId": 8593238785,
+      "firstName": "الغدار",
+      "lastName": "التعزي",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T18:16:22.526Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T18:16:22.531Z"
+      }
     }
   ],
   "groups": [
