@@ -36521,6 +36521,20 @@
       "lastActive": {
         "$date": "2025-11-26T21:22:55.724Z"
       }
+    },
+    {
+      "userId": 7675783113,
+      "firstName": "Maycol",
+      "lastName": "AI",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T21:28:24.242Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T21:28:24.242Z"
+      }
     }
   ],
   "groups": [
