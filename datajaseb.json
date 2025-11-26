@@ -25127,7 +25127,7 @@
         "$date": "2025-11-25T08:13:27.882Z"
       },
       "lastActive": {
-        "$date": "2025-11-26T12:21:30.363Z"
+        "$date": "2025-11-26T12:27:57.023Z"
       }
     },
     {
@@ -34905,6 +34905,20 @@
       },
       "lastActive": {
         "$date": "2025-11-26T12:25:02.510Z"
+      }
+    },
+    {
+      "userId": 1464329908,
+      "username": "draseven77",
+      "firstName": "DraSe7en",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:28:12.877Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:28:12.877Z"
       }
     }
   ],
