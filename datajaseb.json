@@ -34836,6 +34836,34 @@
       "lastActive": {
         "$date": "2025-11-26T12:13:02.417Z"
       }
+    },
+    {
+      "userId": 8265357170,
+      "firstName": "Junaid",
+      "lastName": "Waris",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:23:19.981Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:23:19.981Z"
+      }
+    },
+    {
+      "userId": 8390080633,
+      "username": "trishonryx",
+      "firstName": "𝐓𝐫𝐢𝐬𝐡𝐛𝐨𝐲 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:23:43.967Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:23:43.967Z"
+      }
     }
   ],
   "groups": [
