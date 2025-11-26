@@ -35875,6 +35875,34 @@
       "lastActive": {
         "$date": "2025-11-26T16:19:09.502Z"
       }
+    },
+    {
+      "userId": 7777525052,
+      "firstName": "Namaroko",
+      "lastName": "Binmuhammad",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T16:23:05.841Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T16:23:05.841Z"
+      }
+    },
+    {
+      "userId": 170005330,
+      "username": "larisberkahjaya",
+      "firstName": "Gilang LBJ BUS MM",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T16:23:11.676Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T16:23:11.676Z"
+      }
     }
   ],
   "groups": [
