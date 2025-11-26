@@ -35130,6 +35130,20 @@
       "lastActive": {
         "$date": "2025-11-26T13:04:25.662Z"
       }
+    },
+    {
+      "userId": 6549254577,
+      "username": "yusifovvh7",
+      "firstName": "𝚢𝚞𝚜𝚒𝚏𝚘𝚟𝚟𝚑𝟽",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:10:46.270Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:10:46.270Z"
+      }
     }
   ],
   "groups": [
