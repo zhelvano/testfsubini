@@ -27773,7 +27773,7 @@
         "$date": "2025-11-25T13:24:25.634Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T13:24:25.634Z"
+        "$date": "2025-11-26T05:27:32.414Z"
       }
     },
     {
@@ -31101,7 +31101,7 @@
         "$date": "2025-11-25T20:50:46.224Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T20:50:46.224Z"
+        "$date": "2025-11-26T05:27:32.401Z"
       }
     },
     {
@@ -33009,6 +33009,48 @@
       },
       "lastActive": {
         "$date": "2025-11-26T05:12:38.789Z"
+      }
+    },
+    {
+      "userId": 7611996850,
+      "username": "nsbjksbbeh",
+      "firstName": "مست عصاب خرافی افغان صاحیب2012حوکومت",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:27:32.411Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:27:32.411Z"
+      }
+    },
+    {
+      "userId": 8376355024,
+      "username": "FtyOxfordy",
+      "firstName": "𝐅𝐭𝐲-𝐎𝐱𝐟𝐨𝐫𝐝 🇯🇵",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:27:32.413Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:27:32.413Z"
+      }
+    },
+    {
+      "userId": 7545634167,
+      "username": "Kaylacanst",
+      "firstName": "𝗤𝗟𝗖 Kayla😶‍🌫️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:28:14.875Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:28:14.875Z"
       }
     }
   ],
