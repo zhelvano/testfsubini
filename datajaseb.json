@@ -36720,6 +36720,20 @@
       "lastActive": {
         "$date": "2025-11-26T23:04:17.313Z"
       }
+    },
+    {
+      "userId": 6773614892,
+      "firstName": "Tawhid",
+      "lastName": "Azimi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T23:17:18.610Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T23:17:18.610Z"
+      }
     }
   ],
   "groups": [
