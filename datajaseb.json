@@ -36325,6 +36325,20 @@
       "lastActive": {
         "$date": "2025-11-26T19:52:48.223Z"
       }
+    },
+    {
+      "userId": 5622998649,
+      "username": "OfflineBoy420",
+      "firstName": "༄Offline 🫥 🙂‍↕️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T19:56:48.241Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T19:56:48.241Z"
+      }
     }
   ],
   "groups": [
