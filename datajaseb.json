@@ -35790,6 +35790,35 @@
       "lastActive": {
         "$date": "2025-11-26T15:55:55.747Z"
       }
+    },
+    {
+      "userId": 7016944130,
+      "username": "Ssam75",
+      "firstName": "Sam",
+      "lastName": "Sumon",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T16:02:58.596Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T16:02:58.596Z"
+      }
+    },
+    {
+      "userId": 5796114068,
+      "username": "Fufu0a",
+      "firstName": "Fufufa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T16:03:15.201Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T16:03:15.202Z"
+      }
     }
   ],
   "groups": [
