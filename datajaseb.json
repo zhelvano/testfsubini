@@ -35021,6 +35021,21 @@
       "lastActive": {
         "$date": "2025-11-26T12:35:43.824Z"
       }
+    },
+    {
+      "userId": 8474191955,
+      "username": "smalboy01",
+      "firstName": "Small",
+      "lastName": "boy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:39:16.816Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:39:16.816Z"
+      }
     }
   ],
   "groups": [
