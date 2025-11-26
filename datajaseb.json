@@ -34864,6 +34864,20 @@
       "lastActive": {
         "$date": "2025-11-26T12:23:43.967Z"
       }
+    },
+    {
+      "userId": 8234382384,
+      "username": "mot4c0s",
+      "firstName": "</h",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:24:06.821Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:24:06.821Z"
+      }
     }
   ],
   "groups": [
