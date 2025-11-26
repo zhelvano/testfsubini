@@ -32543,6 +32543,20 @@
       "lastActive": {
         "$date": "2025-11-26T03:15:00.136Z"
       }
+    },
+    {
+      "userId": 8429072690,
+      "firstName": "ASDF",
+      "lastName": "QWER",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T03:19:26.187Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T03:19:26.194Z"
+      }
     }
   ],
   "groups": [
