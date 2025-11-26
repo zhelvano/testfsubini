@@ -36579,6 +36579,20 @@
       "lastActive": {
         "$date": "2025-11-26T21:47:26.253Z"
       }
+    },
+    {
+      "userId": 7204960626,
+      "username": "onl1all",
+      "firstName": "xsσ αl",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T21:57:54.767Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T21:57:54.767Z"
+      }
     }
   ],
   "groups": [
