@@ -19,7 +19,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-26T06:44:01.564Z"
+        "$date": "2025-11-26T07:58:51.341Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -25061,7 +25061,7 @@
         "$date": "2025-11-25T07:50:00.216Z"
       },
       "lastActive": {
-        "$date": "2025-11-26T07:20:54.766Z"
+        "$date": "2025-11-26T07:58:44.125Z"
       }
     },
     {
@@ -33725,6 +33725,62 @@
       },
       "lastActive": {
         "$date": "2025-11-26T07:26:41.199Z"
+      }
+    },
+    {
+      "userId": 8267256614,
+      "username": "Exxajah",
+      "firstName": "Exx",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T07:58:44.123Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T07:58:44.124Z"
+      }
+    },
+    {
+      "userId": 7592065375,
+      "firstName": "ꫝꪖᧁꪶ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T07:58:44.126Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T07:58:52.415Z"
+      }
+    },
+    {
+      "userId": 8529465841,
+      "username": "kaaahosting",
+      "firstName": "Kaaa",
+      "lastName": "Stecu [REHAT]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T07:58:44.126Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T07:58:44.126Z"
+      }
+    },
+    {
+      "userId": 7791023361,
+      "firstName": "oziee",
+      "lastName": "boyyy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T07:58:44.127Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T07:58:44.127Z"
       }
     }
   ],
