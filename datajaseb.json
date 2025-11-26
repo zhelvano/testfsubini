@@ -35425,6 +35425,20 @@
       "lastActive": {
         "$date": "2025-11-26T14:04:51.062Z"
       }
+    },
+    {
+      "userId": 5388450398,
+      "username": "AUBI_SAB",
+      "firstName": "ایوبی صاب",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T14:11:16.461Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T14:11:16.467Z"
+      }
     }
   ],
   "groups": [
