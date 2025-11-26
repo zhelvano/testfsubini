@@ -31873,7 +31873,7 @@
         "$date": "2025-11-25T23:36:00.640Z"
       },
       "lastActive": {
-        "$date": "2025-11-26T05:50:35.166Z"
+        "$date": "2025-11-26T07:03:06.501Z"
       }
     },
     {
@@ -33515,6 +33515,20 @@
       },
       "lastActive": {
         "$date": "2025-11-26T07:01:35.857Z"
+      }
+    },
+    {
+      "userId": 8421130232,
+      "firstName": "Falz",
+      "lastName": "Store 6",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T07:02:59.882Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T07:02:59.882Z"
       }
     }
   ],
