@@ -36535,6 +36535,21 @@
       "lastActive": {
         "$date": "2025-11-26T21:28:24.242Z"
       }
+    },
+    {
+      "userId": 6746364410,
+      "username": "takatiki22",
+      "firstName": "Takaa",
+      "lastName": "Tikii",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T21:31:11.635Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T21:31:11.635Z"
+      }
     }
   ],
   "groups": [
