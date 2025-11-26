@@ -32133,6 +32133,20 @@
       "lastActive": {
         "$date": "2025-11-26T00:36:10.592Z"
       }
+    },
+    {
+      "userId": 7631460911,
+      "firstName": "Mamun",
+      "lastName": "Ahmed",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T00:39:43.448Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T00:39:43.449Z"
+      }
     }
   ],
   "groups": [
