@@ -32699,6 +32699,20 @@
       "lastActive": {
         "$date": "2025-11-26T04:09:32.342Z"
       }
+    },
+    {
+      "userId": 6614903075,
+      "username": "MhyongkAdmin",
+      "firstName": "▌│█║▌║▌║ 𝐗-𝐁𝐨𝐞𝐛𝐨𝐨 ║▌║▌║█│▌",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T04:10:45.708Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T04:10:45.708Z"
+      }
     }
   ],
   "groups": [
