@@ -36593,6 +36593,19 @@
       "lastActive": {
         "$date": "2025-11-26T21:57:54.767Z"
       }
+    },
+    {
+      "userId": 8526454557,
+      "firstName": "damian",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T22:13:16.447Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T22:13:16.447Z"
+      }
     }
   ],
   "groups": [
