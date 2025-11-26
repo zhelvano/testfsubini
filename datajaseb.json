@@ -35006,6 +35006,21 @@
       "lastActive": {
         "$date": "2025-11-26T12:34:16.850Z"
       }
+    },
+    {
+      "userId": 1968197296,
+      "username": "LanzxVN",
+      "firstName": "─ 𝗟𝗔𝗡𝗭 ||",
+      "lastName": "𝗩𝗡​᭄ 女",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:35:43.824Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:35:43.824Z"
+      }
     }
   ],
   "groups": [
