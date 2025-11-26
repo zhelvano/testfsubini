@@ -32486,6 +32486,20 @@
       "lastActive": {
         "$date": "2025-11-26T03:00:37.538Z"
       }
+    },
+    {
+      "userId": 8466918957,
+      "firstName": "Taka",
+      "lastName": "Bulls",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T03:03:18.228Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T03:03:18.232Z"
+      }
     }
   ],
   "groups": [
