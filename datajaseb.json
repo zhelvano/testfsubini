@@ -19982,7 +19982,7 @@
         "$date": "2025-11-24T13:18:50.014Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T13:18:50.014Z"
+        "$date": "2025-11-26T21:47:25.230Z"
       }
     },
     {
@@ -36563,6 +36563,21 @@
       },
       "lastActive": {
         "$date": "2025-11-26T21:31:46.144Z"
+      }
+    },
+    {
+      "userId": 8234089647,
+      "username": "Danz_students",
+      "firstName": "⏤͟͟͞𝗭𝟒 ||",
+      "lastName": "𝐃𝐀𝐍𝐙_ᴬᵗˡˢ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T21:47:26.253Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T21:47:26.253Z"
       }
     }
   ],
