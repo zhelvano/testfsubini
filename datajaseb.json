@@ -33472,6 +33472,21 @@
       "lastActive": {
         "$date": "2025-11-26T06:42:58.980Z"
       }
+    },
+    {
+      "userId": 8425517237,
+      "username": "Abrahamgarciacuba",
+      "firstName": "Abraham",
+      "lastName": "Gracia",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T06:44:46.167Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T06:44:46.167Z"
+      }
     }
   ],
   "groups": [
