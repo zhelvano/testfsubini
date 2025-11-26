@@ -32811,6 +32811,21 @@
       "lastActive": {
         "$date": "2025-11-26T04:31:55.232Z"
       }
+    },
+    {
+      "userId": 7037004757,
+      "username": "rakib9999911111",
+      "firstName": "SA",
+      "lastName": "FU",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T04:36:00.544Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T04:36:00.548Z"
+      }
     }
   ],
   "groups": [
