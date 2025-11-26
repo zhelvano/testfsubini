@@ -36634,6 +36634,20 @@
       "lastActive": {
         "$date": "2025-11-26T22:36:30.792Z"
       }
+    },
+    {
+      "userId": 6030010247,
+      "firstName": "عبودي",
+      "lastName": "'",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T22:54:17.978Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T22:54:17.978Z"
+      }
     }
   ],
   "groups": [
