@@ -35117,6 +35117,19 @@
       "lastActive": {
         "$date": "2025-11-26T13:02:07.049Z"
       }
+    },
+    {
+      "userId": 8120351667,
+      "firstName": "꧁༒☬𝓕𝓪𝔃𝓻𝓪☬༒꧂",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:04:25.662Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:04:25.662Z"
+      }
     }
   ],
   "groups": [
