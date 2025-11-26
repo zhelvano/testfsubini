@@ -35201,6 +35201,20 @@
       "lastActive": {
         "$date": "2025-11-26T13:23:56.375Z"
       }
+    },
+    {
+      "userId": 6897482922,
+      "username": "Nayaselole",
+      "firstName": "いいえ (臨時年金)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:40:02.789Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:40:02.795Z"
+      }
     }
   ],
   "groups": [
