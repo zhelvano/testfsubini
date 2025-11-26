@@ -36071,6 +36071,21 @@
       "lastActive": {
         "$date": "2025-11-26T17:58:26.164Z"
       }
+    },
+    {
+      "userId": 7670738621,
+      "username": "Bayshaki44",
+      "firstName": "Baysakhi",
+      "lastName": "Roy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T18:05:49.128Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T18:05:49.128Z"
+      }
     }
   ],
   "groups": [
