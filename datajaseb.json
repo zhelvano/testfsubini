@@ -32204,6 +32204,21 @@
       "lastActive": {
         "$date": "2025-11-26T00:48:54.172Z"
       }
+    },
+    {
+      "userId": 7973092286,
+      "username": "armufastore1",
+      "firstName": "お𝙰𝚁𝙼𝚄𝙵𝙰",
+      "lastName": "𝚂𝚃𝙾𝚁𝙴",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T00:50:52.752Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T00:50:52.752Z"
+      }
     }
   ],
   "groups": [
