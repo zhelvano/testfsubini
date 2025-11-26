@@ -33066,6 +33066,19 @@
       "lastActive": {
         "$date": "2025-11-26T05:31:45.065Z"
       }
+    },
+    {
+      "userId": 8338604119,
+      "firstName": "Akun Terhapus",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:33:05.270Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:33:05.270Z"
+      }
     }
   ],
   "groups": [
