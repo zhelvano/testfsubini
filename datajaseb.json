@@ -35776,6 +35776,20 @@
       "lastActive": {
         "$date": "2025-11-26T15:54:20.231Z"
       }
+    },
+    {
+      "userId": 8084517565,
+      "firstName": "Bima",
+      "lastName": "Saputra",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T15:55:55.747Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T15:55:55.747Z"
+      }
     }
   ],
   "groups": [
