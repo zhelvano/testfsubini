@@ -36423,6 +36423,20 @@
       "lastActive": {
         "$date": "2025-11-26T20:53:50.648Z"
       }
+    },
+    {
+      "userId": 5927016947,
+      "username": "namsu200712",
+      "firstName": "꧁༒☬LORDNAMSU☬༒꧂",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T20:57:23.145Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T20:57:23.145Z"
+      }
     }
   ],
   "groups": [
