@@ -32897,6 +32897,20 @@
       "lastActive": {
         "$date": "2025-11-26T04:55:55.647Z"
       }
+    },
+    {
+      "userId": 7313938418,
+      "username": "hasibuncle",
+      "firstName": "Uncle",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:01:51.339Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:01:51.344Z"
+      }
     }
   ],
   "groups": [
