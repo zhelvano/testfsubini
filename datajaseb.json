@@ -11791,9 +11791,7 @@
         "$oid": "6922d3e325bc4647f5fa250f"
       },
       "userId": 8378916520,
-      "username": null,
       "firstName": "JURAGAN NOKOS💸💸",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -11801,7 +11799,7 @@
         "$date": "2025-11-23T09:29:07.100000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T09:29:07.100000Z"
+        "$date": "2025-11-26T05:41:22.923Z"
       }
     },
     {
@@ -33105,6 +33103,20 @@
       },
       "lastActive": {
         "$date": "2025-11-26T05:37:16.530Z"
+      }
+    },
+    {
+      "userId": 8344453988,
+      "firstName": "Wong",
+      "lastName": "Tulus",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:41:18.150Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:41:18.156Z"
       }
     }
   ],
