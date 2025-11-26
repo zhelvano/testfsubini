@@ -33319,6 +33319,20 @@
       "lastActive": {
         "$date": "2025-11-26T06:19:34.874Z"
       }
+    },
+    {
+      "userId": 6810943264,
+      "username": "hyranzaa",
+      "firstName": "ranza",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T06:21:05.779Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T06:21:05.780Z"
+      }
     }
   ],
   "groups": [
