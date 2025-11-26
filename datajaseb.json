@@ -33530,6 +33530,20 @@
       "lastActive": {
         "$date": "2025-11-26T07:02:59.882Z"
       }
+    },
+    {
+      "userId": 8322338227,
+      "username": "mirzoffc",
+      "firstName": "𝐄𝐕𝐎𝐗 𝟏𝟖𝟖 || 𝐌𝐈𝐑𝐙'𝐒𝐊𝐘",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T07:05:41.725Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T07:05:41.730Z"
+      }
     }
   ],
   "groups": [
