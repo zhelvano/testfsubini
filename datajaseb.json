@@ -35580,6 +35580,19 @@
       "lastActive": {
         "$date": "2025-11-26T14:34:23.410Z"
       }
+    },
+    {
+      "userId": 7474554130,
+      "firstName": "Sergio",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T14:38:33.564Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T14:38:33.567Z"
+      }
     }
   ],
   "groups": [
