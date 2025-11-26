@@ -36100,6 +36100,20 @@
       "lastActive": {
         "$date": "2025-11-26T18:16:22.531Z"
       }
+    },
+    {
+      "userId": 7283267931,
+      "username": "Lydia_hill_90",
+      "firstName": "Lydia hill",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T18:18:40.700Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T18:18:40.700Z"
+      }
     }
   ],
   "groups": [
