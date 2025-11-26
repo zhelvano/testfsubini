@@ -36339,6 +36339,20 @@
       "lastActive": {
         "$date": "2025-11-26T19:56:48.241Z"
       }
+    },
+    {
+      "userId": 1477031065,
+      "username": "Codeath27",
+      "firstName": "Codeath",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T19:57:01.554Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T19:57:01.554Z"
+      }
     }
   ],
   "groups": [
