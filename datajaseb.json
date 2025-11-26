@@ -36142,6 +36142,21 @@
       "lastActive": {
         "$date": "2025-11-26T18:26:19.029Z"
       }
+    },
+    {
+      "userId": 8241806831,
+      "username": "Jisan123",
+      "firstName": "MD Jamil Hossen",
+      "lastName": "Jisan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T18:33:51.812Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T18:33:51.812Z"
+      }
     }
   ],
   "groups": [
