@@ -32841,6 +32841,20 @@
       "lastActive": {
         "$date": "2025-11-26T04:39:15.481Z"
       }
+    },
+    {
+      "userId": 7259883138,
+      "username": "iamnonchalaant",
+      "firstName": "ᗣ 🦋 𝑺𝒕𝒂𝒊𝒏 ₰",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T04:44:58.503Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T04:44:58.508Z"
+      }
     }
   ],
   "groups": [
