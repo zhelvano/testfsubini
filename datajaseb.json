@@ -32514,6 +32514,20 @@
       "lastActive": {
         "$date": "2025-11-26T03:04:20.570Z"
       }
+    },
+    {
+      "userId": 7581323333,
+      "username": "Babykahy",
+      "firstName": "—͟͞𝙑 - 𝘽𝙇𝙕𝙏 | BARZZ ヤー",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T03:14:30.534Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T03:14:30.555Z"
+      }
     }
   ],
   "groups": [
