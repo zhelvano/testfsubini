@@ -30148,7 +30148,7 @@
         "$date": "2025-11-25T17:51:21.228Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T17:51:21.228Z"
+        "$date": "2025-11-26T03:34:31.625Z"
       }
     },
     {
@@ -32585,6 +32585,20 @@
       },
       "lastActive": {
         "$date": "2025-11-26T03:27:42.721Z"
+      }
+    },
+    {
+      "userId": 1998490789,
+      "username": "rupawarnanyaaa",
+      "firstName": "Rupa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T03:34:33.379Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T03:34:33.379Z"
       }
     }
   ],
