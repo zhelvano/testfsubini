@@ -34977,6 +34977,20 @@
       "lastActive": {
         "$date": "2025-11-26T12:31:01.492Z"
       }
+    },
+    {
+      "userId": 6461729329,
+      "username": "StockRyota",
+      "firstName": "Alexis",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:33:34.251Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:33:34.251Z"
+      }
     }
   ],
   "groups": [
