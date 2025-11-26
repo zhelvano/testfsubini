@@ -25465,7 +25465,7 @@
         "$date": "2025-11-25T09:05:23.652Z"
       },
       "lastActive": {
-        "$date": "2025-11-26T08:12:55.145Z"
+        "$date": "2025-11-26T08:16:07.930Z"
       }
     },
     {
@@ -33811,6 +33811,19 @@
       },
       "lastActive": {
         "$date": "2025-11-26T08:13:05.483Z"
+      }
+    },
+    {
+      "userId": 7964316018,
+      "firstName": "mj 1",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T08:15:49.993Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T08:15:49.993Z"
       }
     }
   ],
