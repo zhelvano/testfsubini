@@ -35761,6 +35761,21 @@
       "lastActive": {
         "$date": "2025-11-26T15:26:58.625Z"
       }
+    },
+    {
+      "userId": 6137152988,
+      "username": "B_a_d_ri",
+      "firstName": "الحاج‌بدری صاحیب",
+      "lastName": "<::::::::::::::::::::::::::::::::::::::::::::::::[=======[=]>",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T15:54:20.228Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T15:54:20.231Z"
+      }
     }
   ],
   "groups": [
