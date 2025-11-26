@@ -35959,6 +35959,20 @@
       "lastActive": {
         "$date": "2025-11-26T16:53:33.217Z"
       }
+    },
+    {
+      "userId": 6863504033,
+      "username": "r4katyzzz",
+      "firstName": "𝙧4𝙠𝙖𝙩𝙮𝙯 🕊️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T17:17:27.602Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T17:17:27.602Z"
+      }
     }
   ],
   "groups": [
