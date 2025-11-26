@@ -34920,6 +34920,34 @@
       "lastActive": {
         "$date": "2025-11-26T12:28:12.877Z"
       }
+    },
+    {
+      "userId": 8333228885,
+      "username": "malsxvn",
+      "firstName": "PUNYA VALZ / RYOTA",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:28:20.979Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:28:20.979Z"
+      }
+    },
+    {
+      "userId": 7693560246,
+      "username": "ellxdraz",
+      "firstName": "-𝙚𝙡𝙡𝙭𝙙𝙧𝙖𝙯",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:28:31.928Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:28:31.928Z"
+      }
     }
   ],
   "groups": [
