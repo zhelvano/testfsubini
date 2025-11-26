@@ -36478,6 +36478,20 @@
       "lastActive": {
         "$date": "2025-11-26T21:13:50.151Z"
       }
+    },
+    {
+      "userId": 6141993415,
+      "username": "gobreofficial",
+      "firstName": "『𝐆𝐨𝐛𝐫𝐞𝐞 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥』",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T21:20:04.619Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T21:20:04.619Z"
+      }
     }
   ],
   "groups": [
