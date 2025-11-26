@@ -36661,6 +36661,21 @@
       "lastActive": {
         "$date": "2025-11-26T22:56:49.938Z"
       }
+    },
+    {
+      "userId": 5043691643,
+      "username": "usmancyber20",
+      "firstName": "Dexxer",
+      "lastName": "Uske",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T23:01:06.853Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T23:01:06.853Z"
+      }
     }
   ],
   "groups": [
