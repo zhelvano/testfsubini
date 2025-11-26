@@ -36606,6 +36606,34 @@
       "lastActive": {
         "$date": "2025-11-26T22:13:16.447Z"
       }
+    },
+    {
+      "userId": 6634208613,
+      "firstName": "satoshindo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T22:36:27.311Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T22:36:27.312Z"
+      }
+    },
+    {
+      "userId": 7273627481,
+      "username": "Paulgoku",
+      "firstName": "Paul",
+      "lastName": "Alabi$X",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T22:36:30.792Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T22:36:30.792Z"
+      }
     }
   ],
   "groups": [
