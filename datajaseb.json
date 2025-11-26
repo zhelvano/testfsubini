@@ -35833,6 +35833,21 @@
       "lastActive": {
         "$date": "2025-11-26T16:04:41.939Z"
       }
+    },
+    {
+      "userId": 8266625584,
+      "username": "ARYAN077077",
+      "firstName": "𓍼ོ͢𝐀ʳ𝐲ᵃ𝐍 𓍯",
+      "lastName": "𓆩•.4ᵏ.•𓆪",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T16:06:56.900Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T16:06:56.900Z"
+      }
     }
   ],
   "groups": [
