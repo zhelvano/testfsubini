@@ -35747,6 +35747,20 @@
       "lastActive": {
         "$date": "2025-11-26T15:19:05.578Z"
       }
+    },
+    {
+      "userId": 8045336788,
+      "firstName": "ehanntzy",
+      "lastName": "ehanntzy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T15:26:58.625Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T15:26:58.625Z"
+      }
     }
   ],
   "groups": [
