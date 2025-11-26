@@ -32048,6 +32048,20 @@
       "lastActive": {
         "$date": "2025-11-26T00:05:24.807Z"
       }
+    },
+    {
+      "userId": 7892160984,
+      "username": "alkey10",
+      "firstName": "> 𝐁𝐢𝐧 𝐀𝐡𝐦𝐚𝐝 |١⁹بــن احــمــد",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T00:12:14.850Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T00:12:14.850Z"
+      }
     }
   ],
   "groups": [
