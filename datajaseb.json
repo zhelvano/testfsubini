@@ -33079,6 +33079,20 @@
       "lastActive": {
         "$date": "2025-11-26T05:33:05.270Z"
       }
+    },
+    {
+      "userId": 8160717850,
+      "username": "Secretnew5",
+      "firstName": "Secret",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:37:13.230Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:37:13.232Z"
+      }
     }
   ],
   "groups": [
