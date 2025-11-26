@@ -32770,6 +32770,20 @@
       "lastActive": {
         "$date": "2025-11-26T04:25:34.245Z"
       }
+    },
+    {
+      "userId": 8342397892,
+      "username": "Seedhemauttpaglu",
+      "firstName": "Arpit bala",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T04:25:55.072Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T04:25:55.072Z"
+      }
     }
   ],
   "groups": [
