@@ -32075,6 +32075,20 @@
       "lastActive": {
         "$date": "2025-11-26T00:13:51.100Z"
       }
+    },
+    {
+      "userId": 2010120067,
+      "username": "Usixxx7",
+      "firstName": "ꜱꜰᴀʏ ۫",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T00:16:53.281Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T00:16:53.285Z"
+      }
     }
   ],
   "groups": [
