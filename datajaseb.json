@@ -32855,6 +32855,20 @@
       "lastActive": {
         "$date": "2025-11-26T04:44:58.508Z"
       }
+    },
+    {
+      "userId": 7677188060,
+      "username": "suky999",
+      "firstName": "Satoru",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T04:51:33.197Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T04:51:33.197Z"
+      }
     }
   ],
   "groups": [
