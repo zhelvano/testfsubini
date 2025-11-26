@@ -33840,6 +33840,20 @@
       "lastActive": {
         "$date": "2025-11-26T08:19:25.251Z"
       }
+    },
+    {
+      "userId": 1513530261,
+      "username": "Xyzshade",
+      "firstName": "𝐊𝐄𝐍𝐙𝐈𝐄 𝐂𝐙",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T08:23:34.506Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T08:23:34.506Z"
+      }
     }
   ],
   "groups": [
