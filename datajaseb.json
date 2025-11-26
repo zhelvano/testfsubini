@@ -32784,6 +32784,20 @@
       "lastActive": {
         "$date": "2025-11-26T04:25:55.072Z"
       }
+    },
+    {
+      "userId": 8444885586,
+      "firstName": "Prodan",
+      "lastName": "ALIF",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T04:28:49.752Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T04:28:49.758Z"
+      }
     }
   ],
   "groups": [
