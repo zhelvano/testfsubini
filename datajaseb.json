@@ -25061,7 +25061,7 @@
         "$date": "2025-11-25T07:50:00.216Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T19:01:15.185Z"
+        "$date": "2025-11-26T06:43:12.873Z"
       }
     },
     {
@@ -33444,6 +33444,33 @@
       },
       "lastActive": {
         "$date": "2025-11-26T06:41:42.005Z"
+      }
+    },
+    {
+      "userId": 6800215259,
+      "username": "Wawapt2",
+      "firstName": "𝐖𝐚𝐰𝐚𝐃𝐢𝐦𝐚𝐫𝐢𝐢 𝟗𝟏𝟏",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T06:42:55.560Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T06:42:55.560Z"
+      }
+    },
+    {
+      "userId": 8519432911,
+      "firstName": "Kkk",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T06:42:58.980Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T06:42:58.980Z"
       }
     }
   ],
