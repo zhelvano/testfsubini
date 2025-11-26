@@ -33502,6 +33502,20 @@
       "lastActive": {
         "$date": "2025-11-26T06:51:30.914Z"
       }
+    },
+    {
+      "userId": 8200821188,
+      "firstName": "mang",
+      "lastName": "nokos",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T07:01:35.857Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T07:01:35.857Z"
+      }
     }
   ],
   "groups": [
