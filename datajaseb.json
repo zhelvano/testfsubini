@@ -102,7 +102,7 @@
         "$oid": "69220d0eaef6a7e5a036624b"
       },
       "userId": 8105447127,
-      "firstName": "Second Rim",
+      "firstName": "Assistant Rim",
       "groupsAdded": [
         -1002548089026,
         -1003482156792
@@ -113,7 +113,7 @@
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T22:12:43.405Z"
+        "$date": "2025-11-26T04:54:00.082Z"
       },
       "username": "RlMZOHUN",
       "premiumSince": {
@@ -32868,6 +32868,20 @@
       },
       "lastActive": {
         "$date": "2025-11-26T04:51:33.197Z"
+      }
+    },
+    {
+      "userId": 8251386873,
+      "firstName": "Já",
+      "lastName": "Caljus",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T04:53:45.490Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T04:53:45.494Z"
       }
     }
   ],
