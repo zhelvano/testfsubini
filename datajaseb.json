@@ -36171,6 +36171,20 @@
       "lastActive": {
         "$date": "2025-11-26T18:35:15.326Z"
       }
+    },
+    {
+      "userId": 8342013362,
+      "username": "damjerrrr",
+      "firstName": "adam",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T18:37:07.512Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T18:37:07.512Z"
+      }
     }
   ],
   "groups": [
