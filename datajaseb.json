@@ -32301,6 +32301,21 @@
       "lastActive": {
         "$date": "2025-11-26T01:33:11.543Z"
       }
+    },
+    {
+      "userId": 1651012001,
+      "username": "RN_ahmedsarih",
+      "firstName": "Ahmed",
+      "lastName": "Sarih",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T01:34:38.839Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T01:34:38.839Z"
+      }
     }
   ],
   "groups": [
