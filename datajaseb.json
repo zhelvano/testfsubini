@@ -35593,6 +35593,20 @@
       "lastActive": {
         "$date": "2025-11-26T14:38:33.567Z"
       }
+    },
+    {
+      "userId": 5693525084,
+      "firstName": "rii",
+      "lastName": "nokoss",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T14:40:04.896Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T14:40:04.897Z"
+      }
     }
   ],
   "groups": [
