@@ -33628,6 +33628,20 @@
       "lastActive": {
         "$date": "2025-11-26T07:15:03.481Z"
       }
+    },
+    {
+      "userId": 570977114,
+      "username": "BCCBGG",
+      "firstName": "Yasser",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T07:17:26.425Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T07:17:26.425Z"
+      }
     }
   ],
   "groups": [
