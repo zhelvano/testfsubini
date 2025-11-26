@@ -25061,7 +25061,7 @@
         "$date": "2025-11-25T07:50:00.216Z"
       },
       "lastActive": {
-        "$date": "2025-11-26T06:43:12.873Z"
+        "$date": "2025-11-26T07:20:54.766Z"
       }
     },
     {
@@ -33669,6 +33669,33 @@
       },
       "lastActive": {
         "$date": "2025-11-26T07:18:53.784Z"
+      }
+    },
+    {
+      "userId": 8043490316,
+      "firstName": "Ziad",
+      "lastName": "Mo7ammed",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T07:20:50.112Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T07:20:50.112Z"
+      }
+    },
+    {
+      "userId": 8322045340,
+      "firstName": "𝖒𝖆𝖓𝖟𝖟 𝖘𝖆𝖙𝖔𝖗𝖚⁠⁠",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T07:20:57.467Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T07:20:57.468Z"
       }
     }
   ],
