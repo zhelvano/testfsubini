@@ -32175,6 +32175,20 @@
       "lastActive": {
         "$date": "2025-11-26T00:41:30.129Z"
       }
+    },
+    {
+      "userId": 8182264753,
+      "username": "sayangsakitt",
+      "firstName": "gilang",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T00:48:08.746Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T00:48:08.746Z"
+      }
     }
   ],
   "groups": [
