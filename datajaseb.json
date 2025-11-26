@@ -32415,6 +32415,20 @@
       "lastActive": {
         "$date": "2025-11-26T02:27:01.864Z"
       }
+    },
+    {
+      "userId": 7607542081,
+      "username": "SEBASXIT",
+      "firstName": "ok bye",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T02:42:26.457Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T02:42:26.463Z"
+      }
     }
   ],
   "groups": [
