@@ -32020,6 +32020,20 @@
       "lastActive": {
         "$date": "2025-11-25T23:59:18.499Z"
       }
+    },
+    {
+      "userId": 6309625042,
+      "username": "znif_k",
+      "firstName": "znif",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T00:02:04.230Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T00:02:04.233Z"
+      }
     }
   ],
   "groups": [
