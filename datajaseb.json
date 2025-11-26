@@ -36157,6 +36157,20 @@
       "lastActive": {
         "$date": "2025-11-26T18:33:51.812Z"
       }
+    },
+    {
+      "userId": 6722931598,
+      "username": "J15RDN",
+      "firstName": "JERDN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T18:35:15.326Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T18:35:15.326Z"
+      }
     }
   ],
   "groups": [
