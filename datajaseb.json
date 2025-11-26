@@ -32614,6 +32614,21 @@
       "lastActive": {
         "$date": "2025-11-26T03:37:59.151Z"
       }
+    },
+    {
+      "userId": 7686174531,
+      "username": "Jamalakie68",
+      "firstName": "Gmna",
+      "lastName": "Jjja",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T03:39:03.640Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T03:39:03.640Z"
+      }
     }
   ],
   "groups": [
