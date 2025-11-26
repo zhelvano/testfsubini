@@ -32883,6 +32883,20 @@
       "lastActive": {
         "$date": "2025-11-26T04:53:45.494Z"
       }
+    },
+    {
+      "userId": 8518181690,
+      "firstName": "Amir",
+      "lastName": "Amir Jamali",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T04:55:55.647Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T04:55:55.647Z"
+      }
     }
   ],
   "groups": [
