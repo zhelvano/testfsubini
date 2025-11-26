@@ -32911,6 +32911,21 @@
       "lastActive": {
         "$date": "2025-11-26T05:01:51.344Z"
       }
+    },
+    {
+      "userId": 6746603747,
+      "username": "Haseeb_444_Habibi",
+      "firstName": "𝑯𝒂𝒔𝒆𝒆𝒃",
+      "lastName": "𝑯𝒂𝒃𝒊𝒃𝒊",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:03:56.742Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:03:56.745Z"
+      }
     }
   ],
   "groups": [
