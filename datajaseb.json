@@ -32275,6 +32275,19 @@
       "lastActive": {
         "$date": "2025-11-26T01:30:05.223Z"
       }
+    },
+    {
+      "userId": 7403164399,
+      "firstName": "KAYANI",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T01:31:50.396Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T01:31:50.396Z"
+      }
     }
   ],
   "groups": [
