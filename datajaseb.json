@@ -36353,6 +36353,20 @@
       "lastActive": {
         "$date": "2025-11-26T19:57:01.554Z"
       }
+    },
+    {
+      "userId": 8392651815,
+      "username": "Z_SY_Z",
+      "firstName": "زكريا الحسكاوي​​",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T20:02:17.656Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T20:02:17.656Z"
+      }
     }
   ],
   "groups": [
