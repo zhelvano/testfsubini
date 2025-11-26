@@ -14997,7 +14997,7 @@
         "$date": "2025-11-23T22:31:24.360Z"
       },
       "lastActive": {
-        "$date": "2025-11-26T15:18:34.262Z"
+        "$date": "2025-11-26T15:19:07.514Z"
       }
     },
     {
@@ -35731,6 +35731,21 @@
       },
       "lastActive": {
         "$date": "2025-11-26T15:15:20.354Z"
+      }
+    },
+    {
+      "userId": 6780617193,
+      "username": "James59043",
+      "firstName": "James",
+      "lastName": "Oliver",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T15:19:05.577Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T15:19:05.578Z"
       }
     }
   ],
