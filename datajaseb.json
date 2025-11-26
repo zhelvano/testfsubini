@@ -34878,6 +34878,20 @@
       "lastActive": {
         "$date": "2025-11-26T12:24:06.821Z"
       }
+    },
+    {
+      "userId": 8381849774,
+      "username": "imortaldxk",
+      "firstName": "AxellBySby(4)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:24:18.957Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:24:18.958Z"
+      }
     }
   ],
   "groups": [
