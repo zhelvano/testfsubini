@@ -33147,6 +33147,21 @@
       "lastActive": {
         "$date": "2025-11-26T05:46:21.935Z"
       }
+    },
+    {
+      "userId": 5282634425,
+      "username": "nirobt1",
+      "firstName": "Nazmul",
+      "lastName": "Islam Nirob",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:48:03.177Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:48:03.180Z"
+      }
     }
   ],
   "groups": [
