@@ -34764,6 +34764,20 @@
       "lastActive": {
         "$date": "2025-11-26T11:54:12.526Z"
       }
+    },
+    {
+      "userId": 6936535011,
+      "firstName": "Khodadad",
+      "lastName": "Hossaini",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T11:55:59.236Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T11:55:59.236Z"
+      }
     }
   ],
   "groups": [
