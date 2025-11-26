@@ -35705,6 +35705,19 @@
       "lastActive": {
         "$date": "2025-11-26T15:06:44.745Z"
       }
+    },
+    {
+      "userId": 8244592908,
+      "firstName": "𝑁𝐴𝑆𝐼𝑅 𝑆𝐻𝐴𝑅𝐼𝐹𝐼",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T15:13:00.785Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T15:13:00.785Z"
+      }
     }
   ],
   "groups": [
