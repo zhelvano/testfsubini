@@ -35973,6 +35973,20 @@
       "lastActive": {
         "$date": "2025-11-26T17:17:27.602Z"
       }
+    },
+    {
+      "userId": 8459641512,
+      "username": "guanjaia",
+      "firstName": "Gunawan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T17:20:23.723Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T17:20:23.723Z"
+      }
     }
   ],
   "groups": [
