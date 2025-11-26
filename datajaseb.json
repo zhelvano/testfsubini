@@ -32344,6 +32344,20 @@
       "lastActive": {
         "$date": "2025-11-26T01:54:07.193Z"
       }
+    },
+    {
+      "userId": 7818843082,
+      "username": "DEWISTOR1",
+      "firstName": "DEWI KUMBANG || ASMODEUS",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T01:56:45.892Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T01:56:45.896Z"
+      }
     }
   ],
   "groups": [
