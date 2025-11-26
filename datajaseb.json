@@ -34948,6 +34948,20 @@
       "lastActive": {
         "$date": "2025-11-26T12:28:31.928Z"
       }
+    },
+    {
+      "userId": 7799570767,
+      "username": "ibuluscams",
+      "firstName": "xin ⛥ #curtycals",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:29:36.951Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:29:36.951Z"
+      }
     }
   ],
   "groups": [
