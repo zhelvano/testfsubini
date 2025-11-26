@@ -35298,6 +35298,20 @@
       "lastActive": {
         "$date": "2025-11-26T13:47:04.965Z"
       }
+    },
+    {
+      "userId": 7794030017,
+      "username": "BimbimmStoree",
+      "firstName": "𝘽𝙞𝙢𝙗𝙞𝙢 𝙎𝙩𝙤𝙧𝙚𝙚",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:48:27.818Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:48:27.818Z"
+      }
     }
   ],
   "groups": [
