@@ -35648,6 +35648,21 @@
       "lastActive": {
         "$date": "2025-11-26T14:43:52.025Z"
       }
+    },
+    {
+      "userId": 7257266323,
+      "username": "darzss1",
+      "firstName": "presiden",
+      "lastName": "inad",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T14:44:30.885Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T14:44:30.885Z"
+      }
     }
   ],
   "groups": [
