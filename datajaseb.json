@@ -32685,6 +32685,20 @@
       "lastActive": {
         "$date": "2025-11-26T03:56:44.580Z"
       }
+    },
+    {
+      "userId": 7613336697,
+      "username": "Bagusbruhh",
+      "firstName": "⏤͟͟͞͞𝐕𝐓𝐗 || 𝐁𝐚𝐠𝐮𝐬𝐬` 🇮🇩",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T04:09:32.338Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T04:09:32.342Z"
+      }
     }
   ],
   "groups": [
