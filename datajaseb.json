@@ -33176,6 +33176,21 @@
       "lastActive": {
         "$date": "2025-11-26T05:54:13.117Z"
       }
+    },
+    {
+      "userId": 8042857277,
+      "username": "Udinlezen",
+      "firstName": "𝙐𝘿𝙄𝙉",
+      "lastName": "ꭙ͢ 𝙱𝚁𝙴𝙰𝙺𝙱𝙴𝙰𝚃 ♛",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:56:24.148Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:56:24.148Z"
+      }
     }
   ],
   "groups": [
