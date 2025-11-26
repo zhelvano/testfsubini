@@ -32500,6 +32500,20 @@
       "lastActive": {
         "$date": "2025-11-26T03:03:18.232Z"
       }
+    },
+    {
+      "userId": 7664831484,
+      "username": "kangkung966",
+      "firstName": "avied",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T03:04:20.566Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T03:04:20.570Z"
+      }
     }
   ],
   "groups": [
