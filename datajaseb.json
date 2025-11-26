@@ -33882,6 +33882,20 @@
       "lastActive": {
         "$date": "2025-11-26T08:29:14.004Z"
       }
+    },
+    {
+      "userId": 7824908083,
+      "username": "KACONKHERI",
+      "firstName": "Kaconk",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T08:37:47.469Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T08:37:47.478Z"
+      }
     }
   ],
   "groups": [
