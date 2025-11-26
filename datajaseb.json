@@ -36506,6 +36506,21 @@
       "lastActive": {
         "$date": "2025-11-26T21:22:49.684Z"
       }
+    },
+    {
+      "userId": 7543463805,
+      "username": "Amsarus4",
+      "firstName": "Abdullahi",
+      "lastName": "Ahmad",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T21:22:55.724Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T21:22:55.724Z"
+      }
     }
   ],
   "groups": [
