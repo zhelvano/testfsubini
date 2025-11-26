@@ -35034,6 +35034,20 @@
       "lastActive": {
         "$date": "2025-11-26T12:39:16.816Z"
       }
+    },
+    {
+      "userId": 8240264043,
+      "username": "rafkawangsa",
+      "firstName": "RAFKA WANGSA",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:44:56.145Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:44:56.145Z"
+      }
     }
   ],
   "groups": [
