@@ -33375,6 +33375,20 @@
       "lastActive": {
         "$date": "2025-11-26T06:34:34.643Z"
       }
+    },
+    {
+      "userId": 8313854058,
+      "firstName": "It'sOnlyMe X",
+      "lastName": "Rez",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T06:37:48.655Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T06:37:48.655Z"
+      }
     }
   ],
   "groups": [
