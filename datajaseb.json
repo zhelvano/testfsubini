@@ -33132,6 +33132,21 @@
       "lastActive": {
         "$date": "2025-11-26T05:43:58.573Z"
       }
+    },
+    {
+      "userId": 6650367535,
+      "username": "LanzzzDnz",
+      "firstName": "LANZ",
+      "lastName": "DNZ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T05:45:46.523Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T05:46:14.769Z"
+      }
     }
   ],
   "groups": [
