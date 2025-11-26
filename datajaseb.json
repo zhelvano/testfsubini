@@ -35062,6 +35062,35 @@
       "lastActive": {
         "$date": "2025-11-26T12:49:06.071Z"
       }
+    },
+    {
+      "userId": 6553554739,
+      "username": "Biplob2274",
+      "firstName": "MD💲",
+      "lastName": "BIPLOB📱",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:54:35.658Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:54:35.658Z"
+      }
+    },
+    {
+      "userId": 8139250910,
+      "username": "Danidamiel",
+      "firstName": "dani",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T12:54:40.759Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T12:54:40.759Z"
+      }
     }
   ],
   "groups": [
