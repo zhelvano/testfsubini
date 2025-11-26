@@ -35187,6 +35187,20 @@
       "lastActive": {
         "$date": "2025-11-26T13:18:30.249Z"
       }
+    },
+    {
+      "userId": 7344842796,
+      "username": "caanzzzz",
+      "firstName": "𝗚𝗟𝗫 || ⏤͟͟͞͞CANZ 𝟵𝟵𝟵",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T13:23:56.375Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T13:23:56.375Z"
+      }
     }
   ],
   "groups": [
