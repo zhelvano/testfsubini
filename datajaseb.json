@@ -35509,6 +35509,21 @@
       "lastActive": {
         "$date": "2025-11-26T14:22:21.927Z"
       }
+    },
+    {
+      "userId": 6632004737,
+      "username": "yudiwardanaa",
+      "firstName": "Yudi",
+      "lastName": "Wardana",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-26T14:26:02.093Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-26T14:26:02.093Z"
+      }
     }
   ],
   "groups": [
