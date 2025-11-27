@@ -8476,7 +8476,7 @@
         "$date": "2025-11-23T06:55:12.589000Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T10:55:55.981Z"
+        "$date": "2025-11-27T10:56:18.992Z"
       }
     },
     {
@@ -39463,6 +39463,21 @@
       },
       "lastActive": {
         "$date": "2025-11-27T10:54:55.630Z"
+      }
+    },
+    {
+      "userId": 7887542937,
+      "username": "skondegay81",
+      "firstName": "SKONDEGAY",
+      "lastName": "14",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:56:10.690Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:56:10.690Z"
       }
     }
   ],
