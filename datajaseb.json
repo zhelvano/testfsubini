@@ -37247,6 +37247,20 @@
       "lastActive": {
         "$date": "2025-11-27T02:09:17.186Z"
       }
+    },
+    {
+      "userId": 7963652273,
+      "username": "ZXCTRTY",
+      "firstName": "Zxct",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T02:10:10.227Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T02:10:10.227Z"
+      }
     }
   ],
   "groups": [
