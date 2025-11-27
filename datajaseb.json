@@ -41012,6 +41012,20 @@
       "lastActive": {
         "$date": "2025-11-27T16:04:20.981Z"
       }
+    },
+    {
+      "userId": 8168028190,
+      "firstName": "محمود",
+      "lastName": "رخسار",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T16:06:27.301Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T16:06:27.301Z"
+      }
     }
   ],
   "groups": [
