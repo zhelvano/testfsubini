@@ -40131,6 +40131,21 @@
       "lastActive": {
         "$date": "2025-11-27T12:43:09.159Z"
       }
+    },
+    {
+      "userId": 2044439862,
+      "username": "aquariusnm",
+      "firstName": "prn",
+      "lastName": "🐾",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:49:27.293Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:49:27.297Z"
+      }
     }
   ],
   "groups": [
