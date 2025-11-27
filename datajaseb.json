@@ -41124,6 +41124,20 @@
       "lastActive": {
         "$date": "2025-11-27T16:28:54.870Z"
       }
+    },
+    {
+      "userId": 7944310138,
+      "username": "asepknalpotbocor",
+      "firstName": "Asep",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T16:29:37.867Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T16:29:37.867Z"
+      }
     }
   ],
   "groups": [
