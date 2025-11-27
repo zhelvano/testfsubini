@@ -40334,6 +40334,20 @@
       "lastActive": {
         "$date": "2025-11-27T13:26:19.855Z"
       }
+    },
+    {
+      "userId": 5627795219,
+      "firstName": "الـتـركي",
+      "lastName": "حـفـظـه الله",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T13:28:14.697Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T13:28:14.697Z"
+      }
     }
   ],
   "groups": [
