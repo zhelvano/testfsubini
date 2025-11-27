@@ -37147,6 +37147,21 @@
       "lastActive": {
         "$date": "2025-11-27T01:46:56.449Z"
       }
+    },
+    {
+      "userId": 7636068163,
+      "username": "Haris_lee",
+      "firstName": "haris",
+      "lastName": "lii",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:50:10.851Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:50:10.851Z"
+      }
     }
   ],
   "groups": [
