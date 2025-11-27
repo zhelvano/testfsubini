@@ -41222,6 +41222,20 @@
       "lastActive": {
         "$date": "2025-11-27T16:40:33.057Z"
       }
+    },
+    {
+      "userId": 5981016823,
+      "firstName": "عبدالرقيب",
+      "lastName": "الحاج",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T16:49:40.101Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T16:49:40.108Z"
+      }
     }
   ],
   "groups": [
