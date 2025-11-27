@@ -42034,6 +42034,21 @@
       "lastActive": {
         "$date": "2025-11-27T19:57:48.470Z"
       }
+    },
+    {
+      "userId": 6029012460,
+      "username": "Shahabdin_moahad",
+      "firstName": "ᷧᷚㅤ‼ ️Ꭾʀɪ፝֟ɴᴄᴇㅤ",
+      "lastName": "𝟒𝐤 ᥫ᭡",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T20:06:34.139Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T20:06:34.144Z"
+      }
     }
   ],
   "groups": [
