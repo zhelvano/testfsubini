@@ -37388,6 +37388,20 @@
       "lastActive": {
         "$date": "2025-11-27T02:30:39.510Z"
       }
+    },
+    {
+      "userId": 7530353091,
+      "username": "alwayslotsoo",
+      "firstName": "—Alwàys Lotso.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T02:30:54.988Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T02:30:54.988Z"
+      }
     }
   ],
   "groups": [
