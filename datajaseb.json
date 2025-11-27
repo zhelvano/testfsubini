@@ -41179,6 +41179,20 @@
       "lastActive": {
         "$date": "2025-11-27T16:35:46.114Z"
       }
+    },
+    {
+      "userId": 7300624842,
+      "firstName": "Hemawan",
+      "lastName": "Putra",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T16:37:46.118Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T16:37:46.118Z"
+      }
     }
   ],
   "groups": [
