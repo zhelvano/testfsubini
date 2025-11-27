@@ -39806,6 +39806,19 @@
       "lastActive": {
         "$date": "2025-11-27T12:00:15.684Z"
       }
+    },
+    {
+      "userId": 6767424192,
+      "firstName": "agus",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:09:30.838Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:09:30.853Z"
+      }
     }
   ],
   "groups": [
