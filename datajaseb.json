@@ -40955,6 +40955,20 @@
       "lastActive": {
         "$date": "2025-11-27T15:45:52.556Z"
       }
+    },
+    {
+      "userId": 7476194064,
+      "username": "Langzz31x",
+      "firstName": "𝐿𝒶𝓃𝑔𝓏𝓏𝐻𝑒𝓇𝑒𝑒",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:54:06.106Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:54:06.113Z"
+      }
     }
   ],
   "groups": [
