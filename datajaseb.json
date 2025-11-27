@@ -41951,6 +41951,20 @@
       "lastActive": {
         "$date": "2025-11-27T19:25:39.632Z"
       }
+    },
+    {
+      "userId": 6955946578,
+      "username": "F4w46",
+      "firstName": "JiiiiiiiN 😈",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T19:28:06.437Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T19:28:06.437Z"
+      }
     }
   ],
   "groups": [
