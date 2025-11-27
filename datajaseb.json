@@ -40292,6 +40292,20 @@
       "lastActive": {
         "$date": "2025-11-27T13:14:07.115Z"
       }
+    },
+    {
+      "userId": 6433987575,
+      "username": "licthfs04",
+      "firstName": "𝐥𝐢𝐜𝐭𝐡,𝐤𝐢𝐤𝐢 𝐢𝐬 𝐦𝐢𝐧𝐞, 𝐔𝐂𝐋",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T13:21:32.557Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T13:21:32.562Z"
+      }
     }
   ],
   "groups": [
