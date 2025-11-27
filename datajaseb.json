@@ -38786,6 +38786,20 @@
       "lastActive": {
         "$date": "2025-11-27T08:41:04.507Z"
       }
+    },
+    {
+      "userId": 7764060906,
+      "username": "Spongbobeban",
+      "firstName": "⏤͟͟͞͞𝗫𝗬𝗟𝗘𝗡𝗧 Orang",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T08:49:15.972Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T08:49:15.976Z"
+      }
     }
   ],
   "groups": [
