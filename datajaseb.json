@@ -38109,6 +38109,20 @@
       "lastActive": {
         "$date": "2025-11-27T05:27:40.687Z"
       }
+    },
+    {
+      "userId": 5132852959,
+      "username": "kim66661",
+      "firstName": "KIM",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T05:42:30.096Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T05:42:30.096Z"
+      }
     }
   ],
   "groups": [
