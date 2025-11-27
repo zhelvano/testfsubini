@@ -37075,6 +37075,20 @@
       "lastActive": {
         "$date": "2025-11-27T01:41:49.101Z"
       }
+    },
+    {
+      "userId": 7056236135,
+      "username": "STARKxKESARI",
+      "firstName": "⏤͟͟͞͞『𝐒𝐓𝐀𝐑𝐊』➢ • ❰𝐊𝐄𝐒𝐀𝐑𝐈❱",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:42:27.328Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:42:27.328Z"
+      }
     }
   ],
   "groups": [
