@@ -40405,6 +40405,21 @@
       "lastActive": {
         "$date": "2025-11-27T13:44:37.297Z"
       }
+    },
+    {
+      "userId": 7876810926,
+      "username": "Ameenumansur",
+      "firstName": "🐾",
+      "lastName": "Shuaibu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T13:49:13.758Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T13:49:13.758Z"
+      }
     }
   ],
   "groups": [
