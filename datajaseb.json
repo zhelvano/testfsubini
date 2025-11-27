@@ -19,7 +19,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T12:05:51.175Z"
+        "$date": "2025-11-27T23:17:33.155Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -13501,7 +13501,7 @@
         "$date": "2025-11-23T16:14:27.376Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T16:14:27.376Z"
+        "$date": "2025-11-27T23:17:42.797Z"
       }
     },
     {
@@ -34150,7 +34150,7 @@
         "$date": "2025-11-26T11:50:48.378Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T03:58:40.139Z"
+        "$date": "2025-11-27T23:17:33.152Z"
       }
     },
     {
@@ -42497,6 +42497,63 @@
       },
       "lastActive": {
         "$date": "2025-11-27T23:04:35.949Z"
+      }
+    },
+    {
+      "userId": 7644275662,
+      "username": "ALLA2537",
+      "firstName": "Alla",
+      "lastName": "Alla",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T23:17:33.150Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T23:17:33.151Z"
+      }
+    },
+    {
+      "userId": 6338941886,
+      "username": "vzoes",
+      "firstName": "tan?",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T23:17:33.151Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T23:17:33.151Z"
+      }
+    },
+    {
+      "userId": 8496002450,
+      "firstName": "نیزمامحد",
+      "lastName": "نیزمامحد",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T23:17:33.152Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T23:17:33.152Z"
+      }
+    },
+    {
+      "userId": 1860773945,
+      "username": "abdubadawi",
+      "firstName": "A",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T23:17:33.152Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T23:17:33.152Z"
       }
     }
   ],
