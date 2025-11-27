@@ -37786,6 +37786,20 @@
       "lastActive": {
         "$date": "2025-11-27T03:58:37.989Z"
       }
+    },
+    {
+      "userId": 1896591303,
+      "username": "zakisky",
+      "firstName": "⏤͟͟͞͞ 𝐑𝐕𝐍𝐓 || ⏤͟͟͞͞Xv7 || kayy pfftt",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T03:59:56.737Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T03:59:56.737Z"
+      }
     }
   ],
   "groups": [
