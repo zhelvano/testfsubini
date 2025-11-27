@@ -38701,6 +38701,20 @@
       "lastActive": {
         "$date": "2025-11-27T08:13:36.039Z"
       }
+    },
+    {
+      "userId": 8424678975,
+      "username": "hdbrub",
+      "firstName": "⁯ ⁯",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T08:15:53.430Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T08:15:53.436Z"
+      }
     }
   ],
   "groups": [
