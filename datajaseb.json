@@ -38281,6 +38281,20 @@
       "lastActive": {
         "$date": "2025-11-27T06:23:55.601Z"
       }
+    },
+    {
+      "userId": 8205386432,
+      "username": "gaystecu",
+      "firstName": "ibnu🥶",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T06:24:49.181Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T06:24:49.181Z"
+      }
     }
   ],
   "groups": [
