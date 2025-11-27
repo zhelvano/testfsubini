@@ -40176,6 +40176,21 @@
       "lastActive": {
         "$date": "2025-11-27T12:59:08.458Z"
       }
+    },
+    {
+      "userId": 6877868182,
+      "username": "roti_bakar_coklat",
+      "firstName": "𝐇𝐚𝐛𝐢𝐛𝐢",
+      "lastName": "|| 𝗩𝗼𝗿𝘁𝗲𝘅𝘇 7",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:59:50.971Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:59:50.971Z"
+      }
     }
   ],
   "groups": [
