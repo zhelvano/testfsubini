@@ -40814,6 +40814,21 @@
       "lastActive": {
         "$date": "2025-11-27T15:17:08.878Z"
       }
+    },
+    {
+      "userId": 6502792343,
+      "username": "HMNH515",
+      "firstName": "ابو",
+      "lastName": "موسى",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:21:26.048Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:21:26.048Z"
+      }
     }
   ],
   "groups": [
