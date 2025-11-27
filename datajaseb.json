@@ -36820,6 +36820,20 @@
       "lastActive": {
         "$date": "2025-11-27T00:47:32.770Z"
       }
+    },
+    {
+      "userId": 7683546733,
+      "username": "kikiki13579",
+      "firstName": "kinam",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T00:56:42.124Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T00:56:42.124Z"
+      }
     }
   ],
   "groups": [
