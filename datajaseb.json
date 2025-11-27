@@ -39578,6 +39578,20 @@
       "lastActive": {
         "$date": "2025-11-27T11:14:58.575Z"
       }
+    },
+    {
+      "userId": 7185978316,
+      "username": "Herdeymhi",
+      "firstName": "Herdeymhidey💙🌹",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T11:20:17.250Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T11:20:17.250Z"
+      }
     }
   ],
   "groups": [
