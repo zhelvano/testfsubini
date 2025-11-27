@@ -42346,6 +42346,20 @@
       "lastActive": {
         "$date": "2025-11-27T21:56:48.862Z"
       }
+    },
+    {
+      "userId": 6642671873,
+      "firstName": "AYham",
+      "lastName": "Yazje",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T21:56:59.589Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T21:56:59.589Z"
+      }
     }
   ],
   "groups": [
