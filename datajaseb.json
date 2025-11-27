@@ -37924,6 +37924,21 @@
       "lastActive": {
         "$date": "2025-11-27T04:19:18.433Z"
       }
+    },
+    {
+      "userId": 7400526278,
+      "username": "lubnarehman",
+      "firstName": "Lubna",
+      "lastName": "Rehman",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T04:24:28.353Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T04:24:28.353Z"
+      }
     }
   ],
   "groups": [
