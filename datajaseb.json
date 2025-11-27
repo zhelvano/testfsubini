@@ -42360,6 +42360,20 @@
       "lastActive": {
         "$date": "2025-11-27T21:56:59.589Z"
       }
+    },
+    {
+      "userId": 5505230145,
+      "firstName": "mahmoud",
+      "lastName": "yasser",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T21:58:14.129Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T21:58:14.132Z"
+      }
     }
   ],
   "groups": [
