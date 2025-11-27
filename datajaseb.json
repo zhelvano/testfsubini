@@ -39691,6 +39691,19 @@
       "lastActive": {
         "$date": "2025-11-27T11:42:14.742Z"
       }
+    },
+    {
+      "userId": 5808162731,
+      "firstName": "Nawal",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T11:45:16.170Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T11:45:16.170Z"
+      }
     }
   ],
   "groups": [
