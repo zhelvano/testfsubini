@@ -38645,6 +38645,20 @@
       "lastActive": {
         "$date": "2025-11-27T07:53:43.335Z"
       }
+    },
+    {
+      "userId": 7529614994,
+      "username": "danzzstecuu",
+      "firstName": "⏤͟͟𝙭𝙥 || 𝘿𝙖𝙣𝙯𝙯",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T08:08:31.499Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T08:08:44.874Z"
+      }
     }
   ],
   "groups": [
