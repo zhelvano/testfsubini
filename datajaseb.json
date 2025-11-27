@@ -41166,6 +41166,19 @@
       "lastActive": {
         "$date": "2025-11-27T16:34:18.808Z"
       }
+    },
+    {
+      "userId": 7632982056,
+      "firstName": "『CR7ツ』",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T16:35:46.114Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T16:35:46.114Z"
+      }
     }
   ],
   "groups": [
