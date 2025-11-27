@@ -36790,6 +36790,21 @@
       "lastActive": {
         "$date": "2025-11-27T00:36:38.133Z"
       }
+    },
+    {
+      "userId": 7913163626,
+      "username": "pppbuh",
+      "firstName": "Jjg",
+      "lastName": "Vbf",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T00:39:40.813Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T00:39:40.813Z"
+      }
     }
   ],
   "groups": [
