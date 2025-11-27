@@ -40449,6 +40449,20 @@
       "lastActive": {
         "$date": "2025-11-27T13:52:22.540Z"
       }
+    },
+    {
+      "userId": 6534614475,
+      "username": "rem_onyourm_ark",
+      "firstName": "natt",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T14:06:13.841Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T14:06:13.841Z"
+      }
     }
   ],
   "groups": [
