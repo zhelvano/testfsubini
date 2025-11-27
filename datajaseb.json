@@ -39734,6 +39734,20 @@
       "lastActive": {
         "$date": "2025-11-27T11:52:26.724Z"
       }
+    },
+    {
+      "userId": 8266708828,
+      "firstName": "irpzz_panzz",
+      "lastName": "z",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T11:55:09.059Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T11:55:09.063Z"
+      }
     }
   ],
   "groups": [
