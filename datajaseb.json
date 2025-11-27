@@ -39523,6 +39523,20 @@
       "lastActive": {
         "$date": "2025-11-27T11:01:01.496Z"
       }
+    },
+    {
+      "userId": 5752809035,
+      "username": "chocholate_19",
+      "firstName": "ᯓ𝐜𝐡𝐨𝐜𝐡𝐨𝐥𝐚𝐭𝐞",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T11:06:02.168Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T11:06:02.171Z"
+      }
     }
   ],
   "groups": [
