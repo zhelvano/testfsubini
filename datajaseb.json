@@ -42318,6 +42318,20 @@
       "lastActive": {
         "$date": "2025-11-27T21:54:50.436Z"
       }
+    },
+    {
+      "userId": 5678193682,
+      "username": "ciboyyz",
+      "firstName": "@ciboyyz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T21:56:00.496Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T21:56:00.496Z"
+      }
     }
   ],
   "groups": [
