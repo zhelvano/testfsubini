@@ -37487,6 +37487,21 @@
       "lastActive": {
         "$date": "2025-11-27T02:39:42.114Z"
       }
+    },
+    {
+      "userId": 8382533669,
+      "username": "bvtwl",
+      "firstName": "✞",
+      "lastName": "@𝐂𝐇𝐈𝐍𝐆𝐀𝐍𝐃𝐎",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T02:42:35.165Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T02:42:35.165Z"
+      }
     }
   ],
   "groups": [
