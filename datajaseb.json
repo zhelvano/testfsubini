@@ -41306,6 +41306,20 @@
       "lastActive": {
         "$date": "2025-11-27T17:02:36.602Z"
       }
+    },
+    {
+      "userId": 7121902290,
+      "username": "kepohehe33",
+      "firstName": "...",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T17:12:17.370Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T17:12:17.375Z"
+      }
     }
   ],
   "groups": [
