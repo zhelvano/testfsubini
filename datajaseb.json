@@ -37233,6 +37233,20 @@
       "lastActive": {
         "$date": "2025-11-27T02:08:19.023Z"
       }
+    },
+    {
+      "userId": 5604689637,
+      "username": "Siam0247",
+      "firstName": "Siam islam 🫂",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T02:09:17.186Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T02:09:17.186Z"
+      }
     }
   ],
   "groups": [
