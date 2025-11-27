@@ -38207,6 +38207,21 @@
       "lastActive": {
         "$date": "2025-11-27T05:57:54.171Z"
       }
+    },
+    {
+      "userId": 8434276084,
+      "username": "dewasix",
+      "firstName": "ㅤ",
+      "lastName": "dewadkk ð",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T06:10:03.812Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T06:10:03.812Z"
+      }
     }
   ],
   "groups": [
