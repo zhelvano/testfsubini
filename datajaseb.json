@@ -41348,6 +41348,21 @@
       "lastActive": {
         "$date": "2025-11-27T17:14:25.565Z"
       }
+    },
+    {
+      "userId": 2014186505,
+      "username": "CPAPROMAN",
+      "firstName": "khalid",
+      "lastName": "maroc",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T17:17:17.983Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T17:17:17.983Z"
+      }
     }
   ],
   "groups": [
