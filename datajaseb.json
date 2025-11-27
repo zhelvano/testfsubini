@@ -38068,6 +38068,19 @@
       "lastActive": {
         "$date": "2025-11-27T05:20:56.583Z"
       }
+    },
+    {
+      "userId": 6566884090,
+      "firstName": "arie",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T05:21:50.886Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T05:21:50.886Z"
+      }
     }
   ],
   "groups": [
