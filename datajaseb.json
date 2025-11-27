@@ -40984,6 +40984,20 @@
       "lastActive": {
         "$date": "2025-11-27T15:56:07.018Z"
       }
+    },
+    {
+      "userId": 7257954652,
+      "username": "ganzunbanned",
+      "firstName": "蕭Ga",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:56:43.189Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:56:43.189Z"
+      }
     }
   ],
   "groups": [
