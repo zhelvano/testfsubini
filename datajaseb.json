@@ -40234,6 +40234,21 @@
       "lastActive": {
         "$date": "2025-11-27T13:09:11.441Z"
       }
+    },
+    {
+      "userId": 8037330465,
+      "username": "Kennox4",
+      "firstName": "Kennox",
+      "lastName": "Kenoox",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T13:09:55.899Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T13:09:55.899Z"
+      }
     }
   ],
   "groups": [
