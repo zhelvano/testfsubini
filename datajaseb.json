@@ -37701,6 +37701,21 @@
       "lastActive": {
         "$date": "2025-11-27T03:46:29.128Z"
       }
+    },
+    {
+      "userId": 5119798083,
+      "username": "BlaackSh33p",
+      "firstName": "Black",
+      "lastName": "Sheep",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T03:48:30.773Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T03:48:30.773Z"
+      }
     }
   ],
   "groups": [
