@@ -40843,6 +40843,19 @@
       "lastActive": {
         "$date": "2025-11-27T15:22:13.843Z"
       }
+    },
+    {
+      "userId": 7923365617,
+      "firstName": "HajeAlhambpefarwa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:26:33.761Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:26:33.761Z"
+      }
     }
   ],
   "groups": [
