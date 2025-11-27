@@ -38870,6 +38870,19 @@
       "lastActive": {
         "$date": "2025-11-27T08:55:20.621Z"
       }
+    },
+    {
+      "userId": 7723074297,
+      "firstName": "Akun terhapus",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T09:13:03.443Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T09:13:03.443Z"
+      }
     }
   ],
   "groups": [
