@@ -37360,6 +37360,20 @@
       "lastActive": {
         "$date": "2025-11-27T02:24:21.664Z"
       }
+    },
+    {
+      "userId": 7609231748,
+      "username": "rendi_102",
+      "firstName": "...",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T02:24:52.789Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T02:24:52.789Z"
+      }
     }
   ],
   "groups": [
