@@ -39308,6 +39308,50 @@
       "lastActive": {
         "$date": "2025-11-27T10:33:04.550Z"
       }
+    },
+    {
+      "userId": 6793673045,
+      "username": "PapzZ_19",
+      "firstName": "Papzzz",
+      "lastName": "_19",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:34:33.041Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:34:33.041Z"
+      }
+    },
+    {
+      "userId": 6575966727,
+      "username": "Amjad_ali_77",
+      "firstName": "🆉🅰🅼🅸🅽",
+      "lastName": "🅰🅻🅸",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:34:40.711Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:34:40.711Z"
+      }
+    },
+    {
+      "userId": 8580810527,
+      "username": "ali_x1337",
+      "firstName": "Ali",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:34:49.928Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:34:49.928Z"
+      }
     }
   ],
   "groups": [
