@@ -41111,6 +41111,19 @@
       "lastActive": {
         "$date": "2025-11-27T16:24:35.403Z"
       }
+    },
+    {
+      "userId": 6338506726,
+      "firstName": "LYN Sindo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T16:28:54.870Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T16:28:54.870Z"
+      }
     }
   ],
   "groups": [
