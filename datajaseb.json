@@ -40787,6 +40787,20 @@
       "lastActive": {
         "$date": "2025-11-27T15:06:55.062Z"
       }
+    },
+    {
+      "userId": 8095257972,
+      "firstName": "Fahron",
+      "lastName": "Ganz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:11:03.112Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:11:03.112Z"
+      }
     }
   ],
   "groups": [
