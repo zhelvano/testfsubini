@@ -41475,6 +41475,20 @@
       "lastActive": {
         "$date": "2025-11-27T17:31:02.169Z"
       }
+    },
+    {
+      "userId": 666040549,
+      "username": "Wadea2023",
+      "firstName": "Wadea",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T17:34:11.907Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T17:34:11.912Z"
+      }
     }
   ],
   "groups": [
