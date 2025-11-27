@@ -40898,6 +40898,35 @@
       "lastActive": {
         "$date": "2025-11-27T15:38:04.880Z"
       }
+    },
+    {
+      "userId": 152435433,
+      "username": "H_ussien",
+      "firstName": "ابو حسين",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:40:38.983Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:40:38.983Z"
+      }
+    },
+    {
+      "userId": 6775964156,
+      "username": "KyyyAak",
+      "firstName": "Rifz",
+      "lastName": "Rifz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:40:53.151Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:40:53.151Z"
+      }
     }
   ],
   "groups": [
