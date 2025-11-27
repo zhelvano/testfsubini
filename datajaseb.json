@@ -40856,6 +40856,20 @@
       "lastActive": {
         "$date": "2025-11-27T15:26:33.761Z"
       }
+    },
+    {
+      "userId": 1929868542,
+      "username": "Alkasim11",
+      "firstName": "Alkasim",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:26:36.667Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:26:36.667Z"
+      }
     }
   ],
   "groups": [
