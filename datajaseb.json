@@ -38295,6 +38295,20 @@
       "lastActive": {
         "$date": "2025-11-27T06:24:49.181Z"
       }
+    },
+    {
+      "userId": 7409392819,
+      "username": "mformardyzxz",
+      "firstName": "𝐓𝐘𝐗 - 𝐌𝐀𝐑𝐃𝐘𝐙𝐗",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T06:25:49.122Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T06:25:49.122Z"
+      }
     }
   ],
   "groups": [
