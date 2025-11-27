@@ -40506,6 +40506,19 @@
       "lastActive": {
         "$date": "2025-11-27T14:18:59.296Z"
       }
+    },
+    {
+      "userId": 8220353400,
+      "firstName": "Stvno",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T14:21:36.334Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T14:21:36.349Z"
+      }
     }
   ],
   "groups": [
