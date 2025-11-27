@@ -39819,6 +39819,20 @@
       "lastActive": {
         "$date": "2025-11-27T12:09:30.853Z"
       }
+    },
+    {
+      "userId": 8162111780,
+      "firstName": "Perves",
+      "lastName": "Islan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:10:12.346Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:10:12.350Z"
+      }
     }
   ],
   "groups": [
