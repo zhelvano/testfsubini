@@ -38081,6 +38081,34 @@
       "lastActive": {
         "$date": "2025-11-27T05:21:50.886Z"
       }
+    },
+    {
+      "userId": 8154070457,
+      "username": "LosTed_sinan",
+      "firstName": "𓌹.•Տɪꪀꪖᑎ•.𓌺",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T05:27:20.796Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T05:27:20.796Z"
+      }
+    },
+    {
+      "userId": 7503581946,
+      "username": "dimsishere",
+      "firstName": "Dimas",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T05:27:40.687Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T05:27:40.687Z"
+      }
     }
   ],
   "groups": [
