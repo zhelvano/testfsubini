@@ -36905,6 +36905,20 @@
       "lastActive": {
         "$date": "2025-11-27T01:20:59.650Z"
       }
+    },
+    {
+      "userId": 7817992323,
+      "username": "PangzTzy",
+      "firstName": "BKS | 𝗣𝗮𝗻𝗴𝘇 jawa timuer hepi ma",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:21:35.383Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:21:35.383Z"
+      }
     }
   ],
   "groups": [
