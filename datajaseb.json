@@ -38137,6 +38137,19 @@
       "lastActive": {
         "$date": "2025-11-27T05:44:26.533Z"
       }
+    },
+    {
+      "userId": 8536281842,
+      "firstName": "BOLHAM",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T05:48:56.031Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T05:48:56.031Z"
+      }
     }
   ],
   "groups": [
