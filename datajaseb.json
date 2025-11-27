@@ -37444,6 +37444,21 @@
       "lastActive": {
         "$date": "2025-11-27T02:38:24.698Z"
       }
+    },
+    {
+      "userId": 1957813862,
+      "username": "T_H_A_R_U_W_A_7",
+      "firstName": "✨⚜️> ＴＨＡＲＵＳＨＡツ⚜️✨",
+      "lastName": "(තරුවා)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T02:38:46.201Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T02:38:46.202Z"
+      }
     }
   ],
   "groups": [
