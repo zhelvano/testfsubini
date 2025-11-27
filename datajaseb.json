@@ -42248,6 +42248,19 @@
       "lastActive": {
         "$date": "2025-11-27T21:33:58.847Z"
       }
+    },
+    {
+      "userId": 8333189403,
+      "firstName": "Hassan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T21:36:29.754Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T21:36:29.754Z"
+      }
     }
   ],
   "groups": [
