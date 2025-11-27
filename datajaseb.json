@@ -38603,6 +38603,20 @@
       "lastActive": {
         "$date": "2025-11-27T07:37:14.320Z"
       }
+    },
+    {
+      "userId": 8173432538,
+      "username": "Shinjiro071",
+      "firstName": "𝙎𝙝𝙞𝙣𝙟𝙞𝙧𝙤 𝙎𝙕𝙁 [𝙍𝙀𝙆𝘽𝙀𝙍/CV USDT] ON",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T07:37:56.954Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T07:37:56.955Z"
+      }
     }
   ],
   "groups": [
