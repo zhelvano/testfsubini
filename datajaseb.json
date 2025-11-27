@@ -40017,6 +40017,20 @@
       "lastActive": {
         "$date": "2025-11-27T12:29:07.794Z"
       }
+    },
+    {
+      "userId": 1987875602,
+      "username": "chijoun",
+      "firstName": "Go Youn Jung +7",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:30:39.633Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:30:39.633Z"
+      }
     }
   ],
   "groups": [
