@@ -38758,6 +38758,20 @@
       "lastActive": {
         "$date": "2025-11-27T08:27:23.697Z"
       }
+    },
+    {
+      "userId": 1867780465,
+      "username": "d_r_a_g_99",
+      "firstName": "𝐃𝐑𝐀𝐆𝐎𝐍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T08:39:14.974Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T08:39:14.978Z"
+      }
     }
   ],
   "groups": [
