@@ -38547,6 +38547,20 @@
       "lastActive": {
         "$date": "2025-11-27T07:26:39.951Z"
       }
+    },
+    {
+      "userId": 8250939025,
+      "username": "Ranzofficiall",
+      "firstName": "Ranz Official",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T07:27:05.408Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T07:27:05.408Z"
+      }
     }
   ],
   "groups": [
