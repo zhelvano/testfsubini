@@ -38333,7 +38333,7 @@
         "$date": "2025-11-27T06:30:15.280Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T11:11:26.585Z"
+        "$date": "2025-11-27T11:58:00.082Z"
       }
     },
     {
@@ -39776,6 +39776,21 @@
       },
       "lastActive": {
         "$date": "2025-11-27T11:57:32.407Z"
+      }
+    },
+    {
+      "userId": 5861659175,
+      "username": "Dylancaro",
+      "firstName": "𝕯𝔂𝓵𝓪𝓷",
+      "lastName": "𝕮𝖆𝖗 🇲🇾",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T11:58:25.224Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T11:58:25.224Z"
       }
     }
   ],
