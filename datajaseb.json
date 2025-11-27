@@ -35788,7 +35788,7 @@
         "$date": "2025-11-26T15:55:55.747Z"
       },
       "lastActive": {
-        "$date": "2025-11-26T15:55:55.747Z"
+        "$date": "2025-11-27T04:13:38.833Z"
       }
     },
     {
@@ -37812,6 +37812,20 @@
       },
       "lastActive": {
         "$date": "2025-11-27T04:07:37.421Z"
+      }
+    },
+    {
+      "userId": 5047173401,
+      "username": "Russian_Soviet_Union",
+      "firstName": "Master",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T04:13:36.941Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T04:13:36.941Z"
       }
     }
   ],
