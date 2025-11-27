@@ -37332,6 +37332,20 @@
       "lastActive": {
         "$date": "2025-11-27T02:18:00.950Z"
       }
+    },
+    {
+      "userId": 7734181722,
+      "username": "ssss4lvatore",
+      "firstName": "eksaaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T02:19:31.795Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T02:19:31.795Z"
+      }
     }
   ],
   "groups": [
