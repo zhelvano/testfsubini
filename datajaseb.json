@@ -42163,6 +42163,20 @@
       "lastActive": {
         "$date": "2025-11-27T20:35:45.409Z"
       }
+    },
+    {
+      "userId": 7724641467,
+      "username": "lllslslsl1",
+      "firstName": "FWZ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T20:46:29.984Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T20:46:29.990Z"
+      }
     }
   ],
   "groups": [
