@@ -41809,6 +41809,21 @@
       "lastActive": {
         "$date": "2025-11-27T19:05:24.642Z"
       }
+    },
+    {
+      "userId": 6428746395,
+      "username": "Paymentdirector180",
+      "firstName": "PAYMENT",
+      "lastName": "DIRECTOR",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T19:06:31.078Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T19:06:31.078Z"
+      }
     }
   ],
   "groups": [
