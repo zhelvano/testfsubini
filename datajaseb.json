@@ -41363,6 +41363,20 @@
       "lastActive": {
         "$date": "2025-11-27T17:17:17.983Z"
       }
+    },
+    {
+      "userId": 6931368853,
+      "username": "lFP_l",
+      "firstName": "𝑨𝑳𝑲𝑶𝑫 𝑨𝑳𝑲𝑯𝑭𝑰 🦎",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T17:20:13.553Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T17:20:13.553Z"
+      }
     }
   ],
   "groups": [
