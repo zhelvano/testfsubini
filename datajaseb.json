@@ -41838,6 +41838,20 @@
       "lastActive": {
         "$date": "2025-11-27T19:07:12.696Z"
       }
+    },
+    {
+      "userId": 7330758989,
+      "firstName": "Mohammed",
+      "lastName": "Ff",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T19:11:13.449Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T19:11:13.452Z"
+      }
     }
   ],
   "groups": [
