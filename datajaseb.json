@@ -38589,6 +38589,20 @@
       "lastActive": {
         "$date": "2025-11-27T07:34:41.898Z"
       }
+    },
+    {
+      "userId": 7712946874,
+      "username": "ellnothumann",
+      "firstName": "ellxndri",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T07:37:14.316Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T07:37:14.320Z"
+      }
     }
   ],
   "groups": [
