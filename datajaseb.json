@@ -41993,6 +41993,20 @@
       "lastActive": {
         "$date": "2025-11-27T19:33:00.468Z"
       }
+    },
+    {
+      "userId": 7297088402,
+      "username": "jembutmuletttt",
+      "firstName": "...",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T19:37:33.222Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T19:37:33.222Z"
+      }
     }
   ],
   "groups": [
