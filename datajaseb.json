@@ -42093,6 +42093,34 @@
       "lastActive": {
         "$date": "2025-11-27T20:16:41.576Z"
       }
+    },
+    {
+      "userId": 6354001432,
+      "username": "G_1D_6",
+      "firstName": "सक्रिय",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T20:17:00.166Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T20:17:00.167Z"
+      }
+    },
+    {
+      "userId": 7896591804,
+      "username": "ghost404_666",
+      "firstName": "Ghost_404",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T20:17:14.198Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T20:17:14.198Z"
+      }
     }
   ],
   "groups": [
