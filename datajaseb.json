@@ -37939,6 +37939,21 @@
       "lastActive": {
         "$date": "2025-11-27T04:24:28.353Z"
       }
+    },
+    {
+      "userId": 7423700562,
+      "username": "PRIESTLEYPRIESTLEY",
+      "firstName": "𝕻𝖗𝖎𝖊𝖘𝖙𝖑𝖊𝖞",
+      "lastName": "𝕻𝖗𝖎𝖊𝖘𝖙𝖑𝖊𝖞",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T04:30:48.588Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T04:30:48.588Z"
+      }
     }
   ],
   "groups": [
