@@ -38463,6 +38463,20 @@
       "lastActive": {
         "$date": "2025-11-27T06:54:32.690Z"
       }
+    },
+    {
+      "userId": 7960753061,
+      "username": "apabange",
+      "firstName": "kingz nokos",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T06:55:34.177Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T06:55:34.178Z"
+      }
     }
   ],
   "groups": [
