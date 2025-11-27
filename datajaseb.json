@@ -41236,6 +41236,21 @@
       "lastActive": {
         "$date": "2025-11-27T16:49:40.108Z"
       }
+    },
+    {
+      "userId": 6599237170,
+      "username": "wafaa544wafaa",
+      "firstName": "وفاء",
+      "lastName": "احمد",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T16:52:21.972Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T16:52:21.975Z"
+      }
     }
   ],
   "groups": [
