@@ -38631,6 +38631,20 @@
       "lastActive": {
         "$date": "2025-11-27T07:50:24.250Z"
       }
+    },
+    {
+      "userId": 6965790451,
+      "username": "B_ROFIN",
+      "firstName": "ᗷᖇOᖴIᑎ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T07:53:43.335Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T07:53:43.335Z"
+      }
     }
   ],
   "groups": [
