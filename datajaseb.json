@@ -36762,6 +36762,20 @@
       "lastActive": {
         "$date": "2025-11-26T23:55:33.749Z"
       }
+    },
+    {
+      "userId": 6008119384,
+      "username": "disuruhisijir",
+      "firstName": "rudi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T00:02:15.240Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T00:02:15.240Z"
+      }
     }
   ],
   "groups": [
