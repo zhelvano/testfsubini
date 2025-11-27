@@ -40264,6 +40264,21 @@
       "lastActive": {
         "$date": "2025-11-27T13:11:29.554Z"
       }
+    },
+    {
+      "userId": 1642952158,
+      "username": "hassanbzu",
+      "firstName": "Hassan",
+      "lastName": "Khan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T13:11:44.926Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T13:11:44.926Z"
+      }
     }
   ],
   "groups": [
