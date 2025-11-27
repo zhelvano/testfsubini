@@ -42078,6 +42078,21 @@
       "lastActive": {
         "$date": "2025-11-27T20:11:16.304Z"
       }
+    },
+    {
+      "userId": 5942581948,
+      "username": "hiyorinakama",
+      "firstName": "hiyori",
+      "lastName": "nakama",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T20:16:41.570Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T20:16:41.576Z"
+      }
     }
   ],
   "groups": [
