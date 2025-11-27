@@ -40671,6 +40671,20 @@
       "lastActive": {
         "$date": "2025-11-27T14:42:04.378Z"
       }
+    },
+    {
+      "userId": 1267178200,
+      "username": "Rando_PLUS77",
+      "firstName": "ᴿᴬᴺᴰᴼ✨",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T14:52:21.807Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T14:52:21.814Z"
+      }
     }
   ],
   "groups": [
