@@ -40801,6 +40801,20 @@
       "lastActive": {
         "$date": "2025-11-27T15:11:03.112Z"
       }
+    },
+    {
+      "userId": 7071390543,
+      "username": "PV_TAHERI_3",
+      "firstName": "ترک مجازی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:17:08.878Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:17:08.878Z"
+      }
     }
   ],
   "groups": [
