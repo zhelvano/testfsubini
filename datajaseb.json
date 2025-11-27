@@ -40320,6 +40320,20 @@
       "lastActive": {
         "$date": "2025-11-27T13:23:09.421Z"
       }
+    },
+    {
+      "userId": 8115575944,
+      "username": "Hammskuy",
+      "firstName": "Xyzz.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T13:26:19.855Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T13:26:19.855Z"
+      }
     }
   ],
   "groups": [
