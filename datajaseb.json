@@ -42417,6 +42417,20 @@
       "lastActive": {
         "$date": "2025-11-27T22:14:13.898Z"
       }
+    },
+    {
+      "userId": 5134002906,
+      "username": "HolyShxxTt",
+      "firstName": "Locked for life",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T22:14:31.632Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T22:14:31.632Z"
+      }
     }
   ],
   "groups": [
