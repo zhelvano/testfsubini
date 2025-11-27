@@ -37374,6 +37374,20 @@
       "lastActive": {
         "$date": "2025-11-27T02:24:52.789Z"
       }
+    },
+    {
+      "userId": 8293300470,
+      "firstName": "عزت الله",
+      "lastName": "نصرت",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T02:30:39.510Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T02:30:39.510Z"
+      }
     }
   ],
   "groups": [
