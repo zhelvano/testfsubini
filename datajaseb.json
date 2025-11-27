@@ -38164,6 +38164,20 @@
       "lastActive": {
         "$date": "2025-11-27T05:54:09.399Z"
       }
+    },
+    {
+      "userId": 8454761913,
+      "username": "yot6s",
+      "firstName": "mohammed",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T05:56:48.115Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T05:56:48.115Z"
+      }
     }
   ],
   "groups": [
