@@ -40060,6 +40060,20 @@
       "lastActive": {
         "$date": "2025-11-27T12:34:37.620Z"
       }
+    },
+    {
+      "userId": 7666886965,
+      "username": "RamzStorezx",
+      "firstName": "⏤͟͞𝟕𝟑𝗧 || 𝘝𝘖𝘐𝘋",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:35:10.546Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:35:10.546Z"
+      }
     }
   ],
   "groups": [
