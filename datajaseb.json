@@ -40773,6 +40773,20 @@
       "lastActive": {
         "$date": "2025-11-27T15:04:35.502Z"
       }
+    },
+    {
+      "userId": 7692477485,
+      "firstName": "سنديبال",
+      "lastName": "سندي",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:06:55.062Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:06:55.062Z"
+      }
     }
   ],
   "groups": [
