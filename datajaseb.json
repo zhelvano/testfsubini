@@ -37729,6 +37729,20 @@
       "lastActive": {
         "$date": "2025-11-27T03:50:29.781Z"
       }
+    },
+    {
+      "userId": 6750172769,
+      "username": "yaseen6362",
+      "firstName": "Yaseen",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T03:52:10.621Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T03:52:10.621Z"
+      }
     }
   ],
   "groups": [
