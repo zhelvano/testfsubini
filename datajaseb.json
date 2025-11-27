@@ -39280,6 +39280,34 @@
       "lastActive": {
         "$date": "2025-11-27T10:31:08.376Z"
       }
+    },
+    {
+      "userId": 7219739358,
+      "firstName": "Ibra",
+      "lastName": "Him",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:33:03.935Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:33:03.937Z"
+      }
+    },
+    {
+      "userId": 7808270688,
+      "username": "netyz2",
+      "firstName": "𝗥𝗮𝗮𝗮 琪娜",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:33:04.550Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:33:04.550Z"
+      }
     }
   ],
   "groups": [
