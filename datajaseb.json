@@ -36878,6 +36878,19 @@
       "lastActive": {
         "$date": "2025-11-27T01:13:05.855Z"
       }
+    },
+    {
+      "userId": 8417971566,
+      "firstName": "#𓏺َِ𝗚َِ𝗘َِ𝗡َِ𝗘َِ𝗥َِ𝗔َِ𝗟 ⁶",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:18:30.151Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:18:30.151Z"
+      }
     }
   ],
   "groups": [
