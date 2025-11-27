@@ -41041,6 +41041,20 @@
       "lastActive": {
         "$date": "2025-11-27T16:06:40.206Z"
       }
+    },
+    {
+      "userId": 6714309313,
+      "username": "emmz4",
+      "firstName": "Emmz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T16:08:03.015Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T16:08:03.015Z"
+      }
     }
   ],
   "groups": [
