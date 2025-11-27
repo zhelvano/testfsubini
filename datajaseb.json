@@ -36297,7 +36297,7 @@
         "$date": "2025-11-26T19:08:02.027Z"
       },
       "lastActive": {
-        "$date": "2025-11-26T19:08:02.027Z"
+        "$date": "2025-11-27T02:37:47.837Z"
       }
     },
     {
@@ -37415,6 +37415,20 @@
       },
       "lastActive": {
         "$date": "2025-11-27T02:32:48.017Z"
+      }
+    },
+    {
+      "userId": 6069080860,
+      "username": "Slmatoto",
+      "firstName": "salmaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T02:37:49.372Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T02:37:49.372Z"
       }
     }
   ],
