@@ -24622,7 +24622,7 @@
         "$date": "2025-11-25T06:49:39.626Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T06:49:39.626Z"
+        "$date": "2025-11-27T05:44:10.649Z"
       }
     },
     {
@@ -38122,6 +38122,20 @@
       },
       "lastActive": {
         "$date": "2025-11-27T05:42:30.096Z"
+      }
+    },
+    {
+      "userId": 7420647897,
+      "firstName": "Nawab",
+      "lastName": "Zada",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T05:44:26.532Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T05:44:26.533Z"
       }
     }
   ],
