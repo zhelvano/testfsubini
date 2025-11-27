@@ -38814,6 +38814,20 @@
       "lastActive": {
         "$date": "2025-11-27T08:50:08.774Z"
       }
+    },
+    {
+      "userId": 8295175094,
+      "username": "gueen_nan",
+      "firstName": "QUEEN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T08:51:58.365Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T08:51:58.372Z"
+      }
     }
   ],
   "groups": [
