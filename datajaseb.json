@@ -37656,6 +37656,36 @@
       "lastActive": {
         "$date": "2025-11-27T03:36:38.805Z"
       }
+    },
+    {
+      "userId": 6622631634,
+      "username": "sohag2234",
+      "firstName": "sk",
+      "lastName": "sohag",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T03:40:10.664Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T03:40:10.665Z"
+      }
+    },
+    {
+      "userId": 6593619989,
+      "username": "nousher12223",
+      "firstName": "Ńöüšhër",
+      "lastName": "Âhmëd",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T03:40:18.842Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T03:40:18.842Z"
+      }
     }
   ],
   "groups": [
