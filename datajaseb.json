@@ -41433,6 +41433,20 @@
       "lastActive": {
         "$date": "2025-11-27T17:27:51.626Z"
       }
+    },
+    {
+      "userId": 2056383948,
+      "username": "Abodalnze500",
+      "firstName": "ابو احمد",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T17:30:35.862Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T17:30:35.862Z"
+      }
     }
   ],
   "groups": [
