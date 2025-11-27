@@ -42555,6 +42555,20 @@
       "lastActive": {
         "$date": "2025-11-27T23:17:33.152Z"
       }
+    },
+    {
+      "userId": 7313046137,
+      "username": "Iqbal_store_real",
+      "firstName": "Iqbal",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T23:30:51.033Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T23:30:51.033Z"
+      }
     }
   ],
   "groups": [
