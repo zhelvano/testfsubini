@@ -38293,7 +38293,7 @@
         "$date": "2025-11-27T06:24:49.181Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T08:49:38.079Z"
+        "$date": "2025-11-27T08:50:19.377Z"
       }
     },
     {
@@ -38799,6 +38799,20 @@
       },
       "lastActive": {
         "$date": "2025-11-27T08:49:15.976Z"
+      }
+    },
+    {
+      "userId": 6864150959,
+      "username": "elzeezs",
+      "firstName": "L",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T08:50:08.774Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T08:50:08.774Z"
       }
     }
   ],
