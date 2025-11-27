@@ -41965,6 +41965,20 @@
       "lastActive": {
         "$date": "2025-11-27T19:28:06.437Z"
       }
+    },
+    {
+      "userId": 7702696916,
+      "username": "jwkrmjazi_PV",
+      "firstName": "احمد خاکسار",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T19:30:52.025Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T19:30:52.025Z"
+      }
     }
   ],
   "groups": [
