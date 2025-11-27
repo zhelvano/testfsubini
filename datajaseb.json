@@ -38673,6 +38673,20 @@
       "lastActive": {
         "$date": "2025-11-27T08:10:00.801Z"
       }
+    },
+    {
+      "userId": 8497486755,
+      "username": "jihanlyv",
+      "firstName": "jíhän",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T08:10:42.633Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T08:10:42.633Z"
+      }
     }
   ],
   "groups": [
