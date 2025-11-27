@@ -37869,6 +37869,20 @@
       "lastActive": {
         "$date": "2025-11-27T04:15:26.804Z"
       }
+    },
+    {
+      "userId": 8581209325,
+      "username": "piece_2013",
+      "firstName": "one piece",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T04:16:51.493Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T04:16:51.493Z"
+      }
     }
   ],
   "groups": [
