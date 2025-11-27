@@ -40220,6 +40220,20 @@
       "lastActive": {
         "$date": "2025-11-27T13:02:47.826Z"
       }
+    },
+    {
+      "userId": 7730500333,
+      "username": "HezNwera",
+      "firstName": "⏤͟͟͞͞𝐗𝐓𝐑 || 𝐇𝐄𝐙𝐙 𝟕𝟔 💢",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T13:09:11.440Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T13:09:11.441Z"
+      }
     }
   ],
   "groups": [
