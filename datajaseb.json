@@ -41937,6 +41937,20 @@
       "lastActive": {
         "$date": "2025-11-27T19:24:46.644Z"
       }
+    },
+    {
+      "userId": 5451018005,
+      "username": "rr01521",
+      "firstName": "Rasel",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T19:25:39.632Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T19:25:39.632Z"
+      }
     }
   ],
   "groups": [
