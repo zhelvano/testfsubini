@@ -36849,6 +36849,21 @@
       "lastActive": {
         "$date": "2025-11-27T00:59:57.690Z"
       }
+    },
+    {
+      "userId": 7449105623,
+      "username": "King_Sohel_Support_Admin",
+      "firstName": "TG KING SOHEL",
+      "lastName": "Support",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:11:57.863Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:11:57.863Z"
+      }
     }
   ],
   "groups": [
