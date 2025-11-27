@@ -42472,6 +42472,19 @@
       "lastActive": {
         "$date": "2025-11-27T22:41:42.546Z"
       }
+    },
+    {
+      "userId": 7827059296,
+      "firstName": "⏤͟͟͞͞𝐗𝐓𝐑 ⏤͟͟͞͞𝐍𝟓𝐓 ⏤͟͟͞͞𝐗𝐓𝐑 🇲🇵",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T22:44:44.771Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T22:44:44.771Z"
+      }
     }
   ],
   "groups": [
