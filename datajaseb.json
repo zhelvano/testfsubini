@@ -41979,6 +41979,20 @@
       "lastActive": {
         "$date": "2025-11-27T19:30:52.025Z"
       }
+    },
+    {
+      "userId": 6081226832,
+      "username": "LAWANAWRUS666",
+      "firstName": "˗ˋˏ𝐐ˎˊ˗",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T19:33:00.467Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T19:33:00.468Z"
+      }
     }
   ],
   "groups": [
