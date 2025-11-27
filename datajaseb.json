@@ -39155,6 +39155,20 @@
       "lastActive": {
         "$date": "2025-11-27T10:10:38.716Z"
       }
+    },
+    {
+      "userId": 7214856281,
+      "username": "oranghensemgg",
+      "firstName": "Brodudu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:15:16.976Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:15:16.976Z"
+      }
     }
   ],
   "groups": [
