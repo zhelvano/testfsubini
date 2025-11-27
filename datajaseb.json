@@ -37162,6 +37162,20 @@
       "lastActive": {
         "$date": "2025-11-27T01:50:10.851Z"
       }
+    },
+    {
+      "userId": 7336657382,
+      "username": "DARK_WEB_Leader",
+      "firstName": "𓆰•.𝐋ᴇᗩᴅᴇʀ 𝐎ғ 𝐃ᗩʀᴋ 𝐖ᴇʙ.•𓆪",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:54:16.605Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:54:16.605Z"
+      }
     }
   ],
   "groups": [
