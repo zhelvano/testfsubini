@@ -40884,6 +40884,20 @@
       "lastActive": {
         "$date": "2025-11-27T15:35:47.920Z"
       }
+    },
+    {
+      "userId": 7689306699,
+      "firstName": "Ankur",
+      "lastName": "Haloi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:38:04.880Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:38:04.880Z"
+      }
     }
   ],
   "groups": [
