@@ -38334,7 +38334,21 @@
         "$date": "2025-11-27T06:30:15.280Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T06:30:15.280Z"
+        "$date": "2025-11-27T06:30:36.202Z"
+      }
+    },
+    {
+      "userId": 7906975314,
+      "username": "ahmadsabari",
+      "firstName": "混天地",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T06:30:48.755Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T06:30:48.755Z"
       }
     }
   ],
