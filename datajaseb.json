@@ -40700,6 +40700,34 @@
       "lastActive": {
         "$date": "2025-11-27T14:55:14.209Z"
       }
+    },
+    {
+      "userId": 7499027936,
+      "firstName": "Hsmsms",
+      "lastName": "eri",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T14:59:33.380Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T14:59:33.380Z"
+      }
+    },
+    {
+      "userId": 6075093326,
+      "username": "S_h_hh",
+      "firstName": "☫ Каид",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T14:59:51.798Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T14:59:51.799Z"
+      }
     }
   ],
   "groups": [
