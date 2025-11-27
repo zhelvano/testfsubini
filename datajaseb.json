@@ -40642,6 +40642,21 @@
       "lastActive": {
         "$date": "2025-11-27T14:36:36.996Z"
       }
+    },
+    {
+      "userId": 7013842601,
+      "username": "viiandeell",
+      "firstName": "v",
+      "lastName": "viana elana",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T14:40:03.993Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T14:40:03.993Z"
+      }
     }
   ],
   "groups": [
