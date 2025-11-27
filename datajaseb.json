@@ -42374,6 +42374,20 @@
       "lastActive": {
         "$date": "2025-11-27T21:58:14.132Z"
       }
+    },
+    {
+      "userId": 6103744854,
+      "firstName": "نورس",
+      "lastName": "نبراس",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T22:06:15.377Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T22:06:15.379Z"
+      }
     }
   ],
   "groups": [
