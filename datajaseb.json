@@ -40758,6 +40758,21 @@
       "lastActive": {
         "$date": "2025-11-27T15:03:55.373Z"
       }
+    },
+    {
+      "userId": 6342279423,
+      "username": "Penguclaimer",
+      "firstName": "Saya",
+      "lastName": "Sendiri 🐾| Drops💧",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:04:35.502Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:04:35.502Z"
+      }
     }
   ],
   "groups": [
