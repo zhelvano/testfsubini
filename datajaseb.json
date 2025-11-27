@@ -41447,6 +41447,34 @@
       "lastActive": {
         "$date": "2025-11-27T17:30:35.862Z"
       }
+    },
+    {
+      "userId": 5767808743,
+      "username": "idolqi",
+      "firstName": "ʏᴀɴɢ ᴍᴜʟɪᴀ ᴋɪɪ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T17:30:58.850Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T17:30:58.850Z"
+      }
+    },
+    {
+      "userId": 8395379564,
+      "username": "carlo_1000",
+      "firstName": "LeoMina",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T17:31:02.169Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T17:31:02.169Z"
+      }
     }
   ],
   "groups": [
