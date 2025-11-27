@@ -37613,6 +37613,35 @@
       "lastActive": {
         "$date": "2025-11-27T03:29:20.450Z"
       }
+    },
+    {
+      "userId": 6145292024,
+      "username": "aditchang990",
+      "firstName": "Adit",
+      "lastName": "Chang",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T03:33:05.716Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T03:33:05.716Z"
+      }
+    },
+    {
+      "userId": 7675890626,
+      "username": "LiuuLann",
+      "firstName": "Liu Lan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T03:33:24.391Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T03:33:24.391Z"
+      }
     }
   ],
   "groups": [
