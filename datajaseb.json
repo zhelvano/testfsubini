@@ -40478,6 +40478,20 @@
       "lastActive": {
         "$date": "2025-11-27T14:12:21.413Z"
       }
+    },
+    {
+      "userId": 7073632264,
+      "firstName": "Ghulam",
+      "lastName": "Rasool",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T14:13:44.357Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T14:13:44.357Z"
+      }
     }
   ],
   "groups": [
