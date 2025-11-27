@@ -41082,6 +41082,21 @@
       "lastActive": {
         "$date": "2025-11-27T16:21:36.717Z"
       }
+    },
+    {
+      "userId": 7196812297,
+      "username": "SB_69x",
+      "firstName": "SB",
+      "lastName": "somalia./δ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T16:23:23.682Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T16:23:23.682Z"
+      }
     }
   ],
   "groups": [
