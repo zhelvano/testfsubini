@@ -40191,6 +40191,20 @@
       "lastActive": {
         "$date": "2025-11-27T12:59:50.971Z"
       }
+    },
+    {
+      "userId": 7078004264,
+      "username": "heyyouditt",
+      "firstName": "dittzly",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T13:00:11.582Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T13:00:11.582Z"
+      }
     }
   ],
   "groups": [
