@@ -42332,6 +42332,20 @@
       "lastActive": {
         "$date": "2025-11-27T21:56:00.496Z"
       }
+    },
+    {
+      "userId": 8239384965,
+      "username": "sie8883",
+      "firstName": "新田分店老板",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T21:56:48.862Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T21:56:48.862Z"
+      }
     }
   ],
   "groups": [
