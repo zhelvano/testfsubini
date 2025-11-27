@@ -42275,6 +42275,20 @@
       "lastActive": {
         "$date": "2025-11-27T21:41:04.519Z"
       }
+    },
+    {
+      "userId": 5964855485,
+      "username": "Dark_Scarpion1",
+      "firstName": "𝐒 𝐂 𝐀 𝐑 𝐏 𝐈 𝐎 𝐍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T21:49:12.749Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T21:49:12.755Z"
+      }
     }
   ],
   "groups": [
