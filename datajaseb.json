@@ -39635,6 +39635,20 @@
       "lastActive": {
         "$date": "2025-11-27T11:27:02.673Z"
       }
+    },
+    {
+      "userId": 7332019359,
+      "username": "Z4Rexy",
+      "firstName": "⏤͟͟͞͞𝗭𝟒 || 𝗥𝗲𝘅𝘆 𝗜𝘀 𝗛𝗲𝗿𝗲 네",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T11:31:15.854Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T11:31:15.855Z"
+      }
     }
   ],
   "groups": [
