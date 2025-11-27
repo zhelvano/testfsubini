@@ -20788,7 +20788,7 @@
         "$date": "2025-11-24T15:26:05.592Z"
       },
       "lastActive": {
-        "$date": "2025-11-26T11:50:48.369Z"
+        "$date": "2025-11-27T07:09:26.758Z"
       }
     },
     {
@@ -38490,6 +38490,20 @@
       },
       "lastActive": {
         "$date": "2025-11-27T07:06:18.893Z"
+      }
+    },
+    {
+      "userId": 6863587095,
+      "username": "Hikaru_frenlace",
+      "firstName": "FADHLI XITER",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T07:09:29.458Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T07:09:29.458Z"
       }
     }
   ],
