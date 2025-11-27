@@ -38350,6 +38350,20 @@
       "lastActive": {
         "$date": "2025-11-27T06:30:48.755Z"
       }
+    },
+    {
+      "userId": 6093976598,
+      "username": "wannisback",
+      "firstName": "Rest",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T06:36:41.931Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T06:36:41.934Z"
+      }
     }
   ],
   "groups": [
