@@ -37743,6 +37743,20 @@
       "lastActive": {
         "$date": "2025-11-27T03:52:10.621Z"
       }
+    },
+    {
+      "userId": 8310097048,
+      "username": "jajangee",
+      "firstName": "jajang",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T03:53:22.913Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T03:53:22.913Z"
+      }
     }
   ],
   "groups": [
