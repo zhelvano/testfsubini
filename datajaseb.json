@@ -37346,6 +37346,20 @@
       "lastActive": {
         "$date": "2025-11-27T02:19:31.795Z"
       }
+    },
+    {
+      "userId": 7404982569,
+      "username": "Aj70team",
+      "firstName": "𝐈𝐤𝐡𝐥𝐚𝐬 || 𝐁𝐫𝐚𝐧𝐝 7𝐱🎖️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T02:24:21.664Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T02:24:21.664Z"
+      }
     }
   ],
   "groups": [
