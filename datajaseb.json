@@ -38477,6 +38477,20 @@
       "lastActive": {
         "$date": "2025-11-27T06:55:34.178Z"
       }
+    },
+    {
+      "userId": 7606142022,
+      "username": "jessicadev68",
+      "firstName": "ᴸᵀᴱRɪʀI [1𝗭Δ]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T07:06:18.893Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T07:06:18.893Z"
+      }
     }
   ],
   "groups": [
