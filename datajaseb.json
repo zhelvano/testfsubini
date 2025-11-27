@@ -37048,6 +37048,20 @@
       "lastActive": {
         "$date": "2025-11-27T01:38:59.428Z"
       }
+    },
+    {
+      "userId": 7193034238,
+      "username": "bafsscsv",
+      "firstName": "I am Kira",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:39:35.476Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:39:35.476Z"
+      }
     }
   ],
   "groups": [
