@@ -9440,7 +9440,7 @@
         "$date": "2025-11-23T07:37:22.364000Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T06:53:08.170Z"
+        "$date": "2025-11-27T17:24:43.637Z"
       }
     },
     {
@@ -41403,6 +41403,20 @@
       },
       "lastActive": {
         "$date": "2025-11-27T17:23:33.317Z"
+      }
+    },
+    {
+      "userId": 1072148855,
+      "username": "Gilanggcp",
+      "firstName": "Gilang",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T17:24:53.200Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T17:24:53.201Z"
       }
     }
   ],
