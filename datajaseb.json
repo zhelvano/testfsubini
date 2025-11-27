@@ -40743,6 +40743,21 @@
       "lastActive": {
         "$date": "2025-11-27T15:00:07.163Z"
       }
+    },
+    {
+      "userId": 7377535007,
+      "username": "Inzamamulhaq164m",
+      "firstName": "Inzamamulhaq",
+      "lastName": "Búbãk",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:03:55.373Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:03:55.373Z"
+      }
     }
   ],
   "groups": [
