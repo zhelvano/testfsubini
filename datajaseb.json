@@ -37118,6 +37118,20 @@
       "lastActive": {
         "$date": "2025-11-27T01:44:24.673Z"
       }
+    },
+    {
+      "userId": 8529249458,
+      "firstName": "Sibran",
+      "lastName": "Malisi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:45:34.069Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:45:34.069Z"
+      }
     }
   ],
   "groups": [
