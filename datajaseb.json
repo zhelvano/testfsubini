@@ -37599,6 +37599,20 @@
       "lastActive": {
         "$date": "2025-11-27T03:02:55.251Z"
       }
+    },
+    {
+      "userId": 7789451986,
+      "username": "kenzsuki",
+      "firstName": "𝐊𝐞́𝐧𝐏𝐚́𝐫𝐤𝐞𝐫",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T03:29:20.444Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T03:29:20.450Z"
+      }
     }
   ],
   "groups": [
