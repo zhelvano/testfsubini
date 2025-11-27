@@ -37430,6 +37430,20 @@
       "lastActive": {
         "$date": "2025-11-27T02:37:49.372Z"
       }
+    },
+    {
+      "userId": 7879275890,
+      "username": "RINZZ737",
+      "firstName": "RINZZ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T02:38:24.698Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T02:38:24.698Z"
+      }
     }
   ],
   "groups": [
