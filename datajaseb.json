@@ -41824,6 +41824,20 @@
       "lastActive": {
         "$date": "2025-11-27T19:06:31.078Z"
       }
+    },
+    {
+      "userId": 6345763764,
+      "username": "lklkkjm",
+      "firstName": "⁦⚜️5ریس شهنشاه ریپورت11⁦⚜️⁩",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T19:07:12.696Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T19:07:12.696Z"
+      }
     }
   ],
   "groups": [
