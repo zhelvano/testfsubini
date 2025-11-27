@@ -38730,6 +38730,20 @@
       "lastActive": {
         "$date": "2025-11-27T08:17:33.021Z"
       }
+    },
+    {
+      "userId": 8513999740,
+      "username": "Tiaar21",
+      "firstName": "Tiara",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T08:22:42.656Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T08:22:42.660Z"
+      }
     }
   ],
   "groups": [
