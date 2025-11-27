@@ -36295,7 +36295,7 @@
         "$date": "2025-11-26T19:08:02.027Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T08:04:55.951Z"
+        "$date": "2025-11-27T12:24:01.202Z"
       }
     },
     {
@@ -39932,6 +39932,34 @@
       },
       "lastActive": {
         "$date": "2025-11-27T12:19:45.156Z"
+      }
+    },
+    {
+      "userId": 1821395910,
+      "username": "Rid140415",
+      "firstName": "cyber id 18 biru",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:24:05.044Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:24:05.044Z"
+      }
+    },
+    {
+      "userId": 7266616880,
+      "username": "janzzzkeceee",
+      "firstName": "⏤͟͟͞𝗭𝟒 || 𝕵𝖆𝖓𝖟𝕾𝖙𝖔𝖗𝖊𝕽𝖊𝖆𝖑",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:24:20.292Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:24:20.292Z"
       }
     }
   ],
