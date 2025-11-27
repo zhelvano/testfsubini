@@ -40657,6 +40657,20 @@
       "lastActive": {
         "$date": "2025-11-27T14:40:03.993Z"
       }
+    },
+    {
+      "userId": 5849679393,
+      "username": "L11111WM",
+      "firstName": "L1",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T14:42:04.378Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T14:42:04.378Z"
+      }
     }
   ],
   "groups": [
