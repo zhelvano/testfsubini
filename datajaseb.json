@@ -38659,6 +38659,20 @@
       "lastActive": {
         "$date": "2025-11-27T08:09:38.522Z"
       }
+    },
+    {
+      "userId": 5989415602,
+      "username": "DiceDuck",
+      "firstName": "Mals",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T08:10:00.801Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T08:10:00.801Z"
+      }
     }
   ],
   "groups": [
