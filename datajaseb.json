@@ -37716,6 +37716,19 @@
       "lastActive": {
         "$date": "2025-11-27T03:48:30.773Z"
       }
+    },
+    {
+      "userId": 8292286838,
+      "firstName": "ساحیل باچا",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T03:50:29.781Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T03:50:29.781Z"
+      }
     }
   ],
   "groups": [
