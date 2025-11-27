@@ -37642,6 +37642,20 @@
       "lastActive": {
         "$date": "2025-11-27T03:35:08.697Z"
       }
+    },
+    {
+      "userId": 6182761625,
+      "username": "thissdem",
+      "firstName": "Dimas Demori Prasetya Asri",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T03:36:38.805Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T03:36:38.805Z"
+      }
     }
   ],
   "groups": [
