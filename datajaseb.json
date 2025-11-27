@@ -38406,6 +38406,20 @@
       "lastActive": {
         "$date": "2025-11-27T06:40:32.254Z"
       }
+    },
+    {
+      "userId": 2100932695,
+      "username": "Halcozinnnnnnnnnnn_1",
+      "firstName": "ꪶ 𝐇͢𝚨𝐋̷𝐂͢𝚶 ꪶ 𝐒͢𝚄𝐏̷𝐄͢𝐑͢𝐌͢𝐄͢𝐑͢𝐂͢𝐘̷",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T06:42:39.657Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T06:42:39.657Z"
+      }
     }
   ],
   "groups": [
