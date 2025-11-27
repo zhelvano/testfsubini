@@ -39069,6 +39069,20 @@
       "lastActive": {
         "$date": "2025-11-27T09:54:32.165Z"
       }
+    },
+    {
+      "userId": 8101569758,
+      "username": "ghaofficial",
+      "firstName": "ghaxbull ⋆ v222",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T09:55:57.233Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T09:55:57.235Z"
+      }
     }
   ],
   "groups": [
