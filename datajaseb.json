@@ -37897,6 +37897,33 @@
       "lastActive": {
         "$date": "2025-11-27T04:17:30.912Z"
       }
+    },
+    {
+      "userId": 6337773533,
+      "firstName": "حسین",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T04:19:13.823Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T04:19:13.823Z"
+      }
+    },
+    {
+      "userId": 8196400732,
+      "firstName": "arpaa",
+      "lastName": "868686",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T04:19:18.433Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T04:19:18.433Z"
+      }
     }
   ],
   "groups": [
