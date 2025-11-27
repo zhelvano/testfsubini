@@ -41418,6 +41418,21 @@
       "lastActive": {
         "$date": "2025-11-27T17:24:53.201Z"
       }
+    },
+    {
+      "userId": 8230089851,
+      "username": "DAVINMRr",
+      "firstName": "Kontol",
+      "lastName": "Lu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T17:27:51.623Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T17:27:51.626Z"
+      }
     }
   ],
   "groups": [
