@@ -36946,6 +36946,21 @@
       "lastActive": {
         "$date": "2025-11-27T01:23:49.213Z"
       }
+    },
+    {
+      "userId": 7905528013,
+      "username": "AFZAL_BEM_TEAM",
+      "firstName": "Afjal",
+      "lastName": "Khan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:24:18.814Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:24:18.814Z"
+      }
     }
   ],
   "groups": [
