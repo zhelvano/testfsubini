@@ -39169,6 +39169,35 @@
       "lastActive": {
         "$date": "2025-11-27T10:15:16.976Z"
       }
+    },
+    {
+      "userId": 7819266107,
+      "username": "MangSup_Wede",
+      "firstName": "Superman",
+      "lastName": "Abis",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:19:27.298Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:19:27.298Z"
+      }
+    },
+    {
+      "userId": 8199600671,
+      "username": "mnspate",
+      "firstName": "HanzelStudio",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:19:44.840Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:19:44.840Z"
+      }
     }
   ],
   "groups": [
