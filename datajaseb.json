@@ -40532,6 +40532,20 @@
       "lastActive": {
         "$date": "2025-11-27T14:23:16.817Z"
       }
+    },
+    {
+      "userId": 8118295802,
+      "username": "medo46788",
+      "firstName": "ميدوًبيسو",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T14:24:00.995Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T14:24:00.995Z"
+      }
     }
   ],
   "groups": [
