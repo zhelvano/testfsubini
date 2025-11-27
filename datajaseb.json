@@ -38150,6 +38150,20 @@
       "lastActive": {
         "$date": "2025-11-27T05:48:56.031Z"
       }
+    },
+    {
+      "userId": 8466501568,
+      "username": "loisfvck",
+      "firstName": "k",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T05:54:09.399Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T05:54:09.399Z"
+      }
     }
   ],
   "groups": [
