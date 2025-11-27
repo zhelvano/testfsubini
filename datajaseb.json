@@ -42149,6 +42149,20 @@
       "lastActive": {
         "$date": "2025-11-27T20:32:31.845Z"
       }
+    },
+    {
+      "userId": 6990208315,
+      "firstName": "العراق",
+      "lastName": "العراق",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T20:35:45.404Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T20:35:45.409Z"
+      }
     }
   ],
   "groups": [
