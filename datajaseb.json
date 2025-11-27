@@ -39378,6 +39378,21 @@
       "lastActive": {
         "$date": "2025-11-27T10:39:48.048Z"
       }
+    },
+    {
+      "userId": 6649255458,
+      "username": "BLANOSHI",
+      "firstName": "꧁ᗷIⓈ︎🅜︎𝖋𝖇𝖏𝖘𝚓꧂",
+      "lastName": "𝚛𝚒𝚙𝚝𝚛 . 𝙱𝚒𝚒𝚒𝚒𝚒",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:44:49.135Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:44:49.135Z"
+      }
     }
   ],
   "groups": [
