@@ -42007,6 +42007,19 @@
       "lastActive": {
         "$date": "2025-11-27T19:37:33.222Z"
       }
+    },
+    {
+      "userId": 7320700429,
+      "firstName": "Cute Ziddi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T19:54:40.175Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T19:54:40.181Z"
+      }
     }
   ],
   "groups": [
