@@ -37996,6 +37996,20 @@
       "lastActive": {
         "$date": "2025-11-27T04:43:32.269Z"
       }
+    },
+    {
+      "userId": 7184783909,
+      "username": "imneverdie1",
+      "firstName": "⏤͟͟͞͞𝐗𝐓𝐑 || RAFZ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T04:47:46.303Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T04:47:46.303Z"
+      }
     }
   ],
   "groups": [
