@@ -41909,6 +41909,34 @@
       "lastActive": {
         "$date": "2025-11-27T19:18:17.174Z"
       }
+    },
+    {
+      "userId": 8172260842,
+      "username": "Crackermainlurexaa",
+      "firstName": "Lurexa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T19:24:31.556Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T19:24:31.556Z"
+      }
+    },
+    {
+      "userId": 8108914592,
+      "username": "ExcTherHoulthen",
+      "firstName": "𝐄𝐱𝐜𝐓𝐡𝐞𝐫 ϟ 𝑯𝒐𝒖𝒍𝒕𝒉𝒆𝒏 そ🪬",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T19:24:46.644Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T19:24:46.644Z"
+      }
     }
   ],
   "groups": [
