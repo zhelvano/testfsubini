@@ -38575,6 +38575,20 @@
       "lastActive": {
         "$date": "2025-11-27T07:32:30.324Z"
       }
+    },
+    {
+      "userId": 8435269537,
+      "username": "kenzyofficial23",
+      "firstName": "⏤͟͟͞͞𝐊𝐄𝐍𝐙𝐘 || 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T07:34:41.898Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T07:34:41.898Z"
+      }
     }
   ],
   "groups": [
