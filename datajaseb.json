@@ -39704,6 +39704,36 @@
       "lastActive": {
         "$date": "2025-11-27T11:45:16.170Z"
       }
+    },
+    {
+      "userId": 1731581712,
+      "username": "Mrfikzx",
+      "firstName": "Fik",
+      "lastName": "Sitampan dari Goa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T11:52:26.374Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T11:52:26.396Z"
+      }
+    },
+    {
+      "userId": 7755823415,
+      "username": "ceylonlankadigi",
+      "firstName": "Ceylon Lanka",
+      "lastName": "Digi Services",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T11:52:26.724Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T11:52:26.724Z"
+      }
     }
   ],
   "groups": [
