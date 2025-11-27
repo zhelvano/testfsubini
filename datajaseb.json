@@ -41852,6 +41852,20 @@
       "lastActive": {
         "$date": "2025-11-27T19:11:13.452Z"
       }
+    },
+    {
+      "userId": 8080095967,
+      "username": "yoshiikyaah",
+      "firstName": "彭可",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T19:11:29.385Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T19:11:29.385Z"
+      }
     }
   ],
   "groups": [
