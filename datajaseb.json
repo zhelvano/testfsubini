@@ -39393,6 +39393,20 @@
       "lastActive": {
         "$date": "2025-11-27T10:44:49.135Z"
       }
+    },
+    {
+      "userId": 8173280442,
+      "username": "piorYapping",
+      "firstName": "king pior n 2015-2019 bebasan only",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:45:11.891Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:45:11.891Z"
+      }
     }
   ],
   "groups": [
