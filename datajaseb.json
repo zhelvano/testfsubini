@@ -38222,6 +38222,21 @@
       "lastActive": {
         "$date": "2025-11-27T06:10:03.812Z"
       }
+    },
+    {
+      "userId": 7173168579,
+      "username": "Hridoy1977",
+      "firstName": "MD Hridoy",
+      "lastName": "Fakir",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T06:21:56.751Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T06:21:56.756Z"
+      }
     }
   ],
   "groups": [
