@@ -38955,6 +38955,20 @@
       "lastActive": {
         "$date": "2025-11-27T09:19:58.465Z"
       }
+    },
+    {
+      "userId": 8375812697,
+      "username": "kingsaloy",
+      "firstName": "꧁ԟ𝑖𝖓𝔤ᥲɭ𝚘ɏ꧂",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T09:25:33.845Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T09:25:33.845Z"
+      }
     }
   ],
   "groups": [
