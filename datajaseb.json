@@ -38309,6 +38309,19 @@
       "lastActive": {
         "$date": "2025-11-27T06:26:17.025Z"
       }
+    },
+    {
+      "userId": 7027287279,
+      "firstName": "ShinchanStore",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T06:26:40.059Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T06:26:40.059Z"
+      }
     }
   ],
   "groups": [
