@@ -39975,6 +39975,20 @@
       "lastActive": {
         "$date": "2025-11-27T12:24:54.729Z"
       }
+    },
+    {
+      "userId": 7715805022,
+      "firstName": "SHAZLY",
+      "lastName": "AIMAN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:27:50.096Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:27:50.096Z"
+      }
     }
   ],
   "groups": [
