@@ -39905,6 +39905,20 @@
       "lastActive": {
         "$date": "2025-11-27T12:15:07.792Z"
       }
+    },
+    {
+      "userId": 7914481994,
+      "username": "secretwannna",
+      "firstName": "d",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:16:27.979Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:16:27.979Z"
+      }
     }
   ],
   "groups": [
