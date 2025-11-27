@@ -37982,6 +37982,20 @@
       "lastActive": {
         "$date": "2025-11-27T04:33:25.363Z"
       }
+    },
+    {
+      "userId": 5112961509,
+      "username": "avrzz",
+      "firstName": "azee",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T04:43:32.269Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T04:43:32.269Z"
+      }
     }
   ],
   "groups": [
