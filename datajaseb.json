@@ -39422,6 +39422,20 @@
       "lastActive": {
         "$date": "2025-11-27T10:51:33.528Z"
       }
+    },
+    {
+      "userId": 7652558081,
+      "username": "VIPP9999991",
+      "firstName": "GOD333AT",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:53:00.505Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:53:00.505Z"
+      }
     }
   ],
   "groups": [
