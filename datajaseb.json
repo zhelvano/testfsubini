@@ -41026,6 +41026,21 @@
       "lastActive": {
         "$date": "2025-11-27T16:06:27.301Z"
       }
+    },
+    {
+      "userId": 1414271822,
+      "username": "BP_7l",
+      "firstName": "Ⓑⓐⓓⓔⓡ",
+      "lastName": ".",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T16:06:40.206Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T16:06:40.206Z"
+      }
     }
   ],
   "groups": [
