@@ -40545,6 +40545,20 @@
       "lastActive": {
         "$date": "2025-11-27T14:24:00.995Z"
       }
+    },
+    {
+      "userId": 7805317966,
+      "username": "Sjssjjju",
+      "firstName": "M.Ghzawe",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T14:26:14.863Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T14:26:14.863Z"
+      }
     }
   ],
   "groups": [
