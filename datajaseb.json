@@ -39266,6 +39266,20 @@
       "lastActive": {
         "$date": "2025-11-27T10:29:05.463Z"
       }
+    },
+    {
+      "userId": 5840762504,
+      "username": "snjaa_ta",
+      "firstName": "fano",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:31:08.373Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:31:08.376Z"
+      }
     }
   ],
   "groups": [
