@@ -38856,6 +38856,20 @@
       "lastActive": {
         "$date": "2025-11-27T08:54:26.579Z"
       }
+    },
+    {
+      "userId": 8216032055,
+      "username": "Miaaauzhi",
+      "firstName": "捍卫正义",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T08:55:20.621Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T08:55:20.621Z"
+      }
     }
   ],
   "groups": [
