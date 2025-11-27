@@ -38252,6 +38252,20 @@
       "lastActive": {
         "$date": "2025-11-27T06:22:24.554Z"
       }
+    },
+    {
+      "userId": 6684493772,
+      "username": "bangxall_ler",
+      "firstName": "BANG ALL",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T06:23:39.426Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T06:23:39.426Z"
+      }
     }
   ],
   "groups": [
