@@ -39112,6 +39112,20 @@
       "lastActive": {
         "$date": "2025-11-27T10:02:38.417Z"
       }
+    },
+    {
+      "userId": 7259777462,
+      "username": "ZAINCARD1",
+      "firstName": "إدارة ZAIN CARD",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:05:23.164Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:05:23.167Z"
+      }
     }
   ],
   "groups": [
