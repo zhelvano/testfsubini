@@ -38178,6 +38178,20 @@
       "lastActive": {
         "$date": "2025-11-27T05:56:48.115Z"
       }
+    },
+    {
+      "userId": 8349287833,
+      "username": "Kayhan_12",
+      "firstName": "●▹͢ᵀ͢ᴴ͢ᴱ͢𝐊𝐀𝐘𝐇𝐀𝐍 𝟒𝐤",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T05:57:21.971Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T05:57:21.971Z"
+      }
     }
   ],
   "groups": [
