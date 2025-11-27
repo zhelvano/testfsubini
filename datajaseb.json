@@ -42192,6 +42192,19 @@
       "lastActive": {
         "$date": "2025-11-27T20:55:26.820Z"
       }
+    },
+    {
+      "userId": 7968385941,
+      "firstName": "Kaiser",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T21:01:54.169Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T21:01:54.173Z"
+      }
     }
   ],
   "groups": [
