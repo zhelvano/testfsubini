@@ -41292,6 +41292,20 @@
       "lastActive": {
         "$date": "2025-11-27T17:01:20.389Z"
       }
+    },
+    {
+      "userId": 6325179492,
+      "firstName": "Shafiq",
+      "lastName": "[CUTE]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T17:02:36.602Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T17:02:36.602Z"
+      }
     }
   ],
   "groups": [
