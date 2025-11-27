@@ -39238,6 +39238,20 @@
       "lastActive": {
         "$date": "2025-11-27T10:25:05.942Z"
       }
+    },
+    {
+      "userId": 5888378469,
+      "username": "Boda_Alasly_1",
+      "firstName": "بًوٌدٍ𝐁𝐨𝐝𝐚آ آلَآصّلَيَ⛔️🚫",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:25:44.357Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:25:44.357Z"
+      }
     }
   ],
   "groups": [
