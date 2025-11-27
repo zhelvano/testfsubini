@@ -40829,6 +40829,20 @@
       "lastActive": {
         "$date": "2025-11-27T15:21:26.048Z"
       }
+    },
+    {
+      "userId": 7514855082,
+      "username": "Rifkikontol",
+      "firstName": ".",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:22:13.843Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:22:13.843Z"
+      }
     }
   ],
   "groups": [
