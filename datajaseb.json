@@ -41152,6 +41152,20 @@
       "lastActive": {
         "$date": "2025-11-27T16:30:05.442Z"
       }
+    },
+    {
+      "userId": 7328716771,
+      "username": "Kamran_khan_804",
+      "firstName": "꧁𓊈𒆜𝙠𝙖𝙢𝙧𝙖𝙣 𝙠𝙝𝙖𝙣 #4t𒆜𓊉꧂",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T16:34:18.808Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T16:34:18.808Z"
+      }
     }
   ],
   "groups": [
