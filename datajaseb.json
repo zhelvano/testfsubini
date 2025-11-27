@@ -39607,6 +39607,34 @@
       "lastActive": {
         "$date": "2025-11-27T11:21:43.602Z"
       }
+    },
+    {
+      "userId": 8002672960,
+      "username": "nalzz0867",
+      "firstName": "Nallzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T11:27:00.923Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T11:27:00.924Z"
+      }
+    },
+    {
+      "userId": 6563013211,
+      "username": "ThisIsZoraa01",
+      "firstName": "𝐓𝐡𝐢𝐬 𝐈𝐬 𝐙𝐨𝐫𝐨𝐨 👋🏻",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T11:27:02.673Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T11:27:02.673Z"
+      }
     }
   ],
   "groups": [
