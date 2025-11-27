@@ -38192,6 +38192,21 @@
       "lastActive": {
         "$date": "2025-11-27T05:57:21.971Z"
       }
+    },
+    {
+      "userId": 8366653424,
+      "username": "yamac_x14",
+      "firstName": "ياماش",
+      "lastName": "yamaç 《 • • • 》",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T05:57:54.171Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T05:57:54.171Z"
+      }
     }
   ],
   "groups": [
