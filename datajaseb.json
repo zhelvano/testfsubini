@@ -40927,6 +40927,20 @@
       "lastActive": {
         "$date": "2025-11-27T15:40:53.151Z"
       }
+    },
+    {
+      "userId": 5060009805,
+      "username": "Hhakbg",
+      "firstName": "خــطــر",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:44:09.604Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:44:09.604Z"
+      }
     }
   ],
   "groups": [
