@@ -37800,6 +37800,20 @@
       "lastActive": {
         "$date": "2025-11-27T03:59:56.737Z"
       }
+    },
+    {
+      "userId": 7611505032,
+      "firstName": "هثنتيت",
+      "lastName": "هبتتب",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T04:07:37.421Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T04:07:37.421Z"
+      }
     }
   ],
   "groups": [
