@@ -34113,7 +34113,7 @@
         "$date": "2025-11-26T11:50:48.376Z"
       },
       "lastActive": {
-        "$date": "2025-11-26T11:50:48.378Z"
+        "$date": "2025-11-27T05:20:52.118Z"
       }
     },
     {
@@ -38053,6 +38053,20 @@
       },
       "lastActive": {
         "$date": "2025-11-27T05:13:25.353Z"
+      }
+    },
+    {
+      "userId": 1658416569,
+      "username": "Queengemoyy",
+      "firstName": "𝐐𝐮𝐞𝐞𝐧𝐳𝐡𝐚𝐚",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T05:20:56.583Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T05:20:56.583Z"
       }
     }
   ],
