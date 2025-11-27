@@ -39677,6 +39677,20 @@
       "lastActive": {
         "$date": "2025-11-27T11:36:44.273Z"
       }
+    },
+    {
+      "userId": 6518755821,
+      "username": "milalom",
+      "firstName": "Faisal",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T11:42:14.730Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T11:42:14.742Z"
+      }
     }
   ],
   "groups": [
