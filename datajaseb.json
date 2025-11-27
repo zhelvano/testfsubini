@@ -39407,6 +39407,21 @@
       "lastActive": {
         "$date": "2025-11-27T10:45:11.891Z"
       }
+    },
+    {
+      "userId": 6642375963,
+      "username": "arullstore1612",
+      "firstName": "Arull",
+      "lastName": "Store",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:51:33.528Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:51:33.528Z"
+      }
     }
   ],
   "groups": [
