@@ -39763,6 +39763,20 @@
       "lastActive": {
         "$date": "2025-11-27T11:55:42.120Z"
       }
+    },
+    {
+      "userId": 8248368233,
+      "firstName": "Wann",
+      "lastName": "Lonelyy,",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T11:57:32.405Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T11:57:32.407Z"
+      }
     }
   ],
   "groups": [
