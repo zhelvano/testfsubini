@@ -39748,6 +39748,21 @@
       "lastActive": {
         "$date": "2025-11-27T11:55:09.063Z"
       }
+    },
+    {
+      "userId": 7404925745,
+      "username": "Piyan11",
+      "firstName": "Piyan",
+      "lastName": "Piyan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T11:55:42.120Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T11:55:42.120Z"
+      }
     }
   ],
   "groups": [
