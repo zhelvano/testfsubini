@@ -25811,7 +25811,7 @@
         "$date": "2025-11-25T10:00:25.712Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T10:00:25.712Z"
+        "$date": "2025-11-27T02:08:01.230Z"
       }
     },
     {
@@ -37218,6 +37218,20 @@
       },
       "lastActive": {
         "$date": "2025-11-27T02:00:15.197Z"
+      }
+    },
+    {
+      "userId": 7680966940,
+      "username": "Kiurissss",
+      "firstName": "ㅤㅤㅤ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T02:08:19.023Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T02:08:19.023Z"
       }
     }
   ],
