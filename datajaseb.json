@@ -38266,6 +38266,21 @@
       "lastActive": {
         "$date": "2025-11-27T06:23:39.426Z"
       }
+    },
+    {
+      "userId": 7587627620,
+      "username": "Axioonn",
+      "firstName": "㉿| Ax𝒊𝒐n",
+      "lastName": "⪡𝙁𝘼𝙇𝘾𝙊𝙍𝙀⪢",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T06:23:55.601Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T06:23:55.601Z"
+      }
     }
   ],
   "groups": [
