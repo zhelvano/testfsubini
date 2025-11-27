@@ -25054,7 +25054,7 @@
         "$date": "2025-11-25T07:50:00.216Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T13:05:21.357Z"
+        "$date": "2025-11-27T13:37:57.403Z"
       }
     },
     {
@@ -40377,6 +40377,20 @@
       },
       "lastActive": {
         "$date": "2025-11-27T13:37:13.085Z"
+      }
+    },
+    {
+      "userId": 7264975182,
+      "firstName": "Sarkar",
+      "lastName": "Sarojit",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T13:37:43.626Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T13:37:43.633Z"
       }
     }
   ],
