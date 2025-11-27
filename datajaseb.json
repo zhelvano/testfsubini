@@ -39141,6 +39141,20 @@
       "lastActive": {
         "$date": "2025-11-27T10:07:25.935Z"
       }
+    },
+    {
+      "userId": 6624841829,
+      "username": "YanzStore6",
+      "firstName": "YANZ T5",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:10:38.712Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:10:38.716Z"
+      }
     }
   ],
   "groups": [
