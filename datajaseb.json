@@ -42121,6 +42121,20 @@
       "lastActive": {
         "$date": "2025-11-27T20:17:14.198Z"
       }
+    },
+    {
+      "userId": 8388422985,
+      "username": "zt_7a",
+      "firstName": "# 𝑩𝒐𝒅𝒂 ‌",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T20:23:31.485Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T20:23:31.493Z"
+      }
     }
   ],
   "groups": [
