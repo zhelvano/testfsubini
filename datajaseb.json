@@ -37570,6 +37570,35 @@
       "lastActive": {
         "$date": "2025-11-27T03:01:48.977Z"
       }
+    },
+    {
+      "userId": 8251575768,
+      "firstName": "Vanns",
+      "lastName": "Ss",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T03:02:45.397Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T03:02:45.397Z"
+      }
+    },
+    {
+      "userId": 1133005103,
+      "username": "AbineAlbar",
+      "firstName": "Ali",
+      "lastName": "Ma'sum",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T03:02:55.251Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T03:02:55.251Z"
+      }
     }
   ],
   "groups": [
