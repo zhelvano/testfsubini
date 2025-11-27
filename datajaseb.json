@@ -39862,6 +39862,20 @@
       "lastActive": {
         "$date": "2025-11-27T12:11:21.410Z"
       }
+    },
+    {
+      "userId": 8209541018,
+      "username": "Djakdnac",
+      "firstName": "Dafa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:11:35.690Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:11:35.691Z"
+      }
     }
   ],
   "groups": [
