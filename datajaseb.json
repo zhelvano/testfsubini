@@ -36891,6 +36891,20 @@
       "lastActive": {
         "$date": "2025-11-27T01:18:30.151Z"
       }
+    },
+    {
+      "userId": 6664414768,
+      "firstName": "abu bakar",
+      "lastName": "muhammad",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:20:59.650Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:20:59.650Z"
+      }
     }
   ],
   "groups": [
