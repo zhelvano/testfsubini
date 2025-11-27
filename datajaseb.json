@@ -39212,6 +39212,32 @@
       "lastActive": {
         "$date": "2025-11-27T10:20:03.085Z"
       }
+    },
+    {
+      "userId": 7784272430,
+      "firstName": "Akun P",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:25:02.581Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:25:02.581Z"
+      }
+    },
+    {
+      "userId": 8223479483,
+      "firstName": "King Of Figther",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:25:05.942Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:25:05.942Z"
+      }
     }
   ],
   "groups": [
