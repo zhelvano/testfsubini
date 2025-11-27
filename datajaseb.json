@@ -38322,6 +38322,20 @@
       "lastActive": {
         "$date": "2025-11-27T06:26:40.059Z"
       }
+    },
+    {
+      "userId": 7406337254,
+      "username": "alwaysnovaa7",
+      "firstName": "⏤͟͟͞͞𝐌𝐏𝐗 || NovNelly🦖",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T06:30:15.280Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T06:30:15.280Z"
+      }
     }
   ],
   "groups": [
