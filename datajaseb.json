@@ -42569,6 +42569,20 @@
       "lastActive": {
         "$date": "2025-11-27T23:30:51.033Z"
       }
+    },
+    {
+      "userId": 1723852548,
+      "firstName": "Youssef",
+      "lastName": "Bakeer",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T23:45:22.873Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T23:45:22.873Z"
+      }
     }
   ],
   "groups": [
