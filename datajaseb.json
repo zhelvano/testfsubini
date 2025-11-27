@@ -39663,6 +39663,20 @@
       "lastActive": {
         "$date": "2025-11-27T11:35:34.351Z"
       }
+    },
+    {
+      "userId": 8582924720,
+      "firstName": "حاجی",
+      "lastName": "انیل",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T11:36:44.273Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T11:36:44.273Z"
+      }
     }
   ],
   "groups": [
