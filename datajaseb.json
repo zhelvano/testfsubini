@@ -1845,7 +1845,7 @@
         "$date": "2025-11-23T02:27:40.720000Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T04:44:24.008Z"
+        "$date": "2025-11-27T05:13:02.203Z"
       }
     },
     {
@@ -38038,6 +38038,21 @@
       },
       "lastActive": {
         "$date": "2025-11-27T05:10:26.146Z"
+      }
+    },
+    {
+      "userId": 8321286287,
+      "username": "Anugrahhh3",
+      "firstName": "Agung",
+      "lastName": "Anugrah",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T05:13:25.353Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T05:13:25.353Z"
       }
     }
   ],
