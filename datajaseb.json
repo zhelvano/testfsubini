@@ -40613,6 +40613,20 @@
       "lastActive": {
         "$date": "2025-11-27T14:31:27.115Z"
       }
+    },
+    {
+      "userId": 7179134355,
+      "firstName": "حسیب",
+      "lastName": "حسیب",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T14:32:22.786Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T14:32:22.786Z"
+      }
     }
   ],
   "groups": [
