@@ -39876,6 +39876,20 @@
       "lastActive": {
         "$date": "2025-11-27T12:11:35.691Z"
       }
+    },
+    {
+      "userId": 8238613985,
+      "username": "Riglenbot",
+      "firstName": "Riglen",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:12:41.299Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:12:41.376Z"
+      }
     }
   ],
   "groups": [
