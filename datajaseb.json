@@ -39198,6 +39198,20 @@
       "lastActive": {
         "$date": "2025-11-27T10:19:44.840Z"
       }
+    },
+    {
+      "userId": 7491188151,
+      "firstName": "Jon",
+      "lastName": "Son",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:20:03.085Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:20:03.085Z"
+      }
     }
   ],
   "groups": [
