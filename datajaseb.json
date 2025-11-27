@@ -25057,7 +25057,7 @@
         "$date": "2025-11-25T07:50:00.216Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T02:44:16.436Z"
+        "$date": "2025-11-27T02:57:23.766Z"
       }
     },
     {
@@ -37514,6 +37514,20 @@
       },
       "lastActive": {
         "$date": "2025-11-27T02:53:41.155Z"
+      }
+    },
+    {
+      "userId": 8002431250,
+      "username": "ditzzpanel",
+      "firstName": "𝙙𝙞𝙩𝙯𝙯 𝙨𝙩𝙤𝙧𝙚 🕷",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T02:57:02.981Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T02:57:02.981Z"
       }
     }
   ],
