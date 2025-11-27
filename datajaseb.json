@@ -38376,7 +38376,21 @@
         "$date": "2025-11-27T06:39:32.445Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T06:39:47.265Z"
+        "$date": "2025-11-27T06:40:06.309Z"
+      }
+    },
+    {
+      "userId": 7834358002,
+      "username": "risss80",
+      "firstName": "crsa ¹⁹˗ˋˏ𝐐ˎˊ-⁸⁰",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T06:39:54.719Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T06:39:54.719Z"
       }
     }
   ],
