@@ -37062,6 +37062,19 @@
       "lastActive": {
         "$date": "2025-11-27T01:39:35.476Z"
       }
+    },
+    {
+      "userId": 8372695364,
+      "firstName": "marzy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:41:49.101Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:41:49.101Z"
+      }
     }
   ],
   "groups": [
