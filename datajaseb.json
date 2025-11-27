@@ -38896,7 +38896,7 @@
         "$date": "2025-11-27T09:16:17.646Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T09:19:04.908Z"
+        "$date": "2025-11-27T09:19:51.252Z"
       }
     },
     {
@@ -38939,6 +38939,21 @@
       },
       "lastActive": {
         "$date": "2025-11-27T09:18:43.840Z"
+      }
+    },
+    {
+      "userId": 7629581854,
+      "username": "Alannn988",
+      "firstName": "A",
+      "lastName": "L",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T09:19:28.171Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T09:19:53.364Z"
       }
     }
   ],
