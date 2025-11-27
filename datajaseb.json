@@ -38744,6 +38744,20 @@
       "lastActive": {
         "$date": "2025-11-27T08:22:42.660Z"
       }
+    },
+    {
+      "userId": 6617245235,
+      "username": "zalpedia1",
+      "firstName": "𝒁𝒂𝒍𝒍 𝑺𝒉𝒐𝒑 || ༺ 𝑶𝒑𝒆𝒏 𝑭𝒓𝒆𝒆𝑳𝒂𝒏𝒄𝒆༻",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T08:27:23.692Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T08:27:23.697Z"
+      }
     }
   ],
   "groups": [
