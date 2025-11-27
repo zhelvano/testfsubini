@@ -37089,6 +37089,35 @@
       "lastActive": {
         "$date": "2025-11-27T01:42:27.328Z"
       }
+    },
+    {
+      "userId": 6967373360,
+      "username": "lawren27",
+      "firstName": "LawrenZ",
+      "lastName": "寒冷的",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:44:00.183Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:44:00.184Z"
+      }
+    },
+    {
+      "userId": 7999192919,
+      "username": "noxnoxx",
+      "firstName": "𝖭𝗈𝗓'𝖾 ⛥",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:44:24.673Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:44:24.673Z"
+      }
     }
   ],
   "groups": [
