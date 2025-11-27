@@ -38828,6 +38828,20 @@
       "lastActive": {
         "$date": "2025-11-27T08:51:58.372Z"
       }
+    },
+    {
+      "userId": 6841240363,
+      "username": "o666tag",
+      "firstName": "ikky #o666",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T08:52:52.504Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T08:52:52.504Z"
+      }
     }
   ],
   "groups": [
