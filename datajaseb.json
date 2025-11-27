@@ -42261,6 +42261,20 @@
       "lastActive": {
         "$date": "2025-11-27T21:36:29.754Z"
       }
+    },
+    {
+      "userId": 5977116896,
+      "username": "DRN38",
+      "firstName": "Abu Abdul Khaleq",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T21:41:04.513Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T21:41:04.519Z"
+      }
     }
   ],
   "groups": [
