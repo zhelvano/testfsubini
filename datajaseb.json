@@ -39833,6 +39833,35 @@
       "lastActive": {
         "$date": "2025-11-27T12:10:12.350Z"
       }
+    },
+    {
+      "userId": 7993973820,
+      "username": "hark_Ariant",
+      "firstName": "شاعر محیب",
+      "lastName": "الله حیدری",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:11:01.414Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:11:01.434Z"
+      }
+    },
+    {
+      "userId": 6405292424,
+      "username": "Zeyxxno001",
+      "firstName": "- 𝐑 ᴏ ᴄ ᴋ 𝐒 ᴛ ᴀ ʀ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:11:21.410Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:11:21.410Z"
+      }
     }
   ],
   "groups": [
