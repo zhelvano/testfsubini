@@ -42304,6 +42304,20 @@
       "lastActive": {
         "$date": "2025-11-27T21:54:06.164Z"
       }
+    },
+    {
+      "userId": 6441199951,
+      "username": "MAIL_PRIME_ADMIN_REKBER",
+      "firstName": "𝙈𝘼𝙄𝙇𝙇 𝘼𝙉𝙏𝙄 𝘿𝙍𝘼𝙈𝘼 [ 𝙋𝙍𝙄𝙈𝙀 ] 𝙍𝙀𝙆𝘽𝙀𝙍 𝙊𝙉 𝙎𝘼𝙈𝙋𝙀 𝙈𝘼𝙈𝙋𝙐𝙎✠🇲🇾",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T21:54:50.435Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T21:54:50.436Z"
+      }
     }
   ],
   "groups": [
