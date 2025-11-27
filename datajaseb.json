@@ -42444,6 +42444,20 @@
       "lastActive": {
         "$date": "2025-11-27T22:23:28.907Z"
       }
+    },
+    {
+      "userId": 7552982106,
+      "username": "krexx969",
+      "firstName": "krexx",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T22:26:09.655Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T22:26:09.659Z"
+      }
     }
   ],
   "groups": [
