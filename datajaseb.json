@@ -40089,6 +40089,20 @@
       "lastActive": {
         "$date": "2025-11-27T12:36:57.378Z"
       }
+    },
+    {
+      "userId": 7390926010,
+      "username": "FyzzOfficiall",
+      "firstName": "¡m #FyzzOfficiall",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:37:36.361Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:37:36.361Z"
+      }
     }
   ],
   "groups": [
