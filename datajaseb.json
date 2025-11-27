@@ -41320,6 +41320,20 @@
       "lastActive": {
         "$date": "2025-11-27T17:12:17.375Z"
       }
+    },
+    {
+      "userId": 7301674812,
+      "username": "Hahahawu4",
+      "firstName": "ϻ̈ɽ 𝛃ɑᥣ๏͜͡ɕ̄ɧ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T17:13:45.062Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T17:13:45.062Z"
+      }
     }
   ],
   "groups": [
