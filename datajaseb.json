@@ -37303,6 +37303,20 @@
       "lastActive": {
         "$date": "2025-11-27T02:14:45.573Z"
       }
+    },
+    {
+      "userId": 7456778730,
+      "username": "Wxynn6776",
+      "firstName": "𝑿𝑶 ~𝑾𝒙𝒚𝒏𝒏~ ( 𝐒𝐎𝐋𝐎 𝐄𝐑𝐀 )",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T02:17:16.511Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T02:17:16.512Z"
+      }
     }
   ],
   "groups": [
