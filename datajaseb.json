@@ -38420,6 +38420,20 @@
       "lastActive": {
         "$date": "2025-11-27T06:42:39.657Z"
       }
+    },
+    {
+      "userId": 7877832384,
+      "username": "scxome",
+      "firstName": "Qwentinin",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T06:49:50.892Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T06:49:50.903Z"
+      }
     }
   ],
   "groups": [
