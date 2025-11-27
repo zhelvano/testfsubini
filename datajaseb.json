@@ -37639,7 +37639,7 @@
         "$date": "2025-11-27T03:33:24.391Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T03:35:08.697Z"
+        "$date": "2025-11-27T07:26:38.167Z"
       }
     },
     {
@@ -38504,6 +38504,48 @@
       },
       "lastActive": {
         "$date": "2025-11-27T07:09:29.458Z"
+      }
+    },
+    {
+      "userId": 6339714594,
+      "firstName": "❤️سـاده تـنـهـا💔",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T07:26:28.245Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T07:26:28.248Z"
+      }
+    },
+    {
+      "userId": 7724554738,
+      "username": "Ribwan12",
+      "firstName": "Ridwan",
+      "lastName": "store",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T07:26:38.888Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T07:26:38.888Z"
+      }
+    },
+    {
+      "userId": 7959450479,
+      "username": "alfimy",
+      "firstName": "gtw males",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T07:26:39.951Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T07:26:39.951Z"
       }
     }
   ],
