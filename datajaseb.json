@@ -39436,6 +39436,20 @@
       "lastActive": {
         "$date": "2025-11-27T10:53:00.505Z"
       }
+    },
+    {
+      "userId": 7977406020,
+      "username": "Miwxkece",
+      "firstName": "miwx",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:53:55.589Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:53:55.590Z"
+      }
     }
   ],
   "groups": [
