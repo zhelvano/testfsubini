@@ -39098,6 +39098,20 @@
       "lastActive": {
         "$date": "2025-11-27T10:00:33.786Z"
       }
+    },
+    {
+      "userId": 7532298432,
+      "firstName": "𝑯𝑶𝑻𝑨𝑹𝑼 ||\"𝑳𝑶𝑽\"",
+      "lastName": "ِ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:02:38.417Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:02:38.417Z"
+      }
     }
   ],
   "groups": [
