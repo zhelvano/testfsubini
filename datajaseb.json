@@ -40559,6 +40559,32 @@
       "lastActive": {
         "$date": "2025-11-27T14:26:14.863Z"
       }
+    },
+    {
+      "userId": 1068401539,
+      "firstName": "Dr/Ali ALـselwi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T14:27:40.647Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T14:27:40.647Z"
+      }
+    },
+    {
+      "userId": 8113726748,
+      "firstName": "مُٰٖــحَٰٖــمَٰٖــدٌٰٖ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T14:27:55.594Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T14:27:55.594Z"
+      }
     }
   ],
   "groups": [
