@@ -37954,6 +37954,20 @@
       "lastActive": {
         "$date": "2025-11-27T04:30:48.588Z"
       }
+    },
+    {
+      "userId": 7789983235,
+      "username": "kenzajj",
+      "firstName": "⏤͟͟͞͞kenz ambatukam",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T04:31:06.099Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T04:31:24.221Z"
+      }
     }
   ],
   "groups": [
