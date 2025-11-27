@@ -38561,6 +38561,20 @@
       "lastActive": {
         "$date": "2025-11-27T07:27:05.408Z"
       }
+    },
+    {
+      "userId": 7791226432,
+      "username": "Hackar_majazy",
+      "firstName": "𝐌𝐔𝐊𝐇𝐓𝐀𝐑.𝐇𝐀𝐂𝐊.𝟓𝟏𝟏",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T07:32:30.320Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T07:32:30.324Z"
+      }
     }
   ],
   "groups": [
