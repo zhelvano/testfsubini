@@ -39989,6 +39989,34 @@
       "lastActive": {
         "$date": "2025-11-27T12:27:50.096Z"
       }
+    },
+    {
+      "userId": 395672889,
+      "username": "Sdesouki",
+      "firstName": "SAYEDTE555555",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:29:02.418Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:29:02.418Z"
+      }
+    },
+    {
+      "userId": 8181427957,
+      "username": "XCROYY",
+      "firstName": "丘艾",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:29:07.794Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:29:07.794Z"
+      }
     }
   ],
   "groups": [
