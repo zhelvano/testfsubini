@@ -40363,6 +40363,21 @@
       "lastActive": {
         "$date": "2025-11-27T13:31:41.985Z"
       }
+    },
+    {
+      "userId": 8298181610,
+      "username": "Vtvai36777",
+      "firstName": "Vt",
+      "lastName": "Vai",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T13:37:13.085Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T13:37:13.085Z"
+      }
     }
   ],
   "groups": [
