@@ -38364,6 +38364,20 @@
       "lastActive": {
         "$date": "2025-11-27T06:36:41.934Z"
       }
+    },
+    {
+      "userId": 8096702102,
+      "username": "Dinzzshop",
+      "firstName": "م فضلي",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T06:39:32.445Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T06:39:47.265Z"
+      }
     }
   ],
   "groups": [
