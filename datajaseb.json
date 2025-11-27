@@ -37968,6 +37968,20 @@
       "lastActive": {
         "$date": "2025-11-27T04:32:44.292Z"
       }
+    },
+    {
+      "userId": 8149758408,
+      "username": "yasinrhimi2020",
+      "firstName": "محمد یاسین رحیمی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T04:33:25.363Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T04:33:25.363Z"
+      }
     }
   ],
   "groups": [
