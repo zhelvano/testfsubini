@@ -34155,7 +34155,7 @@
         "$date": "2025-11-26T11:50:48.378Z"
       },
       "lastActive": {
-        "$date": "2025-11-26T12:55:51.951Z"
+        "$date": "2025-11-27T03:58:40.139Z"
       }
     },
     {
@@ -37770,6 +37770,21 @@
       },
       "lastActive": {
         "$date": "2025-11-27T03:54:17.601Z"
+      }
+    },
+    {
+      "userId": 7028204270,
+      "username": "naseebbloch11",
+      "firstName": "Naseeb",
+      "lastName": "Ullah",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T03:58:37.989Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T03:58:37.989Z"
       }
     }
   ],
