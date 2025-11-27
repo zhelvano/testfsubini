@@ -40941,6 +40941,20 @@
       "lastActive": {
         "$date": "2025-11-27T15:44:09.604Z"
       }
+    },
+    {
+      "userId": 8255965956,
+      "username": "Tmemel1",
+      "firstName": "MEL NED 🇷🇺",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:45:52.556Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:45:52.556Z"
+      }
     }
   ],
   "groups": [
