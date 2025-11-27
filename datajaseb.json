@@ -36990,6 +36990,20 @@
       "lastActive": {
         "$date": "2025-11-27T01:30:25.532Z"
       }
+    },
+    {
+      "userId": 8240238308,
+      "firstName": "nafi",
+      "lastName": "fifi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:31:23.308Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:31:23.308Z"
+      }
     }
   ],
   "groups": [
