@@ -37686,6 +37686,21 @@
       "lastActive": {
         "$date": "2025-11-27T03:40:18.842Z"
       }
+    },
+    {
+      "userId": 6925819771,
+      "username": "SUJON_BEST",
+      "firstName": "苏詹 TG 贝斯特",
+      "lastName": "",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T03:46:29.128Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T03:46:29.128Z"
+      }
     }
   ],
   "groups": [
