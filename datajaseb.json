@@ -40870,6 +40870,20 @@
       "lastActive": {
         "$date": "2025-11-27T15:26:36.667Z"
       }
+    },
+    {
+      "userId": 8468230192,
+      "username": "traa12",
+      "firstName": "TRA LOW ERA",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T15:35:47.914Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T15:35:47.920Z"
+      }
     }
   ],
   "groups": [
