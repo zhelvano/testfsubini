@@ -42485,6 +42485,19 @@
       "lastActive": {
         "$date": "2025-11-27T22:44:44.771Z"
       }
+    },
+    {
+      "userId": 8284449797,
+      "firstName": "زياد",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T23:04:35.944Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T23:04:35.949Z"
+      }
     }
   ],
   "groups": [
