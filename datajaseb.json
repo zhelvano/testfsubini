@@ -38997,6 +38997,21 @@
       "lastActive": {
         "$date": "2025-11-27T09:36:42.371Z"
       }
+    },
+    {
+      "userId": 8196437365,
+      "username": "yajujmanuk",
+      "firstName": "jajang",
+      "lastName": "promax",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T09:42:42.722Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T09:42:42.722Z"
+      }
     }
   ],
   "groups": [
