@@ -40161,6 +40161,21 @@
       "lastActive": {
         "$date": "2025-11-27T12:56:34.078Z"
       }
+    },
+    {
+      "userId": 7764037932,
+      "username": "shehzadaking",
+      "firstName": "ITX DARK",
+      "lastName": "HERE",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:59:08.458Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:59:08.458Z"
+      }
     }
   ],
   "groups": [
