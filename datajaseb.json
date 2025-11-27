@@ -39649,6 +39649,20 @@
       "lastActive": {
         "$date": "2025-11-27T11:31:15.855Z"
       }
+    },
+    {
+      "userId": 6276191227,
+      "username": "RESTU_78",
+      "firstName": "Alex",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T11:35:34.347Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T11:35:34.351Z"
+      }
     }
   ],
   "groups": [
