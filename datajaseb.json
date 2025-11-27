@@ -40103,6 +40103,20 @@
       "lastActive": {
         "$date": "2025-11-27T12:37:36.361Z"
       }
+    },
+    {
+      "userId": 1446757905,
+      "username": "Mous62",
+      "firstName": "Go Youn Jung Russia 14",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:39:02.311Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:39:02.318Z"
+      }
     }
   ],
   "groups": [
