@@ -36919,6 +36919,33 @@
       "lastActive": {
         "$date": "2025-11-27T01:21:35.383Z"
       }
+    },
+    {
+      "userId": 7766758168,
+      "firstName": "Mohammad",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:23:45.966Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:23:45.966Z"
+      }
+    },
+    {
+      "userId": 5093678062,
+      "username": "Techgeek002",
+      "firstName": "personnel🐍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T01:23:49.213Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T01:23:49.213Z"
+      }
     }
   ],
   "groups": [
