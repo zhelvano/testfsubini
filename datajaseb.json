@@ -39365,6 +39365,19 @@
       "lastActive": {
         "$date": "2025-11-27T10:36:20.720Z"
       }
+    },
+    {
+      "userId": 8391064589,
+      "firstName": "彡[غُمًجّنِ بًآچٓآهّ]彡",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T10:39:48.048Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T10:39:48.048Z"
+      }
     }
   ],
   "groups": [
