@@ -39792,6 +39792,20 @@
       "lastActive": {
         "$date": "2025-11-27T11:58:25.224Z"
       }
+    },
+    {
+      "userId": 8314488282,
+      "username": "rastam_n",
+      "firstName": "А́хмед",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:00:15.682Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:00:15.684Z"
+      }
     }
   ],
   "groups": [
