@@ -40392,6 +40392,19 @@
       "lastActive": {
         "$date": "2025-11-27T13:37:43.633Z"
       }
+    },
+    {
+      "userId": 7869385393,
+      "firstName": "kingkong",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T13:44:37.296Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T13:44:37.297Z"
+      }
     }
   ],
   "groups": [
