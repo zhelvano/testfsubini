@@ -41278,6 +41278,20 @@
       "lastActive": {
         "$date": "2025-11-27T17:00:40.207Z"
       }
+    },
+    {
+      "userId": 8212216953,
+      "username": "andrexnz1",
+      "firstName": "xyz ϟ 𝐆𝐨𝐥𝐝𝐞𝐧",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T17:01:20.389Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T17:01:20.389Z"
+      }
     }
   ],
   "groups": [
