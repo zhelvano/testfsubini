@@ -37883,6 +37883,20 @@
       "lastActive": {
         "$date": "2025-11-27T04:16:51.493Z"
       }
+    },
+    {
+      "userId": 7655324298,
+      "firstName": "Dinidu",
+      "lastName": "Heshan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T04:17:30.912Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T04:17:30.912Z"
+      }
     }
   ],
   "groups": [
