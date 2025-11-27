@@ -39961,6 +39961,20 @@
       "lastActive": {
         "$date": "2025-11-27T12:24:20.292Z"
       }
+    },
+    {
+      "userId": 2017309013,
+      "username": "rafaelmaxxx",
+      "firstName": "马克斯拉斐尔",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T12:24:54.729Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T12:24:54.729Z"
+      }
     }
   ],
   "groups": [
