@@ -41138,6 +41138,20 @@
       "lastActive": {
         "$date": "2025-11-27T16:29:37.867Z"
       }
+    },
+    {
+      "userId": 7880229507,
+      "username": "BAYXCC",
+      "firstName": "𝐄𝐕𝐎𝐗 𝟏𝟖𝟖 || 𝗕𝗔𝗬𝗫𝗖",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T16:30:05.442Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T16:30:05.442Z"
+      }
     }
   ],
   "groups": [
