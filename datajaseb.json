@@ -40306,6 +40306,20 @@
       "lastActive": {
         "$date": "2025-11-27T13:21:32.562Z"
       }
+    },
+    {
+      "userId": 8053628476,
+      "username": "maageenntaa",
+      "firstName": "Dhanzy Fomo😹",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-27T13:23:09.418Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-27T13:23:09.421Z"
+      }
     }
   ],
   "groups": [
