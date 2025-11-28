@@ -42611,6 +42611,20 @@
       "lastActive": {
         "$date": "2025-11-28T00:03:13.393Z"
       }
+    },
+    {
+      "userId": 7913436215,
+      "username": "Fathe_of_hackers",
+      "firstName": "ساده دل 📿📍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T00:06:01.342Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T00:06:01.342Z"
+      }
     }
   ],
   "groups": [
