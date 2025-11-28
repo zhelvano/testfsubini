@@ -45760,6 +45760,20 @@
       "lastActive": {
         "$date": "2025-11-28T16:31:18.146Z"
       }
+    },
+    {
+      "userId": 7341516646,
+      "username": "zi_77_99",
+      "firstName": "..",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T16:35:44.208Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T16:35:44.208Z"
+      }
     }
   ],
   "groups": [
