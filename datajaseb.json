@@ -43162,6 +43162,19 @@
       "lastActive": {
         "$date": "2025-11-28T03:19:48.533Z"
       }
+    },
+    {
+      "userId": 7934376641,
+      "firstName": "𝙇𝙚𝙭𝙭𝙭 ¿‽",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:20:26.502Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:20:26.502Z"
+      }
     }
   ],
   "groups": [
