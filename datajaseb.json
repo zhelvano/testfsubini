@@ -44232,6 +44232,20 @@
       "lastActive": {
         "$date": "2025-11-28T08:36:19.246Z"
       }
+    },
+    {
+      "userId": 8225309615,
+      "username": "Afg0099afg",
+      "firstName": "خ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T08:45:56.021Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T08:45:56.021Z"
+      }
     }
   ],
   "groups": [
