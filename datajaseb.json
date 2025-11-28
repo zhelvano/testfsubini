@@ -44542,6 +44542,20 @@
       "lastActive": {
         "$date": "2025-11-28T10:04:50.767Z"
       }
+    },
+    {
+      "userId": 7763308599,
+      "firstName": "رضا",
+      "lastName": "العنزي",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T10:05:51.968Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T10:05:51.968Z"
+      }
     }
   ],
   "groups": [
