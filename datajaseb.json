@@ -46099,6 +46099,20 @@
       "lastActive": {
         "$date": "2025-11-28T18:56:20.337Z"
       }
+    },
+    {
+      "userId": 8474072850,
+      "username": "sadewaaji1",
+      "firstName": "康尼德集團-WS/TG 宿泊施設 2000-2025",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T19:06:30.828Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T19:06:30.828Z"
+      }
     }
   ],
   "groups": [
