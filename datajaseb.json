@@ -43019,6 +43019,20 @@
       "lastActive": {
         "$date": "2025-11-28T02:39:47.621Z"
       }
+    },
+    {
+      "userId": 7454885023,
+      "firstName": "Gig",
+      "lastName": "Golo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T02:44:36.342Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T02:44:36.342Z"
+      }
     }
   ],
   "groups": [
