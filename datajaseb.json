@@ -44147,6 +44147,21 @@
       "lastActive": {
         "$date": "2025-11-28T08:22:38.751Z"
       }
+    },
+    {
+      "userId": 8234628623,
+      "username": "Estadios",
+      "firstName": "thànzy",
+      "lastName": "mystch",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T08:27:13.302Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T08:27:13.302Z"
+      }
     }
   ],
   "groups": [
