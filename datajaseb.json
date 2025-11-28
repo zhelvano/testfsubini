@@ -43134,6 +43134,19 @@
       "lastActive": {
         "$date": "2025-11-28T03:17:55.486Z"
       }
+    },
+    {
+      "userId": 7068258444,
+      "firstName": "Mohamed abdullah",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:18:13.348Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:18:13.348Z"
+      }
     }
   ],
   "groups": [
