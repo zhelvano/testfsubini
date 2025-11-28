@@ -598,9 +598,7 @@
         "$oid": "69226310d36a0357c0e0bc77"
       },
       "userId": 7034744611,
-      "username": null,
       "firstName": "朱普里",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -608,7 +606,7 @@
         "$date": "2025-11-23T01:27:44.319000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T01:27:44.319000Z"
+        "$date": "2025-11-28T10:25:11.538Z"
       }
     },
     {
@@ -33179,7 +33177,7 @@
         "$date": "2025-11-26T05:56:24.148Z"
       },
       "lastActive": {
-        "$date": "2025-11-28T08:05:44.390Z"
+        "$date": "2025-11-28T10:25:35.356Z"
       }
     },
     {
