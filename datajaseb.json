@@ -45453,6 +45453,20 @@
       "lastActive": {
         "$date": "2025-11-28T14:58:14.850Z"
       }
+    },
+    {
+      "userId": 7556642057,
+      "username": "cb_0b",
+      "firstName": "CL..𖤝",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T15:00:37.142Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T15:00:37.142Z"
+      }
     }
   ],
   "groups": [
