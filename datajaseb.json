@@ -42919,6 +42919,21 @@
       "lastActive": {
         "$date": "2025-11-28T01:54:44.051Z"
       }
+    },
+    {
+      "userId": 6299827834,
+      "username": "destinydan913",
+      "firstName": "Destiny",
+      "lastName": "Daniel",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T02:15:46.003Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T02:15:46.003Z"
+      }
     }
   ],
   "groups": [
