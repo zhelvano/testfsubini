@@ -44077,6 +44077,21 @@
       "lastActive": {
         "$date": "2025-11-28T07:52:51.130Z"
       }
+    },
+    {
+      "userId": 7050553629,
+      "username": "auliaaloy",
+      "firstName": "PIK",
+      "lastName": "||Aulia🇻🇮",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T08:07:49.132Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T08:07:54.804Z"
+      }
     }
   ],
   "groups": [
