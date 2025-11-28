@@ -43346,6 +43346,20 @@
       "lastActive": {
         "$date": "2025-11-28T03:57:53.647Z"
       }
+    },
+    {
+      "userId": 8295731362,
+      "username": "Sidrakhangee",
+      "firstName": "Sɨɗ𝕣ค 𝓗𝕒𝕤ɧ𝓲𝓶🥀🦋 ✧•✾Qᴜᴇᴇɴ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T04:02:06.836Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T04:02:06.836Z"
+      }
     }
   ],
   "groups": [
