@@ -45548,6 +45548,20 @@
       "lastActive": {
         "$date": "2025-11-28T15:24:36.579Z"
       }
+    },
+    {
+      "userId": 1479250969,
+      "firstName": "Ahmed",
+      "lastName": "Sophi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T15:33:32.494Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T15:33:32.494Z"
+      }
     }
   ],
   "groups": [
