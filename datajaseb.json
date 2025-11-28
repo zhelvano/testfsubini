@@ -44457,6 +44457,20 @@
       "lastActive": {
         "$date": "2025-11-28T09:31:16.923Z"
       }
+    },
+    {
+      "userId": 6253366181,
+      "username": "U_H12378",
+      "firstName": "彡(ح̯͡س̯͡ام̯͡ ع̯͡لي̯͡)彡",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T09:41:08.382Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T09:41:08.383Z"
+      }
     }
   ],
   "groups": [
