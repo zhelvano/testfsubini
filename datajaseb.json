@@ -43077,6 +43077,20 @@
       "lastActive": {
         "$date": "2025-11-28T03:06:44.716Z"
       }
+    },
+    {
+      "userId": 1505562623,
+      "username": "salmantech45",
+      "firstName": "༒❃࿐❦☬Salman☬❃࿐❦",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:13:48.213Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:13:48.213Z"
+      }
     }
   ],
   "groups": [
