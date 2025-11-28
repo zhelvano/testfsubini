@@ -43204,6 +43204,33 @@
       "lastActive": {
         "$date": "2025-11-28T03:25:20.333Z"
       }
+    },
+    {
+      "userId": 8030798189,
+      "firstName": "☬الحاجـ☬ساداتـ☬هلمندیـ²⁰¹²☬",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:25:59.323Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:25:59.323Z"
+      }
+    },
+    {
+      "userId": 7350315038,
+      "username": "RAMIN_4K0",
+      "firstName": "𓍼❥︎ོ͢ʀΛᴍłɴ.⁴ᴋ𓍯✈︎",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:26:20.764Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:26:20.764Z"
+      }
     }
   ],
   "groups": [
