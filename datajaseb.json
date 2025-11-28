@@ -44848,6 +44848,20 @@
       "lastActive": {
         "$date": "2025-11-28T11:12:45.854Z"
       }
+    },
+    {
+      "userId": 7409472314,
+      "username": "Asirash",
+      "firstName": "الیا",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T11:24:59.004Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T11:24:59.004Z"
+      }
     }
   ],
   "groups": [
