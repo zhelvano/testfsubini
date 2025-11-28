@@ -46054,6 +46054,20 @@
       "lastActive": {
         "$date": "2025-11-28T18:20:09.701Z"
       }
+    },
+    {
+      "userId": 6487235905,
+      "firstName": "أم",
+      "lastName": "مريم",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T18:26:26.529Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T18:26:26.529Z"
+      }
     }
   ],
   "groups": [
