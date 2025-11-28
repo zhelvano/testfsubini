@@ -22414,7 +22414,7 @@
         "$date": "2025-11-24T22:23:10.196Z"
       },
       "lastActive": {
-        "$date": "2025-11-28T18:30:08.692Z"
+        "$date": "2025-11-28T18:30:49.683Z"
       }
     },
     {
@@ -46068,6 +46068,20 @@
       "lastActive": {
         "$date": "2025-11-28T18:26:26.529Z"
       }
+    },
+    {
+      "userId": 1237190930,
+      "username": "GHClone5Bot",
+      "firstName": "Group Help",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T18:30:30.313Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T18:30:30.313Z"
+      }
     }
   ],
   "groups": [
@@ -46590,7 +46604,7 @@
       "title": "INFO PREDIKSI SPACEMAN",
       "addedBy": 7794160402,
       "addedAt": {
-        "$date": "2025-11-28T17:49:08.379Z"
+        "$date": "2025-11-28T18:30:49.852Z"
       },
       "memberCount": 1281
     },
