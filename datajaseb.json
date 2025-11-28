@@ -45112,6 +45112,20 @@
       "lastActive": {
         "$date": "2025-11-28T12:55:36.069Z"
       }
+    },
+    {
+      "userId": 7595964541,
+      "username": "kemprong",
+      "firstName": "Kemprong",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T12:57:49.575Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T12:57:49.575Z"
+      }
     }
   ],
   "groups": [
