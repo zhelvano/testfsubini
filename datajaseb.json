@@ -42723,6 +42723,20 @@
       "lastActive": {
         "$date": "2025-11-28T00:42:47.065Z"
       }
+    },
+    {
+      "userId": 8056421748,
+      "firstName": "Mohamed",
+      "lastName": "Elsayed",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T00:46:44.641Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T00:46:44.641Z"
+      }
     }
   ],
   "groups": [
