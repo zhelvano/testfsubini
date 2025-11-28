@@ -45992,6 +45992,20 @@
       "lastActive": {
         "$date": "2025-11-28T17:57:42.746Z"
       }
+    },
+    {
+      "userId": 7360535298,
+      "username": "jwbwnn",
+      "firstName": "isna🐾",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T18:00:11.565Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T18:00:11.565Z"
+      }
     }
   ],
   "groups": [
