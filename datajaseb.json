@@ -45675,6 +45675,34 @@
       "lastActive": {
         "$date": "2025-11-28T16:14:36.169Z"
       }
+    },
+    {
+      "userId": 7858118137,
+      "username": "VvlentV2",
+      "firstName": "𝟗𝟗𝟏 𝑩𝒂𝒏 披头士乐队🐉",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T16:17:54.820Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T16:17:54.820Z"
+      }
+    },
+    {
+      "userId": 8001584681,
+      "username": "Manzzzxyyylaso",
+      "firstName": "ᴍᴀɴᴢᴢ?dé vvip",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T16:18:01.389Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T16:18:01.389Z"
+      }
     }
   ],
   "groups": [
