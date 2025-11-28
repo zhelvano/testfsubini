@@ -42696,6 +42696,33 @@
       "lastActive": {
         "$date": "2025-11-28T00:39:55.856Z"
       }
+    },
+    {
+      "userId": 1967759213,
+      "firstName": "Danielaa😸",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T00:42:45.455Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T00:42:45.455Z"
+      }
+    },
+    {
+      "userId": 5802689888,
+      "username": "X_Weka_x",
+      "firstName": "『☬』𝔚𝓮𝓴𝐴 『❄️』《悲しみ》♡",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T00:42:47.065Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T00:42:47.065Z"
+      }
     }
   ],
   "groups": [
