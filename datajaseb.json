@@ -45856,6 +45856,35 @@
       "lastActive": {
         "$date": "2025-11-28T17:15:52.341Z"
       }
+    },
+    {
+      "userId": 6135469262,
+      "username": "chindyysaja",
+      "firstName": "ℭ𝔥𝔦𝔫𝔡𝔶 𝔭𝔢𝔪𝔲𝔩𝔞 💸💳",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T17:20:25.214Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T17:20:25.214Z"
+      }
+    },
+    {
+      "userId": 8436403069,
+      "username": "herbertgronemeyermusikoffizielle",
+      "firstName": "Herbert Grönemeyer musik",
+      "lastName": "Offiziele",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T17:20:25.214Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T17:20:25.214Z"
+      }
     }
   ],
   "groups": [
