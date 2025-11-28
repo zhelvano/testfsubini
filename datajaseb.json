@@ -43005,6 +43005,20 @@
       "lastActive": {
         "$date": "2025-11-28T02:38:57.560Z"
       }
+    },
+    {
+      "userId": 7156283304,
+      "username": "BXVVN",
+      "firstName": "ㅤ☇ㅤ𝕶en .",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T02:39:47.621Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T02:39:47.621Z"
+      }
     }
   ],
   "groups": [
