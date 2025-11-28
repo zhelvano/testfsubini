@@ -43781,6 +43781,20 @@
       "lastActive": {
         "$date": "2025-11-28T06:33:00.180Z"
       }
+    },
+    {
+      "userId": 1201175671,
+      "username": "Quaresmaandmeeeee",
+      "firstName": "⫷𝚀𝚄𝙰𝚁𝙴𝚂𝙼𝙰𝚂𝙷𝙾𝙿⫸",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T06:41:17.127Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T06:41:17.127Z"
+      }
     }
   ],
   "groups": [
