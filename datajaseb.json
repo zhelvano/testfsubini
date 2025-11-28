@@ -44133,6 +44133,20 @@
       "lastActive": {
         "$date": "2025-11-28T08:13:47.944Z"
       }
+    },
+    {
+      "userId": 8387313929,
+      "firstName": "⏤͟͟͞͞𝙓𝙑𝙍𝙓 Dimaz137",
+      "lastName": "Dimas137",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T08:21:06.337Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T08:21:28.766Z"
+      }
     }
   ],
   "groups": [
