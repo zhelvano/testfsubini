@@ -44471,6 +44471,21 @@
       "lastActive": {
         "$date": "2025-11-28T09:41:08.383Z"
       }
+    },
+    {
+      "userId": 6860336821,
+      "username": "Biplobhosson",
+      "firstName": "Md",
+      "lastName": "Biplob🎸",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T09:44:50.820Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T09:44:50.820Z"
+      }
     }
   ],
   "groups": [
