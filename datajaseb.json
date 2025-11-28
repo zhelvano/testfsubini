@@ -45977,6 +45977,21 @@
       "lastActive": {
         "$date": "2025-11-28T17:43:37.418Z"
       }
+    },
+    {
+      "userId": 6833677740,
+      "username": "hussnainmuavia4790",
+      "firstName": "hussnain",
+      "lastName": "muavia",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T17:57:42.746Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T17:57:42.746Z"
+      }
     }
   ],
   "groups": [
