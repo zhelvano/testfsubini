@@ -45002,6 +45002,20 @@
       "lastActive": {
         "$date": "2025-11-28T12:10:17.107Z"
       }
+    },
+    {
+      "userId": 6861285294,
+      "username": "withInaev",
+      "firstName": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤInaev",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T12:18:24.799Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T12:18:24.799Z"
+      }
     }
   ],
   "groups": [
