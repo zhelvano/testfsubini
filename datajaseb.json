@@ -43951,6 +43951,19 @@
       "lastActive": {
         "$date": "2025-11-28T07:18:45.153Z"
       }
+    },
+    {
+      "userId": 6591872860,
+      "firstName": "FhRL",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T07:26:27.200Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T07:26:27.200Z"
+      }
     }
   ],
   "groups": [
