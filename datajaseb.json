@@ -45297,6 +45297,20 @@
       "lastActive": {
         "$date": "2025-11-28T14:02:05.377Z"
       }
+    },
+    {
+      "userId": 7027554862,
+      "firstName": "ثلوج الصيف الحارة",
+      "lastName": "..",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T14:02:21.210Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T14:02:21.210Z"
+      }
     }
   ],
   "groups": [
