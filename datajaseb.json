@@ -44358,6 +44358,33 @@
       "lastActive": {
         "$date": "2025-11-28T09:17:41.263Z"
       }
+    },
+    {
+      "userId": 6858114819,
+      "firstName": "Smart Pack BD💥",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T09:19:43.849Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T09:19:43.849Z"
+      }
+    },
+    {
+      "userId": 6873754677,
+      "username": "ellrajayapping",
+      "firstName": "ell",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T09:20:03.300Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T09:20:03.300Z"
+      }
     }
   ],
   "groups": [
