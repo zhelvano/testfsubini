@@ -45396,6 +45396,21 @@
       "lastActive": {
         "$date": "2025-11-28T14:30:04.584Z"
       }
+    },
+    {
+      "userId": 7777055651,
+      "username": "Muchtarmaulan",
+      "firstName": "Muchtar",
+      "lastName": "Maulana",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T14:35:00.736Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T14:35:00.736Z"
+      }
     }
   ],
   "groups": [
