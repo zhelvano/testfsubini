@@ -44288,6 +44288,20 @@
       "lastActive": {
         "$date": "2025-11-28T08:59:34.875Z"
       }
+    },
+    {
+      "userId": 7956439538,
+      "username": "PV_toofanhack",
+      "firstName": "᳆ᬼ👑𝐓𝐎𝐎𝐅𝐀𝐍 𝐇𝐀𝐂𝐊👑ᬼ᳆",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T08:59:41.582Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T08:59:41.582Z"
+      }
     }
   ],
   "groups": [
