@@ -44274,6 +44274,20 @@
       "lastActive": {
         "$date": "2025-11-28T08:54:11.732Z"
       }
+    },
+    {
+      "userId": 8070208476,
+      "username": "FardinSadat1",
+      "firstName": "𝐅𝐀𝐑𝐃𝐈𝐍༆ᗪᗨᖇᏦ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T08:59:34.875Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T08:59:34.875Z"
+      }
     }
   ],
   "groups": [
