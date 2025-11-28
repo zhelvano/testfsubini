@@ -1438,7 +1438,6 @@
         "$oid": "69226bd8d36a0357c0e0bca6"
       },
       "userId": 8460532969,
-      "username": null,
       "firstName": "Combo",
       "lastName": "Sakti",
       "isPremium": false,
@@ -1448,7 +1447,7 @@
         "$date": "2025-11-23T02:05:12.966000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T02:05:12.966000Z"
+        "$date": "2025-11-28T16:31:42.790Z"
       }
     },
     {
@@ -45745,6 +45744,21 @@
       },
       "lastActive": {
         "$date": "2025-11-28T16:28:51.162Z"
+      }
+    },
+    {
+      "userId": 7371045334,
+      "username": "BOSSDIVZEAL001",
+      "firstName": "Boss",
+      "lastName": "Divzeal 🌏",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T16:31:18.146Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T16:31:18.146Z"
       }
     }
   ],
