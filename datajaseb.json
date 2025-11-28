@@ -44794,6 +44794,19 @@
       "lastActive": {
         "$date": "2025-11-28T11:01:57.150Z"
       }
+    },
+    {
+      "userId": 8025642326,
+      "firstName": "Mohanad",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T11:02:51.190Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T11:02:51.190Z"
+      }
     }
   ],
   "groups": [
