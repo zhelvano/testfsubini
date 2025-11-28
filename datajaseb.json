@@ -45368,6 +45368,20 @@
       "lastActive": {
         "$date": "2025-11-28T14:13:41.709Z"
       }
+    },
+    {
+      "userId": 8452535310,
+      "firstName": "Ahmad Yasir",
+      "lastName": "Arafat",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T14:21:59.385Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T14:21:59.385Z"
+      }
     }
   ],
   "groups": [
