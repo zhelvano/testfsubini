@@ -44890,6 +44890,20 @@
       "lastActive": {
         "$date": "2025-11-28T11:31:19.453Z"
       }
+    },
+    {
+      "userId": 5536834817,
+      "username": "KyySoftSpokennnnn",
+      "firstName": "Ikyy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T11:40:41.901Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T11:40:41.901Z"
+      }
     }
   ],
   "groups": [
