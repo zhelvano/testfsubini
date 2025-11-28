@@ -44694,6 +44694,20 @@
       "lastActive": {
         "$date": "2025-11-28T10:35:36.920Z"
       }
+    },
+    {
+      "userId": 6646644332,
+      "username": "noman12ahmed12",
+      "firstName": "꧁🥀, 𝒜𝒹𝓂𝒾𝓃....🥀, 𝓝𝓞𝓜𝓐𝓝꧂",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T10:41:31.017Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T10:41:31.017Z"
+      }
     }
   ],
   "groups": [
