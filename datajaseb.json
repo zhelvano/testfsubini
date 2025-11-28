@@ -42961,6 +42961,20 @@
       "lastActive": {
         "$date": "2025-11-28T02:26:49.575Z"
       }
+    },
+    {
+      "userId": 6555651529,
+      "username": "haimjisscok",
+      "firstName": "Apoloxzyy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T02:32:34.337Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T02:32:34.337Z"
+      }
     }
   ],
   "groups": [
