@@ -42765,6 +42765,20 @@
       "lastActive": {
         "$date": "2025-11-28T00:57:24.254Z"
       }
+    },
+    {
+      "userId": 8333333081,
+      "username": "Wanzzktl",
+      "firstName": "Wanzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T01:01:00.651Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T01:01:00.651Z"
+      }
     }
   ],
   "groups": [
