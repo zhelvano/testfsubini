@@ -43767,6 +43767,20 @@
       "lastActive": {
         "$date": "2025-11-28T06:28:36.983Z"
       }
+    },
+    {
+      "userId": 5155044188,
+      "username": "simply_gaall",
+      "firstName": "SimplyGaall",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T06:33:00.180Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T06:33:00.180Z"
+      }
     }
   ],
   "groups": [
