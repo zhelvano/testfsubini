@@ -43628,6 +43628,20 @@
       "lastActive": {
         "$date": "2025-11-28T05:28:35.312Z"
       }
+    },
+    {
+      "userId": 7608073404,
+      "firstName": "Saqib",
+      "lastName": "Baloch",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T05:29:30.639Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T05:29:30.639Z"
+      }
     }
   ],
   "groups": [
