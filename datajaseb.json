@@ -44020,6 +44020,20 @@
       "lastActive": {
         "$date": "2025-11-28T07:44:42.791Z"
       }
+    },
+    {
+      "userId": 7411181321,
+      "firstName": "Congg",
+      "lastName": "Acong",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T07:45:09.696Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T07:45:09.696Z"
+      }
     }
   ],
   "groups": [
