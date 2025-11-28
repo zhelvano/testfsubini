@@ -44918,6 +44918,20 @@
       "lastActive": {
         "$date": "2025-11-28T11:42:28.046Z"
       }
+    },
+    {
+      "userId": 8036092723,
+      "username": "anux112",
+      "firstName": "͟͟͞͞Anu X||",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T11:43:41.311Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T11:43:41.311Z"
+      }
     }
   ],
   "groups": [
