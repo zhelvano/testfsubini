@@ -66,18 +66,23 @@
       "groupsAdded": [
         -1002419059011,
         -1002490014926,
-        -1002096449280,
         -1002203531163
       ],
       "isAdmin": false,
-      "isPremium": false,
+      "isPremium": true,
       "joinedAt": {
         "$date": "2025-11-09T00:36:52.773000Z"
       },
       "lastActive": {
-        "$date": "2025-11-28T18:21:34.238Z"
+        "$date": "2025-11-28T18:22:13.535Z"
       },
-      "username": "GroupAnonymousBot"
+      "username": "GroupAnonymousBot",
+      "premiumSince": {
+        "$date": "2025-11-28T18:22:13.535Z"
+      },
+      "premiumExpiry": {
+        "$date": "2025-12-01T18:22:13.535Z"
+      }
     },
     {
       "_id": {
