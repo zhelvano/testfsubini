@@ -45255,6 +45255,20 @@
       "lastActive": {
         "$date": "2025-11-28T13:47:34.654Z"
       }
+    },
+    {
+      "userId": 8427639938,
+      "firstName": "Chaudary",
+      "lastName": "Asad",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T13:50:17.157Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T13:50:17.157Z"
+      }
     }
   ],
   "groups": [
