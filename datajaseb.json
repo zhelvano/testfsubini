@@ -43979,6 +43979,20 @@
       "lastActive": {
         "$date": "2025-11-28T07:26:51.218Z"
       }
+    },
+    {
+      "userId": 7620232695,
+      "username": "XinYueeeeeeeeeee",
+      "firstName": "Xin Yue",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T07:36:11.253Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T07:36:11.253Z"
+      }
     }
   ],
   "groups": [
