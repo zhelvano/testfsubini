@@ -43246,6 +43246,20 @@
       "lastActive": {
         "$date": "2025-11-28T03:34:24.130Z"
       }
+    },
+    {
+      "userId": 8011928411,
+      "username": "tidak_dikenal12",
+      "firstName": "sansss lagi bobo ||涼泉 𖤍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:35:10.865Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:35:10.865Z"
+      }
     }
   ],
   "groups": [
