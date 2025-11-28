@@ -45774,6 +45774,19 @@
       "lastActive": {
         "$date": "2025-11-28T16:35:44.208Z"
       }
+    },
+    {
+      "userId": 7565312070,
+      "firstName": "RERES_STR1",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T16:49:42.098Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T16:49:42.098Z"
+      }
     }
   ],
   "groups": [
