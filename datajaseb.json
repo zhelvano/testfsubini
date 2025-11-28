@@ -44400,6 +44400,34 @@
       "lastActive": {
         "$date": "2025-11-28T09:22:19.754Z"
       }
+    },
+    {
+      "userId": 7831801268,
+      "firstName": "ضرغام",
+      "lastName": "الفاعوري",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T09:24:07.828Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T09:24:07.828Z"
+      }
+    },
+    {
+      "userId": 7717353859,
+      "username": "WalzzTired",
+      "firstName": "𝘞𝘢𝘭𝘻𝘻 ᴾᴿᴵᴬ ᴵᴰᴬᴹᴬᴺ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T09:24:14.008Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T09:24:14.008Z"
+      }
     }
   ],
   "groups": [
