@@ -44821,6 +44821,20 @@
       "lastActive": {
         "$date": "2025-11-28T11:10:44.477Z"
       }
+    },
+    {
+      "userId": 2106441822,
+      "username": "Yahahah266",
+      "firstName": "salim",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T11:12:26.570Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T11:12:26.570Z"
+      }
     }
   ],
   "groups": [
