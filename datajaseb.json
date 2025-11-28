@@ -44624,6 +44624,20 @@
       "lastActive": {
         "$date": "2025-11-28T10:27:34.990Z"
       }
+    },
+    {
+      "userId": 7784009110,
+      "username": "Leowwya",
+      "firstName": "PREL",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T10:30:00.898Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T10:30:00.898Z"
+      }
     }
   ],
   "groups": [
