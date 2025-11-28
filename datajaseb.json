@@ -43712,6 +43712,20 @@
       "lastActive": {
         "$date": "2025-11-28T06:00:27.975Z"
       }
+    },
+    {
+      "userId": 8204263759,
+      "username": "vanzbz",
+      "firstName": "vanss",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T06:16:26.507Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T06:16:26.507Z"
+      }
     }
   ],
   "groups": [
