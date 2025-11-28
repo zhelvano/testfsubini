@@ -44652,6 +44652,20 @@
       "lastActive": {
         "$date": "2025-11-28T10:33:59.179Z"
       }
+    },
+    {
+      "userId": 8185252239,
+      "username": "vyacukay",
+      "firstName": "kebal crowd control",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T10:34:52.391Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T10:35:08.147Z"
+      }
     }
   ],
   "groups": [
