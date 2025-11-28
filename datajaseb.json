@@ -43374,6 +43374,21 @@
       "lastActive": {
         "$date": "2025-11-28T04:02:40.431Z"
       }
+    },
+    {
+      "userId": 5595851894,
+      "username": "shanto161219",
+      "firstName": "Md Shanto",
+      "lastName": "Islam",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T04:11:48.896Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T04:11:48.896Z"
+      }
     }
   ],
   "groups": [
