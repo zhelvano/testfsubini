@@ -45155,6 +45155,36 @@
       "lastActive": {
         "$date": "2025-11-28T13:15:55.986Z"
       }
+    },
+    {
+      "userId": 991841521,
+      "username": "Mahmoud_1_Elsayed",
+      "firstName": "Mahmoud",
+      "lastName": "Elsayed",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T13:22:14.314Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T13:22:14.314Z"
+      }
+    },
+    {
+      "userId": 6168610149,
+      "username": "ny_tq",
+      "firstName": "Ймал",
+      "lastName": "♧",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T13:22:23.149Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T13:22:23.149Z"
+      }
     }
   ],
   "groups": [
