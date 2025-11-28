@@ -46463,6 +46463,20 @@
       "lastActive": {
         "$date": "2025-11-28T21:16:31.743Z"
       }
+    },
+    {
+      "userId": 7095745808,
+      "username": "tofuapp",
+      "firstName": "Aefu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T21:18:31.497Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T21:18:31.497Z"
+      }
     }
   ],
   "groups": [
