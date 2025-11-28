@@ -43260,6 +43260,35 @@
       "lastActive": {
         "$date": "2025-11-28T03:35:10.865Z"
       }
+    },
+    {
+      "userId": 6624826781,
+      "username": "eLpZy",
+      "firstName": "Sumon😼",
+      "lastName": "S",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:47:36.910Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:47:36.910Z"
+      }
+    },
+    {
+      "userId": 7476689521,
+      "username": "sayona102",
+      "firstName": "Sayona103",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:47:40.568Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:47:40.568Z"
+      }
     }
   ],
   "groups": [
