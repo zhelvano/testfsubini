@@ -65,7 +65,9 @@
       "firstName": "Group",
       "groupsAdded": [
         -1002419059011,
-        -1002490014926
+        -1002490014926,
+        -1002096449280,
+        -1002203531163
       ],
       "isAdmin": false,
       "isPremium": false,
@@ -73,7 +75,7 @@
         "$date": "2025-11-09T00:36:52.773000Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T12:04:31.187Z"
+        "$date": "2025-11-28T17:49:17.853Z"
       },
       "username": "GroupAnonymousBot"
     },
@@ -22396,15 +22398,18 @@
     },
     {
       "userId": 7794160402,
+      "username": "gasz969",
       "firstName": "",
       "isPremium": false,
       "isAdmin": false,
-      "groupsAdded": [],
+      "groupsAdded": [
+        -1002115837439
+      ],
       "joinedAt": {
         "$date": "2025-11-24T22:23:10.196Z"
       },
       "lastActive": {
-        "$date": "2025-11-28T17:45:31.600Z"
+        "$date": "2025-11-28T17:49:17.312Z"
       }
     },
     {
@@ -46479,6 +46484,33 @@
         "$date": "2025-11-28T14:09:28.991Z"
       },
       "memberCount": 10
+    },
+    {
+      "groupId": -1002096449280,
+      "title": "ʙᴀᴡᴏᴋ BONUS & CB",
+      "addedBy": 1087968824,
+      "addedAt": {
+        "$date": "2025-11-28T17:48:57.322Z"
+      },
+      "memberCount": 1032
+    },
+    {
+      "groupId": -1002115837439,
+      "title": "INFO PREDIKSI SPACEMAN",
+      "addedBy": 7794160402,
+      "addedAt": {
+        "$date": "2025-11-28T17:49:08.379Z"
+      },
+      "memberCount": 1281
+    },
+    {
+      "groupId": -1002203531163,
+      "title": "BEBAS SHARE SLOT FREBEET",
+      "addedBy": 1087968824,
+      "addedAt": {
+        "$date": "2025-11-28T17:49:17.853Z"
+      },
+      "memberCount": 531
     }
   ]
 }
