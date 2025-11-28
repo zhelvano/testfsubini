@@ -43105,6 +43105,21 @@
       "lastActive": {
         "$date": "2025-11-28T03:14:46.153Z"
       }
+    },
+    {
+      "userId": 6319065449,
+      "username": "MasALOfficial",
+      "firstName": "𝑴𝒂𝒔𝑨𝑳",
+      "lastName": "𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍<//>",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:16:13.100Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:16:13.100Z"
+      }
     }
   ],
   "groups": [
