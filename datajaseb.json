@@ -46292,6 +46292,21 @@
       "lastActive": {
         "$date": "2025-11-28T20:04:23.850Z"
       }
+    },
+    {
+      "userId": 7711882574,
+      "username": "C0D3_BR34K3R",
+      "firstName": "C0D3",
+      "lastName": "BR34K3R",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T20:06:20.714Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T20:06:20.714Z"
+      }
     }
   ],
   "groups": [
