@@ -45269,6 +45269,20 @@
       "lastActive": {
         "$date": "2025-11-28T13:50:17.157Z"
       }
+    },
+    {
+      "userId": 7463437171,
+      "username": "Bolmodzz",
+      "firstName": "B̶̏͌ ̢̟̮͈̠̦͔̻̈̋̀́̾̎͝ͅͅo̴̧̤͌̌̍̍͆̍͠l̷̓̅ ̲͚̰͖̯̻̮͈̦̹m̶͈̻͌̓͊͊̓́̑͛o̷̓̈",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T13:56:42.770Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T13:56:42.770Z"
+      }
     }
   ],
   "groups": [
