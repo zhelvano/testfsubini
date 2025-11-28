@@ -45141,6 +45141,20 @@
       "lastActive": {
         "$date": "2025-11-28T13:09:53.050Z"
       }
+    },
+    {
+      "userId": 6031915352,
+      "username": "Mahin_Mia08",
+      "firstName": "—͟͞𝙱𝙻ꫝ𝙳e丶𝙼ꫝ𝚂𝚃𝙴Ꮢ—͟͞❻❾",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T13:15:55.986Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T13:15:55.986Z"
+      }
     }
   ],
   "groups": [
