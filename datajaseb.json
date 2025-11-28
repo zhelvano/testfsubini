@@ -45814,6 +45814,20 @@
       "lastActive": {
         "$date": "2025-11-28T17:03:11.440Z"
       }
+    },
+    {
+      "userId": 7748853255,
+      "username": "erlynfroken",
+      "firstName": "erlyn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T17:05:20.399Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T17:05:20.399Z"
+      }
     }
   ],
   "groups": [
