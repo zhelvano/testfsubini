@@ -45185,6 +45185,20 @@
       "lastActive": {
         "$date": "2025-11-28T13:22:23.149Z"
       }
+    },
+    {
+      "userId": 1492630438,
+      "username": "q5_6i",
+      "firstName": "يـوســــف",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T13:34:17.806Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T13:34:17.806Z"
+      }
     }
   ],
   "groups": [
