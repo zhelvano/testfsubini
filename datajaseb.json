@@ -46156,6 +46156,20 @@
       "lastActive": {
         "$date": "2025-11-28T19:16:09.728Z"
       }
+    },
+    {
+      "userId": 6028101246,
+      "username": "xixie8888",
+      "firstName": "团购卖家（WS/TG）收到订单 🌈",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T19:18:15.795Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T19:18:15.795Z"
+      }
     }
   ],
   "groups": [
