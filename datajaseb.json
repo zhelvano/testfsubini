@@ -43823,6 +43823,35 @@
       "lastActive": {
         "$date": "2025-11-28T06:54:23.318Z"
       }
+    },
+    {
+      "userId": 6725879477,
+      "username": "rexcou",
+      "firstName": "pete",
+      "lastName": "dunham",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T06:56:41.870Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T06:56:41.870Z"
+      }
+    },
+    {
+      "userId": 6184415033,
+      "username": "BaMyanWAL_01",
+      "firstName": "𝘶𝘯𝘬𝘯𝘰𝘸",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T06:56:57.826Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T06:56:57.826Z"
+      }
     }
   ],
   "groups": [
