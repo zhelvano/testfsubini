@@ -44260,6 +44260,20 @@
       "lastActive": {
         "$date": "2025-11-28T08:50:54.503Z"
       }
+    },
+    {
+      "userId": 6283001702,
+      "username": "Yokosong3",
+      "firstName": "⏤͟͟͞友𝙇𝙊𝙏𝙐𝙎友 || AzureLimiters〩🪷",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T08:54:03.085Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T08:54:03.085Z"
+      }
     }
   ],
   "groups": [
