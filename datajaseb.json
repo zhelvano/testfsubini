@@ -46197,6 +46197,19 @@
       "lastActive": {
         "$date": "2025-11-28T19:22:24.565Z"
       }
+    },
+    {
+      "userId": 8361765599,
+      "firstName": "𓍼ོ𝐇𝐀𝐑𝐈𝐒‌‌ོ 𝐣𝐀𝐍ོ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T19:28:23.748Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T19:28:23.748Z"
+      }
     }
   ],
   "groups": [
