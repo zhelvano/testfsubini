@@ -46210,6 +46210,20 @@
       "lastActive": {
         "$date": "2025-11-28T19:28:23.748Z"
       }
+    },
+    {
+      "userId": 8114599979,
+      "firstName": "مجهول",
+      "lastName": "مجهول",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T19:34:30.927Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T19:34:30.927Z"
+      }
     }
   ],
   "groups": [
