@@ -46591,6 +46591,21 @@
       "lastActive": {
         "$date": "2025-11-28T22:32:41.535Z"
       }
+    },
+    {
+      "userId": 6250235936,
+      "username": "Bahram4k",
+      "firstName": "⇾ᏴᗨᎡᗨᎷ𖡡᭄⃤",
+      "lastName": "JAN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T22:38:42.154Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T22:38:42.154Z"
+      }
     }
   ],
   "groups": [
