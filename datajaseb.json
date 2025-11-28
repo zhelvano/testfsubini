@@ -43923,6 +43923,20 @@
       "lastActive": {
         "$date": "2025-11-28T07:05:00.083Z"
       }
+    },
+    {
+      "userId": 8480814376,
+      "username": "MamzChewyzx",
+      "firstName": "맘즈 스토어 🇺🇸",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T07:08:31.263Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T07:08:31.263Z"
+      }
     }
   ],
   "groups": [
