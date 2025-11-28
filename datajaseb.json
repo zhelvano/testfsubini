@@ -45603,6 +45603,20 @@
       "lastActive": {
         "$date": "2025-11-28T15:55:06.487Z"
       }
+    },
+    {
+      "userId": 8056554473,
+      "username": "R4yapBesi",
+      "firstName": "ＺａｎｅＳｈｒｏｕヸぶい",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T15:58:01.888Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T15:58:01.888Z"
+      }
     }
   ],
   "groups": [
