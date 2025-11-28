@@ -46006,6 +46006,20 @@
       "lastActive": {
         "$date": "2025-11-28T18:00:11.565Z"
       }
+    },
+    {
+      "userId": 5532129264,
+      "firstName": "مرحباً بكم..... في رحاب الجحيم 🐍🐍h",
+      "lastName": "💲BLM",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T18:04:43.499Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T18:04:43.499Z"
+      }
     }
   ],
   "groups": [
