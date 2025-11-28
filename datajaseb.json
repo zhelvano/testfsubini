@@ -44120,6 +44120,19 @@
       "lastActive": {
         "$date": "2025-11-28T08:12:46.189Z"
       }
+    },
+    {
+      "userId": 5011331489,
+      "firstName": "Zabi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T08:13:47.944Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T08:13:47.944Z"
+      }
     }
   ],
   "groups": [
