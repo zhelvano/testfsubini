@@ -43909,6 +43909,20 @@
       "lastActive": {
         "$date": "2025-11-28T07:03:10.892Z"
       }
+    },
+    {
+      "userId": 7211503297,
+      "username": "ta2bi3dii9",
+      "firstName": "𓆩𓆩びげ者||تـــبيــدي 𓆪𓆪 .",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T07:05:00.083Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T07:05:00.083Z"
+      }
     }
   ],
   "groups": [
