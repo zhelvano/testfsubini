@@ -7743,7 +7743,6 @@
         "$oid": "6922a8a44e23132d6f0aa3e7"
       },
       "userId": 8365825616,
-      "username": null,
       "firstName": "Mehar King",
       "lastName": "Mehar King",
       "isPremium": false,
@@ -7753,7 +7752,7 @@
         "$date": "2025-11-23T06:24:36.089000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T06:24:36.089000Z"
+        "$date": "2025-11-28T18:05:47.892Z"
       }
     },
     {
