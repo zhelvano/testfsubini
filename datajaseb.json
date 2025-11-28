@@ -44201,7 +44201,7 @@
         "$date": "2025-11-28T08:28:35.333Z"
       },
       "lastActive": {
-        "$date": "2025-11-28T08:28:41.859Z"
+        "$date": "2025-11-28T15:10:40.761Z"
       }
     },
     {
@@ -45466,6 +45466,20 @@
       },
       "lastActive": {
         "$date": "2025-11-28T15:00:37.142Z"
+      }
+    },
+    {
+      "userId": 7712336372,
+      "username": "krococuyy",
+      "firstName": "Qy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T15:10:34.078Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T15:10:34.078Z"
       }
     }
   ],
