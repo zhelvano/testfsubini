@@ -44932,6 +44932,35 @@
       "lastActive": {
         "$date": "2025-11-28T11:43:41.311Z"
       }
+    },
+    {
+      "userId": 7064936956,
+      "username": "Gasolindas",
+      "firstName": "AKUN",
+      "lastName": "TERHAPUS",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T11:45:11.150Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T11:45:11.150Z"
+      }
+    },
+    {
+      "userId": 8157425962,
+      "firstName": "Ferdi",
+      "lastName": "Okelah23",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T11:45:39.498Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T11:45:39.498Z"
+      }
     }
   ],
   "groups": [
