@@ -46492,6 +46492,35 @@
       "lastActive": {
         "$date": "2025-11-28T21:27:26.052Z"
       }
+    },
+    {
+      "userId": 7733299211,
+      "username": "emmafx22",
+      "firstName": "Emma",
+      "lastName": "Fx📊",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T21:35:42.727Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T21:35:42.727Z"
+      }
+    },
+    {
+      "userId": 8047759260,
+      "firstName": "Kevin",
+      "lastName": "Ibra",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T21:35:50.518Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T21:35:50.518Z"
+      }
     }
   ],
   "groups": [
