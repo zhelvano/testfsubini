@@ -46142,6 +46142,20 @@
       "lastActive": {
         "$date": "2025-11-28T19:09:24.997Z"
       }
+    },
+    {
+      "userId": 7606103149,
+      "username": "imortalitybian",
+      "firstName": "bian",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T19:16:09.728Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T19:16:09.728Z"
+      }
     }
   ],
   "groups": [
