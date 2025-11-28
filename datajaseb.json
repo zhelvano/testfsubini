@@ -46521,6 +46521,20 @@
       "lastActive": {
         "$date": "2025-11-28T21:35:50.518Z"
       }
+    },
+    {
+      "userId": 8225232605,
+      "username": "ALSORE_0",
+      "firstName": "الزعيم الحموي",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T21:44:47.324Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T21:44:47.324Z"
+      }
     }
   ],
   "groups": [
