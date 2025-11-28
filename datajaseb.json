@@ -45382,6 +45382,20 @@
       "lastActive": {
         "$date": "2025-11-28T14:21:59.385Z"
       }
+    },
+    {
+      "userId": 7659798390,
+      "username": "XiterFren",
+      "firstName": "S3 Available",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T14:30:04.584Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T14:30:04.584Z"
+      }
     }
   ],
   "groups": [
