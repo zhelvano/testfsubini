@@ -116,20 +116,16 @@
         -1003482156792
       ],
       "isAdmin": false,
-      "isPremium": true,
+      "isPremium": false,
       "joinedAt": {
         "$date": "2025-11-22T22:21:14.499000Z"
       },
       "lastActive": {
-        "$date": "2025-11-28T18:36:58.884Z"
+        "$date": "2025-11-28T18:37:26.465Z"
       },
       "username": "RlMZOHUN",
-      "premiumSince": {
-        "$date": "2025-11-24T22:12:42.002Z"
-      },
-      "premiumExpiry": {
-        "$date": "2025-11-26T22:12:42.002Z"
-      }
+      "premiumSince": null,
+      "premiumExpiry": null
     },
     {
       "_id": {
