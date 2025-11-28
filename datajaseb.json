@@ -43332,6 +43332,20 @@
       "lastActive": {
         "$date": "2025-11-28T03:57:22.320Z"
       }
+    },
+    {
+      "userId": 7695932401,
+      "username": "sajalah0ffc",
+      "firstName": "𝐒𝐀JALAH 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 777",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:57:53.646Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:57:53.647Z"
+      }
     }
   ],
   "groups": [
