@@ -2699,7 +2699,6 @@
       "userId": 6585982760,
       "username": "Qwerty150205",
       "firstName": "Qwertyuiop",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -2707,7 +2706,7 @@
         "$date": "2025-11-23T03:20:10.152000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T03:20:10.152000Z"
+        "$date": "2025-11-28T05:16:07.347Z"
       }
     },
     {
@@ -43572,6 +43571,34 @@
       },
       "lastActive": {
         "$date": "2025-11-28T05:14:50.839Z"
+      }
+    },
+    {
+      "userId": 7334414642,
+      "firstName": "Amir",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T05:16:27.150Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T05:16:27.150Z"
+      }
+    },
+    {
+      "userId": 7634695616,
+      "username": "Aswwpsjsk",
+      "firstName": "m",
+      "lastName": "prdy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T05:16:28.494Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T05:16:28.494Z"
       }
     }
   ],
