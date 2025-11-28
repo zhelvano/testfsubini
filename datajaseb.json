@@ -43446,6 +43446,21 @@
       "lastActive": {
         "$date": "2025-11-28T04:35:44.113Z"
       }
+    },
+    {
+      "userId": 5586378335,
+      "username": "paicousa",
+      "firstName": "paicousa —",
+      "lastName": "heart’s patience🜲",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T04:36:30.501Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T04:36:30.501Z"
+      }
     }
   ],
   "groups": [
