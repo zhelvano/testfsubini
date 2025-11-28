@@ -45042,6 +45042,20 @@
       "lastActive": {
         "$date": "2025-11-28T12:24:11.603Z"
       }
+    },
+    {
+      "userId": 7193727516,
+      "username": "pokjgfop",
+      "firstName": ".",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T12:25:27.792Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T12:25:27.792Z"
+      }
     }
   ],
   "groups": [
