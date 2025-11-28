@@ -44428,6 +44428,20 @@
       "lastActive": {
         "$date": "2025-11-28T09:24:14.008Z"
       }
+    },
+    {
+      "userId": 8419525300,
+      "username": "yudzzmrkt",
+      "firstName": "yudz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T09:30:31.222Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T09:30:31.222Z"
+      }
     }
   ],
   "groups": [
