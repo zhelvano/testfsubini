@@ -42667,6 +42667,20 @@
       "lastActive": {
         "$date": "2025-11-28T00:30:17.374Z"
       }
+    },
+    {
+      "userId": 8080083538,
+      "username": "Anonimeess",
+      "firstName": "Hendrie Lie",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T00:38:09.370Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T00:38:09.370Z"
+      }
     }
   ],
   "groups": [
