@@ -38325,7 +38325,7 @@
         "$date": "2025-11-27T06:30:15.280Z"
       },
       "lastActive": {
-        "$date": "2025-11-28T13:30:01.201Z"
+        "$date": "2025-11-28T13:40:28.702Z"
       }
     },
     {
@@ -45212,6 +45212,20 @@
       },
       "lastActive": {
         "$date": "2025-11-28T13:35:54.980Z"
+      }
+    },
+    {
+      "userId": 6006072236,
+      "username": "JoX147o",
+      "firstName": "Jo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T13:40:22.699Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T13:40:22.699Z"
       }
     }
   ],
