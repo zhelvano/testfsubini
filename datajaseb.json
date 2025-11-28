@@ -22410,7 +22410,7 @@
         "$date": "2025-11-24T22:23:10.196Z"
       },
       "lastActive": {
-        "$date": "2025-11-28T21:06:50.886Z"
+        "$date": "2025-11-28T21:11:48.458Z"
       },
       "premiumSince": {
         "$date": "2025-11-28T18:39:28.199Z"
@@ -46435,6 +46435,20 @@
       },
       "lastActive": {
         "$date": "2025-11-28T21:08:07.585Z"
+      }
+    },
+    {
+      "userId": 7989719706,
+      "username": "sayalah1",
+      "firstName": "𝗦𝗮𝘆𝗮\"ꭙ͢ 𝐏𝐒𝐆",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T21:11:52.085Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T21:11:52.085Z"
       }
     }
   ],
