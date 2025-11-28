@@ -44246,6 +44246,20 @@
       "lastActive": {
         "$date": "2025-11-28T08:45:56.021Z"
       }
+    },
+    {
+      "userId": 8160560802,
+      "username": "BouyaHarumichii",
+      "firstName": "bouya harumichi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T08:50:54.503Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T08:50:54.503Z"
+      }
     }
   ],
   "groups": [
