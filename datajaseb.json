@@ -44807,6 +44807,20 @@
       "lastActive": {
         "$date": "2025-11-28T11:02:51.190Z"
       }
+    },
+    {
+      "userId": 6975734416,
+      "username": "estlafayette",
+      "firstName": "𝑬𝒎𝒆𝒓𝒂𝒍𝒅",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T11:10:44.477Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T11:10:44.477Z"
+      }
     }
   ],
   "groups": [
