@@ -19,7 +19,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-28T13:13:13.403Z"
+        "$date": "2025-11-28T14:09:28.603Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -45821,6 +45821,15 @@
       "addedBy": 8096702102,
       "addedAt": {
         "$date": "2025-11-27T06:40:44.810Z"
+      },
+      "memberCount": 10
+    },
+    {
+      "groupId": -1003232261583,
+      "title": "ini",
+      "addedBy": 1301819689,
+      "addedAt": {
+        "$date": "2025-11-28T14:09:28.991Z"
       },
       "memberCount": 10
     }
