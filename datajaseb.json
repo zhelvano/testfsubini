@@ -46450,6 +46450,19 @@
       "lastActive": {
         "$date": "2025-11-28T21:11:52.085Z"
       }
+    },
+    {
+      "userId": 8585720443,
+      "firstName": "إرهاق",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T21:16:31.743Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T21:16:31.743Z"
+      }
     }
   ],
   "groups": [
