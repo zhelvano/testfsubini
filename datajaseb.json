@@ -45495,6 +45495,19 @@
       "lastActive": {
         "$date": "2025-11-28T15:13:24.269Z"
       }
+    },
+    {
+      "userId": 7829845627,
+      "firstName": "محمد منصور",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T15:18:37.831Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T15:18:37.831Z"
+      }
     }
   ],
   "groups": [
