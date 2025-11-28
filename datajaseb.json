@@ -45126,6 +45126,21 @@
       "lastActive": {
         "$date": "2025-11-28T12:57:49.575Z"
       }
+    },
+    {
+      "userId": 7523291300,
+      "username": "Suzukiunband",
+      "firstName": "SI SUZUKI UNBAND",
+      "lastName": "COM",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T13:09:53.050Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T13:09:53.050Z"
+      }
     }
   ],
   "groups": [
