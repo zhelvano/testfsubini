@@ -43147,6 +43147,21 @@
       "lastActive": {
         "$date": "2025-11-28T03:18:13.348Z"
       }
+    },
+    {
+      "userId": 8406927337,
+      "username": "Dorxxey",
+      "firstName": "𝐃𝐨𝐫𝐱𝐞𝐲",
+      "lastName": "某人",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:19:48.533Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:19:48.533Z"
+      }
     }
   ],
   "groups": [
