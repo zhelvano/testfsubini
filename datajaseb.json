@@ -36825,7 +36825,7 @@
         "$date": "2025-11-27T00:56:42.124Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T00:56:42.124Z"
+        "$date": "2025-11-28T07:44:47.427Z"
       }
     },
     {
@@ -44006,6 +44006,19 @@
       },
       "lastActive": {
         "$date": "2025-11-28T07:38:08.627Z"
+      }
+    },
+    {
+      "userId": 7511618598,
+      "firstName": "PEMBURU CUAN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T07:44:42.791Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T07:44:42.791Z"
       }
     }
   ],
