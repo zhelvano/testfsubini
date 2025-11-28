@@ -45828,6 +45828,19 @@
       "lastActive": {
         "$date": "2025-11-28T17:05:20.399Z"
       }
+    },
+    {
+      "userId": 7894826931,
+      "firstName": "فُـوٌلَ کْلَهّـ خِـرأّبً",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T17:10:18.727Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T17:10:18.727Z"
+      }
     }
   ],
   "groups": [
