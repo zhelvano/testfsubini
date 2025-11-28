@@ -19,7 +19,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-11-28T18:38:59.624Z"
+        "$date": "2025-11-28T18:39:28.198Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -22401,7 +22401,7 @@
       "userId": 7794160402,
       "username": "gasz969",
       "firstName": "",
-      "isPremium": false,
+      "isPremium": true,
       "isAdmin": false,
       "groupsAdded": [
         -1002115837439
@@ -22410,7 +22410,13 @@
         "$date": "2025-11-24T22:23:10.196Z"
       },
       "lastActive": {
-        "$date": "2025-11-28T18:34:04.670Z"
+        "$date": "2025-11-28T18:39:28.199Z"
+      },
+      "premiumSince": {
+        "$date": "2025-11-28T18:39:28.199Z"
+      },
+      "premiumExpiry": {
+        "$date": "2025-11-29T18:39:28.199Z"
       }
     },
     {
