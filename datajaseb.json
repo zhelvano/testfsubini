@@ -46408,6 +46408,20 @@
       "lastActive": {
         "$date": "2025-11-28T20:42:55.753Z"
       }
+    },
+    {
+      "userId": 5693900324,
+      "firstName": "M.MOU",
+      "lastName": "1e",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T20:56:20.547Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T20:56:20.547Z"
+      }
     }
   ],
   "groups": [
