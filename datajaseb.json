@@ -44737,6 +44737,20 @@
       "lastActive": {
         "$date": "2025-11-28T10:52:25.560Z"
       }
+    },
+    {
+      "userId": 7788744619,
+      "username": "ImPutrz",
+      "firstName": "Puttz Hangsor",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T10:52:46.546Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T10:52:46.546Z"
+      }
     }
   ],
   "groups": [
