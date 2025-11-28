@@ -44063,6 +44063,20 @@
       "lastActive": {
         "$date": "2025-11-28T07:48:34.607Z"
       }
+    },
+    {
+      "userId": 8236227474,
+      "firstName": "…..",
+      "lastName": "…",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T07:52:51.130Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T07:52:51.130Z"
+      }
     }
   ],
   "groups": [
