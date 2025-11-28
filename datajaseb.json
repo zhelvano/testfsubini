@@ -43091,6 +43091,20 @@
       "lastActive": {
         "$date": "2025-11-28T03:13:48.213Z"
       }
+    },
+    {
+      "userId": 8439648014,
+      "username": "RAEES_JAN_420",
+      "firstName": "⌊ 𝗡𝗶𝙶𝙷𝗧 ⋆ʟᴏʀᴅ⋆ AFG ⌉",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:14:46.153Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:14:46.153Z"
+      }
     }
   ],
   "groups": [
