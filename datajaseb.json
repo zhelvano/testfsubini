@@ -43417,6 +43417,20 @@
       "lastActive": {
         "$date": "2025-11-28T04:20:34.974Z"
       }
+    },
+    {
+      "userId": 8077391878,
+      "username": "Ridzzx666",
+      "firstName": "⏤͟͞DRᡃ⃝VN⛧ || Ridzz⁹⁹⁹?",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T04:33:34.823Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T04:33:34.823Z"
+      }
     }
   ],
   "groups": [
