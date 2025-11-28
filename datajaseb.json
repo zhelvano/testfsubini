@@ -42905,6 +42905,20 @@
       "lastActive": {
         "$date": "2025-11-28T01:51:26.098Z"
       }
+    },
+    {
+      "userId": 8233416841,
+      "username": "Liana7810",
+      "firstName": "L",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T01:54:44.051Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T01:54:44.051Z"
+      }
     }
   ],
   "groups": [
