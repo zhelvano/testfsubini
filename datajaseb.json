@@ -46321,6 +46321,20 @@
       "lastActive": {
         "$date": "2025-11-28T20:16:07.461Z"
       }
+    },
+    {
+      "userId": 6235110659,
+      "username": "MCZ963",
+      "firstName": "الشبــح الادلبــي ام ســي",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T20:32:10.200Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T20:32:10.200Z"
+      }
     }
   ],
   "groups": [
