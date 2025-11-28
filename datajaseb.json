@@ -46535,6 +46535,20 @@
       "lastActive": {
         "$date": "2025-11-28T21:44:47.324Z"
       }
+    },
+    {
+      "userId": 8317090799,
+      "firstName": "ابن الوطن",
+      "lastName": "الشعيبي",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T21:57:23.265Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T21:57:23.266Z"
+      }
     }
   ],
   "groups": [
