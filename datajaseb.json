@@ -44904,6 +44904,20 @@
       "lastActive": {
         "$date": "2025-11-28T11:40:41.901Z"
       }
+    },
+    {
+      "userId": 6607559804,
+      "username": "o_tcw",
+      "firstName": "مـحـمـد.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T11:42:28.046Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T11:42:28.046Z"
+      }
     }
   ],
   "groups": [
