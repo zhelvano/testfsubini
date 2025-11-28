@@ -44528,6 +44528,20 @@
       "lastActive": {
         "$date": "2025-11-28T10:03:55.534Z"
       }
+    },
+    {
+      "userId": 8361277026,
+      "username": "Kaaaoffchosting",
+      "firstName": "do you know about me?",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T10:04:35.958Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T10:04:35.958Z"
+      }
     }
   ],
   "groups": [
