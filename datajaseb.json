@@ -43559,6 +43559,20 @@
       "lastActive": {
         "$date": "2025-11-28T05:04:24.282Z"
       }
+    },
+    {
+      "userId": 7235319386,
+      "username": "NAILONG56",
+      "firstName": "nailong",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T05:14:50.839Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T05:14:50.839Z"
+      }
     }
   ],
   "groups": [
