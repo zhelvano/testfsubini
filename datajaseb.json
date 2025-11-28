@@ -46278,6 +46278,20 @@
       "lastActive": {
         "$date": "2025-11-28T20:01:08.070Z"
       }
+    },
+    {
+      "userId": 8205143461,
+      "username": "MAXID911",
+      "firstName": "Sam",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T20:04:23.850Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T20:04:23.850Z"
+      }
     }
   ],
   "groups": [
