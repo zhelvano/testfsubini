@@ -44988,6 +44988,20 @@
       "lastActive": {
         "$date": "2025-11-28T11:46:37.060Z"
       }
+    },
+    {
+      "userId": 2016858028,
+      "username": "ciii9113",
+      "firstName": "𝑨𝒉𝒎𝒆𝒅.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T12:10:17.107Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T12:10:17.107Z"
+      }
     }
   ],
   "groups": [
