@@ -45508,6 +45508,20 @@
       "lastActive": {
         "$date": "2025-11-28T15:18:37.831Z"
       }
+    },
+    {
+      "userId": 8093241415,
+      "username": "barrongan",
+      "firstName": "BARONGAN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T15:20:52.433Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T15:20:52.433Z"
+      }
     }
   ],
   "groups": [
