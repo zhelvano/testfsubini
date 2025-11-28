@@ -46170,6 +46170,19 @@
       "lastActive": {
         "$date": "2025-11-28T19:18:15.795Z"
       }
+    },
+    {
+      "userId": 7291006368,
+      "firstName": "ontelaee.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T19:18:52.741Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T19:18:52.741Z"
+      }
     }
   ],
   "groups": [
