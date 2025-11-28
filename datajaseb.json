@@ -46113,6 +46113,20 @@
       "lastActive": {
         "$date": "2025-11-28T19:06:30.828Z"
       }
+    },
+    {
+      "userId": 6757405425,
+      "username": "alfndms",
+      "firstName": "Kimuraa.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T19:08:44.562Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T19:08:44.562Z"
+      }
     }
   ],
   "groups": [
