@@ -43289,6 +43289,34 @@
       "lastActive": {
         "$date": "2025-11-28T03:47:40.568Z"
       }
+    },
+    {
+      "userId": 7198887810,
+      "username": "Xxzkntl",
+      "firstName": "Dhan ?! oi 007",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:52:01.750Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:52:01.750Z"
+      }
+    },
+    {
+      "userId": 5083779804,
+      "username": "hy_ayuu",
+      "firstName": "香鱼 WS 坎蒂克",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:52:17.395Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:52:17.395Z"
+      }
     }
   ],
   "groups": [
