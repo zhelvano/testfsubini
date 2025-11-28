@@ -44779,6 +44779,21 @@
       "lastActive": {
         "$date": "2025-11-28T11:00:58.366Z"
       }
+    },
+    {
+      "userId": 5035053805,
+      "username": "vipyrmen",
+      "firstName": "Ali",
+      "lastName": "Albadany",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T11:01:57.150Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T11:01:57.150Z"
+      }
     }
   ],
   "groups": [
