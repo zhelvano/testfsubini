@@ -44570,6 +44570,20 @@
       "lastActive": {
         "$date": "2025-11-28T10:16:58.510Z"
       }
+    },
+    {
+      "userId": 7068215625,
+      "username": "pop20078",
+      "firstName": "pppp",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T10:24:06.873Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T10:24:06.873Z"
+      }
     }
   ],
   "groups": [
