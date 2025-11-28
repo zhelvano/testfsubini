@@ -43175,6 +43175,35 @@
       "lastActive": {
         "$date": "2025-11-28T03:20:26.502Z"
       }
+    },
+    {
+      "userId": 8270060813,
+      "username": "mealzaaa",
+      "firstName": "𝚇𝚖𝚎𝚊𝚕𝚣𝚊 🦋🦋",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:25:02.177Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:25:02.177Z"
+      }
+    },
+    {
+      "userId": 6085125165,
+      "username": "Talin2118",
+      "firstName": "تـوانــا",
+      "lastName": "♥👄",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:25:20.333Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:25:20.333Z"
+      }
     }
   ],
   "groups": [
