@@ -46127,6 +46127,21 @@
       "lastActive": {
         "$date": "2025-11-28T19:08:44.562Z"
       }
+    },
+    {
+      "userId": 6449237270,
+      "username": "IIIIIIIIIIIIIIIIIIIIlIIIIIIIIl",
+      "firstName": "اسف",
+      "lastName": "ولله",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T19:09:24.997Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T19:09:24.997Z"
+      }
     }
   ],
   "groups": [
