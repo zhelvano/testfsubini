@@ -45562,6 +45562,20 @@
       "lastActive": {
         "$date": "2025-11-28T15:33:32.494Z"
       }
+    },
+    {
+      "userId": 7185195570,
+      "username": "rehi_trader",
+      "firstName": "❤️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T15:42:09.325Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T15:42:09.325Z"
+      }
     }
   ],
   "groups": [
