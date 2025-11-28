@@ -45098,6 +45098,20 @@
       "lastActive": {
         "$date": "2025-11-28T12:36:52.931Z"
       }
+    },
+    {
+      "userId": 8095356823,
+      "username": "SCP62",
+      "firstName": "Syifaa💦💋👄",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T12:55:36.069Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T12:55:36.069Z"
+      }
     }
   ],
   "groups": [
