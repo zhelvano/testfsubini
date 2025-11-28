@@ -45199,6 +45199,20 @@
       "lastActive": {
         "$date": "2025-11-28T13:34:17.806Z"
       }
+    },
+    {
+      "userId": 8299766479,
+      "username": "Zyrooxie",
+      "firstName": "Kmu gak papa?",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T13:35:54.980Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T13:35:54.980Z"
+      }
     }
   ],
   "groups": [
