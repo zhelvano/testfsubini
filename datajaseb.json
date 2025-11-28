@@ -43120,6 +43120,20 @@
       "lastActive": {
         "$date": "2025-11-28T03:16:13.100Z"
       }
+    },
+    {
+      "userId": 7909948602,
+      "username": "Im_Maulana",
+      "firstName": "ull|송민호|",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:17:55.486Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:17:55.486Z"
+      }
     }
   ],
   "groups": [
