@@ -45425,6 +45425,20 @@
       "lastActive": {
         "$date": "2025-11-28T14:44:07.861Z"
       }
+    },
+    {
+      "userId": 6060448974,
+      "firstName": "Nmar",
+      "lastName": "Sakies",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T14:46:26.447Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T14:46:26.447Z"
+      }
     }
   ],
   "groups": [
