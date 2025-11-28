@@ -46577,6 +46577,20 @@
       "lastActive": {
         "$date": "2025-11-28T22:27:16.214Z"
       }
+    },
+    {
+      "userId": 6030300326,
+      "username": "Asiyahajah",
+      "firstName": "Asiyah",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T22:32:41.535Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T22:32:41.535Z"
+      }
     }
   ],
   "groups": [
