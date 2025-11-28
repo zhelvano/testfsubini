@@ -44330,6 +44330,20 @@
       "lastActive": {
         "$date": "2025-11-28T09:10:22.863Z"
       }
+    },
+    {
+      "userId": 8165402207,
+      "firstName": "ساحل باچايم",
+      "lastName": "فريد",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T09:11:01.513Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T09:11:01.513Z"
+      }
     }
   ],
   "groups": [
