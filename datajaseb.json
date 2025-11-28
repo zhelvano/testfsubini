@@ -45576,6 +45576,33 @@
       "lastActive": {
         "$date": "2025-11-28T15:42:09.325Z"
       }
+    },
+    {
+      "userId": 6441597287,
+      "username": "Apd58",
+      "firstName": "Jack",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T15:54:59.442Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T15:54:59.442Z"
+      }
+    },
+    {
+      "userId": 1409915040,
+      "firstName": "S",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T15:55:06.487Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T15:55:06.487Z"
+      }
     }
   ],
   "groups": [
