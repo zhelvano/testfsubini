@@ -45661,6 +45661,20 @@
       "lastActive": {
         "$date": "2025-11-28T16:06:40.095Z"
       }
+    },
+    {
+      "userId": 6756257998,
+      "username": "sseyad711",
+      "firstName": "أنٖ؏ـزأݪ أݪصّيٰٰٰٰٛأډ ꪝ⃝🇾🇪⃟",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T16:14:36.169Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T16:14:36.169Z"
+      }
     }
   ],
   "groups": [
