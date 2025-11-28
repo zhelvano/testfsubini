@@ -43503,6 +43503,20 @@
       "lastActive": {
         "$date": "2025-11-28T04:49:51.090Z"
       }
+    },
+    {
+      "userId": 7649653498,
+      "firstName": "Farzad Agha",
+      "lastName": "Mohammadi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T04:50:07.235Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T04:50:07.235Z"
+      }
     }
   ],
   "groups": [
