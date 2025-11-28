@@ -45325,6 +45325,21 @@
       "lastActive": {
         "$date": "2025-11-28T14:03:41.558Z"
       }
+    },
+    {
+      "userId": 8427617686,
+      "username": "Garokmrd",
+      "firstName": "Garok",
+      "lastName": "Mrd",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T14:09:49.036Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T14:09:49.036Z"
+      }
     }
   ],
   "groups": [
