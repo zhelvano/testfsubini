@@ -44835,6 +44835,19 @@
       "lastActive": {
         "$date": "2025-11-28T11:12:26.570Z"
       }
+    },
+    {
+      "userId": 1326154210,
+      "firstName": "mozy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T11:12:45.854Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T11:12:45.854Z"
+      }
     }
   ],
   "groups": [
