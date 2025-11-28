@@ -43489,6 +43489,20 @@
       "lastActive": {
         "$date": "2025-11-28T04:47:52.676Z"
       }
+    },
+    {
+      "userId": 6039633165,
+      "username": "dontforsell",
+      "firstName": "Grizzlee",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T04:49:51.090Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T04:49:51.090Z"
+      }
     }
   ],
   "groups": [
