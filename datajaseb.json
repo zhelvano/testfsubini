@@ -44162,6 +44162,50 @@
       "lastActive": {
         "$date": "2025-11-28T08:27:13.302Z"
       }
+    },
+    {
+      "userId": 7338388178,
+      "username": "K_MAbdul",
+      "firstName": "KHADIJA 💠🍅",
+      "lastName": "🐾",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T08:28:13.475Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T08:28:13.475Z"
+      }
+    },
+    {
+      "userId": 7515089443,
+      "username": "S_A_L_A_R_2_0_0",
+      "firstName": "ᴷᴴᴬˢ 𓆩𖡡𝐑𝐀𝐘𝐄𝐒•𝐒𝐀𝐋𝐀𝐑𖡡𓆪🍻",
+      "lastName": "💔",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T08:28:31.446Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T08:28:31.447Z"
+      }
+    },
+    {
+      "userId": 6404293009,
+      "username": "SUPERMOCIREAL",
+      "firstName": "SUPER MOCI",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T08:28:35.333Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T08:28:35.333Z"
+      }
     }
   ],
   "groups": [
