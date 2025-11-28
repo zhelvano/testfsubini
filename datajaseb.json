@@ -46251,6 +46251,20 @@
       "lastActive": {
         "$date": "2025-11-28T19:50:38.805Z"
       }
+    },
+    {
+      "userId": 8376502064,
+      "username": "OWNERGHOSTCOMUNITY",
+      "firstName": "𝗢𝗪𝗡𝗘𝗥 𝗚𝗛𝗢𝗦𝗧 𝗖𝗢𝗠𝗨𝗡𝗜𝗧𝗬",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T19:55:06.744Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T19:55:06.744Z"
+      }
     }
   ],
   "groups": [
