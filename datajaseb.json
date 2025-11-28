@@ -43033,6 +43033,21 @@
       "lastActive": {
         "$date": "2025-11-28T02:44:36.342Z"
       }
+    },
+    {
+      "userId": 6140212423,
+      "username": "wetetrr5",
+      "firstName": "ریس",
+      "lastName": "مظلومیار",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T02:45:33.663Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T02:45:33.663Z"
+      }
     }
   ],
   "groups": [
