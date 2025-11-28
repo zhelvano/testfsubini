@@ -43726,6 +43726,20 @@
       "lastActive": {
         "$date": "2025-11-28T06:16:26.507Z"
       }
+    },
+    {
+      "userId": 6707521724,
+      "username": "valyadell",
+      "firstName": "Valya",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T06:20:42.501Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T06:20:42.501Z"
+      }
     }
   ],
   "groups": [
