@@ -46365,6 +46365,20 @@
       "lastActive": {
         "$date": "2025-11-28T20:33:37.804Z"
       }
+    },
+    {
+      "userId": 6605604634,
+      "username": "Mars_v7",
+      "firstName": "Mars",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T20:39:04.406Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T20:39:04.406Z"
+      }
     }
   ],
   "groups": [
