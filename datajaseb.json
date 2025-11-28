@@ -44316,6 +44316,20 @@
       "lastActive": {
         "$date": "2025-11-28T09:01:39.886Z"
       }
+    },
+    {
+      "userId": 8155984818,
+      "username": "hahaha112",
+      "firstName": "naynaypm",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T09:10:22.863Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T09:10:22.863Z"
+      }
     }
   ],
   "groups": [
