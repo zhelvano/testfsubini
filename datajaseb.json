@@ -5237,7 +5237,6 @@
         "$oid": "69229361d36a0357c0e0bd7a"
       },
       "userId": 8419839972,
-      "username": null,
       "firstName": "Nznz",
       "lastName": "Nznzm",
       "isPremium": false,
@@ -5247,7 +5246,7 @@
         "$date": "2025-11-23T04:53:53.197000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T06:16:20.401000Z"
+        "$date": "2025-11-28T11:55:10.156Z"
       }
     },
     {
