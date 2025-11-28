@@ -44206,6 +44206,32 @@
       "lastActive": {
         "$date": "2025-11-28T08:28:41.859Z"
       }
+    },
+    {
+      "userId": 8115310414,
+      "firstName": "Siskaaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T08:36:13.118Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T08:36:13.118Z"
+      }
+    },
+    {
+      "userId": 8026389752,
+      "firstName": "بنت العالم",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T08:36:19.246Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T08:36:19.246Z"
+      }
     }
   ],
   "groups": [
