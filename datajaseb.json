@@ -46549,6 +46549,20 @@
       "lastActive": {
         "$date": "2025-11-28T21:57:23.266Z"
       }
+    },
+    {
+      "userId": 8532200882,
+      "username": "liybey",
+      "firstName": "利贝",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T22:12:19.218Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T22:12:19.218Z"
+      }
     }
   ],
   "groups": [
