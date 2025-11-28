@@ -43880,6 +43880,20 @@
       "lastActive": {
         "$date": "2025-11-28T06:57:48.022Z"
       }
+    },
+    {
+      "userId": 6508393946,
+      "username": "Farhad_BX2",
+      "firstName": "〘•꯭𝗙𝗔𝗥𝗛𝗔𝗗 𝗕𝗫2 •꯭ᵀᴹ꯭〙",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T06:59:36.265Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T06:59:36.265Z"
+      }
     }
   ],
   "groups": [
