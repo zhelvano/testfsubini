@@ -45841,6 +45841,21 @@
       "lastActive": {
         "$date": "2025-11-28T17:10:18.727Z"
       }
+    },
+    {
+      "userId": 7803272193,
+      "username": "Ciunyentang",
+      "firstName": "Saha",
+      "lastName": "Sia",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T17:15:52.341Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T17:15:52.341Z"
+      }
     }
   ],
   "groups": [
