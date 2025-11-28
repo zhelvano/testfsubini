@@ -46183,6 +46183,20 @@
       "lastActive": {
         "$date": "2025-11-28T19:18:52.741Z"
       }
+    },
+    {
+      "userId": 6182542253,
+      "firstName": "جريح",
+      "lastName": "ازمن",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T19:22:24.565Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T19:22:24.565Z"
+      }
     }
   ],
   "groups": [
