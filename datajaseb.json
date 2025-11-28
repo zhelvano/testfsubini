@@ -44723,6 +44723,20 @@
       "lastActive": {
         "$date": "2025-11-28T10:43:43.388Z"
       }
+    },
+    {
+      "userId": 7607923536,
+      "username": "rymomosky",
+      "firstName": "⏤͟͟͞͞Xv7 || ☬ʀʏᴍᴏᴍᴏꜱɪᴋɪ࿐",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T10:52:25.560Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T10:52:25.560Z"
+      }
     }
   ],
   "groups": [
