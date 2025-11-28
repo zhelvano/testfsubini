@@ -45800,6 +45800,20 @@
       "lastActive": {
         "$date": "2025-11-28T17:02:43.225Z"
       }
+    },
+    {
+      "userId": 8000739183,
+      "username": "naufal083",
+      "firstName": "FALZZ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T17:03:11.440Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T17:03:11.440Z"
+      }
     }
   ],
   "groups": [
