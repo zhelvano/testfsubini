@@ -44499,6 +44499,21 @@
       "lastActive": {
         "$date": "2025-11-28T09:53:53.304Z"
       }
+    },
+    {
+      "userId": 6604488137,
+      "username": "chllexandev",
+      "firstName": "Rifky Eka Pratama",
+      "lastName": "(24101806297)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T10:01:56.016Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T10:01:56.016Z"
+      }
     }
   ],
   "groups": [
