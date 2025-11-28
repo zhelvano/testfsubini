@@ -43809,6 +43809,20 @@
       "lastActive": {
         "$date": "2025-11-28T06:44:45.761Z"
       }
+    },
+    {
+      "userId": 8206099013,
+      "username": "PV_MOHAMMED_Heak",
+      "firstName": "━┃ 𝗠𝗢𝗛𝗔𝗠𝗠𝗘𝗗.𝗛𝗔𝗖𝗞↻𓆩•𝟑𝟏𝟎•𓆪 𓃮",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T06:54:23.318Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T06:54:23.318Z"
+      }
     }
   ],
   "groups": [
