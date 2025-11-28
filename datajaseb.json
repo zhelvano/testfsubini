@@ -43614,6 +43614,20 @@
       "lastActive": {
         "$date": "2025-11-28T05:26:19.550Z"
       }
+    },
+    {
+      "userId": 7789879951,
+      "username": "Pulzzzsto",
+      "firstName": "(っ◔◡◔)っ ♥ Pulzzz X golden ♥",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T05:28:35.312Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T05:28:35.312Z"
+      }
     }
   ],
   "groups": [
