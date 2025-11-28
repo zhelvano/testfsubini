@@ -1842,7 +1842,7 @@
         "$date": "2025-11-23T02:27:40.720000Z"
       },
       "lastActive": {
-        "$date": "2025-11-28T13:38:29.969Z"
+        "$date": "2025-11-28T13:47:24.787Z"
       }
     },
     {
@@ -45240,6 +45240,20 @@
       },
       "lastActive": {
         "$date": "2025-11-28T13:43:08.377Z"
+      }
+    },
+    {
+      "userId": 8209981038,
+      "firstName": "Yasin Saltany",
+      "lastName": "wardak",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T13:47:34.654Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T13:47:34.654Z"
       }
     }
   ],
