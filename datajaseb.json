@@ -43671,6 +43671,20 @@
       "lastActive": {
         "$date": "2025-11-28T05:46:42.013Z"
       }
+    },
+    {
+      "userId": 8025829457,
+      "firstName": "ᒃᶤܢߺ࡙כܢߺ࡙ܝߺ̈ߺߺ𖡡",
+      "lastName": "فاریابی",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T05:51:58.426Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T05:51:58.426Z"
+      }
     }
   ],
   "groups": [
