@@ -42849,6 +42849,20 @@
       "lastActive": {
         "$date": "2025-11-28T01:44:21.302Z"
       }
+    },
+    {
+      "userId": 5848150948,
+      "username": "CO_31u",
+      "firstName": "𝐶𝑂‌⑅⃝ 𝐵𝑅𝐴🇬🇧🍷",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T01:45:08.149Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T01:45:08.149Z"
+      }
     }
   ],
   "groups": [
