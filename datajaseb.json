@@ -43698,6 +43698,20 @@
       "lastActive": {
         "$date": "2025-11-28T05:58:57.379Z"
       }
+    },
+    {
+      "userId": 8244917385,
+      "firstName": "مبارك",
+      "lastName": "العنزي",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T06:00:27.975Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T06:00:27.975Z"
+      }
     }
   ],
   "groups": [
