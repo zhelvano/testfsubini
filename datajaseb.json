@@ -44302,6 +44302,20 @@
       "lastActive": {
         "$date": "2025-11-28T08:59:41.582Z"
       }
+    },
+    {
+      "userId": 6080022177,
+      "username": "K77_77k",
+      "firstName": "فــــؤآد زيــن⃞🇾🇪",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T09:01:39.886Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T09:01:39.886Z"
+      }
     }
   ],
   "groups": [
