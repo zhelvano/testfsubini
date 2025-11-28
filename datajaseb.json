@@ -44876,6 +44876,20 @@
       "lastActive": {
         "$date": "2025-11-28T11:26:58.647Z"
       }
+    },
+    {
+      "userId": 6628385303,
+      "username": "shzada_ghazniwl",
+      "firstName": "𝑺𝒉𝒛𝒂𝒅𝒂 𝒈𝒉𝒂𝒛𝒏𝒊𝒘𝒂𝒍",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T11:31:19.453Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T11:31:19.453Z"
+      }
     }
   ],
   "groups": [
