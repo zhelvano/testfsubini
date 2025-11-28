@@ -46335,6 +46335,36 @@
       "lastActive": {
         "$date": "2025-11-28T20:32:10.200Z"
       }
+    },
+    {
+      "userId": 7656366126,
+      "username": "Sbartqu",
+      "firstName": "​​​​​​​​​​​​​​​​​​❉্᭄͜͡الجلادة",
+      "lastName": "التائبة",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T20:33:23.538Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T20:33:23.538Z"
+      }
+    },
+    {
+      "userId": 8179663141,
+      "username": "UNSTOPPABLEBOSSS",
+      "firstName": "BOSS FROSH",
+      "lastName": "🤑💯",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T20:33:37.804Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T20:33:37.804Z"
+      }
     }
   ],
   "groups": [
