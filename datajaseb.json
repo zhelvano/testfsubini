@@ -43641,6 +43641,21 @@
       "lastActive": {
         "$date": "2025-11-28T05:29:30.639Z"
       }
+    },
+    {
+      "userId": 8589916753,
+      "username": "xenluv4",
+      "firstName": "XENA",
+      "lastName": "SINCHE",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T05:43:55.797Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T05:43:55.797Z"
+      }
     }
   ],
   "groups": [
