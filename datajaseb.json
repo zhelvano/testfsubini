@@ -46422,6 +46422,20 @@
       "lastActive": {
         "$date": "2025-11-28T20:56:20.547Z"
       }
+    },
+    {
+      "userId": 8345738351,
+      "username": "upindanusup",
+      "firstName": "Suka ngerakit bom",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T21:08:07.585Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T21:08:07.585Z"
+      }
     }
   ],
   "groups": [
