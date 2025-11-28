@@ -19779,7 +19779,7 @@
         "$date": "2025-11-24T12:56:46.824Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T15:42:16.050Z"
+        "$date": "2025-11-28T03:06:46.586Z"
       }
     },
     {
@@ -43062,6 +43062,20 @@
       },
       "lastActive": {
         "$date": "2025-11-28T02:55:11.030Z"
+      }
+    },
+    {
+      "userId": 6790679533,
+      "firstName": "Delixe",
+      "lastName": "Pryur",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T03:06:44.716Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T03:06:44.716Z"
       }
     }
   ],
