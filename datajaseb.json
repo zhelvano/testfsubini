@@ -42737,6 +42737,20 @@
       "lastActive": {
         "$date": "2025-11-28T00:46:44.641Z"
       }
+    },
+    {
+      "userId": 2052688946,
+      "username": "LauraGonzalesr",
+      "firstName": "L.González",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T00:50:07.515Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T00:50:07.515Z"
+      }
     }
   ],
   "groups": [
