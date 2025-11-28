@@ -42653,6 +42653,20 @@
       "lastActive": {
         "$date": "2025-11-28T00:26:30.421Z"
       }
+    },
+    {
+      "userId": 7289914309,
+      "username": "Glorious_c2",
+      "firstName": "GLORIOUSSPOOFED",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T00:30:17.374Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T00:30:17.374Z"
+      }
     }
   ],
   "groups": [
