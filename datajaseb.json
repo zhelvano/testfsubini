@@ -42975,6 +42975,21 @@
       "lastActive": {
         "$date": "2025-11-28T02:32:34.337Z"
       }
+    },
+    {
+      "userId": 8044436672,
+      "username": "REYNKS",
+      "firstName": "REY",
+      "lastName": "NOKOS LUAR📱(close)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T02:36:18.776Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T02:36:18.776Z"
+      }
     }
   ],
   "groups": [
