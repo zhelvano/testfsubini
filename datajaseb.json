@@ -46379,6 +46379,20 @@
       "lastActive": {
         "$date": "2025-11-28T20:39:04.406Z"
       }
+    },
+    {
+      "userId": 8201809995,
+      "username": "Chelios696",
+      "firstName": "𝚌𝕙𝘦𝒍𝖎ó𝖘",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T20:39:54.014Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T20:39:54.014Z"
+      }
     }
   ],
   "groups": [
