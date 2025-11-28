@@ -16122,7 +16122,7 @@
         "$date": "2025-11-24T03:09:53.758Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T03:09:53.758Z"
+        "$date": "2025-11-28T12:24:37.842Z"
       }
     },
     {
@@ -45028,6 +45028,19 @@
       },
       "lastActive": {
         "$date": "2025-11-28T12:23:16.622Z"
+      }
+    },
+    {
+      "userId": 8270815791,
+      "firstName": "Chaudhary",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T12:24:11.603Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T12:24:11.603Z"
       }
     }
   ],
