@@ -45646,6 +45646,21 @@
       "lastActive": {
         "$date": "2025-11-28T16:04:04.377Z"
       }
+    },
+    {
+      "userId": 5766965049,
+      "username": "majed475",
+      "firstName": "ماجد",
+      "lastName": "ماجد",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T16:06:40.095Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T16:06:40.095Z"
+      }
     }
   ],
   "groups": [
