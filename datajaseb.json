@@ -42947,6 +42947,20 @@
       "lastActive": {
         "$date": "2025-11-28T02:17:14.550Z"
       }
+    },
+    {
+      "userId": 5101293400,
+      "username": "ERXLANGG",
+      "firstName": "ERXLANGGG",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T02:26:49.575Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T02:26:49.575Z"
+      }
     }
   ],
   "groups": [
