@@ -44385,6 +44385,21 @@
       "lastActive": {
         "$date": "2025-11-28T09:20:03.300Z"
       }
+    },
+    {
+      "userId": 7235639550,
+      "username": "khaled751",
+      "firstName": "Khaled",
+      "lastName": "Abd ELmonem",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T09:22:19.753Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T09:22:19.754Z"
+      }
     }
   ],
   "groups": [
