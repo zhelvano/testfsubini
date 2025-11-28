@@ -45885,6 +45885,21 @@
       "lastActive": {
         "$date": "2025-11-28T17:20:25.214Z"
       }
+    },
+    {
+      "userId": 8166611112,
+      "username": "ppnchkgg7",
+      "firstName": "اݪقياډه اݪاسمࢪ فَحِݪ اݪمجِاݪ",
+      "lastName": ".",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T17:32:24.624Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T17:32:24.624Z"
+      }
     }
   ],
   "groups": [
