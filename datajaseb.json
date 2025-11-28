@@ -42806,6 +42806,20 @@
       "lastActive": {
         "$date": "2025-11-28T01:15:46.536Z"
       }
+    },
+    {
+      "userId": 7471010888,
+      "username": "DewaaReal",
+      "firstName": "pembantai meta",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-28T01:32:15.266Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-28T01:32:15.266Z"
+      }
     }
   ],
   "groups": [
