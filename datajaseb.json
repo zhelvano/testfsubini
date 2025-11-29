@@ -13364,7 +13364,7 @@
     {
       "userId": 8475236027,
       "username": "izz2x",
-      "firstName": "⏤͟͟͞͞𝗜𝘇𝘇𝘅.",
+      "firstName": "⏤͟͟͞͞𝐗𝐯𝟕 || ⏤͟͟͞͞𝗜𝘇𝘇𝘅.",
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -13372,7 +13372,7 @@
         "$date": "2025-11-23T15:42:32.992Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T15:42:32.998Z"
+        "$date": "2025-11-29T10:05:38.912Z"
       }
     },
     {
@@ -46986,6 +46986,132 @@
       },
       "lastActive": {
         "$date": "2025-11-29T09:24:39.860Z"
+      }
+    },
+    {
+      "userId": 7778792366,
+      "username": "Wkkkkkkkkwij",
+      "firstName": "Pembalap",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T10:05:24.149Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T10:05:24.149Z"
+      }
+    },
+    {
+      "userId": 5769160167,
+      "username": "fatihstyinhouse",
+      "firstName": "fatih holly",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T10:05:25.330Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T10:05:25.330Z"
+      }
+    },
+    {
+      "userId": 8180404721,
+      "username": "aseplagifakum",
+      "firstName": "𝙓𝙔𝙕 - | MARLEY❤️💛💚 [LIMIT PM LUAN]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T10:05:27.988Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T10:05:27.988Z"
+      }
+    },
+    {
+      "userId": 6721026056,
+      "username": "Ahmad_sto",
+      "firstName": "pulz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T10:05:29.121Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T10:05:29.121Z"
+      }
+    },
+    {
+      "userId": 7022791381,
+      "firstName": "dunn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T10:05:31.567Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T10:05:31.570Z"
+      }
+    },
+    {
+      "userId": 7933539365,
+      "username": "julyzaja",
+      "firstName": "⏤͟͟͞͞ 𝐉𝐔𝐋𝐘𝐙-𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋¹",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T10:05:33.318Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T10:05:33.318Z"
+      }
+    },
+    {
+      "userId": 7495938901,
+      "username": "Kanzzstore29",
+      "firstName": "#DZ!!",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T10:05:35.680Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T10:05:35.680Z"
+      }
+    },
+    {
+      "userId": 8514502609,
+      "username": "Dafzxhost21",
+      "firstName": "𝐃 𝐀 𝐅 𝐙 𝐗",
+      "lastName": "𝐖 𝐒",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T10:05:36.831Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T10:05:36.831Z"
+      }
+    },
+    {
+      "userId": 8305676561,
+      "username": "abdytechnical",
+      "firstName": "𝑨𝑩𝑫𝒀 𝑭𝑨𝑻𝑽𝑰𝑹𝒁 ( Open Jasa Unbanned Lumut )",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T10:05:39.282Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T10:05:39.282Z"
       }
     }
   ],
