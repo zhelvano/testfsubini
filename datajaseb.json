@@ -47496,6 +47496,20 @@
       "lastActive": {
         "$date": "2025-11-29T19:40:38.573Z"
       }
+    },
+    {
+      "userId": 1343028429,
+      "username": "Ganzy4",
+      "firstName": "Ganzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T21:38:24.279Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T21:38:50.310Z"
+      }
     }
   ],
   "groups": [
