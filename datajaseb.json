@@ -46931,6 +46931,20 @@
       "lastActive": {
         "$date": "2025-11-29T05:52:54.036Z"
       }
+    },
+    {
+      "userId": 6858679585,
+      "username": "infinitydozen",
+      "firstName": "⏤͟͟͞𝐑𝐚𝐢𝐳𝐞𝐧`𝐕𝟓 ♞[BACK]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T06:08:19.585Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T06:08:19.589Z"
+      }
     }
   ],
   "groups": [
