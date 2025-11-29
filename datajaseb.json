@@ -75,7 +75,7 @@
         "$date": "2025-11-09T00:36:52.773000Z"
       },
       "lastActive": {
-        "$date": "2025-11-29T12:35:07.128Z"
+        "$date": "2025-11-29T13:14:36.953Z"
       },
       "username": "GroupAnonymousBot",
       "premiumSince": {
@@ -22410,7 +22410,7 @@
         "$date": "2025-11-24T22:23:10.196Z"
       },
       "lastActive": {
-        "$date": "2025-11-29T12:35:07.129Z"
+        "$date": "2025-11-29T13:14:37.196Z"
       },
       "premiumSince": {
         "$date": "2025-11-28T18:39:28.199Z"
@@ -47212,6 +47212,34 @@
       },
       "lastActive": {
         "$date": "2025-11-29T13:14:15.052Z"
+      }
+    },
+    {
+      "userId": 7507768739,
+      "username": "Yanzzuul",
+      "firstName": "𝙓 - 𝙇𝙤𝙡𝙞𝙥𝙤𝙥 |⏤͟͞͞𝙔Λ𝙉𝙕?",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T13:14:29.862Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T13:14:29.862Z"
+      }
+    },
+    {
+      "userId": 8556539065,
+      "username": "doolaace",
+      "firstName": "CewzzX",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T13:14:45.541Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T13:14:45.541Z"
       }
     }
   ],
