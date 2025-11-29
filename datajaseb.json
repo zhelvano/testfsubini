@@ -47199,6 +47199,20 @@
       "lastActive": {
         "$date": "2025-11-29T12:55:32.816Z"
       }
+    },
+    {
+      "userId": 6773728363,
+      "username": "VinssNokos",
+      "firstName": "⏤͟͟͞͞𝐀𝐑𝐂 || VINSS-SXYLENπ√",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T13:14:15.028Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T13:14:15.052Z"
+      }
     }
   ],
   "groups": [
