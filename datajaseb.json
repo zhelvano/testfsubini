@@ -47170,6 +47170,21 @@
       "lastActive": {
         "$date": "2025-11-29T12:30:25.548Z"
       }
+    },
+    {
+      "userId": 1167014593,
+      "username": "Apipbenn",
+      "firstName": "Afif ahmad",
+      "lastName": "Benn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T12:36:35.795Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T12:36:35.795Z"
+      }
     }
   ],
   "groups": [
