@@ -47285,6 +47285,20 @@
       "lastActive": {
         "$date": "2025-11-29T13:30:56.962Z"
       }
+    },
+    {
+      "userId": 8454507799,
+      "username": "cipiaror",
+      "firstName": "Cipia",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T13:32:33.710Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T13:32:33.710Z"
+      }
     }
   ],
   "groups": [
