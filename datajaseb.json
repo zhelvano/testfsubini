@@ -47271,6 +47271,20 @@
       "lastActive": {
         "$date": "2025-11-29T13:17:21.506Z"
       }
+    },
+    {
+      "userId": 8027776466,
+      "username": "Danzzzxxxxz",
+      "firstName": "⏤͟͟͞͞𝐀𝐑𝐂 || 𝐃𝐀𝐍𝐙𝐗𝐍𝐎𝐓𝐃𝐄𝐕",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T13:30:56.962Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T13:30:56.962Z"
+      }
     }
   ],
   "groups": [
