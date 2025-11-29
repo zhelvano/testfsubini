@@ -47440,6 +47440,19 @@
       "lastActive": {
         "$date": "2025-11-29T18:38:23.340Z"
       }
+    },
+    {
+      "userId": 7898213130,
+      "firstName": "Pangeran",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T19:00:46.786Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T19:00:46.786Z"
+      }
     }
   ],
   "groups": [
