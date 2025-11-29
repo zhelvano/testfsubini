@@ -46974,6 +46974,19 @@
       "lastActive": {
         "$date": "2025-11-29T08:43:10.154Z"
       }
+    },
+    {
+      "userId": 8395458881,
+      "firstName": "Bibim",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T09:24:39.856Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T09:24:39.860Z"
+      }
     }
   ],
   "groups": [
