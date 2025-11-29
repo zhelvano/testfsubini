@@ -47355,6 +47355,20 @@
       "lastActive": {
         "$date": "2025-11-29T13:57:26.236Z"
       }
+    },
+    {
+      "userId": 8420048128,
+      "firstName": "Aldypratamaa",
+      "lastName": "Usa 🇺🇸",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T14:31:48.366Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T14:31:48.366Z"
+      }
     }
   ],
   "groups": [
