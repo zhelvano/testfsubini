@@ -47341,6 +47341,20 @@
       "lastActive": {
         "$date": "2025-11-29T13:57:05.013Z"
       }
+    },
+    {
+      "userId": 8384552618,
+      "username": "irenggPart2",
+      "firstName": "FilixxxNewww",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T13:57:26.236Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T13:57:26.236Z"
+      }
     }
   ],
   "groups": [
