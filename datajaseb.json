@@ -47369,6 +47369,20 @@
       "lastActive": {
         "$date": "2025-11-29T14:31:48.366Z"
       }
+    },
+    {
+      "userId": 8133142936,
+      "username": "Fizz4y",
+      "firstName": "𝗙𝗶𝘇𝘇𝘇",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T14:47:46.568Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T14:47:46.568Z"
+      }
     }
   ],
   "groups": [
