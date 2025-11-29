@@ -47467,6 +47467,21 @@
       "lastActive": {
         "$date": "2025-11-29T19:04:13.797Z"
       }
+    },
+    {
+      "userId": 6930298413,
+      "username": "Doaldle",
+      "firstName": "Dle🐾🐐",
+      "lastName": "okeee",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T19:07:53.746Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T19:07:53.746Z"
+      }
     }
   ],
   "groups": [
