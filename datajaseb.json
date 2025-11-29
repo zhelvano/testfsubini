@@ -47383,6 +47383,20 @@
       "lastActive": {
         "$date": "2025-11-29T14:47:46.568Z"
       }
+    },
+    {
+      "userId": 7769937468,
+      "username": "SamXxIterz",
+      "firstName": "someone 12meter",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T15:06:18.641Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T15:06:18.641Z"
+      }
     }
   ],
   "groups": [
