@@ -47127,6 +47127,20 @@
       "lastActive": {
         "$date": "2025-11-29T10:14:15.232Z"
       }
+    },
+    {
+      "userId": 8301451595,
+      "username": "Denzzgege",
+      "firstName": "Denzzile",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T12:16:41.965Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T12:16:41.971Z"
+      }
     }
   ],
   "groups": [
