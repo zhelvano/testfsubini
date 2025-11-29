@@ -47312,6 +47312,20 @@
       "lastActive": {
         "$date": "2025-11-29T13:46:44.248Z"
       }
+    },
+    {
+      "userId": 1324318739,
+      "username": "FianzOfficial",
+      "firstName": "⏤ 𝐅𝖎𝖆𝖓 𝐎𝖋𝖋𝖎𝖈𝖎𝖆𝖑 ϟ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T13:49:25.446Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T13:49:25.446Z"
+      }
     }
   ],
   "groups": [
