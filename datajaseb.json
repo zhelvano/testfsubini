@@ -47397,6 +47397,21 @@
       "lastActive": {
         "$date": "2025-11-29T15:06:18.641Z"
       }
+    },
+    {
+      "userId": 6958726892,
+      "username": "Pikacauone",
+      "firstName": "⚡️ Orexn Pikacau",
+      "lastName": "One",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T17:29:18.810Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T17:29:18.810Z"
+      }
     }
   ],
   "groups": [
