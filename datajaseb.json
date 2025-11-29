@@ -47412,6 +47412,20 @@
       "lastActive": {
         "$date": "2025-11-29T17:29:18.810Z"
       }
+    },
+    {
+      "userId": 5570882771,
+      "username": "andrikecebat",
+      "firstName": "𝚗𝚍𝚛𝚒𝚔𝚎𝚌𝚎",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T17:43:02.158Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T17:43:02.163Z"
+      }
     }
   ],
   "groups": [
