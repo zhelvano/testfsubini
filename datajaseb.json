@@ -47482,6 +47482,20 @@
       "lastActive": {
         "$date": "2025-11-29T19:07:53.746Z"
       }
+    },
+    {
+      "userId": 7096476055,
+      "username": "dann123321",
+      "firstName": "N̷̛͈̹̻͎͛͠𝑻𝑹𝑿 || DUTZZ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T19:40:38.570Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T19:40:38.573Z"
+      }
     }
   ],
   "groups": [
