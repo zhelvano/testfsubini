@@ -47299,6 +47299,19 @@
       "lastActive": {
         "$date": "2025-11-29T13:32:33.710Z"
       }
+    },
+    {
+      "userId": 8208799305,
+      "firstName": "Aldycukimy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T13:46:44.246Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T13:46:44.248Z"
+      }
     }
   ],
   "groups": [
