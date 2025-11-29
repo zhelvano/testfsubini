@@ -5815,7 +5815,6 @@
       "userId": 5699283437,
       "username": "M33R13L",
       "firstName": ".",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -5823,7 +5822,7 @@
         "$date": "2025-11-23T05:20:51.559000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T05:20:51.559000Z"
+        "$date": "2025-11-29T21:45:09.972Z"
       }
     },
     {
