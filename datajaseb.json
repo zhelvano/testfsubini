@@ -47426,6 +47426,20 @@
       "lastActive": {
         "$date": "2025-11-29T17:43:02.163Z"
       }
+    },
+    {
+      "userId": 7716690774,
+      "username": "zeroneofficial",
+      "firstName": "Zerone Official",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T18:38:23.340Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T18:38:23.340Z"
+      }
     }
   ],
   "groups": [
