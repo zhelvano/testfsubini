@@ -47453,6 +47453,20 @@
       "lastActive": {
         "$date": "2025-11-29T19:00:46.786Z"
       }
+    },
+    {
+      "userId": 8403102676,
+      "firstName": "Riki",
+      "lastName": "Ka",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T19:04:13.797Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T19:04:13.797Z"
+      }
     }
   ],
   "groups": [
