@@ -47113,6 +47113,20 @@
       "lastActive": {
         "$date": "2025-11-29T10:05:39.282Z"
       }
+    },
+    {
+      "userId": 7026815954,
+      "username": "FearSwag20",
+      "firstName": "𝕬𝖓𝖉𝖗𝖎𝖞𝖓𝖘𝖍𝖕𝖊𝖗𝖒𝖆𝖓𝖆",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T10:14:15.232Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T10:14:15.232Z"
+      }
     }
   ],
   "groups": [
