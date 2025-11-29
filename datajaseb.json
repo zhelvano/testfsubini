@@ -47185,6 +47185,20 @@
       "lastActive": {
         "$date": "2025-11-29T12:36:35.795Z"
       }
+    },
+    {
+      "userId": 6414173090,
+      "username": "leegoodboy",
+      "firstName": "tilee",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T12:55:32.811Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T12:55:32.816Z"
+      }
     }
   ],
   "groups": [
