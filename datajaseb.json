@@ -75,7 +75,7 @@
         "$date": "2025-11-09T00:36:52.773000Z"
       },
       "lastActive": {
-        "$date": "2025-11-29T05:30:15.697Z"
+        "$date": "2025-11-29T07:02:03.823Z"
       },
       "username": "GroupAnonymousBot",
       "premiumSince": {
@@ -46944,6 +46944,20 @@
       },
       "lastActive": {
         "$date": "2025-11-29T06:08:19.589Z"
+      }
+    },
+    {
+      "userId": 7698918985,
+      "username": "felixhostingofficial",
+      "firstName": "⚊ 𝐕𝐈𝐑𝐄𝐋𝐈𝐀 || 𝐅𝐞𝐥𝐢𝐱",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-29T07:02:06.180Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-29T07:02:06.180Z"
       }
     }
   ],
