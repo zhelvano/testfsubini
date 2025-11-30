@@ -48297,6 +48297,20 @@
       "lastActive": {
         "$date": "2025-11-30T18:03:35.569Z"
       }
+    },
+    {
+      "userId": 8003725487,
+      "username": "Whoiabaas",
+      "firstName": "Whoisbas ◌",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-30T18:08:33.637Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-30T18:08:33.641Z"
+      }
     }
   ],
   "groups": [
