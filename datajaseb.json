@@ -48283,6 +48283,20 @@
       "lastActive": {
         "$date": "2025-11-30T17:48:21.596Z"
       }
+    },
+    {
+      "userId": 7634297433,
+      "username": "REYYELERGILIMIT",
+      "firstName": "𝐑𝐄𝐘 𝐒𝐓𝐄𝐂𝐔 𝐓`𝟓",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-30T18:03:35.569Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-30T18:03:35.569Z"
+      }
     }
   ],
   "groups": [
