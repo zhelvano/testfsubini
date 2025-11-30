@@ -48325,6 +48325,21 @@
       "lastActive": {
         "$date": "2025-11-30T19:19:37.765Z"
       }
+    },
+    {
+      "userId": 6619501677,
+      "username": "Gazgax",
+      "firstName": "Dark",
+      "lastName": "K",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-30T23:35:18.606Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-30T23:35:26.903Z"
+      }
     }
   ],
   "groups": [
