@@ -48311,6 +48311,20 @@
       "lastActive": {
         "$date": "2025-11-30T18:08:33.641Z"
       }
+    },
+    {
+      "userId": 7369975475,
+      "username": "cpxplt",
+      "firstName": "Cipengx",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-30T19:19:37.761Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-30T19:19:37.765Z"
+      }
     }
   ],
   "groups": [
