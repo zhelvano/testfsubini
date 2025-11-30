@@ -48269,6 +48269,20 @@
       "lastActive": {
         "$date": "2025-11-30T17:26:01.480Z"
       }
+    },
+    {
+      "userId": 858229381,
+      "username": "keysha12",
+      "firstName": "SiBoLanG",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-11-30T17:48:21.596Z"
+      },
+      "lastActive": {
+        "$date": "2025-11-30T17:48:21.596Z"
+      }
     }
   ],
   "groups": [
