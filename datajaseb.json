@@ -47420,7 +47420,7 @@
         "$date": "2025-11-29T17:43:02.158Z"
       },
       "lastActive": {
-        "$date": "2025-12-01T13:02:23.966Z"
+        "$date": "2025-12-01T16:50:46.197Z"
       }
     },
     {
@@ -49043,6 +49043,20 @@
       },
       "lastActive": {
         "$date": "2025-12-01T16:28:24.779Z"
+      }
+    },
+    {
+      "userId": 6907122191,
+      "firstName": "Denis",
+      "lastName": "kasep",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T16:50:35.509Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T16:50:35.511Z"
       }
     }
   ],
