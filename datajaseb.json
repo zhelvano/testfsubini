@@ -48765,6 +48765,20 @@
       "lastActive": {
         "$date": "2025-12-01T11:28:11.215Z"
       }
+    },
+    {
+      "userId": 6623186020,
+      "username": "xnfrix",
+      "firstName": "`ᴊᴀʀᴢᴢʀ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T11:40:53.422Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T11:40:53.422Z"
+      }
     }
   ],
   "groups": [
