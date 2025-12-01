@@ -48708,6 +48708,21 @@
       "lastActive": {
         "$date": "2025-12-01T10:59:43.519Z"
       }
+    },
+    {
+      "userId": 7999263004,
+      "username": "DavaXD23",
+      "firstName": "Dava",
+      "lastName": "XD",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T11:13:14.113Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T11:13:14.113Z"
+      }
     }
   ],
   "groups": [
