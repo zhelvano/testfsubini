@@ -75,7 +75,7 @@
         "$date": "2025-11-09T00:36:52.773000Z"
       },
       "lastActive": {
-        "$date": "2025-12-01T00:20:31.007Z"
+        "$date": "2025-12-01T00:20:32.572Z"
       },
       "username": "GroupAnonymousBot",
       "premiumSince": {
@@ -22410,7 +22410,7 @@
         "$date": "2025-11-24T22:23:10.196Z"
       },
       "lastActive": {
-        "$date": "2025-12-01T00:20:20.566Z"
+        "$date": "2025-12-01T00:20:32.826Z"
       },
       "premiumSince": {
         "$date": "2025-11-28T18:39:28.199Z"
@@ -48339,6 +48339,20 @@
       },
       "lastActive": {
         "$date": "2025-11-30T23:37:10.428Z"
+      }
+    },
+    {
+      "userId": 6786790626,
+      "username": "bekekok7",
+      "firstName": "mikir kids😜👈",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T00:20:50.057Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T00:20:50.057Z"
       }
     }
   ],
