@@ -48369,6 +48369,21 @@
       "lastActive": {
         "$date": "2025-12-01T00:42:04.903Z"
       }
+    },
+    {
+      "userId": 8148088869,
+      "username": "Jbisogashi",
+      "firstName": "𝙓𝙯",
+      "lastName": "𝙑𝙚𝙧𝙖",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T01:37:34.376Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T01:37:34.380Z"
+      }
     }
   ],
   "groups": [
