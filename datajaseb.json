@@ -49128,6 +49128,20 @@
       "lastActive": {
         "$date": "2025-12-01T18:56:10.665Z"
       }
+    },
+    {
+      "userId": 8299353204,
+      "username": "hazel_aja",
+      "firstName": "DEDE HAZEL",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T19:18:45.071Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T19:18:45.071Z"
+      }
     }
   ],
   "groups": [
