@@ -49099,6 +49099,21 @@
       "lastActive": {
         "$date": "2025-12-01T17:20:14.362Z"
       }
+    },
+    {
+      "userId": 5816703773,
+      "username": "Duwistr33",
+      "firstName": "Dwi",
+      "lastName": "Ptra",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T18:08:56.097Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T18:08:56.105Z"
+      }
     }
   ],
   "groups": [
