@@ -48793,6 +48793,20 @@
       "lastActive": {
         "$date": "2025-12-01T11:44:32.895Z"
       }
+    },
+    {
+      "userId": 8404335914,
+      "username": "YoshuNimashe",
+      "firstName": "ジア・シ・ロイ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T12:07:23.969Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T12:07:23.972Z"
+      }
     }
   ],
   "groups": [
