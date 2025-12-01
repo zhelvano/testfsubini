@@ -48976,6 +48976,20 @@
       "lastActive": {
         "$date": "2025-12-01T14:14:00.162Z"
       }
+    },
+    {
+      "userId": 1621940833,
+      "username": "Fayzzzal",
+      "firstName": "𝐅𝐲𝐳𝐳𝐳〽️ ? 𝙔𝙚𝙨'𝙄𝙢",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T14:44:23.851Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T14:44:23.854Z"
+      }
     }
   ],
   "groups": [
