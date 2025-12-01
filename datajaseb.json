@@ -31665,7 +31665,7 @@
         "$date": "2025-11-25T23:11:38.487Z"
       },
       "lastActive": {
-        "$date": "2025-11-30T23:51:38.961Z"
+        "$date": "2025-12-01T14:12:36.772Z"
       }
     },
     {
@@ -48961,6 +48961,20 @@
       },
       "lastActive": {
         "$date": "2025-12-01T13:57:04.110Z"
+      }
+    },
+    {
+      "userId": 7843883316,
+      "username": "agaasxmv",
+      "firstName": "⏤͟͟͞͞𝐃𝐂𝐌𝐓 || Agaas ﾔᴀɴɢᴇʟ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T14:12:28.973Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T14:12:28.978Z"
       }
     }
   ],
