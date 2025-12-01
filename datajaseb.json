@@ -48666,6 +48666,20 @@
       "lastActive": {
         "$date": "2025-12-01T08:59:32.484Z"
       }
+    },
+    {
+      "userId": 8251536145,
+      "username": "kingzam12",
+      "firstName": "⏤͟͟͞͞𝐗𝐓𝐑 || 𝘼𝙯𝙖𝙢𝙣𝙖𝙠𝙛𝙚𝙢𝙚𝙨𝙗𝙤𝙡𝙚? [CEO]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T10:20:45.779Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T10:20:45.780Z"
+      }
     }
   ],
   "groups": [
