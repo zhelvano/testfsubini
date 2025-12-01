@@ -48821,6 +48821,20 @@
       "lastActive": {
         "$date": "2025-12-01T12:25:19.519Z"
       }
+    },
+    {
+      "userId": 6586758133,
+      "username": "ultramuhehe",
+      "firstName": "UltraPamzxx",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T12:48:23.232Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T12:48:23.239Z"
+      }
     }
   ],
   "groups": [
