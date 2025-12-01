@@ -49030,6 +49030,20 @@
       "lastActive": {
         "$date": "2025-12-01T15:24:32.046Z"
       }
+    },
+    {
+      "userId": 5948990877,
+      "username": "Kucingpeod",
+      "firstName": "Luffy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T16:28:24.774Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T16:28:24.779Z"
+      }
     }
   ],
   "groups": [
