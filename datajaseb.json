@@ -48426,6 +48426,21 @@
       "lastActive": {
         "$date": "2025-12-01T03:26:51.969Z"
       }
+    },
+    {
+      "userId": 7662453413,
+      "username": "Fadilganteng",
+      "firstName": "Mohammed",
+      "lastName": "Fadil 🇸🇦",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T03:51:50.872Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T03:51:50.872Z"
+      }
     }
   ],
   "groups": [
