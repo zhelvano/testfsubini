@@ -48990,6 +48990,20 @@
       "lastActive": {
         "$date": "2025-12-01T14:44:23.854Z"
       }
+    },
+    {
+      "userId": 6348574104,
+      "username": "Rahmii24",
+      "firstName": "Rahmi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T14:48:21.699Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T14:48:21.699Z"
+      }
     }
   ],
   "groups": [
