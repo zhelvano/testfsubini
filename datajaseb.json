@@ -49170,6 +49170,20 @@
       "lastActive": {
         "$date": "2025-12-01T22:33:24.621Z"
       }
+    },
+    {
+      "userId": 7482351124,
+      "username": "AntaGzz",
+      "firstName": "AntaGzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T23:47:02.550Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T23:47:02.550Z"
+      }
     }
   ],
   "groups": [
