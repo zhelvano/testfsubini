@@ -48920,6 +48920,20 @@
       "lastActive": {
         "$date": "2025-12-01T12:58:41.932Z"
       }
+    },
+    {
+      "userId": 7996932515,
+      "username": "KyyOnly1",
+      "firstName": "𝐊𝐘𝐘 || 𝐕𝐎𝐑𝐓𝐄𝐗",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T13:45:43.932Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T13:45:43.932Z"
+      }
     }
   ],
   "groups": [
