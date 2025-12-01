@@ -48779,6 +48779,20 @@
       "lastActive": {
         "$date": "2025-12-01T11:40:53.422Z"
       }
+    },
+    {
+      "userId": 5788408765,
+      "username": "ArabsAnakMamah",
+      "firstName": "ArabsAnakMamah",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T11:44:32.895Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T11:44:32.895Z"
+      }
     }
   ],
   "groups": [
