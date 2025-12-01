@@ -49058,6 +49058,19 @@
       "lastActive": {
         "$date": "2025-12-01T16:50:35.511Z"
       }
+    },
+    {
+      "userId": 7150694117,
+      "firstName": "瓦群 𝟐𝟎𝟐𝟑 – 𝟐𝟎𝟏𝟐 𝐖𝐒/𝐓𝐆",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T17:01:43.469Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T17:01:43.469Z"
+      }
     }
   ],
   "groups": [
