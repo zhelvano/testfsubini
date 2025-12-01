@@ -48736,6 +48736,20 @@
       "lastActive": {
         "$date": "2025-12-01T11:16:00.612Z"
       }
+    },
+    {
+      "userId": 7979234292,
+      "username": "kevinmwlana",
+      "firstName": "kvn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T11:21:45.953Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T11:21:45.953Z"
+      }
     }
   ],
   "groups": [
