@@ -48483,6 +48483,20 @@
       "lastActive": {
         "$date": "2025-12-01T05:22:50.718Z"
       }
+    },
+    {
+      "userId": 8211483771,
+      "username": "xarxcz",
+      "firstName": "¡m #Xarxx",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T05:44:30.025Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T05:44:30.030Z"
+      }
     }
   ],
   "groups": [
