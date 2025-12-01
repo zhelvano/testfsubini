@@ -48835,6 +48835,20 @@
       "lastActive": {
         "$date": "2025-12-01T12:48:23.239Z"
       }
+    },
+    {
+      "userId": 6534951731,
+      "username": "Zallgtng",
+      "firstName": "ℌ𝔞𝔫𝔵𝔵𝔠𝔬𝔬𝔩|⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T12:49:46.539Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T12:49:46.539Z"
+      }
     }
   ],
   "groups": [
