@@ -48384,6 +48384,20 @@
       "lastActive": {
         "$date": "2025-12-01T01:37:34.380Z"
       }
+    },
+    {
+      "userId": 7396347057,
+      "username": "dhesznokos02",
+      "firstName": "dhesz09⸙ꠋꠋꠋꠋꠋꠋꠋꠋ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T01:52:13.126Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T01:52:13.130Z"
+      }
     }
   ],
   "groups": [
