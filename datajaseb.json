@@ -48441,6 +48441,20 @@
       "lastActive": {
         "$date": "2025-12-01T03:51:50.872Z"
       }
+    },
+    {
+      "userId": 7777828111,
+      "username": "BazzOffc",
+      "firstName": "𝐏𝐀𝐈𝐍 𝐖𝟓",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T03:59:50.006Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T03:59:50.006Z"
+      }
     }
   ],
   "groups": [
