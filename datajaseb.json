@@ -48849,6 +48849,62 @@
       "lastActive": {
         "$date": "2025-12-01T12:49:46.539Z"
       }
+    },
+    {
+      "userId": 6743483711,
+      "username": "seventeenijamz",
+      "firstName": "-17n!jamz` (LIMIT KONTOL)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T12:50:30.331Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T12:50:30.331Z"
+      }
+    },
+    {
+      "userId": 6405998206,
+      "username": "Tripodencok",
+      "firstName": "Tripodencok",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T12:50:31.452Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T12:50:31.452Z"
+      }
+    },
+    {
+      "userId": 8084997482,
+      "username": "Ronal0433",
+      "firstName": "Alekxis636",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T12:50:32.403Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T12:50:32.403Z"
+      }
+    },
+    {
+      "userId": 8351564390,
+      "username": "mivaldsaturnn",
+      "firstName": "𝐊𝐚𝐢𝐬𝐚𝐫 𝐕𝐚𝐥𝐥 2 🇷🇺",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-01T12:50:32.702Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-01T12:50:32.702Z"
+      }
     }
   ],
   "groups": [
