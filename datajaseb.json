@@ -49955,6 +49955,19 @@
       "lastActive": {
         "$date": "2025-12-02T14:53:32.606Z"
       }
+    },
+    {
+      "userId": 7584055133,
+      "firstName": "RINSOTZ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T15:34:05.029Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T15:34:05.029Z"
+      }
     }
   ],
   "groups": [
