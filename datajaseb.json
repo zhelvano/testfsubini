@@ -49928,6 +49928,21 @@
       "lastActive": {
         "$date": "2025-12-02T14:12:41.340Z"
       }
+    },
+    {
+      "userId": 7739537418,
+      "username": "capung21",
+      "firstName": "Rizki",
+      "lastName": "Reynaldi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T14:26:55.514Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T14:26:55.514Z"
+      }
     }
   ],
   "groups": [
