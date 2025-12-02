@@ -50026,6 +50026,20 @@
       "lastActive": {
         "$date": "2025-12-02T16:18:30.855Z"
       }
+    },
+    {
+      "userId": 7019504933,
+      "username": "sete_azy",
+      "firstName": "( !# ) 𝐙𝐞𝐧𝐭𝐫𝐢𝐱『 𝗡𝗔𝗠𝗜𝗞𝗔𝗭𝗘 』𝕸𝕮𝕸 ||",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T16:29:59.990Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T16:29:59.990Z"
+      }
     }
   ],
   "groups": [
