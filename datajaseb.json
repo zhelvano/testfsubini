@@ -50116,6 +50116,20 @@
       "lastActive": {
         "$date": "2025-12-02T20:36:06.924Z"
       }
+    },
+    {
+      "userId": 8114584171,
+      "firstName": "idam",
+      "lastName": "?",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T20:48:08.236Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T20:48:08.236Z"
+      }
     }
   ],
   "groups": [
