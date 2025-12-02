@@ -49997,6 +49997,20 @@
       "lastActive": {
         "$date": "2025-12-02T16:10:56.444Z"
       }
+    },
+    {
+      "userId": 7025737956,
+      "username": "alenameta12",
+      "firstName": "alenaaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T16:15:39.218Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T16:15:39.218Z"
+      }
     }
   ],
   "groups": [
