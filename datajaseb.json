@@ -34144,7 +34144,7 @@
         "$date": "2025-11-26T11:50:48.378Z"
       },
       "lastActive": {
-        "$date": "2025-12-02T11:41:10.447Z"
+        "$date": "2025-12-02T22:18:53.905Z"
       }
     },
     {
@@ -50236,16 +50236,23 @@
       "userId": 6796868196,
       "username": "marceliooo1",
       "firstName": "Marcelio",
-      "isPremium": false,
+      "isPremium": true,
       "isAdmin": false,
       "groupsAdded": [
-        -1002456892765
+        -1002456892765,
+        -1003402862244
       ],
       "joinedAt": {
         "$date": "2025-12-02T22:16:55.734Z"
       },
       "lastActive": {
-        "$date": "2025-12-02T22:18:31.636Z"
+        "$date": "2025-12-02T22:18:52.379Z"
+      },
+      "premiumSince": {
+        "$date": "2025-12-02T22:18:52.370Z"
+      },
+      "premiumExpiry": {
+        "$date": "2025-12-04T22:18:52.370Z"
       }
     }
   ],
@@ -50799,6 +50806,15 @@
         "$date": "2025-12-02T22:18:31.620Z"
       },
       "memberCount": 2504
+    },
+    {
+      "groupId": -1003402862244,
+      "title": "PUSAT BONUS NEW MEMBER",
+      "addedBy": 6796868196,
+      "addedAt": {
+        "$date": "2025-12-02T22:18:51.970Z"
+      },
+      "memberCount": 59
     }
   ]
 }
