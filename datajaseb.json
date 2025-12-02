@@ -49478,6 +49478,20 @@
       "lastActive": {
         "$date": "2025-12-02T06:42:19.025Z"
       }
+    },
+    {
+      "userId": 7409978233,
+      "username": "n091009",
+      "firstName": "n",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:43:31.623Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:43:31.623Z"
+      }
     }
   ],
   "groups": [
