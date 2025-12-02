@@ -44140,7 +44140,7 @@
         "$date": "2025-11-28T08:21:06.337Z"
       },
       "lastActive": {
-        "$date": "2025-12-02T21:15:01.577Z"
+        "$date": "2025-12-02T21:16:09.876Z"
       }
     },
     {
@@ -50171,6 +50171,21 @@
       },
       "lastActive": {
         "$date": "2025-12-02T21:09:15.017Z"
+      }
+    },
+    {
+      "userId": 6521335289,
+      "username": "Maxyb766",
+      "firstName": "Vana🌱SEED 🐾🍋 | Drops💧(Ø,G)",
+      "lastName": "🐾 | Σ ✌️Yescoiner",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T21:15:02.780Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T21:15:02.780Z"
       }
     }
   ],
