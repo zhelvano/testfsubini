@@ -49899,6 +49899,21 @@
       "lastActive": {
         "$date": "2025-12-02T13:53:53.162Z"
       }
+    },
+    {
+      "userId": 7663848139,
+      "username": "noxzyyreal",
+      "firstName": "⏤͟͟͞⏤͟͟͞͞𝙓-𝙏𝙀𝘼𝙈 |",
+      "lastName": "👑𝙉𝙊𝙓𝙕𝙔𝙔🥶",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T14:01:48.457Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T14:01:48.468Z"
+      }
     }
   ],
   "groups": [
