@@ -49226,6 +49226,20 @@
       "lastActive": {
         "$date": "2025-12-02T02:33:43.752Z"
       }
+    },
+    {
+      "userId": 7056225725,
+      "username": "LerrRest",
+      "firstName": "Ler",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T04:14:27.083Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T04:14:27.083Z"
+      }
     }
   ],
   "groups": [
