@@ -50217,6 +50217,20 @@
       "lastActive": {
         "$date": "2025-12-02T21:38:57.540Z"
       }
+    },
+    {
+      "userId": 6443828611,
+      "username": "Bayu162",
+      "firstName": "Z",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T22:07:25.488Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T22:07:25.488Z"
+      }
     }
   ],
   "groups": [
