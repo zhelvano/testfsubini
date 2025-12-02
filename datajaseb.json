@@ -50231,6 +50231,22 @@
       "lastActive": {
         "$date": "2025-12-02T22:07:25.488Z"
       }
+    },
+    {
+      "userId": 6796868196,
+      "username": "marceliooo1",
+      "firstName": "Marcelio",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [
+        -1002456892765
+      ],
+      "joinedAt": {
+        "$date": "2025-12-02T22:16:55.734Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T22:18:31.636Z"
+      }
     }
   ],
   "groups": [
@@ -50774,6 +50790,15 @@
         "$date": "2025-11-28T18:20:36.281Z"
       },
       "memberCount": 3
+    },
+    {
+      "groupId": -1002456892765,
+      "title": "PUSAT MAHJONG VOL.2",
+      "addedBy": 6796868196,
+      "addedAt": {
+        "$date": "2025-12-02T22:18:31.620Z"
+      },
+      "memberCount": 2504
     }
   ]
 }
