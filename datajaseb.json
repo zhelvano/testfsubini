@@ -25163,7 +25163,7 @@
         "$date": "2025-11-25T08:21:55.369Z"
       },
       "lastActive": {
-        "$date": "2025-12-02T07:05:33.022Z"
+        "$date": "2025-12-02T07:14:40.468Z"
       }
     },
     {
@@ -49547,6 +49547,20 @@
       },
       "lastActive": {
         "$date": "2025-12-02T07:12:33.232Z"
+      }
+    },
+    {
+      "userId": 7820165934,
+      "username": "Satriazxs",
+      "firstName": "𓆩𝗝𝗡𝗥𓆪 || Satriazxs",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T07:14:47.365Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T07:14:47.366Z"
       }
     }
   ],
