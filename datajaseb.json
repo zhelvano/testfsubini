@@ -49872,6 +49872,20 @@
       "lastActive": {
         "$date": "2025-12-02T13:27:03.371Z"
       }
+    },
+    {
+      "userId": 7718037009,
+      "username": "pndxotp",
+      "firstName": "𝑹𝒂𝒇𝒇𝒛",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T13:46:23.551Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T13:46:23.552Z"
+      }
     }
   ],
   "groups": [
