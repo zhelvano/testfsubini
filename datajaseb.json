@@ -49713,7 +49713,7 @@
         "$date": "2025-12-02T11:41:10.448Z"
       },
       "lastActive": {
-        "$date": "2025-12-02T11:42:32.468Z"
+        "$date": "2025-12-02T12:08:50.899Z"
       }
     },
     {
@@ -49786,6 +49786,20 @@
       },
       "lastActive": {
         "$date": "2025-12-02T12:08:02.258Z"
+      }
+    },
+    {
+      "userId": 6342003235,
+      "username": "reszzpele",
+      "firstName": "reszzpoke",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T12:08:42.574Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T12:08:54.900Z"
       }
     }
   ],
