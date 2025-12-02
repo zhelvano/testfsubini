@@ -49773,6 +49773,20 @@
       "lastActive": {
         "$date": "2025-12-02T11:41:10.690Z"
       }
+    },
+    {
+      "userId": 6824148058,
+      "username": "Yudzxnxxx",
+      "firstName": "Chaa | MoonLabs Security 🔥",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T12:06:59.653Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T12:07:04.709Z"
+      }
     }
   ],
   "groups": [
