@@ -49492,6 +49492,20 @@
       "lastActive": {
         "$date": "2025-12-02T06:43:31.623Z"
       }
+    },
+    {
+      "userId": 7525663245,
+      "username": "jhanyjhan",
+      "firstName": "金",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:57:26.315Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:57:26.315Z"
+      }
     }
   ],
   "groups": [
