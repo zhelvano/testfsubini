@@ -50158,6 +50158,20 @@
       "lastActive": {
         "$date": "2025-12-02T20:54:24.666Z"
       }
+    },
+    {
+      "userId": 7589242860,
+      "username": "kertaslamaran",
+      "firstName": "Nyxvv",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T21:09:15.017Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T21:09:15.017Z"
+      }
     }
   ],
   "groups": [
