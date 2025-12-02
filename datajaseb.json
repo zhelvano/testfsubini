@@ -49604,6 +49604,20 @@
       "lastActive": {
         "$date": "2025-12-02T07:33:13.275Z"
       }
+    },
+    {
+      "userId": 7162467173,
+      "username": "rawonsgmabgt",
+      "firstName": "rielskascret",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T07:37:08.490Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T07:37:08.490Z"
+      }
     }
   ],
   "groups": [
