@@ -49576,6 +49576,20 @@
       "lastActive": {
         "$date": "2025-12-02T07:21:32.507Z"
       }
+    },
+    {
+      "userId": 7337377700,
+      "username": "ditcukiiiii",
+      "firstName": "dit cukimay",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T07:30:22.332Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T07:30:22.340Z"
+      }
     }
   ],
   "groups": [
