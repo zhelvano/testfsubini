@@ -18607,9 +18607,9 @@
     },
     {
       "userId": 8448127640,
-      "username": "Jogan21",
-      "firstName": "Jogan",
-      "lastName": "Real",
+      "username": "AKUNDIJUALA",
+      "firstName": "KING",
+      "lastName": "UNBEND 👾",
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -18617,7 +18617,7 @@
         "$date": "2025-11-24T11:42:42.868Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T11:42:42.868Z"
+        "$date": "2025-12-02T06:34:00.397Z"
       }
     },
     {
@@ -23386,7 +23386,7 @@
     {
       "userId": 8389211835,
       "username": "AldzzTzyX",
-      "firstName": "⏤͟͞𝟕𝟑𝗧 || 𝘼𝙡𝙙𝙯𝙯𝙏𝙯𝙮𝙓 �",
+      "firstName": "⏤͟͞𝟕𝟑𝗧 || 𝘼𝙡𝙙𝙯𝙯𝙏𝙯𝙮𝙓 アルズ",
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -23394,7 +23394,7 @@
         "$date": "2025-11-25T02:43:41.085Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T02:43:41.085Z"
+        "$date": "2025-12-02T06:33:58.180Z"
       }
     },
     {
@@ -43403,7 +43403,7 @@
         "$date": "2025-11-28T04:16:18.199Z"
       },
       "lastActive": {
-        "$date": "2025-11-28T04:16:18.200Z"
+        "$date": "2025-12-02T06:34:22.195Z"
       }
     },
     {
@@ -49307,6 +49307,118 @@
       },
       "lastActive": {
         "$date": "2025-12-02T06:25:56.964Z"
+      }
+    },
+    {
+      "userId": 7224029478,
+      "username": "b0t_yapping",
+      "firstName": "بيت بوي 👑",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:33:57.495Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:33:57.500Z"
+      }
+    },
+    {
+      "userId": 8413815668,
+      "username": "fanzz176",
+      "firstName": "dapaaaaa⚡",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:33:57.709Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:33:57.709Z"
+      }
+    },
+    {
+      "userId": 7119347552,
+      "username": "mujib_store",
+      "firstName": "MUJIB",
+      "lastName": "STORE",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:33:57.917Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:33:57.917Z"
+      }
+    },
+    {
+      "userId": 7918928546,
+      "username": "elialucunodebat",
+      "firstName": "⏤͟͟͞͞𝐓𝐊𝐒 || 𝐋𝐈𝐘𝐀𝐔𝐂𝐔𝐏",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:33:58.433Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:33:58.433Z"
+      }
+    },
+    {
+      "userId": 8318390826,
+      "firstName": "Login tidak tersedia",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:33:59.699Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:33:59.699Z"
+      }
+    },
+    {
+      "userId": 7579231691,
+      "firstName": "Haziq",
+      "lastName": "Gazza",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:33:59.909Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:33:59.909Z"
+      }
+    },
+    {
+      "userId": 8544974549,
+      "username": "Manzzicn",
+      "firstName": "Manzz 人(I.C.N) (Agency)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:34:00.125Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:34:00.125Z"
+      }
+    },
+    {
+      "userId": 8216776993,
+      "firstName": "ABDYY",
+      "lastName": "AJAA",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:34:01.658Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:34:01.658Z"
       }
     }
   ],
