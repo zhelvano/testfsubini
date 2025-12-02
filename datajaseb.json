@@ -50130,6 +50130,34 @@
       "lastActive": {
         "$date": "2025-12-02T20:48:08.236Z"
       }
+    },
+    {
+      "userId": 7807936164,
+      "username": "Ucupngantuks",
+      "firstName": "Ucup",
+      "lastName": "Ngantuk",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T20:50:37.027Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T20:50:37.027Z"
+      }
+    },
+    {
+      "userId": 6678389115,
+      "firstName": "KeyDrv",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T20:54:24.666Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T20:54:24.666Z"
+      }
     }
   ],
   "groups": [
