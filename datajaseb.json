@@ -49254,6 +49254,19 @@
       "lastActive": {
         "$date": "2025-12-02T04:26:30.010Z"
       }
+    },
+    {
+      "userId": 6800153264,
+      "firstName": "Zerone Official",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T05:46:44.035Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T05:46:44.035Z"
+      }
     }
   ],
   "groups": [
