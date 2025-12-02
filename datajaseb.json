@@ -50102,6 +50102,20 @@
       "lastActive": {
         "$date": "2025-12-02T19:43:36.453Z"
       }
+    },
+    {
+      "userId": 7666170274,
+      "username": "Baso968",
+      "firstName": "baso isi tobrut",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T20:36:06.920Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T20:36:06.924Z"
+      }
     }
   ],
   "groups": [
