@@ -49184,6 +49184,20 @@
       "lastActive": {
         "$date": "2025-12-01T23:47:02.550Z"
       }
+    },
+    {
+      "userId": 7398784134,
+      "username": "Aklio000",
+      "firstName": "𝙳𝙾𝚂𝚃𝚈𝟶𝟽",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T02:14:07.047Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T02:14:07.047Z"
+      }
     }
   ],
   "groups": [
