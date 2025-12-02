@@ -49434,6 +49434,20 @@
       "lastActive": {
         "$date": "2025-12-02T06:35:02.374Z"
       }
+    },
+    {
+      "userId": 7884601371,
+      "username": "Umoooo01",
+      "firstName": "SUMO SI 🐼",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:36:28.590Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:36:28.590Z"
+      }
     }
   ],
   "groups": [
