@@ -49519,6 +49519,20 @@
       "lastActive": {
         "$date": "2025-12-02T06:59:18.744Z"
       }
+    },
+    {
+      "userId": 6409938140,
+      "firstName": "Adwa",
+      "lastName": "Cell",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:59:58.025Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:59:58.025Z"
+      }
     }
   ],
   "groups": [
