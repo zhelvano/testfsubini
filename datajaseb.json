@@ -49198,6 +49198,20 @@
       "lastActive": {
         "$date": "2025-12-02T02:14:07.047Z"
       }
+    },
+    {
+      "userId": 7450819463,
+      "username": "yataasa",
+      "firstName": "yatasa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T02:18:15.795Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T02:18:15.795Z"
+      }
     }
   ],
   "groups": [
