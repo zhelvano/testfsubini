@@ -49420,6 +49420,20 @@
       "lastActive": {
         "$date": "2025-12-02T06:34:01.658Z"
       }
+    },
+    {
+      "userId": 6683367384,
+      "username": "keyszas",
+      "firstName": "⏤͟͟͞͞𝐗𝐓𝐑 || 𝐀𝐥𝐛𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 [Rehat]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:35:02.374Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:35:02.374Z"
+      }
     }
   ],
   "groups": [
