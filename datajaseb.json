@@ -49280,6 +49280,20 @@
       "lastActive": {
         "$date": "2025-12-02T06:03:46.342Z"
       }
+    },
+    {
+      "userId": 8306028953,
+      "username": "Rapzztech",
+      "firstName": "⏤͟͟͞͞𝐑𝐚𝐩𝐳𝐳 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:14:38.949Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:14:38.953Z"
+      }
     }
   ],
   "groups": [
