@@ -49858,6 +49858,20 @@
       "lastActive": {
         "$date": "2025-12-02T13:26:35.245Z"
       }
+    },
+    {
+      "userId": 8203604063,
+      "username": "LunoxYStore",
+      "firstName": "LunoxY Store",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T13:27:03.370Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T13:27:03.371Z"
+      }
     }
   ],
   "groups": [
