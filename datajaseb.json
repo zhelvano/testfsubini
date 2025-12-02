@@ -49914,6 +49914,20 @@
       "lastActive": {
         "$date": "2025-12-02T14:01:48.468Z"
       }
+    },
+    {
+      "userId": 8117814962,
+      "username": "Xizeereal",
+      "firstName": "⏤͟͟͞͞𝐃𝐂𝐌𝐓 || 𝐗𝐀𝐙𝐘 🆅",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T14:12:41.340Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T14:12:41.340Z"
+      }
     }
   ],
   "groups": [
