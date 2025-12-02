@@ -22397,23 +22397,17 @@
       "userId": 7794160402,
       "username": "gasz969",
       "firstName": "",
-      "isPremium": true,
+      "isPremium": false,
       "isAdmin": false,
-      "groupsAdded": [
-        -1002115837439
-      ],
+      "groupsAdded": [],
       "joinedAt": {
         "$date": "2025-11-24T22:23:10.196Z"
       },
       "lastActive": {
-        "$date": "2025-12-02T14:15:55.962Z"
+        "$date": "2025-12-02T16:43:52.360Z"
       },
-      "premiumSince": {
-        "$date": "2025-11-28T18:39:28.199Z"
-      },
-      "premiumExpiry": {
-        "$date": "2025-11-29T18:39:28.199Z"
-      }
+      "premiumSince": null,
+      "premiumExpiry": null
     },
     {
       "userId": 8284800544,
