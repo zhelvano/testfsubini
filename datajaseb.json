@@ -50254,6 +50254,20 @@
       "premiumExpiry": {
         "$date": "2025-12-04T22:18:52.370Z"
       }
+    },
+    {
+      "userId": 8287110080,
+      "username": "baguskecewa",
+      "firstName": "zx",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T22:25:50.335Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T22:26:25.411Z"
+      }
     }
   ],
   "groups": [
