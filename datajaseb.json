@@ -49212,6 +49212,20 @@
       "lastActive": {
         "$date": "2025-12-02T02:18:15.795Z"
       }
+    },
+    {
+      "userId": 7767148360,
+      "username": "ehhnnzz",
+      "firstName": "𝙍𝙮𝙝𝙣𝙯𝙯 𝙖𝙧𝙚 𝙪 𝙤𝙠?¹🌪️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T02:33:43.752Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T02:33:43.752Z"
+      }
     }
   ],
   "groups": [
