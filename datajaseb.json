@@ -49562,6 +49562,20 @@
       "lastActive": {
         "$date": "2025-12-02T07:14:47.366Z"
       }
+    },
+    {
+      "userId": 6956619019,
+      "username": "ditz_18z",
+      "firstName": "⏤͟͟͞͞𝐀𝐑𝐂 || 𝐃𝐢𝐭𝐳_𝟏𝟖𝐳",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T07:21:32.507Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T07:21:32.507Z"
+      }
     }
   ],
   "groups": [
