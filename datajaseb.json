@@ -49240,6 +49240,20 @@
       "lastActive": {
         "$date": "2025-12-02T04:14:27.083Z"
       }
+    },
+    {
+      "userId": 7889791925,
+      "username": "nueman_fuego",
+      "firstName": "Man",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T04:26:30.010Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T04:26:30.010Z"
+      }
     }
   ],
   "groups": [
