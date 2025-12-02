@@ -50060,6 +50060,20 @@
       "lastActive": {
         "$date": "2025-12-02T17:34:46.688Z"
       }
+    },
+    {
+      "userId": 8408414597,
+      "username": "lipxzmrkt",
+      "firstName": "Lipxz`attac",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T17:35:24.989Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T17:35:24.989Z"
+      }
     }
   ],
   "groups": [
