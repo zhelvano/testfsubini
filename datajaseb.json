@@ -49506,6 +49506,19 @@
       "lastActive": {
         "$date": "2025-12-02T06:57:26.315Z"
       }
+    },
+    {
+      "userId": 8276411627,
+      "firstName": "xinx",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:59:18.744Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:59:18.744Z"
+      }
     }
   ],
   "groups": [
