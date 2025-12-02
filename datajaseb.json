@@ -49617,6 +49617,20 @@
       "lastActive": {
         "$date": "2025-12-02T07:37:08.490Z"
       }
+    },
+    {
+      "userId": 7904818136,
+      "username": "Milanciel",
+      "firstName": "𝕸𝖄𝕬𝕾𝕿𝖄🇲🇽🚬",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T08:14:39.908Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T08:14:39.913Z"
+      }
     }
   ],
   "groups": [
