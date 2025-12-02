@@ -3597,7 +3597,6 @@
       "userId": 1135400797,
       "username": "exzysukaturu",
       "firstName": "EXZY -2002-",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -3605,7 +3604,7 @@
         "$date": "2025-11-23T03:55:28.553000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T03:55:28.553000Z"
+        "$date": "2025-12-02T07:52:42.586Z"
       }
     },
     {
