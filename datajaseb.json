@@ -49294,6 +49294,20 @@
       "lastActive": {
         "$date": "2025-12-02T06:14:38.953Z"
       }
+    },
+    {
+      "userId": 6742904876,
+      "username": "Rexx097",
+      "firstName": "𝕽𝕰𝖃𝖃 | 𝕬𝕿𝕽",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T06:25:56.964Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T06:25:56.964Z"
+      }
     }
   ],
   "groups": [
