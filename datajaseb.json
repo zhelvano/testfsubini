@@ -49968,6 +49968,20 @@
       "lastActive": {
         "$date": "2025-12-02T15:34:05.029Z"
       }
+    },
+    {
+      "userId": 6075037953,
+      "username": "UCOK109",
+      "firstName": "xsσ Khafa Pemula🗿",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T15:57:57.312Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T15:57:57.318Z"
+      }
     }
   ],
   "groups": [
