@@ -49844,6 +49844,20 @@
       "lastActive": {
         "$date": "2025-12-02T13:25:39.149Z"
       }
+    },
+    {
+      "userId": 7944954223,
+      "username": "syiraaa11",
+      "firstName": "—͟͞͞𝐒𝐃𝐋|syahira",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T13:26:35.245Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T13:26:35.245Z"
+      }
     }
   ],
   "groups": [
