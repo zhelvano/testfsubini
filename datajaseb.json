@@ -21147,7 +21147,7 @@
         "$date": "2025-11-24T16:25:26.256Z"
       },
       "lastActive": {
-        "$date": "2025-11-24T16:25:26.256Z"
+        "$date": "2025-12-02T13:21:20.950Z"
       }
     },
     {
@@ -49815,6 +49815,20 @@
       },
       "lastActive": {
         "$date": "2025-12-02T12:46:32.411Z"
+      }
+    },
+    {
+      "userId": 8474143618,
+      "firstName": "Angga",
+      "lastName": "Maulana",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T13:21:04.930Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T13:21:04.930Z"
       }
     }
   ],
