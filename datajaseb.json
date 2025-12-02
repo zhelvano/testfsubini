@@ -49886,6 +49886,20 @@
       "lastActive": {
         "$date": "2025-12-02T13:46:23.552Z"
       }
+    },
+    {
+      "userId": 8281908510,
+      "username": "mhmdpin",
+      "firstName": "ムハマド・アルピン",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-02T13:53:53.162Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-02T13:53:53.162Z"
+      }
     }
   ],
   "groups": [
