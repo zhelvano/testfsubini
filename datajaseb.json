@@ -51467,6 +51467,50 @@
       "lastActive": {
         "$date": "2025-12-03T10:16:16.695Z"
       }
+    },
+    {
+      "userId": 7301465987,
+      "username": "anggnp11",
+      "firstName": "Anggun",
+      "lastName": "Pe",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:16:35.684Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:16:35.684Z"
+      }
+    },
+    {
+      "userId": 1811244360,
+      "username": "Jonlayy",
+      "firstName": "Freebet",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:16:57.497Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:16:57.497Z"
+      }
+    },
+    {
+      "userId": 8278315008,
+      "username": "Zeegaz",
+      "firstName": "Zee",
+      "lastName": "Gaz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:17:01.475Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:17:01.475Z"
+      }
     }
   ],
   "groups": [
