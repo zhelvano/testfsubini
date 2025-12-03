@@ -51669,6 +51669,34 @@
       "lastActive": {
         "$date": "2025-12-03T10:19:29.669Z"
       }
+    },
+    {
+      "userId": 8015120486,
+      "username": "Agus_Pecinta_wanita",
+      "firstName": "AgusBuntung",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:19:39.688Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:19:39.688Z"
+      }
+    },
+    {
+      "userId": 8106938330,
+      "username": "Robysetiawan3",
+      "firstName": "Roby55",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:19:48.931Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:19:48.931Z"
+      }
     }
   ],
   "groups": [
