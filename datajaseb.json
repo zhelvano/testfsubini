@@ -52444,6 +52444,20 @@
       "lastActive": {
         "$date": "2025-12-03T15:30:40.431Z"
       }
+    },
+    {
+      "userId": 6667990534,
+      "username": "farell27",
+      "firstName": "𝙋𝘼𝙍𝙍𝙀𝙇𝙇",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T15:31:31.864Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T15:31:31.864Z"
+      }
     }
   ],
   "groups": [
