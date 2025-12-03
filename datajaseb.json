@@ -52150,6 +52150,20 @@
       "lastActive": {
         "$date": "2025-12-03T10:46:58.692Z"
       }
+    },
+    {
+      "userId": 7567745106,
+      "username": "BeijingV3",
+      "firstName": "..",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:49:55.993Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:49:55.993Z"
+      }
     }
   ],
   "groups": [
