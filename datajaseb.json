@@ -52193,6 +52193,21 @@
       "lastActive": {
         "$date": "2025-12-03T10:56:02.920Z"
       }
+    },
+    {
+      "userId": 8020966513,
+      "username": "jawara01",
+      "firstName": "Fablo",
+      "lastName": "Escobar",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:57:59.960Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:57:59.960Z"
+      }
     }
   ],
   "groups": [
