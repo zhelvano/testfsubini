@@ -75,7 +75,7 @@
         "$date": "2025-11-09T00:36:52.773000Z"
       },
       "lastActive": {
-        "$date": "2025-12-03T09:53:29.731Z"
+        "$date": "2025-12-03T10:08:33.555Z"
       },
       "username": "GroupAnonymousBot",
       "premiumSince": {
@@ -50420,7 +50420,7 @@
         "$date": "2025-12-03T02:07:18.355Z"
       },
       "lastActive": {
-        "$date": "2025-12-03T02:07:18.358Z"
+        "$date": "2025-12-03T10:08:27.003Z"
       }
     },
     {
@@ -50845,6 +50845,77 @@
       },
       "lastActive": {
         "$date": "2025-12-03T10:08:01.805Z"
+      }
+    },
+    {
+      "userId": 5608660941,
+      "username": "babibuy07",
+      "firstName": "pencari",
+      "lastName": "freebet",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:08:11.091Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:08:11.091Z"
+      }
+    },
+    {
+      "userId": 7950484787,
+      "username": "SAHRONI_SAHRINI1899",
+      "firstName": "SAHRONI",
+      "lastName": "SAHRINI",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:08:17.093Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:08:17.093Z"
+      }
+    },
+    {
+      "userId": 6610410757,
+      "username": "lomnanas",
+      "firstName": "hbakak",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:08:20.690Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:08:20.696Z"
+      }
+    },
+    {
+      "userId": 8295833944,
+      "firstName": "𝕘𝕠𝕕𝕕 𝕓𝕝𝕖𝕤𝕤",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:08:22.733Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:08:22.733Z"
+      }
+    },
+    {
+      "userId": 8388924902,
+      "username": "BINILURAHJEPANGXXX",
+      "firstName": "BINILURAHJEPANGXXX",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:08:33.896Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:08:33.896Z"
       }
     }
   ],
