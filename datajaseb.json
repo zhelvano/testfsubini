@@ -50650,6 +50650,20 @@
       "lastActive": {
         "$date": "2025-12-03T07:33:35.061Z"
       }
+    },
+    {
+      "userId": 7971608425,
+      "username": "rejaja25",
+      "firstName": "reja",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T07:39:35.009Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T07:39:35.009Z"
+      }
     }
   ],
   "groups": [
