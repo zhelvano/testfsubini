@@ -51839,6 +51839,21 @@
       "lastActive": {
         "$date": "2025-12-03T10:21:43.315Z"
       }
+    },
+    {
+      "userId": 6101416655,
+      "username": "KANGRAWING",
+      "firstName": "KANG",
+      "lastName": "RAWING",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:23:03.012Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:23:03.012Z"
+      }
     }
   ],
   "groups": [
