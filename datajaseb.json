@@ -50691,6 +50691,20 @@
       "lastActive": {
         "$date": "2025-12-03T07:47:18.290Z"
       }
+    },
+    {
+      "userId": 7410214903,
+      "username": "ritsuustecu",
+      "firstName": "RITSUU",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T07:54:09.011Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T07:54:09.060Z"
+      }
     }
   ],
   "groups": [
