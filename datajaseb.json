@@ -52403,6 +52403,20 @@
       "lastActive": {
         "$date": "2025-12-03T15:08:04.185Z"
       }
+    },
+    {
+      "userId": 7581925064,
+      "username": "palxcuki",
+      "firstName": "pal",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T15:13:18.446Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T15:13:18.446Z"
+      }
     }
   ],
   "groups": [
