@@ -51554,6 +51554,63 @@
       "lastActive": {
         "$date": "2025-12-03T10:18:00.275Z"
       }
+    },
+    {
+      "userId": 8113209007,
+      "username": "bupet99990",
+      "firstName": "Revaa",
+      "lastName": "Anjani",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:18:10.376Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:18:10.376Z"
+      }
+    },
+    {
+      "userId": 7269486496,
+      "username": "CashPoinID",
+      "firstName": "CS CASHPOIN ID",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:18:14.786Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:18:14.786Z"
+      }
+    },
+    {
+      "userId": 1222927475,
+      "username": "Pocinkiqs",
+      "firstName": "POCINKI",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:18:16.980Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:18:16.980Z"
+      }
+    },
+    {
+      "userId": 7301891119,
+      "username": "BALAPPPPPANJINKKKK",
+      "firstName": "Diekz X KST🏴",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:18:31.057Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:18:31.057Z"
+      }
     }
   ],
   "groups": [
