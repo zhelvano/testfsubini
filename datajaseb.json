@@ -52625,6 +52625,20 @@
       "lastActive": {
         "$date": "2025-12-03T21:51:43.768Z"
       }
+    },
+    {
+      "userId": 7465288293,
+      "username": "jullv2",
+      "firstName": "JULL V2",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T22:06:38.788Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T22:06:38.788Z"
+      }
     }
   ],
   "groups": [
