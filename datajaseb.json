@@ -52077,6 +52077,21 @@
       "lastActive": {
         "$date": "2025-12-03T10:41:27.719Z"
       }
+    },
+    {
+      "userId": 8210907828,
+      "username": "bangril2",
+      "firstName": "put putra",
+      "lastName": "tra",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:41:54.000Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:41:54.000Z"
+      }
     }
   ],
   "groups": [
