@@ -50746,6 +50746,19 @@
       "lastActive": {
         "$date": "2025-12-03T08:59:41.080Z"
       }
+    },
+    {
+      "userId": 8462342120,
+      "firstName": "STAY AMANAH",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T09:23:55.400Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T09:23:55.400Z"
+      }
     }
   ],
   "groups": [
