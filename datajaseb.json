@@ -51221,6 +51221,36 @@
       "lastActive": {
         "$date": "2025-12-03T10:12:15.671Z"
       }
+    },
+    {
+      "userId": 8443971054,
+      "username": "Miswaww",
+      "firstName": "Mis",
+      "lastName": "Mie",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:12:38.306Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:12:38.306Z"
+      }
+    },
+    {
+      "userId": 8423203434,
+      "username": "reyhan_zaky",
+      "firstName": "Zaky",
+      "lastName": "Reyhan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:12:43.743Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:12:43.743Z"
+      }
     }
   ],
   "groups": [
