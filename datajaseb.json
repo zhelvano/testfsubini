@@ -51896,6 +51896,20 @@
       "lastActive": {
         "$date": "2025-12-03T10:24:29.042Z"
       }
+    },
+    {
+      "userId": 8546511319,
+      "username": "Cococola_90",
+      "firstName": "Nichi cola",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:24:45.747Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:24:45.747Z"
+      }
     }
   ],
   "groups": [
