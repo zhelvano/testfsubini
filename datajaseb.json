@@ -52107,6 +52107,49 @@
       "lastActive": {
         "$date": "2025-12-03T10:44:49.324Z"
       }
+    },
+    {
+      "userId": 8010932061,
+      "username": "ranieko",
+      "firstName": "Arya 𝐈𝐒 𝐇𝐄𝐑𝐄🩸҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉⃝҉",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:45:52.984Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:45:52.984Z"
+      }
+    },
+    {
+      "userId": 7948950529,
+      "username": "GEORGE_ARA13",
+      "firstName": "GEORGE x 𝕬𝗿𝗮𝗯",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:46:39.444Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:46:39.445Z"
+      }
+    },
+    {
+      "userId": 6236609888,
+      "username": "Pembuka_Pintu_Rezeki",
+      "firstName": "PORSCHE",
+      "lastName": "CLUB INDONESIA",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:46:58.692Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:46:58.692Z"
+      }
     }
   ],
   "groups": [
