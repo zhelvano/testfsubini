@@ -51910,6 +51910,20 @@
       "lastActive": {
         "$date": "2025-12-03T10:24:45.747Z"
       }
+    },
+    {
+      "userId": 8308101699,
+      "username": "Tedy849",
+      "firstName": "betet",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:25:33.108Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:25:33.108Z"
+      }
     }
   ],
   "groups": [
