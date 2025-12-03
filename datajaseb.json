@@ -50915,7 +50915,7 @@
         "$date": "2025-12-03T10:08:33.896Z"
       },
       "lastActive": {
-        "$date": "2025-12-03T10:08:33.896Z"
+        "$date": "2025-12-03T10:16:18.888Z"
       }
     },
     {
@@ -51452,6 +51452,20 @@
       },
       "lastActive": {
         "$date": "2025-12-03T10:15:42.867Z"
+      }
+    },
+    {
+      "userId": 7461520840,
+      "username": "MAHJONGBUASZS",
+      "firstName": "⁸",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:16:16.695Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:16:16.695Z"
       }
     }
   ],
