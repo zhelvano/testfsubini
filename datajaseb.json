@@ -51854,6 +51854,20 @@
       "lastActive": {
         "$date": "2025-12-03T10:23:03.012Z"
       }
+    },
+    {
+      "userId": 5834279927,
+      "username": "Kochunagain",
+      "firstName": "Kochun is back !",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:23:20.990Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:23:20.991Z"
+      }
     }
   ],
   "groups": [
