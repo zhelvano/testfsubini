@@ -50802,6 +50802,50 @@
       "lastActive": {
         "$date": "2025-12-03T10:05:02.544Z"
       }
+    },
+    {
+      "userId": 5866326877,
+      "username": "mamatlejam6",
+      "firstName": "Lampu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:07:48.367Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:07:48.367Z"
+      }
+    },
+    {
+      "userId": 7690683028,
+      "username": "memektembem48",
+      "firstName": "ibrax",
+      "lastName": "z",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:08:01.158Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:08:01.158Z"
+      }
+    },
+    {
+      "userId": 2138301654,
+      "username": "Gasken7oo",
+      "firstName": "§bang dower§",
+      "lastName": "(teman toink)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:08:01.805Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:08:01.805Z"
+      }
     }
   ],
   "groups": [
