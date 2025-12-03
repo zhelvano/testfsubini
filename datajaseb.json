@@ -50608,6 +50608,20 @@
       "lastActive": {
         "$date": "2025-12-03T05:01:35.412Z"
       }
+    },
+    {
+      "userId": 8504641278,
+      "firstName": "Ditzzz",
+      "lastName": "Ditzzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T05:30:24.114Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T05:30:24.114Z"
+      }
     }
   ],
   "groups": [
