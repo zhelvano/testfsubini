@@ -51868,6 +51868,20 @@
       "lastActive": {
         "$date": "2025-12-03T10:23:20.991Z"
       }
+    },
+    {
+      "userId": 6161504310,
+      "username": "fajar8890",
+      "firstName": "Fajar",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:24:00.979Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:24:00.979Z"
+      }
     }
   ],
   "groups": [
