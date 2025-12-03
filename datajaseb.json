@@ -50732,6 +50732,20 @@
       "lastActive": {
         "$date": "2025-12-03T08:31:14.906Z"
       }
+    },
+    {
+      "userId": 7535529921,
+      "username": "PutraSHP",
+      "firstName": "PUTRA SHP",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T08:59:41.080Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T08:59:41.080Z"
+      }
     }
   ],
   "groups": [
