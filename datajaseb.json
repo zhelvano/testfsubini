@@ -51882,6 +51882,20 @@
       "lastActive": {
         "$date": "2025-12-03T10:24:00.979Z"
       }
+    },
+    {
+      "userId": 5378748956,
+      "username": "Kakang721",
+      "firstName": "Lendar",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:24:29.042Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:24:29.042Z"
+      }
     }
   ],
   "groups": [
