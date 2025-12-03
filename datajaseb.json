@@ -50788,6 +50788,20 @@
       "lastActive": {
         "$date": "2025-12-03T09:36:00.871Z"
       }
+    },
+    {
+      "userId": 8172650604,
+      "username": "raffxinhere",
+      "firstName": "𝙍𝙖𝙛𝙛𝙭𝙄𝙨𝙃𝙚𝙧𝙚\" || ⏤‌‌‌‌𝐀𝐌-𝐎𝐍𝐄",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:05:02.544Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:05:02.544Z"
+      }
     }
   ],
   "groups": [
