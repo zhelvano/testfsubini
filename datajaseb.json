@@ -52208,6 +52208,19 @@
       "lastActive": {
         "$date": "2025-12-03T10:57:59.960Z"
       }
+    },
+    {
+      "userId": 5971215725,
+      "firstName": "KANG GCAST",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T11:33:32.543Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T11:33:32.543Z"
+      }
     }
   ],
   "groups": [
