@@ -51812,6 +51812,20 @@
       "lastActive": {
         "$date": "2025-12-03T10:21:03.286Z"
       }
+    },
+    {
+      "userId": 6189498283,
+      "username": "SNOOPDOG1988",
+      "firstName": "SNOPDOG",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:21:30.092Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:21:30.093Z"
+      }
     }
   ],
   "groups": [
