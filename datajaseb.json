@@ -52556,6 +52556,20 @@
       "lastActive": {
         "$date": "2025-12-03T17:18:06.729Z"
       }
+    },
+    {
+      "userId": 5114268902,
+      "username": "cocoteeeeeeeeeeeeee",
+      "firstName": "【﻿𝗫𝗩 𝗚𝗢𝗝𝗢𝟵𝟵𝟵】",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T18:22:59.121Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T18:22:59.121Z"
+      }
     }
   ],
   "groups": [
