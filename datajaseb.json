@@ -52431,6 +52431,19 @@
       "lastActive": {
         "$date": "2025-12-03T15:15:46.862Z"
       }
+    },
+    {
+      "userId": 8387223853,
+      "firstName": "GOOD",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T15:30:40.431Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T15:30:40.431Z"
+      }
     }
   ],
   "groups": [
