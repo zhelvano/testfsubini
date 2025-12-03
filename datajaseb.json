@@ -51308,6 +51308,50 @@
       "lastActive": {
         "$date": "2025-12-03T10:13:44.920Z"
       }
+    },
+    {
+      "userId": 6638326867,
+      "username": "gobebekmeluncurr",
+      "firstName": "y",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:14:06.211Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:14:06.211Z"
+      }
+    },
+    {
+      "userId": 7875992636,
+      "username": "Yah_nt_88",
+      "firstName": "ᴧ̷ʟʟ",
+      "lastName": "ꭙ͢ ɴɪᴀꜱᴛᴏᴛᴏ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:14:12.885Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:14:12.885Z"
+      }
+    },
+    {
+      "userId": 7476777362,
+      "username": "Listwinbebek2",
+      "firstName": "Raden",
+      "lastName": "Bentar",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:14:23.773Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:14:23.773Z"
+      }
     }
   ],
   "groups": [
