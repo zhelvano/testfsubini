@@ -52583,6 +52583,20 @@
       "lastActive": {
         "$date": "2025-12-03T18:36:14.449Z"
       }
+    },
+    {
+      "userId": 1595635970,
+      "username": "ccaptains",
+      "firstName": "Hans",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T20:01:50.198Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T20:01:50.198Z"
+      }
     }
   ],
   "groups": [
