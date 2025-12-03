@@ -52009,6 +52009,19 @@
       "lastActive": {
         "$date": "2025-12-03T10:30:47.959Z"
       }
+    },
+    {
+      "userId": 8514031404,
+      "firstName": "Setannnnn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:31:21.286Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:31:21.286Z"
+      }
     }
   ],
   "groups": [
