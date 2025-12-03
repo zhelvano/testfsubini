@@ -50422,6 +50422,21 @@
       "lastActive": {
         "$date": "2025-12-03T02:07:18.358Z"
       }
+    },
+    {
+      "userId": 6727031927,
+      "username": "Hoki1212",
+      "firstName": "Xxx",
+      "lastName": "Xxx",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T02:09:08.331Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T02:09:08.331Z"
+      }
     }
   ],
   "groups": [
