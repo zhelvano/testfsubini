@@ -50523,6 +50523,20 @@
       "lastActive": {
         "$date": "2025-12-03T02:34:20.638Z"
       }
+    },
+    {
+      "userId": 7558610131,
+      "username": "bosbesarmwehe",
+      "firstName": "Selvan-JYZX",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T02:35:46.815Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T02:35:46.815Z"
+      }
     }
   ],
   "groups": [
