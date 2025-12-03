@@ -51439,6 +51439,20 @@
       "lastActive": {
         "$date": "2025-12-03T10:15:33.426Z"
       }
+    },
+    {
+      "userId": 8479478034,
+      "username": "komasu66",
+      "firstName": "indah",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:15:42.866Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:15:42.867Z"
+      }
     }
   ],
   "groups": [
