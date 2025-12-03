@@ -51525,6 +51525,35 @@
       "lastActive": {
         "$date": "2025-12-03T10:17:14.675Z"
       }
+    },
+    {
+      "userId": 8366354243,
+      "username": "Longsift",
+      "firstName": "Azahra",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:17:55.984Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:17:55.984Z"
+      }
+    },
+    {
+      "userId": 8208953726,
+      "username": "Yuli_yanti95",
+      "firstName": "Yuli",
+      "lastName": "Yanti",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:18:00.275Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:18:00.275Z"
+      }
     }
   ],
   "groups": [
