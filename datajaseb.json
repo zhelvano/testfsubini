@@ -52292,6 +52292,20 @@
       "lastActive": {
         "$date": "2025-12-03T13:06:03.202Z"
       }
+    },
+    {
+      "userId": 7544955758,
+      "username": "Zii5mb",
+      "firstName": "—͟͞͞𝗭𝗶𝘅𝘅 𝙓𝙞𝙩𝙚𝙧`",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T13:33:49.162Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T13:33:49.162Z"
+      }
     }
   ],
   "groups": [
