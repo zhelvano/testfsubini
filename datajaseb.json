@@ -52570,6 +52570,19 @@
       "lastActive": {
         "$date": "2025-12-03T18:22:59.121Z"
       }
+    },
+    {
+      "userId": 7176337865,
+      "firstName": "pure saturday",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T18:36:14.449Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T18:36:14.449Z"
+      }
     }
   ],
   "groups": [
