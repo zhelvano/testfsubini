@@ -52597,6 +52597,20 @@
       "lastActive": {
         "$date": "2025-12-03T20:01:50.198Z"
       }
+    },
+    {
+      "userId": 6127944206,
+      "username": "starlaguh",
+      "firstName": "Someone",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T21:27:06.998Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T21:27:06.998Z"
+      }
     }
   ],
   "groups": [
