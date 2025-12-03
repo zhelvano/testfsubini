@@ -52264,6 +52264,20 @@
       "lastActive": {
         "$date": "2025-12-03T12:57:32.552Z"
       }
+    },
+    {
+      "userId": 7876233896,
+      "username": "olineemnl",
+      "firstName": "Linn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T13:01:01.664Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T13:01:01.664Z"
+      }
     }
   ],
   "groups": [
