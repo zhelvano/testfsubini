@@ -52022,6 +52022,20 @@
       "lastActive": {
         "$date": "2025-12-03T10:31:21.286Z"
       }
+    },
+    {
+      "userId": 7754170585,
+      "username": "aseppp77",
+      "firstName": "𝖆𝖘𝖊𝖕",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:32:17.245Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:32:17.245Z"
+      }
     }
   ],
   "groups": [
