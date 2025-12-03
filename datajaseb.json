@@ -50537,6 +50537,21 @@
       "lastActive": {
         "$date": "2025-12-03T02:35:46.815Z"
       }
+    },
+    {
+      "userId": 8279020208,
+      "username": "nahwan828",
+      "firstName": "hsim",
+      "lastName": "nahawan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T03:19:34.185Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T03:19:34.190Z"
+      }
     }
   ],
   "groups": [
