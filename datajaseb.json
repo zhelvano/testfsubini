@@ -50637,6 +50637,19 @@
       "lastActive": {
         "$date": "2025-12-03T06:55:53.123Z"
       }
+    },
+    {
+      "userId": 7810133683,
+      "firstName": "ᯓ𝐃𝐎𝐂 || KAA",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T07:33:35.061Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T07:33:35.061Z"
+      }
     }
   ],
   "groups": [
