@@ -52485,6 +52485,20 @@
       "lastActive": {
         "$date": "2025-12-03T15:56:48.075Z"
       }
+    },
+    {
+      "userId": 7875629519,
+      "username": "Ikiwwww1",
+      "firstName": "Kiwwww",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T16:48:17.950Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T16:48:17.950Z"
+      }
     }
   ],
   "groups": [
