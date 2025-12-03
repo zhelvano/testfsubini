@@ -52164,6 +52164,35 @@
       "lastActive": {
         "$date": "2025-12-03T10:49:55.993Z"
       }
+    },
+    {
+      "userId": 8130194215,
+      "username": "arielstore20",
+      "firstName": "༒𝖆𝖗𝖎𝖊𝖑𝖑",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:54:15.685Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:54:15.685Z"
+      }
+    },
+    {
+      "userId": 5240664246,
+      "username": "Yukcaiirin",
+      "firstName": "herandeh",
+      "lastName": "¹⁸²³'",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:56:02.920Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:56:02.920Z"
+      }
     }
   ],
   "groups": [
