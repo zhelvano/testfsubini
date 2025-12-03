@@ -52306,6 +52306,19 @@
       "lastActive": {
         "$date": "2025-12-03T13:33:49.162Z"
       }
+    },
+    {
+      "userId": 8495120333,
+      "firstName": "MINZX",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T13:48:53.576Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T13:48:53.576Z"
+      }
     }
   ],
   "groups": [
