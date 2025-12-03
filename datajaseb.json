@@ -51166,6 +51166,33 @@
       "lastActive": {
         "$date": "2025-12-03T10:11:27.129Z"
       }
+    },
+    {
+      "userId": 8222707501,
+      "firstName": "Nani",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:11:35.754Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:11:35.754Z"
+      }
+    },
+    {
+      "userId": 8408951034,
+      "username": "mhammaddenis",
+      "firstName": "Adenn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:12:04.172Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:12:04.172Z"
+      }
     }
   ],
   "groups": [
