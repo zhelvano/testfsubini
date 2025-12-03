@@ -51954,6 +51954,21 @@
       "lastActive": {
         "$date": "2025-12-03T10:28:10.063Z"
       }
+    },
+    {
+      "userId": 7794105991,
+      "username": "Logkaaa",
+      "firstName": "Chika",
+      "lastName": "Logkaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:28:39.817Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:28:39.817Z"
+      }
     }
   ],
   "groups": [
