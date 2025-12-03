@@ -52036,6 +52036,35 @@
       "lastActive": {
         "$date": "2025-12-03T10:32:17.245Z"
       }
+    },
+    {
+      "userId": 8372165023,
+      "username": "saepulanam128",
+      "firstName": "saepul",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:32:53.547Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:32:53.547Z"
+      }
+    },
+    {
+      "userId": 7787296769,
+      "username": "robi4213",
+      "firstName": "gung",
+      "lastName": "gunggg",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:33:01.292Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:33:01.292Z"
+      }
     }
   ],
   "groups": [
