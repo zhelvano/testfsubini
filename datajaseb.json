@@ -50580,6 +50580,20 @@
       "lastActive": {
         "$date": "2025-12-03T04:49:27.620Z"
       }
+    },
+    {
+      "userId": 8323253505,
+      "username": "bd54bubur",
+      "firstName": "BD54BU",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T04:59:55.844Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T04:59:55.844Z"
+      }
     }
   ],
   "groups": [
