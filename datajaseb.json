@@ -52064,6 +52064,19 @@
       "lastActive": {
         "$date": "2025-12-03T10:36:29.764Z"
       }
+    },
+    {
+      "userId": 8212057376,
+      "firstName": "vandejik",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:41:27.718Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:41:27.719Z"
+      }
     }
   ],
   "groups": [
