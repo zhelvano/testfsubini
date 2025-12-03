@@ -50352,6 +50352,20 @@
       "lastActive": {
         "$date": "2025-12-03T01:03:13.369Z"
       }
+    },
+    {
+      "userId": 8370153019,
+      "username": "mandraaaaaaaa",
+      "firstName": "mandraaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T01:26:43.286Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T01:26:43.286Z"
+      }
     }
   ],
   "groups": [
