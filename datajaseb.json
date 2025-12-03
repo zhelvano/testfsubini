@@ -52348,6 +52348,20 @@
       "lastActive": {
         "$date": "2025-12-03T14:20:01.085Z"
       }
+    },
+    {
+      "userId": 8448338520,
+      "username": "Vinsz65",
+      "firstName": "VINSZ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T14:31:54.202Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T14:31:54.202Z"
+      }
     }
   ],
   "groups": [
