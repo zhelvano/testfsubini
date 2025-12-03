@@ -50705,6 +50705,20 @@
       "lastActive": {
         "$date": "2025-12-03T07:54:09.060Z"
       }
+    },
+    {
+      "userId": 6186026697,
+      "username": "orangsantuy33",
+      "firstName": "Kifli as",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T07:56:25.458Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T07:56:25.458Z"
+      }
     }
   ],
   "groups": [
