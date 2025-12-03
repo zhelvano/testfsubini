@@ -52499,6 +52499,20 @@
       "lastActive": {
         "$date": "2025-12-03T16:48:17.950Z"
       }
+    },
+    {
+      "userId": 7635526963,
+      "username": "Keceaja",
+      "firstName": "~tidak~",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T17:04:22.221Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T17:04:22.221Z"
+      }
     }
   ],
   "groups": [
