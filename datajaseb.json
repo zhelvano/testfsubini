@@ -50366,6 +50366,20 @@
       "lastActive": {
         "$date": "2025-12-03T01:26:43.286Z"
       }
+    },
+    {
+      "userId": 6718920448,
+      "username": "W1101918",
+      "firstName": "C E C E Y. €𝐘𝐨𝐮𝐞𝐠𝐞𝐫𝐬_",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T01:29:23.635Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T01:29:23.635Z"
+      }
     }
   ],
   "groups": [
