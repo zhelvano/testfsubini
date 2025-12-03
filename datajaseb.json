@@ -51697,6 +51697,49 @@
       "lastActive": {
         "$date": "2025-12-03T10:19:48.931Z"
       }
+    },
+    {
+      "userId": 7991800087,
+      "username": "Spandakk898",
+      "firstName": "Darksystem",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:20:07.258Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:20:07.258Z"
+      }
+    },
+    {
+      "userId": 7182327431,
+      "username": "VALENTINO_REXSI",
+      "firstName": "𝔸𝕕𝕦𝕟𝕘 𝐗 𝐊𝐒𝐓",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:20:23.134Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:20:23.135Z"
+      }
+    },
+    {
+      "userId": 8240654176,
+      "username": "Ligabiro",
+      "firstName": "Lagi",
+      "lastName": "Lani",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:20:25.029Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:20:25.029Z"
+      }
     }
   ],
   "groups": [
