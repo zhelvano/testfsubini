@@ -51969,6 +51969,33 @@
       "lastActive": {
         "$date": "2025-12-03T10:28:39.817Z"
       }
+    },
+    {
+      "userId": 8033636614,
+      "firstName": "MiLkita",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:29:07.350Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:29:07.350Z"
+      }
+    },
+    {
+      "userId": 7182688479,
+      "username": "Kadalmesir90",
+      "firstName": "Kadal",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:29:22.977Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:29:22.977Z"
+      }
     }
   ],
   "groups": [
