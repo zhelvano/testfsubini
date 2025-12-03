@@ -51352,6 +51352,35 @@
       "lastActive": {
         "$date": "2025-12-03T10:14:23.773Z"
       }
+    },
+    {
+      "userId": 8371202605,
+      "username": "Doyok_sange",
+      "firstName": "Doyok",
+      "lastName": "Doyok",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:14:42.836Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:14:42.836Z"
+      }
+    },
+    {
+      "userId": 8577801068,
+      "firstName": "Kenn",
+      "lastName": "Zoo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:14:59.830Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:14:59.830Z"
+      }
     }
   ],
   "groups": [
