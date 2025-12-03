@@ -51826,6 +51826,19 @@
       "lastActive": {
         "$date": "2025-12-03T10:21:30.093Z"
       }
+    },
+    {
+      "userId": 7164143425,
+      "firstName": "Kimyhime",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:21:43.314Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:21:43.315Z"
+      }
     }
   ],
   "groups": [
