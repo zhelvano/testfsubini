@@ -51511,6 +51511,20 @@
       "lastActive": {
         "$date": "2025-12-03T10:17:01.475Z"
       }
+    },
+    {
+      "userId": 8080083387,
+      "username": "Liltequen",
+      "firstName": "Saudagar",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:17:14.674Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:17:14.675Z"
+      }
     }
   ],
   "groups": [
