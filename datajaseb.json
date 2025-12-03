@@ -52278,6 +52278,20 @@
       "lastActive": {
         "$date": "2025-12-03T13:01:01.664Z"
       }
+    },
+    {
+      "userId": 7031997236,
+      "username": "Ryunosuke02",
+      "firstName": "Ryūnosuke Koyama",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T13:06:03.202Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T13:06:03.202Z"
+      }
     }
   ],
   "groups": [
