@@ -50677,6 +50677,20 @@
       "lastActive": {
         "$date": "2025-12-03T07:41:02.215Z"
       }
+    },
+    {
+      "userId": 1324981526,
+      "username": "evlynstar",
+      "firstName": "evlyn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T07:47:18.290Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T07:47:18.290Z"
+      }
     }
   ],
   "groups": [
