@@ -52417,6 +52417,20 @@
       "lastActive": {
         "$date": "2025-12-03T15:13:18.446Z"
       }
+    },
+    {
+      "userId": 8250585401,
+      "username": "xarlloww",
+      "firstName": "ᴘᴀɴɢᴇʀᴀɴ𝐓𝟓",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T15:15:46.862Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T15:15:46.862Z"
+      }
     }
   ],
   "groups": [
