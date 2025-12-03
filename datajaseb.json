@@ -50719,6 +50719,19 @@
       "lastActive": {
         "$date": "2025-12-03T07:56:25.458Z"
       }
+    },
+    {
+      "userId": 8374416287,
+      "firstName": "Bways",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T08:31:14.822Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T08:31:14.906Z"
+      }
     }
   ],
   "groups": [
