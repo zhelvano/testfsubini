@@ -51655,6 +51655,20 @@
       "lastActive": {
         "$date": "2025-12-03T10:18:58.821Z"
       }
+    },
+    {
+      "userId": 2007282057,
+      "username": "SPT151515",
+      "firstName": "langit",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:19:29.669Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:19:29.669Z"
+      }
     }
   ],
   "groups": [
