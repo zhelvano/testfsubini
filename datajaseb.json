@@ -52235,6 +52235,21 @@
       "lastActive": {
         "$date": "2025-12-03T12:03:30.465Z"
       }
+    },
+    {
+      "userId": 8255292889,
+      "username": "Firrecu",
+      "firstName": "Firrr",
+      "lastName": "Ecuu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T12:08:36.240Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T12:08:40.747Z"
+      }
     }
   ],
   "groups": [
