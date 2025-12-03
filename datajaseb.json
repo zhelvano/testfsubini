@@ -52092,6 +52092,21 @@
       "lastActive": {
         "$date": "2025-12-03T10:41:54.000Z"
       }
+    },
+    {
+      "userId": 7825346108,
+      "username": "kodottzzrealll",
+      "firstName": "dott",
+      "lastName": "reall",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:44:49.324Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:44:49.324Z"
+      }
     }
   ],
   "groups": [
