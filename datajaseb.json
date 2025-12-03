@@ -52362,6 +52362,20 @@
       "lastActive": {
         "$date": "2025-12-03T14:31:54.202Z"
       }
+    },
+    {
+      "userId": 7850752647,
+      "username": "Tyrppy",
+      "firstName": "/break",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T14:48:00.155Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T14:48:00.155Z"
+      }
     }
   ],
   "groups": [
