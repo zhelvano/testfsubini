@@ -51939,6 +51939,21 @@
       "lastActive": {
         "$date": "2025-12-03T10:26:32.214Z"
       }
+    },
+    {
+      "userId": 8287857474,
+      "username": "Saadah201",
+      "firstName": "Saadah",
+      "lastName": "Baby",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T10:28:10.063Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T10:28:10.063Z"
+      }
     }
   ],
   "groups": [
