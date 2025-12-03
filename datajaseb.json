@@ -50664,6 +50664,19 @@
       "lastActive": {
         "$date": "2025-12-03T07:39:35.009Z"
       }
+    },
+    {
+      "userId": 8475099420,
+      "firstName": "⏤͟͟𝐓𝟑 | THE↑↓MANZ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-03T07:41:02.215Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-03T07:41:02.215Z"
+      }
     }
   ],
   "groups": [
