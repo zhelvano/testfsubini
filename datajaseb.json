@@ -53240,6 +53240,20 @@
       "lastActive": {
         "$date": "2025-12-04T12:28:59.089Z"
       }
+    },
+    {
+      "userId": 8293647204,
+      "firstName": "Tedy",
+      "lastName": "Zahra",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T13:34:35.436Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T13:34:35.443Z"
+      }
     }
   ],
   "groups": [
