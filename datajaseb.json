@@ -53212,6 +53212,20 @@
       "lastActive": {
         "$date": "2025-12-04T12:13:08.335Z"
       }
+    },
+    {
+      "userId": 1311118172,
+      "username": "Meexccs",
+      "firstName": "Boejang",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T12:18:51.768Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T12:18:51.768Z"
+      }
     }
   ],
   "groups": [
