@@ -53282,6 +53282,20 @@
       "lastActive": {
         "$date": "2025-12-04T14:09:19.882Z"
       }
+    },
+    {
+      "userId": 7681528314,
+      "username": "humaniiy",
+      "firstName": "some0ne",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T14:11:17.800Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T14:11:17.800Z"
+      }
     }
   ],
   "groups": [
