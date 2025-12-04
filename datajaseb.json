@@ -53563,6 +53563,20 @@
       "lastActive": {
         "$date": "2025-12-04T22:33:30.679Z"
       }
+    },
+    {
+      "userId": 6606213751,
+      "username": "QistaBNMM",
+      "firstName": "𝐃𝐑𝐍• 𝐐𝐢𝐬𝐭𝐚 𝐑𝐄𝐃𝐘 𝐆𝐂",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T23:08:00.151Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T23:08:00.157Z"
+      }
     }
   ],
   "groups": [
