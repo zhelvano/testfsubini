@@ -53338,6 +53338,20 @@
       "lastActive": {
         "$date": "2025-12-04T14:39:35.912Z"
       }
+    },
+    {
+      "userId": 7054427233,
+      "username": "goodperson27",
+      "firstName": "yan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T14:43:44.844Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T14:43:44.851Z"
+      }
     }
   ],
   "groups": [
