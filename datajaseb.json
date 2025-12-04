@@ -52739,6 +52739,20 @@
       "lastActive": {
         "$date": "2025-12-04T02:10:02.441Z"
       }
+    },
+    {
+      "userId": 8297323950,
+      "firstName": "Boy",
+      "lastName": "Sir",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T02:22:14.759Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T02:22:14.759Z"
+      }
     }
   ],
   "groups": [
