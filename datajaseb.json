@@ -53324,6 +53324,20 @@
       "lastActive": {
         "$date": "2025-12-04T14:35:55.338Z"
       }
+    },
+    {
+      "userId": 6246584509,
+      "firstName": "Maruli",
+      "lastName": "Storee",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T14:39:35.912Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T14:39:35.912Z"
+      }
     }
   ],
   "groups": [
