@@ -53198,6 +53198,20 @@
       "lastActive": {
         "$date": "2025-12-04T11:29:11.478Z"
       }
+    },
+    {
+      "userId": 6133711850,
+      "username": "Afssoffc",
+      "firstName": "𝘼𝙛𝙨",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T12:13:08.328Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T12:13:08.335Z"
+      }
     }
   ],
   "groups": [
