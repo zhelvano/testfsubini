@@ -53254,6 +53254,20 @@
       "lastActive": {
         "$date": "2025-12-04T13:34:35.443Z"
       }
+    },
+    {
+      "userId": 7173539297,
+      "username": "NdakSanggup",
+      "firstName": "Weh",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T13:42:47.267Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T13:42:47.271Z"
+      }
     }
   ],
   "groups": [
