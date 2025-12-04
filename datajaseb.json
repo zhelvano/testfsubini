@@ -52865,6 +52865,20 @@
       "lastActive": {
         "$date": "2025-12-04T05:32:43.672Z"
       }
+    },
+    {
+      "userId": 6780408017,
+      "username": "czarion",
+      "firstName": "rion",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T05:34:45.755Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T05:34:45.755Z"
+      }
     }
   ],
   "groups": [
