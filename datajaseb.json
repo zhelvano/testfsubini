@@ -53143,6 +53143,20 @@
       "lastActive": {
         "$date": "2025-12-04T10:29:30.981Z"
       }
+    },
+    {
+      "userId": 1348876716,
+      "username": "nopankann",
+      "firstName": "Fanzle.Jk",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T10:57:56.618Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T10:57:56.618Z"
+      }
     }
   ],
   "groups": [
