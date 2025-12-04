@@ -53007,6 +53007,20 @@
       "lastActive": {
         "$date": "2025-12-04T08:20:17.717Z"
       }
+    },
+    {
+      "userId": 8284376162,
+      "username": "Dimazztzyy",
+      "firstName": "~DIMZZ [LIMIT]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T08:23:39.949Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T08:23:39.949Z"
+      }
     }
   ],
   "groups": [
