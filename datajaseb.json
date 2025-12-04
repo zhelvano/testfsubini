@@ -52978,6 +52978,20 @@
       "lastActive": {
         "$date": "2025-12-04T08:07:21.470Z"
       }
+    },
+    {
+      "userId": 8414480063,
+      "username": "hizenn129",
+      "firstName": "zenn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T08:19:02.446Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T08:19:02.446Z"
+      }
     }
   ],
   "groups": [
