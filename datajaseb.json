@@ -53157,6 +53157,19 @@
       "lastActive": {
         "$date": "2025-12-04T10:57:56.618Z"
       }
+    },
+    {
+      "userId": 6780610285,
+      "firstName": "𝙃𝙉𝙕",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T11:16:32.712Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T11:16:32.717Z"
+      }
     }
   ],
   "groups": [
