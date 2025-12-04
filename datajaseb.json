@@ -52992,6 +52992,21 @@
       "lastActive": {
         "$date": "2025-12-04T08:19:02.446Z"
       }
+    },
+    {
+      "userId": 7389437140,
+      "username": "Hazim_imut",
+      "firstName": "—_𝐙𝐈𝐌",
+      "lastName": "|𝓩𝓘𝓡𝓞𝓦𝓡🕊️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T08:20:17.717Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T08:20:17.717Z"
+      }
     }
   ],
   "groups": [
