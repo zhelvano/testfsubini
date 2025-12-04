@@ -52950,6 +52950,20 @@
       "lastActive": {
         "$date": "2025-12-04T07:44:02.441Z"
       }
+    },
+    {
+      "userId": 5611463189,
+      "username": "assistantdaraa",
+      "firstName": "𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑫𝒂𝒓𝒂𝒂",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T07:48:46.039Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T07:48:46.039Z"
+      }
     }
   ],
   "groups": [
