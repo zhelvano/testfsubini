@@ -53129,6 +53129,20 @@
       "lastActive": {
         "$date": "2025-12-04T09:59:19.097Z"
       }
+    },
+    {
+      "userId": 6015894314,
+      "username": "Ughdek",
+      "firstName": "𝕌𝕓𝕒𝕙 𝕟𝕒𝕞𝕒𓆏ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T10:29:30.976Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T10:29:30.981Z"
+      }
     }
   ],
   "groups": [
