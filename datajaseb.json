@@ -53380,6 +53380,20 @@
       "lastActive": {
         "$date": "2025-12-04T15:42:13.545Z"
       }
+    },
+    {
+      "userId": 7658846097,
+      "username": "GaarskieeStoree",
+      "firstName": "𝐆𝐀𝐀𝐑 𝐒𝐊𝐈𝐄𝐄 𝐒𝐓𝐎𝐑𝐄",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T15:50:26.995Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T15:50:26.995Z"
+      }
     }
   ],
   "groups": [
