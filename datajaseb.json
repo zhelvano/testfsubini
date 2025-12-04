@@ -52768,6 +52768,21 @@
       "lastActive": {
         "$date": "2025-12-04T02:27:02.298Z"
       }
+    },
+    {
+      "userId": 7719951735,
+      "username": "Curutbergetar",
+      "firstName": "Curut",
+      "lastName": "Bergetar",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T02:54:17.998Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T02:54:17.998Z"
+      }
     }
   ],
   "groups": [
