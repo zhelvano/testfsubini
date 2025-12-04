@@ -52907,6 +52907,20 @@
       "lastActive": {
         "$date": "2025-12-04T06:10:35.182Z"
       }
+    },
+    {
+      "userId": 8446185732,
+      "username": "Syou14",
+      "firstName": "Syou",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T06:42:06.361Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T06:42:06.367Z"
+      }
     }
   ],
   "groups": [
