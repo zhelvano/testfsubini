@@ -53310,6 +53310,20 @@
       "lastActive": {
         "$date": "2025-12-04T14:22:03.300Z"
       }
+    },
+    {
+      "userId": 5254084649,
+      "username": "Jmbotrafz",
+      "firstName": "rafzzunband",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T14:35:55.333Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T14:35:55.338Z"
+      }
     }
   ],
   "groups": [
