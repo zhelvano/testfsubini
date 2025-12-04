@@ -53226,6 +53226,20 @@
       "lastActive": {
         "$date": "2025-12-04T12:18:51.768Z"
       }
+    },
+    {
+      "userId": 6273511128,
+      "username": "gueiky29",
+      "firstName": "Rzkyy`🇮🇩",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T12:28:59.085Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T12:28:59.089Z"
+      }
     }
   ],
   "groups": [
