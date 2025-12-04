@@ -53577,6 +53577,20 @@
       "lastActive": {
         "$date": "2025-12-04T23:08:00.157Z"
       }
+    },
+    {
+      "userId": 6681442264,
+      "username": "LesehCodexx",
+      "firstName": "𝕷𝖊𝖘𝖊𝖍𝕮𝖔𝖉𝖊𝖝",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T23:54:14.906Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T23:54:14.922Z"
+      }
     }
   ],
   "groups": [
