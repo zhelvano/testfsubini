@@ -52697,6 +52697,21 @@
       "lastActive": {
         "$date": "2025-12-04T00:53:32.674Z"
       }
+    },
+    {
+      "userId": 8211624427,
+      "username": "Haniiu9",
+      "firstName": "Hani",
+      "lastName": "Widia",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T00:56:32.030Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T00:56:32.030Z"
+      }
     }
   ],
   "groups": [
