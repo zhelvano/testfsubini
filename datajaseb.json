@@ -52893,6 +52893,20 @@
       "lastActive": {
         "$date": "2025-12-04T05:43:16.949Z"
       }
+    },
+    {
+      "userId": 8460630680,
+      "username": "Renxnrex",
+      "firstName": "Ren",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T06:10:35.179Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T06:10:35.182Z"
+      }
     }
   ],
   "groups": [
