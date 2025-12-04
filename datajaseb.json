@@ -53408,6 +53408,19 @@
       "lastActive": {
         "$date": "2025-12-04T17:03:41.074Z"
       }
+    },
+    {
+      "userId": 8508289673,
+      "firstName": "cece",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T17:16:22.781Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T17:16:22.781Z"
+      }
     }
   ],
   "groups": [
