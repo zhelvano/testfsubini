@@ -52783,6 +52783,20 @@
       "lastActive": {
         "$date": "2025-12-04T02:54:17.998Z"
       }
+    },
+    {
+      "userId": 7178908406,
+      "firstName": "KENZ",
+      "lastName": "J",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T03:52:04.579Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T03:52:04.585Z"
+      }
     }
   ],
   "groups": [
