@@ -52811,6 +52811,20 @@
       "lastActive": {
         "$date": "2025-12-04T03:57:36.249Z"
       }
+    },
+    {
+      "userId": 5876623845,
+      "firstName": "Chrito",
+      "lastName": "Paonganan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T04:17:03.801Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T04:17:03.805Z"
+      }
     }
   ],
   "groups": [
