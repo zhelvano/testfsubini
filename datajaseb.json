@@ -53048,6 +53048,19 @@
       "lastActive": {
         "$date": "2025-12-04T08:34:08.238Z"
       }
+    },
+    {
+      "userId": 7935231564,
+      "firstName": "_--𝙋𝙖𝙣𝙕𝙯",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T08:42:43.144Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T08:42:43.144Z"
+      }
     }
   ],
   "groups": [
