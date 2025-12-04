@@ -53115,6 +53115,20 @@
       "lastActive": {
         "$date": "2025-12-04T09:51:14.413Z"
       }
+    },
+    {
+      "userId": 8018194486,
+      "username": "WANZZZSEWAWA",
+      "firstName": "𝙕𝙄𝙆𝙎 𝙊𝙋𝙀𝙉 𝙎𝙀𝙒𝘼 𝙒𝘼🔛",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T09:59:19.092Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T09:59:19.097Z"
+      }
     }
   ],
   "groups": [
