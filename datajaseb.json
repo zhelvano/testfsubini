@@ -53505,6 +53505,21 @@
       "lastActive": {
         "$date": "2025-12-04T19:36:16.322Z"
       }
+    },
+    {
+      "userId": 5341636007,
+      "username": "MichaelJasonMuh",
+      "firstName": "Jason",
+      "lastName": "Muh",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T21:26:17.668Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T21:26:17.673Z"
+      }
     }
   ],
   "groups": [
