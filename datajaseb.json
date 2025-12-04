@@ -52825,6 +52825,20 @@
       "lastActive": {
         "$date": "2025-12-04T04:17:03.805Z"
       }
+    },
+    {
+      "userId": 7031739535,
+      "firstName": "ZAHH",
+      "lastName": "Kiw",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T05:05:57.215Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T05:05:57.215Z"
+      }
     }
   ],
   "groups": [
