@@ -53296,6 +53296,20 @@
       "lastActive": {
         "$date": "2025-12-04T14:11:17.800Z"
       }
+    },
+    {
+      "userId": 8223723679,
+      "firstName": "Ell",
+      "lastName": "Nokos",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T14:22:03.294Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T14:22:03.300Z"
+      }
     }
   ],
   "groups": [
