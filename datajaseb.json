@@ -53021,6 +53021,20 @@
       "lastActive": {
         "$date": "2025-12-04T08:23:39.949Z"
       }
+    },
+    {
+      "userId": 7705963952,
+      "username": "hanxzy14",
+      "firstName": "⏤͟͟͞͞𝗡𝗖𝗧𝗭𝗘𝗡 || 𝙝𝙖̀𝙣𝙭𝙯𝙮",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T08:25:53.919Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T08:25:53.919Z"
+      }
     }
   ],
   "groups": [
