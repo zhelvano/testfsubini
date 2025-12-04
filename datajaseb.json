@@ -52964,6 +52964,20 @@
       "lastActive": {
         "$date": "2025-12-04T07:48:46.039Z"
       }
+    },
+    {
+      "userId": 1993150054,
+      "username": "urfernandez",
+      "firstName": "Ruu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T08:07:21.470Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T08:07:21.470Z"
+      }
     }
   ],
   "groups": [
