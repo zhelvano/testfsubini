@@ -53268,6 +53268,20 @@
       "lastActive": {
         "$date": "2025-12-04T13:42:47.271Z"
       }
+    },
+    {
+      "userId": 5855747770,
+      "username": "mrjun0706",
+      "firstName": "Mytef",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T14:09:19.879Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T14:09:19.882Z"
+      }
     }
   ],
   "groups": [
