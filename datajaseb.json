@@ -53184,6 +53184,20 @@
       "lastActive": {
         "$date": "2025-12-04T11:19:25.920Z"
       }
+    },
+    {
+      "userId": 8067239579,
+      "username": "Kiplynugrha",
+      "firstName": "Kiply Nugraha",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T11:29:11.478Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T11:29:11.478Z"
+      }
     }
   ],
   "groups": [
