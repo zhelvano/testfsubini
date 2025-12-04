@@ -53034,6 +53034,20 @@
       "lastActive": {
         "$date": "2025-12-04T08:25:53.919Z"
       }
+    },
+    {
+      "userId": 7921908338,
+      "firstName": "Kenzzz",
+      "lastName": "Astn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T08:34:08.238Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T08:34:08.238Z"
+      }
     }
   ],
   "groups": [
