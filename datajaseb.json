@@ -53170,6 +53170,20 @@
       "lastActive": {
         "$date": "2025-12-04T11:16:32.717Z"
       }
+    },
+    {
+      "userId": 8090631467,
+      "username": "kevingantenk12",
+      "firstName": "𝕶𝕰𝖁𝕴𝕹 • 𝕹𝕿𝖃 🕊️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T11:19:25.919Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T11:19:25.920Z"
+      }
     }
   ],
   "groups": [
