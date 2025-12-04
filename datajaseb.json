@@ -52797,6 +52797,20 @@
       "lastActive": {
         "$date": "2025-12-04T03:52:04.585Z"
       }
+    },
+    {
+      "userId": 8226848031,
+      "username": "Jonkk543",
+      "firstName": "ijonkk",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T03:57:36.248Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T03:57:36.249Z"
+      }
     }
   ],
   "groups": [
