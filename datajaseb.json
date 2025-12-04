@@ -53534,6 +53534,20 @@
       "lastActive": {
         "$date": "2025-12-04T22:02:29.119Z"
       }
+    },
+    {
+      "userId": 8394962750,
+      "username": "Hahaha0823",
+      "firstName": "...",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T22:21:47.118Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T22:21:47.118Z"
+      }
     }
   ],
   "groups": [
