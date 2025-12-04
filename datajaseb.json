@@ -53591,6 +53591,20 @@
       "lastActive": {
         "$date": "2025-12-04T23:54:14.922Z"
       }
+    },
+    {
+      "userId": 7862808133,
+      "username": "Silamego",
+      "firstName": "Pangeran kecil",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T23:56:51.882Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T23:56:51.882Z"
+      }
     }
   ],
   "groups": [
