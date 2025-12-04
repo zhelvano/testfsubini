@@ -52921,6 +52921,20 @@
       "lastActive": {
         "$date": "2025-12-04T06:42:06.367Z"
       }
+    },
+    {
+      "userId": 5202763073,
+      "username": "mbeetea",
+      "firstName": "Mbe",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T07:02:06.199Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T07:02:06.203Z"
+      }
     }
   ],
   "groups": [
