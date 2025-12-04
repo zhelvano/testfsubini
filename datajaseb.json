@@ -53463,6 +53463,20 @@
       "lastActive": {
         "$date": "2025-12-04T18:54:13.824Z"
       }
+    },
+    {
+      "userId": 7965135409,
+      "username": "ilmunintiv",
+      "firstName": "𝔵𝔶𝔴𝔫",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T19:06:13.405Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T19:06:13.420Z"
+      }
     }
   ],
   "groups": [
