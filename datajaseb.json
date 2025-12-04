@@ -52683,6 +52683,20 @@
       "lastActive": {
         "$date": "2025-12-03T23:40:08.865Z"
       }
+    },
+    {
+      "userId": 8432749869,
+      "firstName": "Louis",
+      "lastName": "S",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-04T00:53:32.674Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-04T00:53:32.674Z"
+      }
     }
   ],
   "groups": [
