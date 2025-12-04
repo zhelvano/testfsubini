@@ -39486,7 +39486,7 @@
     },
     {
       "userId": 8328353237,
-      "firstName": "Adi",
+      "firstName": "Add",
       "lastName": "T",
       "isPremium": false,
       "isAdmin": false,
@@ -39495,7 +39495,7 @@
         "$date": "2025-11-27T11:00:11.088Z"
       },
       "lastActive": {
-        "$date": "2025-11-27T11:00:11.088Z"
+        "$date": "2025-12-04T07:38:30.036Z"
       }
     },
     {
