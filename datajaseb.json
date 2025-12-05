@@ -57839,6 +57839,36 @@
       "lastActive": {
         "$date": "2025-12-05T21:29:00.487Z"
       }
+    },
+    {
+      "userId": 7679713751,
+      "username": "Sagilda_Ahmiavin_Zaguxis",
+      "firstName": "Newman",
+      "lastName": "Susan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:29:01.355Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:29:01.355Z"
+      }
+    },
+    {
+      "userId": 7926437483,
+      "username": "commons966338",
+      "firstName": "Людмила",
+      "lastName": "Зайцева",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:29:04.070Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:29:04.071Z"
+      }
     }
   ],
   "groups": [
