@@ -53774,6 +53774,20 @@
       "lastActive": {
         "$date": "2025-12-05T04:05:38.755Z"
       }
+    },
+    {
+      "userId": 5863498696,
+      "username": "Elmorylle",
+      "firstName": "-",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T04:12:17.186Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T04:12:17.187Z"
+      }
     }
   ],
   "groups": [
