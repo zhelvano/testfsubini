@@ -24893,7 +24893,7 @@
         "$date": "2025-11-25T07:36:51.199Z"
       },
       "lastActive": {
-        "$date": "2025-12-05T21:23:42.686Z"
+        "$date": "2025-12-05T21:47:19.047Z"
       },
       "premiumSince": {
         "$date": "2025-11-25T07:38:23.586Z"
@@ -59217,6 +59217,19 @@
       },
       "lastActive": {
         "$date": "2025-12-05T21:45:23.501Z"
+      }
+    },
+    {
+      "userId": 8555867634,
+      "firstName": "cello",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:47:38.464Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:47:38.464Z"
       }
     }
   ],
