@@ -54375,6 +54375,19 @@
       "lastActive": {
         "$date": "2025-12-05T20:57:06.921Z"
       }
+    },
+    {
+      "userId": 8365345965,
+      "firstName": "Bukgans",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:09:11.479Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:09:11.483Z"
+      }
     }
   ],
   "groups": [
