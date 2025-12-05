@@ -50768,7 +50768,7 @@
         "$date": "2025-12-03T09:31:15.691Z"
       },
       "lastActive": {
-        "$date": "2025-12-04T01:31:46.633Z"
+        "$date": "2025-12-05T08:14:58.078Z"
       }
     },
     {
@@ -53891,6 +53891,20 @@
       },
       "lastActive": {
         "$date": "2025-12-05T08:02:22.267Z"
+      }
+    },
+    {
+      "userId": 1951520690,
+      "username": "Dapprker",
+      "firstName": "ㅤ𝑫 𝑨 𝑷",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T08:14:53.474Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T08:14:53.474Z"
       }
     }
   ],
