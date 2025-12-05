@@ -54302,6 +54302,21 @@
       "lastActive": {
         "$date": "2025-12-05T17:29:53.553Z"
       }
+    },
+    {
+      "userId": 8296598165,
+      "username": "dikzzzzx",
+      "firstName": "Х̶ ̀͊̍̈́͑̓̈́̃̆́ ディカ Х̶ ̀͊̍̈́͑̓̈́̃̆́",
+      "lastName": "Х̶ ̀͊̍̈́͑̓̈́̃̆́ ディカ Х̶ ̀͊̍̈́͑̓̈́̃̆́",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T18:54:42.458Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T18:54:42.469Z"
+      }
     }
   ],
   "groups": [
