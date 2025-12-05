@@ -24883,24 +24883,17 @@
       "userId": 8017900934,
       "username": "JARZXGANTENG",
       "firstName": "⏤͟͟͞͞𝐀𝐏𝐗 || JARZX",
-      "isPremium": true,
+      "isPremium": false,
       "isAdmin": false,
-      "groupsAdded": [
-        -1003477822273,
-        -1003219775880
-      ],
+      "groupsAdded": [],
       "joinedAt": {
         "$date": "2025-11-25T07:36:51.199Z"
       },
       "lastActive": {
-        "$date": "2025-12-05T21:47:19.047Z"
+        "$date": "2025-12-05T21:48:49.245Z"
       },
-      "premiumSince": {
-        "$date": "2025-11-25T07:38:23.586Z"
-      },
-      "premiumExpiry": {
-        "$date": "2025-11-27T07:38:23.586Z"
-      }
+      "premiumSince": null,
+      "premiumExpiry": null
     },
     {
       "userId": 6569036347,
@@ -59230,6 +59223,51 @@
       },
       "lastActive": {
         "$date": "2025-12-05T21:47:38.464Z"
+      }
+    },
+    {
+      "userId": 7803941771,
+      "username": "vibrantpetalsGWz",
+      "firstName": "Валентина",
+      "lastName": "Бондаренко",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:50:28.681Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:50:28.681Z"
+      }
+    },
+    {
+      "userId": 7999809875,
+      "username": "applications144961",
+      "firstName": "Эльвира",
+      "lastName": "Шевченко",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:50:58.885Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:50:58.885Z"
+      }
+    },
+    {
+      "userId": 7754668787,
+      "username": "museums919279",
+      "firstName": "Рита",
+      "lastName": "Фомина",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:51:00.227Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:51:00.227Z"
       }
     }
   ],
