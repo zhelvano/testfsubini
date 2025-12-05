@@ -54216,7 +54216,7 @@
         "$date": "2025-12-05T15:47:27.748Z"
       },
       "lastActive": {
-        "$date": "2025-12-05T18:05:12.236Z"
+        "$date": "2025-12-05T19:04:46.987Z"
       }
     },
     {
@@ -54316,6 +54316,21 @@
       },
       "lastActive": {
         "$date": "2025-12-05T18:54:42.469Z"
+      }
+    },
+    {
+      "userId": 7954847256,
+      "username": "jabonslkte",
+      "firstName": "jabon",
+      "lastName": "sloter",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T19:04:47.597Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T19:04:47.597Z"
       }
     }
   ],
