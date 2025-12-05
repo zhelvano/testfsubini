@@ -50233,24 +50233,17 @@
       "userId": 6796868196,
       "username": "jekolagi",
       "firstName": "JΣKӨ",
-      "isPremium": true,
+      "isPremium": false,
       "isAdmin": false,
-      "groupsAdded": [
-        -1002456892765,
-        -1003402862244
-      ],
+      "groupsAdded": [],
       "joinedAt": {
         "$date": "2025-12-02T22:16:55.734Z"
       },
       "lastActive": {
-        "$date": "2025-12-04T11:29:39.152Z"
+        "$date": "2025-12-05T11:47:33.717Z"
       },
-      "premiumSince": {
-        "$date": "2025-12-02T22:18:52.370Z"
-      },
-      "premiumExpiry": {
-        "$date": "2025-12-04T22:18:52.370Z"
-      }
+      "premiumSince": null,
+      "premiumExpiry": null
     },
     {
       "userId": 8287110080,
