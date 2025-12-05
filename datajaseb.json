@@ -54090,6 +54090,21 @@
       "lastActive": {
         "$date": "2025-12-05T12:13:33.131Z"
       }
+    },
+    {
+      "userId": 8011330037,
+      "username": "ramdiq",
+      "firstName": "Rama",
+      "lastName": "Diva",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T13:08:18.313Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T13:08:18.313Z"
+      }
     }
   ],
   "groups": [
