@@ -53704,6 +53704,20 @@
       "lastActive": {
         "$date": "2025-12-05T02:44:08.690Z"
       }
+    },
+    {
+      "userId": 7780595921,
+      "username": "adrianstore00",
+      "firstName": "(24) —友 𝚈𝙼𝚉 || ADRIAN 友—",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T02:51:36.117Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T02:51:36.117Z"
+      }
     }
   ],
   "groups": [
