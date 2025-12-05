@@ -59269,6 +59269,50 @@
       "lastActive": {
         "$date": "2025-12-05T21:51:00.227Z"
       }
+    },
+    {
+      "userId": 8498013114,
+      "username": "Jahislause_ShaxJarianal",
+      "firstName": "Lewis",
+      "lastName": "Timothy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:56:00.214Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:56:00.215Z"
+      }
+    },
+    {
+      "userId": 8486271553,
+      "username": "MikayesYeleighxRris",
+      "firstName": "Stephens",
+      "lastName": "Catherine",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:56:00.217Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:56:00.217Z"
+      }
+    },
+    {
+      "userId": 7989542020,
+      "username": "Adlynse_NestonyxLlen",
+      "firstName": "Micki Tondreau",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:56:00.621Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:56:00.621Z"
+      }
     }
   ],
   "groups": [
