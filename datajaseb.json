@@ -25043,7 +25043,7 @@
         "$date": "2025-11-25T07:50:00.216Z"
       },
       "lastActive": {
-        "$date": "2025-12-05T04:31:05.529Z"
+        "$date": "2025-12-05T08:27:21.586Z"
       }
     },
     {
@@ -53919,6 +53919,20 @@
       },
       "lastActive": {
         "$date": "2025-12-05T08:16:41.653Z"
+      }
+    },
+    {
+      "userId": 8456477674,
+      "username": "RuzzLightEclipse",
+      "firstName": "𝐋𝐄𝐂𝐋' Ruzz1sHere'𝚅𝙿𝚁𝙾",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T08:27:14.038Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T08:27:14.038Z"
       }
     }
   ],
