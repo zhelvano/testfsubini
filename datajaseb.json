@@ -53676,6 +53676,20 @@
       "lastActive": {
         "$date": "2025-12-05T01:27:25.441Z"
       }
+    },
+    {
+      "userId": 8376746284,
+      "username": "tshanofc",
+      "firstName": "u knoww han",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T01:37:02.120Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T01:37:02.120Z"
+      }
     }
   ],
   "groups": [
