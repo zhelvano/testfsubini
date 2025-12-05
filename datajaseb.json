@@ -54119,6 +54119,20 @@
       "lastActive": {
         "$date": "2025-12-05T13:14:39.254Z"
       }
+    },
+    {
+      "userId": 7084274064,
+      "username": "keiiheavenly",
+      "firstName": "⏤͟͟𝐓𝐊𝐒 || Keii Heavenly.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T14:26:37.108Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T14:26:37.108Z"
+      }
     }
   ],
   "groups": [
