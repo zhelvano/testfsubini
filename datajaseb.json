@@ -54274,6 +54274,20 @@
       "lastActive": {
         "$date": "2025-12-05T17:09:57.119Z"
       }
+    },
+    {
+      "userId": 5764004952,
+      "username": "Anotherjiroo",
+      "firstName": "𓆩×͜ꫝɴᴏᴛʜᴇʀ'ᴊɪʀᴏᴏ༯",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T17:20:43.596Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T17:20:43.596Z"
+      }
     }
   ],
   "groups": [
