@@ -50235,12 +50235,14 @@
       "firstName": "JΣKӨ",
       "isPremium": false,
       "isAdmin": false,
-      "groupsAdded": [],
+      "groupsAdded": [
+        -1002333036969
+      ],
       "joinedAt": {
         "$date": "2025-12-02T22:16:55.734Z"
       },
       "lastActive": {
-        "$date": "2025-12-05T11:47:33.717Z"
+        "$date": "2025-12-05T11:48:04.557Z"
       },
       "premiumSince": null,
       "premiumExpiry": null
@@ -54616,6 +54618,15 @@
         "$date": "2025-12-02T22:18:51.970Z"
       },
       "memberCount": 59
+    },
+    {
+      "groupId": -1002333036969,
+      "title": "𝕎𝕒𝕣𝕦𝕟𝕘 𝕜𝕒𝕞𝕡𝕦𝕟𝕘",
+      "addedBy": 6796868196,
+      "addedAt": {
+        "$date": "2025-12-05T11:47:59.514Z"
+      },
+      "memberCount": 1052
     }
   ]
 }
