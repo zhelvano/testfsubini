@@ -53906,6 +53906,20 @@
       "lastActive": {
         "$date": "2025-12-05T08:14:53.474Z"
       }
+    },
+    {
+      "userId": 5785547391,
+      "username": "NURDINNUTRISARIDINGI",
+      "firstName": "MEDUSA|•M",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T08:16:41.653Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T08:16:41.653Z"
+      }
     }
   ],
   "groups": [
