@@ -53904,7 +53904,7 @@
         "$date": "2025-12-05T08:14:53.474Z"
       },
       "lastActive": {
-        "$date": "2025-12-05T14:28:02.354Z"
+        "$date": "2025-12-05T14:30:50.575Z"
       }
     },
     {
@@ -54132,6 +54132,21 @@
       },
       "lastActive": {
         "$date": "2025-12-05T14:26:37.108Z"
+      }
+    },
+    {
+      "userId": 8295704408,
+      "username": "Xiaosinn",
+      "firstName": "Xiao",
+      "lastName": "zxa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T14:31:05.276Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T14:31:05.277Z"
       }
     }
   ],
