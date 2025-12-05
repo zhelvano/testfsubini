@@ -54162,6 +54162,20 @@
       "lastActive": {
         "$date": "2025-12-05T14:33:05.077Z"
       }
+    },
+    {
+      "userId": 8562321900,
+      "username": "bahliljahat",
+      "firstName": "dap",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T14:55:10.634Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T14:55:10.634Z"
+      }
     }
   ],
   "groups": [
