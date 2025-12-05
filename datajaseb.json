@@ -54204,6 +54204,20 @@
       "lastActive": {
         "$date": "2025-12-05T15:02:30.208Z"
       }
+    },
+    {
+      "userId": 1351148169,
+      "username": "Ccnodie",
+      "firstName": "La Bold",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T15:47:27.748Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T15:47:27.751Z"
+      }
     }
   ],
   "groups": [
