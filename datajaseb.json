@@ -54075,6 +54075,21 @@
       "lastActive": {
         "$date": "2025-12-05T12:09:59.310Z"
       }
+    },
+    {
+      "userId": 5415234745,
+      "username": "RIEFKYMODZz",
+      "firstName": "ℜℑ𝔈𝔉𝔎𝔜",
+      "lastName": "M̵͙̖̉O̷̧͈̣̦͉̟̓̌̏̅͒̋̏͘͝D̵̫̮͉̙̓͋̑͂͛̄̎́Z̸̬̹̥̥̺͍̘̀̒͆̐͛̆̏̓̚̚z̸̮̀͋✘",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T12:13:33.131Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T12:13:33.131Z"
+      }
     }
   ],
   "groups": [
