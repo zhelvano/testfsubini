@@ -53818,6 +53818,21 @@
       "lastActive": {
         "$date": "2025-12-05T05:07:42.563Z"
       }
+    },
+    {
+      "userId": 8322110601,
+      "username": "dntmanzyy_16",
+      "firstName": "⏤͟͟͞͞𝐃𝐍𝐓 ||",
+      "lastName": "MĀƝŻƳƳ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T06:42:29.375Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T06:42:29.375Z"
+      }
     }
   ],
   "groups": [
