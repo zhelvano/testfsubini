@@ -4476,7 +4476,6 @@
       "userId": 7533783479,
       "username": "kiyuukuro7",
       "firstName": "Kiyuu",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -4484,7 +4483,7 @@
         "$date": "2025-11-23T04:31:54.040000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T04:31:54.040000Z"
+        "$date": "2025-12-05T20:41:36.964Z"
       }
     },
     {
@@ -54346,6 +54345,21 @@
       },
       "lastActive": {
         "$date": "2025-12-05T19:16:50.325Z"
+      }
+    },
+    {
+      "userId": 8463750418,
+      "username": "xkatrinamagisk",
+      "firstName": "xkatrina",
+      "lastName": "magisk",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T20:40:59.388Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T20:40:59.389Z"
       }
     }
   ],
