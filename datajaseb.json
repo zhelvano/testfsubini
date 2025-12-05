@@ -53619,6 +53619,21 @@
       "lastActive": {
         "$date": "2025-12-05T00:24:55.820Z"
       }
+    },
+    {
+      "userId": 1233145702,
+      "username": "OREWAVEY",
+      "firstName": "𝙏𝙪𝙖𝙣 𝙈𝙪𝙙𝙖",
+      "lastName": "🥇",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T00:57:45.223Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T00:57:45.224Z"
+      }
     }
   ],
   "groups": [
