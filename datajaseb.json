@@ -59313,6 +59313,20 @@
       "lastActive": {
         "$date": "2025-12-05T21:56:00.621Z"
       }
+    },
+    {
+      "userId": 7571191324,
+      "username": "Norul167",
+      "firstName": "Wu new 💤",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T22:28:35.268Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T22:28:35.268Z"
+      }
     }
   ],
   "groups": [
