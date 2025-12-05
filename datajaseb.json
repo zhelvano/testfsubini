@@ -54246,6 +54246,19 @@
       "lastActive": {
         "$date": "2025-12-05T16:50:06.788Z"
       }
+    },
+    {
+      "userId": 7860159456,
+      "firstName": "Sumandiarta",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T16:56:50.559Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T16:56:50.559Z"
+      }
     }
   ],
   "groups": [
