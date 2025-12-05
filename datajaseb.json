@@ -53733,6 +53733,20 @@
       "lastActive": {
         "$date": "2025-12-05T03:33:14.836Z"
       }
+    },
+    {
+      "userId": 6433899117,
+      "username": "Togame7",
+      "firstName": "RX NACKO",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T03:49:35.139Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T03:49:35.139Z"
+      }
     }
   ],
   "groups": [
