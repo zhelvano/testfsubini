@@ -59083,6 +59083,141 @@
       "lastActive": {
         "$date": "2025-12-05T21:40:11.598Z"
       }
+    },
+    {
+      "userId": 8009720668,
+      "username": "Deloisera_ArixCasniohn",
+      "firstName": "Taylor",
+      "lastName": "Ruth",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:45:10.540Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:45:10.540Z"
+      }
+    },
+    {
+      "userId": 8277568857,
+      "username": "ShonormanxQuixUinit",
+      "firstName": "Diaz",
+      "lastName": "Michelle",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:45:11.866Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:45:11.866Z"
+      }
+    },
+    {
+      "userId": 8479343647,
+      "username": "Katzaaaa_UlixOnganast",
+      "firstName": "Townsend",
+      "lastName": "Marion",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:45:15.046Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:45:15.046Z"
+      }
+    },
+    {
+      "userId": 8390778692,
+      "username": "CyntonyonxLycaxAhissathy",
+      "firstName": "Allen",
+      "lastName": "Norma",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:45:15.413Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:45:15.413Z"
+      }
+    },
+    {
+      "userId": 8316229797,
+      "username": "Bylanel_OrennaxOni",
+      "firstName": "Russell",
+      "lastName": "Betty",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:45:19.563Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:45:19.563Z"
+      }
+    },
+    {
+      "userId": 8521630218,
+      "username": "DrsyddyxYnexMorchnity",
+      "firstName": "Olson",
+      "lastName": "Dean",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:45:21.356Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:45:21.356Z"
+      }
+    },
+    {
+      "userId": 8095648379,
+      "username": "Luardah_JaniamoraxJann",
+      "firstName": "Wilson",
+      "lastName": "Tiffany",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:45:21.763Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:45:21.763Z"
+      }
+    },
+    {
+      "userId": 8328537034,
+      "username": "Gucarla_Ole_Roneidana",
+      "firstName": "Parks",
+      "lastName": "Jacob",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:45:22.172Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:45:22.172Z"
+      }
+    },
+    {
+      "userId": 8431762192,
+      "username": "GeralphxBelxJimmyaako",
+      "firstName": "Ray",
+      "lastName": "Linda",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T21:45:23.501Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T21:45:23.501Z"
+      }
     }
   ],
   "groups": [
