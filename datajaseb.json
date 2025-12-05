@@ -53963,6 +53963,20 @@
       "lastActive": {
         "$date": "2025-12-05T09:09:13.743Z"
       }
+    },
+    {
+      "userId": 7260098413,
+      "firstName": "Rulz",
+      "lastName": "Xd",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T09:38:32.072Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T09:38:32.072Z"
+      }
     }
   ],
   "groups": [
