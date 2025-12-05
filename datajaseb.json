@@ -53788,6 +53788,21 @@
       "lastActive": {
         "$date": "2025-12-05T04:12:17.187Z"
       }
+    },
+    {
+      "userId": 8434549477,
+      "username": "Resti53",
+      "firstName": "Resti",
+      "lastName": "Alina",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T04:20:29.827Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T04:20:29.827Z"
+      }
     }
   ],
   "groups": [
