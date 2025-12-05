@@ -53690,6 +53690,20 @@
       "lastActive": {
         "$date": "2025-12-05T01:37:02.120Z"
       }
+    },
+    {
+      "userId": 7054324906,
+      "username": "Reselleryuzu",
+      "firstName": "Yuzuimuet [ NEW ACCOUNT ]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T02:44:08.690Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T02:44:08.690Z"
+      }
     }
   ],
   "groups": [
