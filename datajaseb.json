@@ -54048,6 +54048,20 @@
       "lastActive": {
         "$date": "2025-12-05T10:41:31.763Z"
       }
+    },
+    {
+      "userId": 6321269484,
+      "username": "ketaxxxx2",
+      "firstName": "ecekann6",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T10:54:03.548Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T10:54:03.548Z"
+      }
     }
   ],
   "groups": [
