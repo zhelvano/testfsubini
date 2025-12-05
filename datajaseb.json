@@ -54288,6 +54288,20 @@
       "lastActive": {
         "$date": "2025-12-05T17:20:43.596Z"
       }
+    },
+    {
+      "userId": 7042221153,
+      "username": "pandjidzarr",
+      "firstName": "dard",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T17:29:53.553Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T17:29:53.553Z"
+      }
     }
   ],
   "groups": [
