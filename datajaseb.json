@@ -49789,7 +49789,7 @@
         "$date": "2025-12-02T12:08:42.574Z"
       },
       "lastActive": {
-        "$date": "2025-12-05T13:07:19.366Z"
+        "$date": "2025-12-05T13:15:01.599Z"
       }
     },
     {
@@ -54104,6 +54104,20 @@
       },
       "lastActive": {
         "$date": "2025-12-05T13:08:18.313Z"
+      }
+    },
+    {
+      "userId": 7865104113,
+      "username": "yttalekk",
+      "firstName": "😹😹😹😹😹",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T13:14:39.254Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T13:14:39.254Z"
       }
     }
   ],
