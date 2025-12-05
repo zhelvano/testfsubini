@@ -53949,6 +53949,20 @@
       "lastActive": {
         "$date": "2025-12-05T09:01:26.362Z"
       }
+    },
+    {
+      "userId": 8317664763,
+      "username": "CrocodileRa",
+      "firstName": "Crocodile",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T09:09:13.743Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T09:09:13.743Z"
+      }
     }
   ],
   "groups": [
