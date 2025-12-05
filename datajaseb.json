@@ -54020,6 +54020,20 @@
       "lastActive": {
         "$date": "2025-12-05T09:53:19.554Z"
       }
+    },
+    {
+      "userId": 6190352010,
+      "username": "maxrrxc",
+      "firstName": "𝓡'𝐲𝐚𝐧",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-05T10:01:19.496Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-05T10:01:19.496Z"
+      }
     }
   ],
   "groups": [
