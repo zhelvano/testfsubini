@@ -59426,6 +59426,20 @@
       "lastActive": {
         "$date": "2025-12-06T00:35:46.452Z"
       }
+    },
+    {
+      "userId": 7131863245,
+      "username": "dancrutjb",
+      "firstName": "DANCRUT JB (REKBER ON)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-06T00:47:36.708Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-06T00:47:36.708Z"
+      }
     }
   ],
   "groups": [
