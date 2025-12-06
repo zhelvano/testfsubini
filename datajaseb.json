@@ -59370,6 +59370,20 @@
       "lastActive": {
         "$date": "2025-12-06T00:07:35.154Z"
       }
+    },
+    {
+      "userId": 6873598773,
+      "username": "LAMPUKAKA090",
+      "firstName": "Upil",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-06T00:25:01.371Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-06T00:25:01.371Z"
+      }
     }
   ],
   "groups": [
