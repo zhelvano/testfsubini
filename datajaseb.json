@@ -59455,6 +59455,20 @@
       "lastActive": {
         "$date": "2025-12-06T01:19:16.818Z"
       }
+    },
+    {
+      "userId": 5859775085,
+      "username": "ryuuuee",
+      "firstName": "リュウ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-06T02:25:33.554Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-06T02:25:33.554Z"
+      }
     }
   ],
   "groups": [
