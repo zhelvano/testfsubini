@@ -19,7 +19,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-12-06T06:20:00.509Z"
+        "$date": "2025-12-06T06:20:36.877Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -50226,24 +50226,17 @@
       "userId": 6796868196,
       "username": "jekolagi",
       "firstName": "JΣKӨ",
-      "isPremium": true,
+      "isPremium": false,
       "isAdmin": false,
-      "groupsAdded": [
-        -1002333036969,
-        -1002622607271
-      ],
+      "groupsAdded": [],
       "joinedAt": {
         "$date": "2025-12-02T22:16:55.734Z"
       },
       "lastActive": {
-        "$date": "2025-12-06T06:13:36.906Z"
+        "$date": "2025-12-06T06:20:32.967Z"
       },
-      "premiumSince": {
-        "$date": "2025-12-05T11:48:38.185Z"
-      },
-      "premiumExpiry": {
-        "$date": "2025-12-07T11:48:38.185Z"
-      }
+      "premiumSince": null,
+      "premiumExpiry": null
     },
     {
       "userId": 8287110080,
