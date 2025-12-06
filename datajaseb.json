@@ -59440,6 +59440,21 @@
       "lastActive": {
         "$date": "2025-12-06T00:47:36.708Z"
       }
+    },
+    {
+      "userId": 7191689728,
+      "username": "Angelytzy1",
+      "firstName": "Angely",
+      "lastName": "Chez",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-06T01:19:16.818Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-06T01:19:16.818Z"
+      }
     }
   ],
   "groups": [
