@@ -17141,7 +17141,7 @@
         "$date": "2025-11-24T06:50:43.007Z"
       },
       "lastActive": {
-        "$date": "2025-12-05T07:10:50.677Z"
+        "$date": "2025-12-06T05:50:23.534Z"
       }
     },
     {
@@ -59553,6 +59553,20 @@
       },
       "lastActive": {
         "$date": "2025-12-06T04:53:55.056Z"
+      }
+    },
+    {
+      "userId": 7892443691,
+      "username": "Marlboro_54k",
+      "firstName": "Aji nepal 🇳🇵",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-06T05:50:04.749Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-06T05:50:04.749Z"
       }
     }
   ],
