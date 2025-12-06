@@ -59469,6 +59469,20 @@
       "lastActive": {
         "$date": "2025-12-06T02:25:33.554Z"
       }
+    },
+    {
+      "userId": 8156561462,
+      "firstName": "Cyber X Md",
+      "lastName": "Vi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-06T02:51:02.392Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-06T02:51:02.392Z"
+      }
     }
   ],
   "groups": [
