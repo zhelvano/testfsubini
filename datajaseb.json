@@ -59511,6 +59511,20 @@
       "lastActive": {
         "$date": "2025-12-06T03:22:49.704Z"
       }
+    },
+    {
+      "userId": 1609812473,
+      "username": "apksnwk2",
+      "firstName": "𝐨𝐠𝐨𝐲𝙑2",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-06T03:42:45.632Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-06T03:42:48.851Z"
+      }
     }
   ],
   "groups": [
