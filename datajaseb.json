@@ -59412,6 +59412,20 @@
       "lastActive": {
         "$date": "2025-12-06T00:30:26.665Z"
       }
+    },
+    {
+      "userId": 7633916158,
+      "username": "hanzzk023",
+      "firstName": "sensen",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-06T00:35:46.452Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-06T00:35:46.452Z"
+      }
     }
   ],
   "groups": [
