@@ -59356,6 +59356,20 @@
       "lastActive": {
         "$date": "2025-12-06T00:00:15.814Z"
       }
+    },
+    {
+      "userId": 6928694181,
+      "username": "Krsna_1818",
+      "firstName": "𝄞⨾𓍢ִ໋Krsnaaw",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-06T00:07:35.154Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-06T00:07:35.154Z"
+      }
     }
   ],
   "groups": [
