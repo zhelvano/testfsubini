@@ -59497,6 +59497,20 @@
       "lastActive": {
         "$date": "2025-12-06T03:17:50.272Z"
       }
+    },
+    {
+      "userId": 7615700226,
+      "username": "ngiii528",
+      "firstName": "....",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-06T03:22:49.704Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-06T03:22:49.704Z"
+      }
     }
   ],
   "groups": [
