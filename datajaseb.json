@@ -59399,6 +59399,19 @@
       "lastActive": {
         "$date": "2025-12-06T00:26:24.189Z"
       }
+    },
+    {
+      "userId": 8538721022,
+      "firstName": "Not bıraktım",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-06T00:30:26.665Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-06T00:30:26.665Z"
+      }
     }
   ],
   "groups": [
