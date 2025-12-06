@@ -59568,6 +59568,20 @@
       "lastActive": {
         "$date": "2025-12-06T05:50:04.749Z"
       }
+    },
+    {
+      "userId": 7728124747,
+      "firstName": "Denny",
+      "lastName": "aulia",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-06T06:00:16.521Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-06T06:00:16.521Z"
+      }
     }
   ],
   "groups": [
