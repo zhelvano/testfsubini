@@ -59484,6 +59484,19 @@
       "lastActive": {
         "$date": "2025-12-06T02:51:02.392Z"
       }
+    },
+    {
+      "userId": 7343327703,
+      "firstName": "Babong00",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-06T03:17:50.272Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-06T03:17:50.272Z"
+      }
     }
   ],
   "groups": [
