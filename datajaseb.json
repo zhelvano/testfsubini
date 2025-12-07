@@ -60255,6 +60255,20 @@
       "lastActive": {
         "$date": "2025-12-07T13:21:57.226Z"
       }
+    },
+    {
+      "userId": 7993250624,
+      "firstName": "Muhamad",
+      "lastName": "Fauji",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T13:27:35.018Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T13:27:35.025Z"
+      }
     }
   ],
   "groups": [
