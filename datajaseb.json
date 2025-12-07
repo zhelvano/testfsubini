@@ -60497,6 +60497,21 @@
       "lastActive": {
         "$date": "2025-12-07T19:49:14.137Z"
       }
+    },
+    {
+      "userId": 7832943073,
+      "username": "Rapzmodz_Official",
+      "firstName": "⏤͟͟͞͞ᬊ𝑭𝑳𝑶𝑾 ꙰꙰꙰꙰꙰꙰",
+      "lastName": "RAPZMODZ 𝐓𝟓 🕊️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T19:51:44.679Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T19:51:44.679Z"
+      }
     }
   ],
   "groups": [
