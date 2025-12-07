@@ -50226,12 +50226,14 @@
       "firstName": "JΣKӨ",
       "isPremium": false,
       "isAdmin": false,
-      "groupsAdded": [],
+      "groupsAdded": [
+        -1002622607271
+      ],
       "joinedAt": {
         "$date": "2025-12-02T22:16:55.734Z"
       },
       "lastActive": {
-        "$date": "2025-12-07T13:04:33.382Z"
+        "$date": "2025-12-07T13:05:11.768Z"
       },
       "premiumSince": null,
       "premiumExpiry": null
@@ -60796,9 +60798,9 @@
       "title": "ZONA BONUSAN 030🙈",
       "addedBy": 6796868196,
       "addedAt": {
-        "$date": "2025-12-05T11:48:37.799Z"
+        "$date": "2025-12-07T13:05:11.759Z"
       },
-      "memberCount": 210
+      "memberCount": 209
     }
   ]
 }
