@@ -60354,6 +60354,20 @@
       "lastActive": {
         "$date": "2025-12-07T16:09:03.307Z"
       }
+    },
+    {
+      "userId": 8090835642,
+      "firstName": "FADLI",
+      "lastName": "AKBAR AFANDI",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T16:23:32.733Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T16:23:32.733Z"
+      }
     }
   ],
   "groups": [
