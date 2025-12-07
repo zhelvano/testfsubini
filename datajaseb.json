@@ -60539,6 +60539,20 @@
       "lastActive": {
         "$date": "2025-12-07T22:00:46.402Z"
       }
+    },
+    {
+      "userId": 6791758849,
+      "username": "Polls128",
+      "firstName": "JOSS",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T22:31:48.807Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T22:31:48.807Z"
+      }
     }
   ],
   "groups": [
