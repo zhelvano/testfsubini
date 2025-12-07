@@ -60225,7 +60225,7 @@
         "$date": "2025-12-07T12:19:45.935Z"
       },
       "lastActive": {
-        "$date": "2025-12-07T13:17:26.314Z"
+        "$date": "2025-12-07T13:22:12.809Z"
       }
     },
     {
@@ -60240,6 +60240,20 @@
       },
       "lastActive": {
         "$date": "2025-12-07T13:11:12.470Z"
+      }
+    },
+    {
+      "userId": 7675892362,
+      "username": "kevinyauy",
+      "firstName": "kevin",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T13:21:57.226Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T13:21:57.226Z"
       }
     }
   ],
