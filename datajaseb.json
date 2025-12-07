@@ -54179,7 +54179,7 @@
         "$date": "2025-12-05T14:57:58.651Z"
       },
       "lastActive": {
-        "$date": "2025-12-07T12:19:45.924Z"
+        "$date": "2025-12-07T15:22:43.575Z"
       }
     },
     {
@@ -60311,6 +60311,20 @@
       },
       "lastActive": {
         "$date": "2025-12-07T15:10:29.926Z"
+      }
+    },
+    {
+      "userId": 8491514446,
+      "username": "ardyyh",
+      "firstName": "Ardy ?",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T15:22:42.174Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T15:22:42.179Z"
       }
     }
   ],
