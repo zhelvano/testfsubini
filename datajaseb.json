@@ -60467,6 +60467,21 @@
       "lastActive": {
         "$date": "2025-12-07T18:53:29.450Z"
       }
+    },
+    {
+      "userId": 6661541850,
+      "username": "Kopisusu_20",
+      "firstName": "Ghozalah",
+      "lastName": "Ghozalah",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T19:01:03.586Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T19:01:03.586Z"
+      }
     }
   ],
   "groups": [
