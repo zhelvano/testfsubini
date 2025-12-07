@@ -60425,6 +60425,19 @@
       "lastActive": {
         "$date": "2025-12-07T17:38:25.554Z"
       }
+    },
+    {
+      "userId": 8132717304,
+      "firstName": "Yazid",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T18:14:10.745Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T18:14:10.748Z"
+      }
     }
   ],
   "groups": [
