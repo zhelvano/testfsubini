@@ -60284,6 +60284,20 @@
       "lastActive": {
         "$date": "2025-12-07T14:03:50.923Z"
       }
+    },
+    {
+      "userId": 8236945306,
+      "firstName": "NO",
+      "lastName": "NAME",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T14:09:23.356Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T14:09:23.359Z"
+      }
     }
   ],
   "groups": [
