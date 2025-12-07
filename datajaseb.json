@@ -60340,6 +60340,20 @@
       "lastActive": {
         "$date": "2025-12-07T15:57:38.663Z"
       }
+    },
+    {
+      "userId": 6797210471,
+      "username": "morrisxb",
+      "firstName": "hollow ⚫",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T16:09:03.307Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T16:09:03.307Z"
+      }
     }
   ],
   "groups": [
