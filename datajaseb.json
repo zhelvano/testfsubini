@@ -60581,6 +60581,20 @@
       "lastActive": {
         "$date": "2025-12-07T23:39:40.871Z"
       }
+    },
+    {
+      "userId": 7197537239,
+      "username": "berzvk",
+      "firstName": "⏤͟͟𝐃𝟗 || 𝘽𝙀𝙍𝙕𝙓🤳",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T23:49:42.031Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T23:49:42.031Z"
+      }
     }
   ],
   "groups": [
