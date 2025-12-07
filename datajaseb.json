@@ -60452,6 +60452,20 @@
       "lastActive": {
         "$date": "2025-12-07T18:41:33.325Z"
       }
+    },
+    {
+      "userId": 6551244693,
+      "username": "tarlo11x",
+      "firstName": "Tzy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T18:53:29.449Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T18:53:29.450Z"
+      }
     }
   ],
   "groups": [
