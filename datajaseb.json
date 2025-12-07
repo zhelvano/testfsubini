@@ -60383,6 +60383,20 @@
       "lastActive": {
         "$date": "2025-12-07T16:37:12.202Z"
       }
+    },
+    {
+      "userId": 8543725430,
+      "username": "zakiicantikk",
+      "firstName": "zakiicantikk",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T16:58:15.937Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T16:58:15.941Z"
+      }
     }
   ],
   "groups": [
