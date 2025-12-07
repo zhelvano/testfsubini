@@ -60411,6 +60411,20 @@
       "lastActive": {
         "$date": "2025-12-07T17:02:22.562Z"
       }
+    },
+    {
+      "userId": 7686544002,
+      "username": "Megat666",
+      "firstName": "𝑴𝒆𝒈𝒂𝒕 ༗",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T17:38:25.554Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T17:38:25.554Z"
+      }
     }
   ],
   "groups": [
