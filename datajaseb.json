@@ -50224,19 +50224,24 @@
       "userId": 6796868196,
       "username": "jekolagi",
       "firstName": "JΣKӨ",
-      "isPremium": false,
+      "isPremium": true,
       "isAdmin": false,
       "groupsAdded": [
-        -1002622607271
+        -1002622607271,
+        -1002333036969
       ],
       "joinedAt": {
         "$date": "2025-12-02T22:16:55.734Z"
       },
       "lastActive": {
-        "$date": "2025-12-07T13:05:11.768Z"
+        "$date": "2025-12-07T13:05:34.056Z"
       },
-      "premiumSince": null,
-      "premiumExpiry": null
+      "premiumSince": {
+        "$date": "2025-12-07T13:05:34.048Z"
+      },
+      "premiumExpiry": {
+        "$date": "2025-12-09T13:05:34.048Z"
+      }
     },
     {
       "userId": 8287110080,
@@ -60789,9 +60794,9 @@
       "title": "𝕎𝕒𝕣𝕦𝕟𝕘 𝕜𝕒𝕞𝕡𝕦𝕟𝕘",
       "addedBy": 6796868196,
       "addedAt": {
-        "$date": "2025-12-05T11:47:59.514Z"
+        "$date": "2025-12-07T13:05:33.836Z"
       },
-      "memberCount": 1052
+      "memberCount": 1349
     },
     {
       "groupId": -1002622607271,
