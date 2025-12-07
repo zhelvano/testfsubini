@@ -60482,6 +60482,21 @@
       "lastActive": {
         "$date": "2025-12-07T19:01:03.586Z"
       }
+    },
+    {
+      "userId": 8087591501,
+      "username": "ListianSephlanxOwan",
+      "firstName": "Пономарёв",
+      "lastName": "Дамир",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T19:49:14.137Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T19:49:14.137Z"
+      }
     }
   ],
   "groups": [
