@@ -60567,6 +60567,20 @@
       "lastActive": {
         "$date": "2025-12-07T23:35:03.846Z"
       }
+    },
+    {
+      "userId": 7783655274,
+      "username": "Samirta",
+      "firstName": "Mg",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T23:39:40.871Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T23:39:40.871Z"
+      }
     }
   ],
   "groups": [
