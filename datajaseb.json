@@ -60438,6 +60438,20 @@
       "lastActive": {
         "$date": "2025-12-07T18:14:10.748Z"
       }
+    },
+    {
+      "userId": 7501037342,
+      "username": "ddadkml",
+      "firstName": "punggg (opn rental)",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-07T18:41:33.325Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-07T18:41:33.325Z"
+      }
     }
   ],
   "groups": [
