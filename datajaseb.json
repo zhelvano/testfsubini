@@ -60861,6 +60861,20 @@
       "lastActive": {
         "$date": "2025-12-08T08:50:03.935Z"
       }
+    },
+    {
+      "userId": 7054918256,
+      "username": "Ijul111",
+      "firstName": "Melia",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T09:07:12.924Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T09:07:12.924Z"
+      }
     }
   ],
   "groups": [
