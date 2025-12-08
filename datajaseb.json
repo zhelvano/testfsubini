@@ -3844,9 +3844,7 @@
         "$oid": "6922885bd36a0357c0e0bd2c"
       },
       "userId": 6917093768,
-      "username": null,
       "firstName": "Shinoo",
-      "lastName": null,
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -3854,7 +3852,7 @@
         "$date": "2025-11-23T04:06:51.238000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T04:06:51.238000Z"
+        "$date": "2025-12-08T23:02:19.231Z"
       }
     },
     {
