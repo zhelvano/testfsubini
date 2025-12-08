@@ -61159,6 +61159,21 @@
       "lastActive": {
         "$date": "2025-12-08T15:45:02.396Z"
       }
+    },
+    {
+      "userId": 8267785214,
+      "username": "ffffffuckkk",
+      "firstName": "renn",
+      "lastName": "flow",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T16:33:41.203Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T16:33:41.203Z"
+      }
     }
   ],
   "groups": [
