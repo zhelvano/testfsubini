@@ -61288,6 +61288,20 @@
       "lastActive": {
         "$date": "2025-12-08T19:13:46.284Z"
       }
+    },
+    {
+      "userId": 6318461018,
+      "username": "dandisyah_rmdhn",
+      "firstName": "Karzz 🕶️👅",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T20:43:48.104Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T20:43:48.104Z"
+      }
     }
   ],
   "groups": [
