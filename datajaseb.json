@@ -61189,6 +61189,20 @@
       "lastActive": {
         "$date": "2025-12-08T17:08:35.964Z"
       }
+    },
+    {
+      "userId": 5996079543,
+      "username": "Jangkar_bumi",
+      "firstName": "''๋ࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ͜͡αηтαяєנα",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T17:15:39.705Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T17:15:39.705Z"
+      }
     }
   ],
   "groups": [
