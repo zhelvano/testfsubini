@@ -41142,7 +41142,7 @@
         "$date": "2025-11-27T16:30:05.442Z"
       },
       "lastActive": {
-        "$date": "2025-12-07T17:34:42.042Z"
+        "$date": "2025-12-08T09:54:12.041Z"
       }
     },
     {
@@ -60918,6 +60918,20 @@
       },
       "lastActive": {
         "$date": "2025-12-08T09:39:48.664Z"
+      }
+    },
+    {
+      "userId": 8284288374,
+      "username": "Kiluuabarurest",
+      "firstName": "𝟐𝐬𝐓|| 𝐊𝐢𝐥𝐥𝐮𝐚",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T09:54:20.728Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T09:54:20.728Z"
       }
     }
   ],
