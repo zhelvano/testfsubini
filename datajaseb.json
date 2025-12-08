@@ -61260,6 +61260,20 @@
       "lastActive": {
         "$date": "2025-12-08T18:32:36.468Z"
       }
+    },
+    {
+      "userId": 7846160540,
+      "username": "Timanjay22",
+      "firstName": "Novan Maulana",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T18:54:08.755Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T18:54:08.755Z"
+      }
     }
   ],
   "groups": [
