@@ -61344,6 +61344,21 @@
       "lastActive": {
         "$date": "2025-12-08T22:50:38.389Z"
       }
+    },
+    {
+      "userId": 8437263665,
+      "username": "YnexVinlieRaamriean",
+      "firstName": "Allison",
+      "lastName": "Emily",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T23:05:12.156Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T23:05:12.156Z"
+      }
     }
   ],
   "groups": [
