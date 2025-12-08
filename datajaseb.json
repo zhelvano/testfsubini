@@ -13357,14 +13357,23 @@
       "userId": 8475236027,
       "username": "izz2x",
       "firstName": "⏤͟͟͞͞𝐗𝐓𝐑 || ⏤͟͟͞͞𝗜𝘇𝘇𝘅.",
-      "isPremium": false,
+      "isPremium": true,
       "isAdmin": false,
-      "groupsAdded": [],
+      "groupsAdded": [
+        -1003402367412,
+        -1003478346995
+      ],
       "joinedAt": {
         "$date": "2025-11-23T15:42:32.992Z"
       },
       "lastActive": {
-        "$date": "2025-12-08T08:43:58.286Z"
+        "$date": "2025-12-08T08:44:37.021Z"
+      },
+      "premiumSince": {
+        "$date": "2025-12-08T08:44:28.785Z"
+      },
+      "premiumExpiry": {
+        "$date": "2025-12-10T08:44:28.785Z"
       }
     },
     {
@@ -61416,6 +61425,24 @@
         "$date": "2025-12-07T13:05:11.759Z"
       },
       "memberCount": 209
+    },
+    {
+      "groupId": -1003402367412,
+      "title": "𝐑𝐎𝐎𝐌 𝐏𝐔𝐁𝐋𝐈𝐂 ⏤͟͟͞͞𝗜𝘇𝘇𝘅.",
+      "addedBy": 8475236027,
+      "addedAt": {
+        "$date": "2025-12-08T08:44:13.696Z"
+      },
+      "memberCount": 69
+    },
+    {
+      "groupId": -1003478346995,
+      "title": "Reseller panel by ryuu",
+      "addedBy": 8475236027,
+      "addedAt": {
+        "$date": "2025-12-08T08:44:28.621Z"
+      },
+      "memberCount": 36
     }
   ]
 }
