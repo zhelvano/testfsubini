@@ -60621,6 +60621,21 @@
       "lastActive": {
         "$date": "2025-12-08T02:54:46.086Z"
       }
+    },
+    {
+      "userId": 8073819701,
+      "username": "Kamulucukk",
+      "firstName": "Thomas",
+      "lastName": "Selby",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T02:59:04.015Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T02:59:04.016Z"
+      }
     }
   ],
   "groups": [
