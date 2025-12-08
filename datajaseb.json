@@ -60778,6 +60778,20 @@
       "lastActive": {
         "$date": "2025-12-08T07:46:40.759Z"
       }
+    },
+    {
+      "userId": 6549399716,
+      "firstName": "Khuntul",
+      "lastName": "Sange",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T08:04:57.070Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T08:04:57.070Z"
+      }
     }
   ],
   "groups": [
