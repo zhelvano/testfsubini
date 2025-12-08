@@ -60875,6 +60875,21 @@
       "lastActive": {
         "$date": "2025-12-08T09:07:12.924Z"
       }
+    },
+    {
+      "userId": 7763187248,
+      "username": "densboy23",
+      "firstName": "Alfarizi",
+      "lastName": "Boy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T09:17:14.645Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T09:17:14.645Z"
+      }
     }
   ],
   "groups": [
