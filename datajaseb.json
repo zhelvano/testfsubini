@@ -60677,6 +60677,20 @@
       "lastActive": {
         "$date": "2025-12-08T05:06:15.413Z"
       }
+    },
+    {
+      "userId": 1477685310,
+      "username": "tarotganteng",
+      "firstName": "Super Tarot",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T05:33:02.253Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T05:33:02.253Z"
+      }
     }
   ],
   "groups": [
