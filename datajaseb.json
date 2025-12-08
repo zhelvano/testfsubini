@@ -61145,6 +61145,20 @@
       "lastActive": {
         "$date": "2025-12-08T15:20:53.803Z"
       }
+    },
+    {
+      "userId": 7245157512,
+      "username": "lipzz03",
+      "firstName": "sewaa wa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T15:45:02.396Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T15:45:02.396Z"
+      }
     }
   ],
   "groups": [
