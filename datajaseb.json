@@ -61033,6 +61033,20 @@
       "lastActive": {
         "$date": "2025-12-08T12:29:53.572Z"
       }
+    },
+    {
+      "userId": 7740005605,
+      "username": "Mugennih",
+      "firstName": "Mugen",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T12:38:39.622Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T12:38:39.622Z"
+      }
     }
   ],
   "groups": [
