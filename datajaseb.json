@@ -60764,6 +60764,20 @@
       "lastActive": {
         "$date": "2025-12-08T07:43:13.422Z"
       }
+    },
+    {
+      "userId": 7222530911,
+      "username": "mikaxnxxx",
+      "firstName": "mika",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T07:46:40.758Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T07:46:40.759Z"
+      }
     }
   ],
   "groups": [
