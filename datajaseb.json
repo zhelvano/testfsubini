@@ -19,7 +19,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-12-08T08:29:33.003Z"
+        "$date": "2025-12-08T08:30:04.562Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -60791,6 +60791,20 @@
       },
       "lastActive": {
         "$date": "2025-12-08T08:04:57.070Z"
+      }
+    },
+    {
+      "userId": 5802946744,
+      "username": "Misterdyy",
+      "firstName": "D",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T08:30:04.373Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T08:30:04.373Z"
       }
     }
   ],
