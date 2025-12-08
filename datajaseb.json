@@ -61061,6 +61061,20 @@
       "lastActive": {
         "$date": "2025-12-08T13:32:38.097Z"
       }
+    },
+    {
+      "userId": 8535381799,
+      "username": "Ngopicui2",
+      "firstName": "Cet air",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T13:35:12.151Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T13:35:12.151Z"
+      }
     }
   ],
   "groups": [
