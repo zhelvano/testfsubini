@@ -60636,6 +60636,20 @@
       "lastActive": {
         "$date": "2025-12-08T02:59:04.016Z"
       }
+    },
+    {
+      "userId": 7572062097,
+      "username": "virexusx",
+      "firstName": "𝗩𝗜𝗥𝗘𝗫𝗨𝗦𝗫",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T04:19:09.061Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T04:19:09.061Z"
+      }
     }
   ],
   "groups": [
