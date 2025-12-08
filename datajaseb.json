@@ -60977,6 +60977,20 @@
       "lastActive": {
         "$date": "2025-12-08T11:50:45.336Z"
       }
+    },
+    {
+      "userId": 7177831165,
+      "firstName": "Yuys",
+      "lastName": "Ys",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T11:52:15.577Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T11:52:15.577Z"
+      }
     }
   ],
   "groups": [
