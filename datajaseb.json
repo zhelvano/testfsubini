@@ -61075,6 +61075,20 @@
       "lastActive": {
         "$date": "2025-12-08T13:35:12.151Z"
       }
+    },
+    {
+      "userId": 6993317292,
+      "username": "UserAlfino23",
+      "firstName": "𝘼𝙇𝙁𝙄𝙉𝙊𝙊 乂",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T14:32:46.323Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T14:32:46.323Z"
+      }
     }
   ],
   "groups": [
