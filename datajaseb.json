@@ -61373,6 +61373,20 @@
       "lastActive": {
         "$date": "2025-12-08T23:36:56.684Z"
       }
+    },
+    {
+      "userId": 7655225379,
+      "username": "nxstalgiac",
+      "firstName": "Anatta",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T23:44:28.350Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T23:44:28.350Z"
+      }
     }
   ],
   "groups": [
