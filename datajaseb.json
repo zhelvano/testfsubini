@@ -61019,6 +61019,20 @@
       "lastActive": {
         "$date": "2025-12-08T12:11:48.326Z"
       }
+    },
+    {
+      "userId": 8525980823,
+      "username": "Raynzz17",
+      "firstName": "Ml",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T12:29:53.572Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T12:29:53.572Z"
+      }
     }
   ],
   "groups": [
