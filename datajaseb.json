@@ -60808,6 +60808,20 @@
       "lastActive": {
         "$date": "2025-12-08T08:31:56.864Z"
       }
+    },
+    {
+      "userId": 1924537934,
+      "username": "azzxrg",
+      "firstName": "ndyy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T08:35:10.598Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T08:35:10.598Z"
+      }
     }
   ],
   "groups": [
