@@ -60991,6 +60991,20 @@
       "lastActive": {
         "$date": "2025-12-08T11:52:15.577Z"
       }
+    },
+    {
+      "userId": 8434341138,
+      "username": "hazell_aja",
+      "firstName": "BOSS HAZEL",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T11:58:19.646Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T11:58:19.646Z"
+      }
     }
   ],
   "groups": [
