@@ -19,7 +19,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-12-08T17:07:52.602Z"
+        "$date": "2025-12-08T17:08:33.476Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -61174,6 +61174,21 @@
       "lastActive": {
         "$date": "2025-12-08T16:38:42.139Z"
       }
+    },
+    {
+      "userId": 8218082822,
+      "username": "Kangcilok9090",
+      "firstName": "ABC",
+      "lastName": "DEF",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T17:08:35.964Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T17:08:35.964Z"
+      }
     }
   ],
   "groups": [
@@ -61789,6 +61804,24 @@
         "$date": "2025-12-08T17:07:52.951Z"
       },
       "memberCount": 3
+    },
+    {
+      "groupId": -1002624941244,
+      "title": ",,.",
+      "addedBy": 1301819689,
+      "addedAt": {
+        "$date": "2025-12-08T17:08:14.964Z"
+      },
+      "memberCount": 3
+    },
+    {
+      "groupId": -1002655605482,
+      "title": "STAFF GROUP",
+      "addedBy": 1301819689,
+      "addedAt": {
+        "$date": "2025-12-08T17:08:33.824Z"
+      },
+      "memberCount": 5
     }
   ]
 }
