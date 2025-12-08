@@ -61274,6 +61274,20 @@
       "lastActive": {
         "$date": "2025-12-08T18:54:08.755Z"
       }
+    },
+    {
+      "userId": 7938861895,
+      "username": "Gilangrajara",
+      "firstName": "Raja",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T19:13:46.284Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T19:13:46.284Z"
+      }
     }
   ],
   "groups": [
