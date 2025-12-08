@@ -13364,7 +13364,7 @@
         "$date": "2025-11-23T15:42:32.992Z"
       },
       "lastActive": {
-        "$date": "2025-12-08T08:43:32.623Z"
+        "$date": "2025-12-08T08:43:58.286Z"
       }
     },
     {
@@ -60821,6 +60821,21 @@
       },
       "lastActive": {
         "$date": "2025-12-08T08:35:10.598Z"
+      }
+    },
+    {
+      "userId": 7194754042,
+      "username": "BOZTSTORE12",
+      "firstName": "BOZTT",
+      "lastName": "STORE",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T08:43:55.847Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T08:43:59.169Z"
       }
     }
   ],
