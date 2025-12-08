@@ -60905,6 +60905,20 @@
       "lastActive": {
         "$date": "2025-12-08T09:21:04.981Z"
       }
+    },
+    {
+      "userId": 7396502133,
+      "username": "mincerung",
+      "firstName": "D",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T09:39:48.664Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T09:39:48.664Z"
+      }
     }
   ],
   "groups": [
