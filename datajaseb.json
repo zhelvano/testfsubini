@@ -61332,6 +61332,20 @@
       "lastActive": {
         "$date": "2025-12-08T21:28:22.195Z"
       }
+    },
+    {
+      "userId": 6438664545,
+      "username": "pelanPelanSayanggCakitt",
+      "firstName": "ⁱᵏʸʸ 𝚡 ᴋᴀɴɢᴛᴏᴛo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T22:50:38.389Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T22:50:38.389Z"
+      }
     }
   ],
   "groups": [
