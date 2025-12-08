@@ -60607,6 +60607,20 @@
       "lastActive": {
         "$date": "2025-12-08T01:16:34.568Z"
       }
+    },
+    {
+      "userId": 8095052239,
+      "firstName": "Kannu",
+      "lastName": "Kanu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T02:54:46.086Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T02:54:46.086Z"
+      }
     }
   ],
   "groups": [
