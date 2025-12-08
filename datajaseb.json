@@ -60650,6 +60650,20 @@
       "lastActive": {
         "$date": "2025-12-08T04:19:09.061Z"
       }
+    },
+    {
+      "userId": 6241655625,
+      "username": "Aripstore1",
+      "firstName": "⏤͟͞†DRᡃ⃝VN⛧ || arip",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T04:28:18.747Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T04:28:18.747Z"
+      }
     }
   ],
   "groups": [
