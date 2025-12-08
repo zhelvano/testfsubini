@@ -529,9 +529,7 @@
         "$oid": "6922627cd36a0357c0e0bc73"
       },
       "userId": 8046859511,
-      "username": null,
-      "firstName": "m",
-      "lastName": null,
+      "firstName": "gb",
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -539,7 +537,7 @@
         "$date": "2025-11-23T01:25:16.684000Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T01:25:16.684000Z"
+        "$date": "2025-12-08T02:06:53.152Z"
       }
     },
     {
