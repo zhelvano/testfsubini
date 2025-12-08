@@ -60964,6 +60964,19 @@
       "lastActive": {
         "$date": "2025-12-08T10:49:20.265Z"
       }
+    },
+    {
+      "userId": 8241909528,
+      "firstName": "reyzyyy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T11:50:45.336Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T11:50:45.336Z"
+      }
     }
   ],
   "groups": [
