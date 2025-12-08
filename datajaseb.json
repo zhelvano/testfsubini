@@ -61131,6 +61131,20 @@
       "lastActive": {
         "$date": "2025-12-08T15:18:49.863Z"
       }
+    },
+    {
+      "userId": 6838650466,
+      "username": "laggi_tinggi",
+      "firstName": "𝘾𝙃𝘼𝙉 [𝙉𝙊𝙆𝙊𝙎 𝙍𝙀𝘼𝘿𝙔 ]",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T15:20:53.803Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T15:20:53.803Z"
+      }
     }
   ],
   "groups": [
