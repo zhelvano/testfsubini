@@ -61359,6 +61359,20 @@
       "lastActive": {
         "$date": "2025-12-08T23:05:12.156Z"
       }
+    },
+    {
+      "userId": 8588227545,
+      "username": "spalshreal",
+      "firstName": "𝙎𝙥𝙖𝙡𝙨𝙝 𝙏𝙯𝙮",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-08T23:36:56.684Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-08T23:36:56.684Z"
+      }
     }
   ],
   "groups": [
