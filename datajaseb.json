@@ -19,7 +19,7 @@
         "$date": "2025-11-22T22:22:32.539000Z"
       },
       "lastActive": {
-        "$date": "2025-12-08T08:30:04.562Z"
+        "$date": "2025-12-08T08:30:27.926Z"
       },
       "username": "RimZohun",
       "premiumSince": {
@@ -28,7 +28,9 @@
       "premiumExpiry": {
         "$date": "2025-11-29T13:46:17.391Z"
       },
-      "lastSeen": "2025-11-23T22:18:31.040Z"
+      "lastSeen": "2025-11-23T22:18:31.040Z",
+      "lastBroadcastTime": 1765182628267,
+      "lastBroadcastDate": "2025-12-08T08:30:28.267Z"
     },
     {
       "_id": {
