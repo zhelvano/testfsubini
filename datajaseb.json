@@ -61844,6 +61844,20 @@
       "lastActive": {
         "$date": "2025-12-09T11:20:20.376Z"
       }
+    },
+    {
+      "userId": 6006505465,
+      "username": "Arkhan1140",
+      "firstName": "Arkhan",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T12:07:17.502Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T12:07:17.502Z"
+      }
     }
   ],
   "groups": [
