@@ -62211,6 +62211,20 @@
       "lastActive": {
         "$date": "2025-12-09T23:38:26.229Z"
       }
+    },
+    {
+      "userId": 7627818759,
+      "username": "paiiayayay",
+      "firstName": "⏤͟͟͞͞𝐗𝐓𝐑 || 𝐏𝐚𝐲𝐬𝐳 𝚅𝟻",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T23:58:03.295Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T23:58:03.295Z"
+      }
     }
   ],
   "groups": [
