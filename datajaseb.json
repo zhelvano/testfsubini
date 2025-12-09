@@ -62197,6 +62197,20 @@
       "lastActive": {
         "$date": "2025-12-09T17:32:07.698Z"
       }
+    },
+    {
+      "userId": 7110901699,
+      "username": "Ressnokosamanah",
+      "firstName": "EstimadoSr.ta",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T23:38:26.229Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T23:38:26.229Z"
+      }
     }
   ],
   "groups": [
