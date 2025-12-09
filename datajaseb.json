@@ -62126,7 +62126,7 @@
         "$date": "2025-12-09T17:13:14.329Z"
       },
       "lastActive": {
-        "$date": "2025-12-09T17:13:14.329Z"
+        "$date": "2025-12-09T17:31:54.140Z"
       }
     },
     {
@@ -62183,6 +62183,19 @@
       },
       "lastActive": {
         "$date": "2025-12-09T17:26:19.866Z"
+      }
+    },
+    {
+      "userId": 5005526199,
+      "firstName": "tuyul",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T17:32:07.698Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T17:32:07.698Z"
       }
     }
   ],
