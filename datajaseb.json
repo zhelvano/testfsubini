@@ -62114,6 +62114,20 @@
       "lastActive": {
         "$date": "2025-12-09T16:02:39.685Z"
       }
+    },
+    {
+      "userId": 8065336841,
+      "username": "ellltheboyy",
+      "firstName": "up?",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T17:13:14.329Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T17:13:14.329Z"
+      }
     }
   ],
   "groups": [
