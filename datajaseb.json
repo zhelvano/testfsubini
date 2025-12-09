@@ -61929,6 +61929,20 @@
       "lastActive": {
         "$date": "2025-12-09T12:58:01.889Z"
       }
+    },
+    {
+      "userId": 8369304932,
+      "username": "siskaaa211",
+      "firstName": "Cuki",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T13:10:32.330Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T13:10:32.330Z"
+      }
     }
   ],
   "groups": [
