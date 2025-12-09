@@ -61489,6 +61489,20 @@
       "lastActive": {
         "$date": "2025-12-09T03:37:52.513Z"
       }
+    },
+    {
+      "userId": 6444422268,
+      "username": "usr89",
+      "firstName": "skyvinzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T03:56:54.081Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T03:56:54.081Z"
+      }
     }
   ],
   "groups": [
