@@ -61815,6 +61815,20 @@
       "lastActive": {
         "$date": "2025-12-09T10:42:14.201Z"
       }
+    },
+    {
+      "userId": 6969533965,
+      "username": "Kucingbotak00",
+      "firstName": "↯ 𝐂𝐭𝐳 × </> —!s 𝐁𝐀𝐎𝐗 𝐇𝐘𝐓𝐀𝐌",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T10:48:24.288Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T10:48:24.288Z"
+      }
     }
   ],
   "groups": [
