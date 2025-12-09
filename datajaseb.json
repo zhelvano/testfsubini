@@ -61744,6 +61744,20 @@
       "lastActive": {
         "$date": "2025-12-09T08:23:30.601Z"
       }
+    },
+    {
+      "userId": 7879126641,
+      "username": "REXYXYZZ",
+      "firstName": "ᖇᗴ᙭ᎩᎩ #1313",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T09:15:50.560Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T09:15:50.560Z"
+      }
     }
   ],
   "groups": [
