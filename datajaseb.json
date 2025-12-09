@@ -50246,7 +50246,7 @@
         "$date": "2025-12-02T22:16:55.734Z"
       },
       "lastActive": {
-        "$date": "2025-12-09T05:26:00.837Z"
+        "$date": "2025-12-09T09:04:32.649Z"
       },
       "premiumSince": {
         "$date": "2025-12-07T13:05:34.048Z"
@@ -50254,8 +50254,8 @@
       "premiumExpiry": {
         "$date": "2025-12-09T13:05:34.048Z"
       },
-      "lastBroadcastTime": 1765257961346,
-      "lastBroadcastDate": "2025-12-09T05:26:01.346Z"
+      "lastBroadcastTime": 1765271073160,
+      "lastBroadcastDate": "2025-12-09T09:04:33.160Z"
     },
     {
       "userId": 8287110080,
