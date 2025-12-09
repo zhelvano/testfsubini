@@ -61672,6 +61672,21 @@
       "lastActive": {
         "$date": "2025-12-09T07:55:30.649Z"
       }
+    },
+    {
+      "userId": 8449798352,
+      "username": "Cukurukukjelol",
+      "firstName": "JANDA",
+      "lastName": "EVERTIME",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T08:01:43.928Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T08:01:43.928Z"
+      }
     }
   ],
   "groups": [
