@@ -61702,6 +61702,20 @@
       "lastActive": {
         "$date": "2025-12-09T08:05:24.193Z"
       }
+    },
+    {
+      "userId": 6362056930,
+      "username": "indra87g30spki",
+      "firstName": "TwinightWheel50",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T08:07:24.116Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T08:07:44.786Z"
+      }
     }
   ],
   "groups": [
