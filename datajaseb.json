@@ -62128,6 +62128,20 @@
       "lastActive": {
         "$date": "2025-12-09T17:13:14.329Z"
       }
+    },
+    {
+      "userId": 8388349669,
+      "username": "Xiooonn",
+      "firstName": "Xiooonnn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T17:22:28.561Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T17:22:48.560Z"
+      }
     }
   ],
   "groups": [
