@@ -61604,6 +61604,19 @@
       "lastActive": {
         "$date": "2025-12-09T06:32:20.319Z"
       }
+    },
+    {
+      "userId": 7216724886,
+      "firstName": "Agoyy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T06:39:50.555Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T06:39:50.555Z"
+      }
     }
   ],
   "groups": [
