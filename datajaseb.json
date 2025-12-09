@@ -61701,7 +61701,7 @@
         "$date": "2025-12-09T08:03:38.925Z"
       },
       "lastActive": {
-        "$date": "2025-12-09T14:44:54.744Z"
+        "$date": "2025-12-09T14:50:49.582Z"
       }
     },
     {
@@ -62071,6 +62071,21 @@
       },
       "lastActive": {
         "$date": "2025-12-09T14:46:17.291Z"
+      }
+    },
+    {
+      "userId": 6344499978,
+      "username": "Zheta89",
+      "firstName": "Razheta",
+      "lastName": "Oke",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T14:50:55.852Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T14:50:55.852Z"
       }
     }
   ],
