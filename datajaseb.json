@@ -61716,6 +61716,20 @@
       "lastActive": {
         "$date": "2025-12-09T08:07:44.786Z"
       }
+    },
+    {
+      "userId": 7312852673,
+      "username": "bangbungtaii",
+      "firstName": "BLAST CJ 2",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T08:21:29.317Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T08:21:29.317Z"
+      }
     }
   ],
   "groups": [
