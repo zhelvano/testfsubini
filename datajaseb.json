@@ -62014,6 +62014,20 @@
       "lastActive": {
         "$date": "2025-12-09T14:12:41.546Z"
       }
+    },
+    {
+      "userId": 8427958657,
+      "username": "Byasep",
+      "firstName": "𝑨𝑺𝑬𝑷",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T14:22:22.079Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T14:22:22.079Z"
+      }
     }
   ],
   "groups": [
