@@ -62000,6 +62000,20 @@
       "lastActive": {
         "$date": "2025-12-09T14:11:18.424Z"
       }
+    },
+    {
+      "userId": 5939949682,
+      "username": "Blackberry1001",
+      "firstName": "𝐀𝐬𝖍𝐚",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T14:12:39.561Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T14:12:41.546Z"
+      }
     }
   ],
   "groups": [
