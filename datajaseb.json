@@ -61901,6 +61901,20 @@
       "lastActive": {
         "$date": "2025-12-09T12:48:02.466Z"
       }
+    },
+    {
+      "userId": 7457449753,
+      "username": "jonniehh",
+      "firstName": "𝐌ʀ.ᴊσnn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T12:54:53.634Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T12:54:53.634Z"
+      }
     }
   ],
   "groups": [
