@@ -61943,6 +61943,20 @@
       "lastActive": {
         "$date": "2025-12-09T13:10:32.330Z"
       }
+    },
+    {
+      "userId": 5038002461,
+      "username": "Pawono",
+      "firstName": "Mas, Kriwul",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T14:00:43.839Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T14:00:43.839Z"
+      }
     }
   ],
   "groups": [
