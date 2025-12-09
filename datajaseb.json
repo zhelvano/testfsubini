@@ -62087,6 +62087,19 @@
       "lastActive": {
         "$date": "2025-12-09T14:50:55.852Z"
       }
+    },
+    {
+      "userId": 8183179923,
+      "firstName": "belibeli",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T15:25:00.207Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T15:25:03.588Z"
+      }
     }
   ],
   "groups": [
