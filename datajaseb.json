@@ -61957,6 +61957,20 @@
       "lastActive": {
         "$date": "2025-12-09T14:00:43.839Z"
       }
+    },
+    {
+      "userId": 7637788333,
+      "username": "dennthe2",
+      "firstName": "xinnn²",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T14:05:59.259Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T14:05:59.259Z"
+      }
     }
   ],
   "groups": [
