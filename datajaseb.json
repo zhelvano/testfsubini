@@ -61445,6 +61445,20 @@
       "lastActive": {
         "$date": "2025-12-09T02:40:02.563Z"
       }
+    },
+    {
+      "userId": 7734000684,
+      "username": "calibo23",
+      "firstName": "caca",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T02:47:07.395Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T02:47:07.395Z"
+      }
     }
   ],
   "groups": [
