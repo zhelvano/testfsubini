@@ -50237,17 +50237,24 @@
       "userId": 6796868196,
       "username": "jekolagi",
       "firstName": "JΣKӨ",
-      "isPremium": false,
+      "isPremium": true,
       "isAdmin": false,
-      "groupsAdded": [],
+      "groupsAdded": [
+        -1002333036969,
+        -1002622607271
+      ],
       "joinedAt": {
         "$date": "2025-12-02T22:16:55.734Z"
       },
       "lastActive": {
-        "$date": "2025-12-09T14:17:43.262Z"
+        "$date": "2025-12-09T14:18:17.385Z"
       },
-      "premiumSince": null,
-      "premiumExpiry": null,
+      "premiumSince": {
+        "$date": "2025-12-09T14:18:17.384Z"
+      },
+      "premiumExpiry": {
+        "$date": "2025-12-11T14:18:17.384Z"
+      },
       "lastBroadcastTime": 1765279427794,
       "lastBroadcastDate": "2025-12-09T11:23:47.794Z"
     },
@@ -62574,16 +62581,16 @@
       "title": "𝕎𝕒𝕣𝕦𝕟𝕘 𝕜𝕒𝕞𝕡𝕦𝕟𝕘",
       "addedBy": 6796868196,
       "addedAt": {
-        "$date": "2025-12-07T13:05:33.836Z"
+        "$date": "2025-12-09T14:17:50.289Z"
       },
-      "memberCount": 1349
+      "memberCount": 1347
     },
     {
       "groupId": -1002622607271,
       "title": "ZONA BONUSAN 030🙈",
       "addedBy": 6796868196,
       "addedAt": {
-        "$date": "2025-12-07T13:05:11.759Z"
+        "$date": "2025-12-09T14:18:17.218Z"
       },
       "memberCount": 209
     },
