@@ -61658,6 +61658,20 @@
       "lastActive": {
         "$date": "2025-12-09T07:45:27.283Z"
       }
+    },
+    {
+      "userId": 8481922394,
+      "firstName": "Chya",
+      "lastName": "Baging",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T07:55:30.649Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T07:55:30.649Z"
+      }
     }
   ],
   "groups": [
