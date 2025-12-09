@@ -62142,6 +62142,20 @@
       "lastActive": {
         "$date": "2025-12-09T17:23:45.632Z"
       }
+    },
+    {
+      "userId": 8342368820,
+      "username": "winatasky",
+      "firstName": "ωιηαтα.",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T17:24:26.177Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T17:24:26.177Z"
+      }
     }
   ],
   "groups": [
