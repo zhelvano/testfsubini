@@ -61416,6 +61416,20 @@
       "lastActive": {
         "$date": "2025-12-09T01:24:18.579Z"
       }
+    },
+    {
+      "userId": 8163292477,
+      "username": "Alpnzy",
+      "firstName": "Knbrt",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T01:32:58.620Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T01:32:58.620Z"
+      }
     }
   ],
   "groups": [
