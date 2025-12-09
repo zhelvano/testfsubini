@@ -62043,6 +62043,20 @@
       "lastActive": {
         "$date": "2025-12-09T14:33:53.045Z"
       }
+    },
+    {
+      "userId": 8056878668,
+      "username": "fatma16372",
+      "firstName": "Fatma",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T14:43:55.821Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T14:43:55.821Z"
+      }
     }
   ],
   "groups": [
