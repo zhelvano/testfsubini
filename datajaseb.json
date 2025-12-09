@@ -61915,6 +61915,20 @@
       "lastActive": {
         "$date": "2025-12-09T12:54:53.634Z"
       }
+    },
+    {
+      "userId": 7645825540,
+      "username": "Aang227",
+      "firstName": "Aang",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T12:55:50.727Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T12:55:50.727Z"
+      }
     }
   ],
   "groups": [
