@@ -61971,6 +61971,20 @@
       "lastActive": {
         "$date": "2025-12-09T14:05:59.259Z"
       }
+    },
+    {
+      "userId": 1498152143,
+      "username": "hallo_jii",
+      "firstName": "IMMAZT ꭙ͢",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T14:07:08.064Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T14:07:08.064Z"
+      }
     }
   ],
   "groups": [
