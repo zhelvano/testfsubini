@@ -61985,6 +61985,21 @@
       "lastActive": {
         "$date": "2025-12-09T14:07:08.064Z"
       }
+    },
+    {
+      "userId": 7067646865,
+      "username": "arxenntty",
+      "firstName": "arjun",
+      "lastName": "sexty",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T14:11:11.829Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T14:11:18.424Z"
+      }
     }
   ],
   "groups": [
