@@ -12874,7 +12874,7 @@
         "$date": "2025-11-23T11:37:40.687000Z"
       },
       "lastActive": {
-        "$date": "2025-12-08T20:08:06.313Z"
+        "$date": "2025-12-09T06:09:54.756Z"
       }
     },
     {
@@ -61561,6 +61561,20 @@
       },
       "lastActive": {
         "$date": "2025-12-09T05:59:26.022Z"
+      }
+    },
+    {
+      "userId": 6883555613,
+      "username": "Ahmadkhairulfikri",
+      "firstName": "Ahmad Khairul Fikri",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T06:10:02.969Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T06:10:02.969Z"
       }
     }
   ],
