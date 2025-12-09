@@ -61758,6 +61758,20 @@
       "lastActive": {
         "$date": "2025-12-09T09:15:50.560Z"
       }
+    },
+    {
+      "userId": 6657070758,
+      "username": "nethreal",
+      "firstName": "ɴᴇᴛʜ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T09:30:28.880Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T09:30:28.880Z"
+      }
     }
   ],
   "groups": [
