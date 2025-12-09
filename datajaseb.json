@@ -61786,6 +61786,20 @@
       "lastActive": {
         "$date": "2025-12-09T10:21:59.581Z"
       }
+    },
+    {
+      "userId": 982505097,
+      "username": "mynupp",
+      "firstName": "Nopannnn🍅",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T10:29:54.886Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T10:29:54.886Z"
+      }
     }
   ],
   "groups": [
