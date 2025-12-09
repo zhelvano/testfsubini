@@ -61872,6 +61872,21 @@
       "lastActive": {
         "$date": "2025-12-09T12:30:44.050Z"
       }
+    },
+    {
+      "userId": 7001167472,
+      "username": "Edoardoikk",
+      "firstName": "Edo",
+      "lastName": "Ardo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T12:46:44.273Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T12:46:44.274Z"
+      }
     }
   ],
   "groups": [
