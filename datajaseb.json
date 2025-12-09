@@ -53910,7 +53910,7 @@
         "$date": "2025-12-05T08:14:53.474Z"
       },
       "lastActive": {
-        "$date": "2025-12-09T14:42:05.436Z"
+        "$date": "2025-12-09T14:45:50.475Z"
       }
     },
     {
@@ -62056,6 +62056,21 @@
       },
       "lastActive": {
         "$date": "2025-12-09T14:43:55.821Z"
+      }
+    },
+    {
+      "userId": 6060488248,
+      "username": "Slime741",
+      "firstName": "Rimuru",
+      "lastName": "Siskon",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T14:46:17.291Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T14:46:17.291Z"
       }
     }
   ],
