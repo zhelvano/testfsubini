@@ -61644,6 +61644,20 @@
       "lastActive": {
         "$date": "2025-12-09T06:53:48.922Z"
       }
+    },
+    {
+      "userId": 7677230639,
+      "username": "None_wan",
+      "firstName": ".",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T07:45:27.283Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T07:45:27.283Z"
+      }
     }
   ],
   "groups": [
