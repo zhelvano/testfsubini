@@ -61548,6 +61548,20 @@
       "lastActive": {
         "$date": "2025-12-09T05:25:40.663Z"
       }
+    },
+    {
+      "userId": 7476493633,
+      "firstName": "hmm",
+      "lastName": "Crot",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-09T05:59:26.022Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-09T05:59:26.022Z"
+      }
     }
   ],
   "groups": [
