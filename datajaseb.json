@@ -63297,6 +63297,19 @@
       "lastActive": {
         "$date": "2025-12-10T20:34:26.465Z"
       }
+    },
+    {
+      "userId": 8093421866,
+      "firstName": "bon",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T20:47:08.097Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T20:47:08.097Z"
+      }
     }
   ],
   "groups": [
