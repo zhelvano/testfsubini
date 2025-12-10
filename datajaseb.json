@@ -13366,7 +13366,7 @@
         "$date": "2025-11-23T15:42:32.992Z"
       },
       "lastActive": {
-        "$date": "2025-12-10T16:21:44.384Z"
+        "$date": "2025-12-10T16:22:44.372Z"
       },
       "premiumSince": {
         "$date": "2025-12-08T08:44:28.785Z"
@@ -63099,6 +63099,20 @@
       },
       "lastActive": {
         "$date": "2025-12-10T16:11:46.104Z"
+      }
+    },
+    {
+      "userId": 8548455330,
+      "username": "StockNoktelRusiaIzzx",
+      "firstName": "STOCK NOKTEL ID 8 DC ID 2,⏤͟͟͞͞𝗜𝘇𝘇𝘅",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T16:22:39.026Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T16:22:39.026Z"
       }
     }
   ],
