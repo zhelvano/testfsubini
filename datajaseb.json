@@ -62612,6 +62612,20 @@
       "lastActive": {
         "$date": "2025-12-10T06:38:07.708Z"
       }
+    },
+    {
+      "userId": 8103762758,
+      "firstName": "cupapi",
+      "lastName": "munyanyo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T06:45:42.528Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T06:45:42.528Z"
+      }
     }
   ],
   "groups": [
