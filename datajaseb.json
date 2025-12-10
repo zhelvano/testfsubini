@@ -63002,6 +63002,20 @@
       "lastActive": {
         "$date": "2025-12-10T15:10:01.704Z"
       }
+    },
+    {
+      "userId": 1886007660,
+      "username": "raraa_imuppp",
+      "firstName": "const Qᴜᴇᴇɴ = require(\"ʀᴀʀᴀᴀ\");",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T15:19:18.147Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T15:19:18.147Z"
+      }
     }
   ],
   "groups": [
