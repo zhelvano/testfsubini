@@ -62863,6 +62863,19 @@
       "lastActive": {
         "$date": "2025-12-10T13:16:27.910Z"
       }
+    },
+    {
+      "userId": 7119562265,
+      "firstName": "Syaak",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T13:30:48.734Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T13:30:48.734Z"
+      }
     }
   ],
   "groups": [
