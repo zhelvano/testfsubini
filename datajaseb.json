@@ -62239,6 +62239,20 @@
       "lastActive": {
         "$date": "2025-12-10T01:31:47.239Z"
       }
+    },
+    {
+      "userId": 7962626595,
+      "username": "xxxdikaa",
+      "firstName": "xxx.dikaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T02:25:17.336Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T02:25:17.336Z"
+      }
     }
   ],
   "groups": [
