@@ -63156,6 +63156,20 @@
       "lastActive": {
         "$date": "2025-12-10T17:16:29.462Z"
       }
+    },
+    {
+      "userId": 6606960641,
+      "username": "Kauadalah02",
+      "firstName": "Hambamu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T17:22:14.140Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T17:22:14.140Z"
+      }
     }
   ],
   "groups": [
