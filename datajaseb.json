@@ -62974,6 +62974,20 @@
       "lastActive": {
         "$date": "2025-12-10T15:04:29.167Z"
       }
+    },
+    {
+      "userId": 6802471460,
+      "username": "superpikz",
+      "firstName": "𝕾𝖚𝖕𝖊𝖗𝕻𝖎𝖐𝖟 🕊️🇮🇩",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T15:08:45.431Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T15:08:45.431Z"
+      }
     }
   ],
   "groups": [
