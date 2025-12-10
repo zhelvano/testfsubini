@@ -63142,6 +63142,20 @@
       "lastActive": {
         "$date": "2025-12-10T17:07:15.694Z"
       }
+    },
+    {
+      "userId": 8484388849,
+      "username": "nabilaputrymelisa",
+      "firstName": "｡･𝖇𝖎𝖑𝖆",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T17:16:25.971Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T17:16:25.971Z"
+      }
     }
   ],
   "groups": [
