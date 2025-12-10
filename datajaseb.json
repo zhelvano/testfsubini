@@ -62353,6 +62353,20 @@
       "lastActive": {
         "$date": "2025-12-10T04:51:10.974Z"
       }
+    },
+    {
+      "userId": 8288621349,
+      "username": "mimtski",
+      "firstName": "callorAa ___<",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T04:56:18.083Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T04:56:18.083Z"
+      }
     }
   ],
   "groups": [
