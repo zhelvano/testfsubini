@@ -62640,6 +62640,20 @@
       "lastActive": {
         "$date": "2025-12-10T08:01:16.275Z"
       }
+    },
+    {
+      "userId": 7834236777,
+      "firstName": "Sinsin",
+      "lastName": "Putri",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T08:21:06.046Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T08:21:06.046Z"
+      }
     }
   ],
   "groups": [
