@@ -62823,6 +62823,19 @@
       "lastActive": {
         "$date": "2025-12-10T11:37:12.655Z"
       }
+    },
+    {
+      "userId": 8277065965,
+      "firstName": "𝐒𝐓𝐀𝐑𝐑",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T12:07:57.523Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T12:07:57.523Z"
+      }
     }
   ],
   "groups": [
