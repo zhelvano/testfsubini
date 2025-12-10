@@ -62725,6 +62725,19 @@
       "lastActive": {
         "$date": "2025-12-10T10:03:14.858Z"
       }
+    },
+    {
+      "userId": 7013858595,
+      "firstName": "rakaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T10:06:29.458Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T10:06:29.458Z"
+      }
     }
   ],
   "groups": [
