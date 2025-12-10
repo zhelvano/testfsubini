@@ -62626,6 +62626,20 @@
       "lastActive": {
         "$date": "2025-12-10T06:45:42.528Z"
       }
+    },
+    {
+      "userId": 7787530101,
+      "username": "cybercrime77",
+      "firstName": "SILENCE",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T08:01:16.275Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T08:01:16.275Z"
+      }
     }
   ],
   "groups": [
