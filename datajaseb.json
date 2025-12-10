@@ -63339,6 +63339,19 @@
       "lastActive": {
         "$date": "2025-12-10T20:59:34.292Z"
       }
+    },
+    {
+      "userId": 8570476876,
+      "firstName": "Siwa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T21:19:06.951Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T21:19:06.951Z"
+      }
     }
   ],
   "groups": [
