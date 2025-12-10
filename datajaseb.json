@@ -62682,6 +62682,20 @@
       "lastActive": {
         "$date": "2025-12-10T08:53:01.609Z"
       }
+    },
+    {
+      "userId": 7558711533,
+      "username": "Grildnow",
+      "firstName": "Shinnta",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T09:30:36.917Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T09:30:40.173Z"
+      }
     }
   ],
   "groups": [
