@@ -63283,6 +63283,20 @@
       "lastActive": {
         "$date": "2025-12-10T20:33:20.712Z"
       }
+    },
+    {
+      "userId": 7861496415,
+      "username": "lightYagami00719",
+      "firstName": "R",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T20:34:26.465Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T20:34:26.465Z"
+      }
     }
   ],
   "groups": [
