@@ -62905,6 +62905,19 @@
       "lastActive": {
         "$date": "2025-12-10T14:08:47.407Z"
       }
+    },
+    {
+      "userId": 7008203110,
+      "firstName": "Gyuuu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T14:34:14.433Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T14:34:14.433Z"
+      }
     }
   ],
   "groups": [
