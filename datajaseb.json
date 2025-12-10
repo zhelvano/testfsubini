@@ -62710,6 +62710,21 @@
       "lastActive": {
         "$date": "2025-12-10T09:57:25.023Z"
       }
+    },
+    {
+      "userId": 7023798836,
+      "username": "Yoga432",
+      "firstName": "Ar",
+      "lastName": "Di",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T10:03:14.858Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T10:03:14.858Z"
+      }
     }
   ],
   "groups": [
