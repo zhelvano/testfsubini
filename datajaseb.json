@@ -63198,6 +63198,19 @@
       "lastActive": {
         "$date": "2025-12-10T17:34:16.118Z"
       }
+    },
+    {
+      "userId": 7740089816,
+      "firstName": "Maria",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T17:36:40.492Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T17:36:40.492Z"
+      }
     }
   ],
   "groups": [
