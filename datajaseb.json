@@ -62530,6 +62530,20 @@
       "lastActive": {
         "$date": "2025-12-10T05:58:27.050Z"
       }
+    },
+    {
+      "userId": 7884668077,
+      "username": "fenzofc",
+      "firstName": "𝐅𝐄𝐍𝐙𝐙!! 𝐎𝐅𝐂",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T05:59:28.700Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T05:59:28.700Z"
+      }
     }
   ],
   "groups": [
