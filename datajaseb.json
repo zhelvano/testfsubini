@@ -62738,6 +62738,21 @@
       "lastActive": {
         "$date": "2025-12-10T10:06:29.458Z"
       }
+    },
+    {
+      "userId": 5840232824,
+      "username": "dlogokjaranan",
+      "firstName": "Cah Kendel",
+      "lastName": "Dewe Wani",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T10:34:27.161Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T10:34:27.161Z"
+      }
     }
   ],
   "groups": [
