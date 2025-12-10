@@ -63310,6 +63310,20 @@
       "lastActive": {
         "$date": "2025-12-10T20:47:08.097Z"
       }
+    },
+    {
+      "userId": 5310686222,
+      "username": "Prikitiwzzz",
+      "firstName": "V",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T20:55:13.062Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T20:55:13.063Z"
+      }
     }
   ],
   "groups": [
