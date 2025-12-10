@@ -62767,6 +62767,20 @@
       "lastActive": {
         "$date": "2025-12-10T10:34:45.520Z"
       }
+    },
+    {
+      "userId": 6072160929,
+      "username": "FanLewton",
+      "firstName": "Fano",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T11:12:44.209Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T11:12:44.209Z"
+      }
     }
   ],
   "groups": [
