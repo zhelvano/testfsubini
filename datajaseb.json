@@ -62544,6 +62544,32 @@
       "lastActive": {
         "$date": "2025-12-10T05:59:28.700Z"
       }
+    },
+    {
+      "userId": 1326380819,
+      "firstName": "nothing",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T06:02:32.808Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T06:02:32.808Z"
+      }
+    },
+    {
+      "userId": 8307504604,
+      "firstName": "Selesai",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T06:02:39.644Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T06:02:39.644Z"
+      }
     }
   ],
   "groups": [
