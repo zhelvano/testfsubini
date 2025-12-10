@@ -63225,6 +63225,20 @@
       "lastActive": {
         "$date": "2025-12-10T18:04:10.700Z"
       }
+    },
+    {
+      "userId": 8566163454,
+      "firstName": "yuyun",
+      "lastName": "gage",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T19:32:34.612Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T19:32:34.612Z"
+      }
     }
   ],
   "groups": [
