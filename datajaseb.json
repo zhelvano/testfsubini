@@ -62876,6 +62876,20 @@
       "lastActive": {
         "$date": "2025-12-10T13:30:48.734Z"
       }
+    },
+    {
+      "userId": 1990327297,
+      "username": "Ljeyz",
+      "firstName": "Ljeyz open",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T13:44:12.706Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T13:44:12.706Z"
+      }
     }
   ],
   "groups": [
