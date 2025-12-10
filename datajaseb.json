@@ -62311,6 +62311,19 @@
       "lastActive": {
         "$date": "2025-12-10T03:48:58.465Z"
       }
+    },
+    {
+      "userId": 8285010048,
+      "firstName": "ANB",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T04:20:52.579Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T04:20:52.579Z"
+      }
     }
   ],
   "groups": [
