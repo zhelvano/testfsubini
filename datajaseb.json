@@ -63128,6 +63128,20 @@
       "lastActive": {
         "$date": "2025-12-10T16:29:10.667Z"
       }
+    },
+    {
+      "userId": 8200595086,
+      "username": "dyrimalik",
+      "firstName": "TOMATO",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T17:07:15.694Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T17:07:15.694Z"
+      }
     }
   ],
   "groups": [
