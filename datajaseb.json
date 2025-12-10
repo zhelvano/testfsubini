@@ -62485,6 +62485,36 @@
       "lastActive": {
         "$date": "2025-12-10T05:43:12.236Z"
       }
+    },
+    {
+      "userId": 8026619171,
+      "username": "mistymuse623",
+      "firstName": "Митрофан",
+      "lastName": "Громов",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T05:57:48.455Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T05:57:48.455Z"
+      }
+    },
+    {
+      "userId": 7287845384,
+      "username": "ghostlynook454",
+      "firstName": "Pamila",
+      "lastName": "England",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T05:57:49.096Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T05:57:49.096Z"
+      }
     }
   ],
   "groups": [
