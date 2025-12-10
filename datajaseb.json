@@ -53911,7 +53911,7 @@
         "$date": "2025-12-05T08:14:53.474Z"
       },
       "lastActive": {
-        "$date": "2025-12-10T14:53:41.629Z"
+        "$date": "2025-12-10T15:04:36.308Z"
       }
     },
     {
@@ -62959,6 +62959,20 @@
       },
       "lastActive": {
         "$date": "2025-12-10T14:35:27.516Z"
+      }
+    },
+    {
+      "userId": 8245438060,
+      "firstName": "Topik",
+      "lastName": "Hidayat",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T15:04:29.167Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T15:04:29.167Z"
       }
     }
   ],
