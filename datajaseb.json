@@ -62425,6 +62425,66 @@
       "lastActive": {
         "$date": "2025-12-10T05:26:11.047Z"
       }
+    },
+    {
+      "userId": 8369633906,
+      "username": "hauntingtide570",
+      "firstName": "Ната",
+      "lastName": "Мартынова",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T05:43:11.517Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T05:43:11.517Z"
+      }
+    },
+    {
+      "userId": 7071797327,
+      "username": "school586116",
+      "firstName": "Ferdinand",
+      "lastName": "Griffin",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T05:43:12.071Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T05:43:12.071Z"
+      }
+    },
+    {
+      "userId": 7785190001,
+      "username": "Jaley_Scouthb_Vandehaon",
+      "firstName": "Palmer",
+      "lastName": "Perry",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T05:43:12.236Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T05:43:12.236Z"
+      }
+    },
+    {
+      "userId": 8486367385,
+      "username": "MaconacoGralimaxOwan",
+      "firstName": "Hawkins",
+      "lastName": "Linda",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T05:43:12.236Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T05:43:12.236Z"
+      }
     }
   ],
   "groups": [
