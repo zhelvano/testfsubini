@@ -62225,6 +62225,20 @@
       "lastActive": {
         "$date": "2025-12-09T23:58:03.295Z"
       }
+    },
+    {
+      "userId": 6130738642,
+      "username": "Mueheehehhe",
+      "firstName": "Ridho",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T01:31:47.239Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T01:31:47.239Z"
+      }
     }
   ],
   "groups": [
