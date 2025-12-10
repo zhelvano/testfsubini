@@ -62410,6 +62410,21 @@
       "lastActive": {
         "$date": "2025-12-10T05:24:21.609Z"
       }
+    },
+    {
+      "userId": 8043601501,
+      "username": "manz428",
+      "firstName": "manz",
+      "lastName": "aje",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T05:26:11.047Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T05:26:11.047Z"
+      }
     }
   ],
   "groups": [
