@@ -62809,6 +62809,20 @@
       "lastActive": {
         "$date": "2025-12-10T11:22:50.903Z"
       }
+    },
+    {
+      "userId": 8146479783,
+      "username": "Fanosigma",
+      "firstName": "Fann",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T11:37:12.655Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T11:37:12.655Z"
+      }
     }
   ],
   "groups": [
