@@ -62282,6 +62282,21 @@
       "lastActive": {
         "$date": "2025-12-10T02:36:20.308Z"
       }
+    },
+    {
+      "userId": 7858953128,
+      "username": "danzmarket72",
+      "firstName": "DANZ",
+      "lastName": "SUKA CUAN",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T03:21:37.052Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T03:21:37.052Z"
+      }
     }
   ],
   "groups": [
