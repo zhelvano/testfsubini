@@ -62890,6 +62890,21 @@
       "lastActive": {
         "$date": "2025-12-10T13:54:04.450Z"
       }
+    },
+    {
+      "userId": 5927011702,
+      "username": "bayyshoppbg",
+      "firstName": "Bayy",
+      "lastName": "Yy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T14:08:47.407Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T14:08:47.407Z"
+      }
     }
   ],
   "groups": [
