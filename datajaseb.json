@@ -62297,6 +62297,20 @@
       "lastActive": {
         "$date": "2025-12-10T03:21:37.052Z"
       }
+    },
+    {
+      "userId": 6387396866,
+      "username": "Aalbest11",
+      "firstName": "꧁༺𝑹𝒂𝒛𝒚𝒏 𝒔𝒕𝒐𝒓𝒆༻꧂",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T03:48:58.465Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T03:48:58.465Z"
+      }
     }
   ],
   "groups": [
