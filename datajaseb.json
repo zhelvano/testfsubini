@@ -62988,6 +62988,20 @@
       "lastActive": {
         "$date": "2025-12-10T15:08:45.431Z"
       }
+    },
+    {
+      "userId": 7631545614,
+      "username": "GigittL",
+      "firstName": "Jefran Corleone",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T15:10:01.704Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T15:10:01.704Z"
+      }
     }
   ],
   "groups": [
