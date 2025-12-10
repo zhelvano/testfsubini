@@ -62654,6 +62654,20 @@
       "lastActive": {
         "$date": "2025-12-10T08:21:06.046Z"
       }
+    },
+    {
+      "userId": 6233249343,
+      "firstName": "Alfin",
+      "lastName": "Gemer",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T08:47:52.771Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T08:47:52.771Z"
+      }
     }
   ],
   "groups": [
