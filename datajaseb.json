@@ -62931,6 +62931,35 @@
       "lastActive": {
         "$date": "2025-12-10T14:34:33.516Z"
       }
+    },
+    {
+      "userId": 7598521128,
+      "username": "zanntgt",
+      "firstName": "zann gbut",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T14:35:00.304Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T14:35:00.304Z"
+      }
+    },
+    {
+      "userId": 7660798147,
+      "username": "erlanggaofficial",
+      "firstName": "Erlangga",
+      "lastName": "Official",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T14:35:27.516Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T14:35:27.516Z"
+      }
     }
   ],
   "groups": [
