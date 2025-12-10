@@ -62267,6 +62267,20 @@
       "lastActive": {
         "$date": "2025-12-10T02:31:01.159Z"
       }
+    },
+    {
+      "userId": 6081033936,
+      "username": "tehunn500won",
+      "firstName": "L",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T02:36:20.308Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T02:36:20.308Z"
+      }
     }
   ],
   "groups": [
