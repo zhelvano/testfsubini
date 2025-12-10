@@ -63211,6 +63211,20 @@
       "lastActive": {
         "$date": "2025-12-10T17:36:40.492Z"
       }
+    },
+    {
+      "userId": 8336870364,
+      "firstName": "Rafzz",
+      "lastName": "Blast",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T18:04:10.700Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T18:04:10.700Z"
+      }
     }
   ],
   "groups": [
