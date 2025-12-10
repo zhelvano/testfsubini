@@ -62396,6 +62396,20 @@
       "lastActive": {
         "$date": "2025-12-10T05:14:51.865Z"
       }
+    },
+    {
+      "userId": 7872278604,
+      "username": "xellstf",
+      "firstName": "xellstfu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T05:24:21.609Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T05:24:21.609Z"
+      }
     }
   ],
   "groups": [
