@@ -62570,6 +62570,20 @@
       "lastActive": {
         "$date": "2025-12-10T06:02:39.644Z"
       }
+    },
+    {
+      "userId": 7963087674,
+      "username": "Bimzskieee",
+      "firstName": "BIMZSKIEEE",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T06:18:13.829Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T06:18:13.829Z"
+      }
     }
   ],
   "groups": [
