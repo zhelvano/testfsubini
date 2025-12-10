@@ -62850,6 +62850,19 @@
       "lastActive": {
         "$date": "2025-12-10T12:59:46.213Z"
       }
+    },
+    {
+      "userId": 6940279782,
+      "firstName": "AJAHA",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T13:16:27.910Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T13:16:27.910Z"
+      }
     }
   ],
   "groups": [
