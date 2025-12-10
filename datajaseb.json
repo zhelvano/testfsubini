@@ -62696,6 +62696,20 @@
       "lastActive": {
         "$date": "2025-12-10T09:30:40.173Z"
       }
+    },
+    {
+      "userId": 8587581266,
+      "firstName": "Yudi",
+      "lastName": "Pramu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T09:57:25.023Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T09:57:25.023Z"
+      }
     }
   ],
   "groups": [
