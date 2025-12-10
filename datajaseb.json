@@ -62836,6 +62836,20 @@
       "lastActive": {
         "$date": "2025-12-10T12:07:57.523Z"
       }
+    },
+    {
+      "userId": 7732307998,
+      "username": "ut688o",
+      "firstName": "🅺🅴🅻",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-10T12:59:46.213Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-10T12:59:46.213Z"
+      }
     }
   ],
   "groups": [
