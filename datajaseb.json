@@ -12873,7 +12873,7 @@
         "$date": "2025-11-23T11:37:40.687000Z"
       },
       "lastActive": {
-        "$date": "2025-12-10T19:25:58.728Z"
+        "$date": "2025-12-11T10:02:57.559Z"
       }
     },
     {
@@ -63769,6 +63769,21 @@
       },
       "lastActive": {
         "$date": "2025-12-11T09:54:53.875Z"
+      }
+    },
+    {
+      "userId": 1154659994,
+      "username": "IkEeHIkEHH",
+      "firstName": "HANCAMA",
+      "lastName": "🐾",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T10:02:54.885Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T10:02:54.885Z"
       }
     }
   ],
