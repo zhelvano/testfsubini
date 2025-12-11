@@ -31596,7 +31596,7 @@
         "$date": "2025-11-25T22:47:01.229Z"
       },
       "lastActive": {
-        "$date": "2025-11-25T22:47:01.229Z"
+        "$date": "2025-12-11T09:51:07.915Z"
       }
     },
     {
@@ -63727,6 +63727,20 @@
       },
       "lastActive": {
         "$date": "2025-12-11T09:34:19.856Z"
+      }
+    },
+    {
+      "userId": 8291252446,
+      "username": "YanzTzyyy",
+      "firstName": "YanzTzyyy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T09:51:07.346Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T09:51:07.346Z"
       }
     }
   ],
