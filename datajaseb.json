@@ -63379,6 +63379,20 @@
       "lastActive": {
         "$date": "2025-12-10T23:10:04.468Z"
       }
+    },
+    {
+      "userId": 7615023740,
+      "firstName": "Kelvin",
+      "lastName": "Kelvin",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T00:41:52.496Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T00:41:52.496Z"
+      }
     }
   ],
   "groups": [
