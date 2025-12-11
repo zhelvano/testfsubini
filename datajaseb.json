@@ -63915,6 +63915,21 @@
       "lastActive": {
         "$date": "2025-12-11T12:13:44.923Z"
       }
+    },
+    {
+      "userId": 7542694383,
+      "username": "The_rock130",
+      "firstName": "The",
+      "lastName": "Rock",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T12:20:04.456Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T12:20:04.456Z"
+      }
     }
   ],
   "groups": [
