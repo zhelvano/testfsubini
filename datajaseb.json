@@ -50247,7 +50247,7 @@
         "$date": "2025-12-02T22:16:55.734Z"
       },
       "lastActive": {
-        "$date": "2025-12-11T09:34:01.523Z"
+        "$date": "2025-12-11T09:34:14.772Z"
       },
       "premiumSince": {
         "$date": "2025-12-09T14:18:17.384Z"
@@ -50255,8 +50255,8 @@
       "premiumExpiry": {
         "$date": "2025-12-11T14:18:17.384Z"
       },
-      "lastBroadcastTime": 1765423889558,
-      "lastBroadcastDate": "2025-12-11T03:31:29.558Z"
+      "lastBroadcastTime": 1765445655280,
+      "lastBroadcastDate": "2025-12-11T09:34:15.280Z"
     },
     {
       "userId": 8287110080,
@@ -62887,7 +62887,7 @@
         "$date": "2025-12-10T13:44:12.706Z"
       },
       "lastActive": {
-        "$date": "2025-12-11T07:52:26.729Z"
+        "$date": "2025-12-11T09:34:35.041Z"
       }
     },
     {
@@ -63713,6 +63713,20 @@
       },
       "lastActive": {
         "$date": "2025-12-11T09:25:29.855Z"
+      }
+    },
+    {
+      "userId": 7248635525,
+      "username": "valznewera",
+      "firstName": "valz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T09:34:19.856Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T09:34:19.856Z"
       }
     }
   ],
