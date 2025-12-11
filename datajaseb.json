@@ -63814,6 +63814,20 @@
       "lastActive": {
         "$date": "2025-12-11T11:45:27.856Z"
       }
+    },
+    {
+      "userId": 7202147182,
+      "username": "Alfin8812",
+      "firstName": "Alfin",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T11:47:45.047Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T11:47:45.047Z"
+      }
     }
   ],
   "groups": [
