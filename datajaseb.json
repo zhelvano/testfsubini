@@ -63828,6 +63828,33 @@
       "lastActive": {
         "$date": "2025-12-11T11:47:45.047Z"
       }
+    },
+    {
+      "userId": 8186047942,
+      "firstName": "Abigail",
+      "lastName": "Dia",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T11:51:07.918Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T11:51:07.918Z"
+      }
+    },
+    {
+      "userId": 8243327922,
+      "firstName": "cloxz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T11:51:29.573Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T11:51:29.573Z"
+      }
     }
   ],
   "groups": [
