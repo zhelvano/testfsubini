@@ -63449,6 +63449,20 @@
       "lastActive": {
         "$date": "2025-12-11T02:24:20.152Z"
       }
+    },
+    {
+      "userId": 8446729897,
+      "firstName": "Yan",
+      "lastName": "Yanto",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T03:58:05.482Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T03:58:05.482Z"
+      }
     }
   ],
   "groups": [
