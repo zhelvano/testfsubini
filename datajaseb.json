@@ -63393,6 +63393,20 @@
       "lastActive": {
         "$date": "2025-12-11T00:41:52.496Z"
       }
+    },
+    {
+      "userId": 7617593303,
+      "username": "nullzzl",
+      "firstName": "nulzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T00:49:42.709Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T00:49:42.709Z"
+      }
     }
   ],
   "groups": [
