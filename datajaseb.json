@@ -63433,7 +63433,21 @@
         "$date": "2025-12-11T02:14:38.910Z"
       },
       "lastActive": {
-        "$date": "2025-12-11T02:23:46.379Z"
+        "$date": "2025-12-11T02:24:16.485Z"
+      }
+    },
+    {
+      "userId": 8304452530,
+      "username": "painvvp",
+      "firstName": "Xvραιɳɳɳʂꉣ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T02:24:20.152Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T02:24:20.152Z"
       }
     }
   ],
