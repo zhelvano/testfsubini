@@ -63492,6 +63492,19 @@
       "lastActive": {
         "$date": "2025-12-11T04:35:26.973Z"
       }
+    },
+    {
+      "userId": 8065632388,
+      "firstName": "ㅤ ` 𝘽𝙊𝙔 𝙈𝘼𝙇𝙐𝙆𝙐",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T04:40:05.055Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T04:40:05.055Z"
+      }
     }
   ],
   "groups": [
