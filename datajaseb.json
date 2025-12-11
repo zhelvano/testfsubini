@@ -64212,6 +64212,20 @@
       "lastActive": {
         "$date": "2025-12-11T22:24:06.014Z"
       }
+    },
+    {
+      "userId": 1654736245,
+      "username": "Mumet_ndasee",
+      "firstName": "total taubat",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T22:52:46.114Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T22:52:46.114Z"
+      }
     }
   ],
   "groups": [
