@@ -63658,6 +63658,20 @@
       "lastActive": {
         "$date": "2025-12-11T08:08:51.618Z"
       }
+    },
+    {
+      "userId": 6390074967,
+      "firstName": "MUHAMMAD ASKA",
+      "lastName": "RIJAL️",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T08:24:17.372Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T08:24:17.372Z"
+      }
     }
   ],
   "groups": [
