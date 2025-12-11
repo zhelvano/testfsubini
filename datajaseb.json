@@ -64041,6 +64041,20 @@
       "lastActive": {
         "$date": "2025-12-11T15:31:04.140Z"
       }
+    },
+    {
+      "userId": 8300428415,
+      "username": "cleoozn",
+      "firstName": "cleo",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T16:23:00.622Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T16:23:00.622Z"
+      }
     }
   ],
   "groups": [
