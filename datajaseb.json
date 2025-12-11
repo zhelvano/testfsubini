@@ -63785,6 +63785,20 @@
       "lastActive": {
         "$date": "2025-12-11T10:02:54.885Z"
       }
+    },
+    {
+      "userId": 6908428080,
+      "username": "dwizk",
+      "firstName": "dr",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T10:44:54.653Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T10:44:54.653Z"
+      }
     }
   ],
   "groups": [
