@@ -63957,6 +63957,34 @@
       "lastActive": {
         "$date": "2025-12-11T12:46:54.991Z"
       }
+    },
+    {
+      "userId": 5590241438,
+      "username": "aleeaja01",
+      "firstName": "Alee⚡",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T12:51:40.830Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T12:51:40.830Z"
+      }
+    },
+    {
+      "userId": 7525205684,
+      "username": "XemzzXiterz",
+      "firstName": "⏤͟͟͞͞Xv7 || Xemzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T12:51:42.911Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T12:51:42.911Z"
+      }
     }
   ],
   "groups": [
