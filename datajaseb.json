@@ -63505,6 +63505,20 @@
       "lastActive": {
         "$date": "2025-12-11T04:40:05.055Z"
       }
+    },
+    {
+      "userId": 1783342240,
+      "username": "viozei",
+      "firstName": "ᴢᴇɪ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T04:52:52.107Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T04:52:52.107Z"
+      }
     }
   ],
   "groups": [
