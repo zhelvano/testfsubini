@@ -61702,7 +61702,7 @@
         "$date": "2025-12-09T08:03:38.925Z"
       },
       "lastActive": {
-        "$date": "2025-12-11T06:41:09.047Z"
+        "$date": "2025-12-11T06:47:36.715Z"
       }
     },
     {
@@ -63574,6 +63574,20 @@
       },
       "lastActive": {
         "$date": "2025-12-11T06:46:28.287Z"
+      }
+    },
+    {
+      "userId": 6175626019,
+      "username": "GALIAJAH",
+      "firstName": "GALIH",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T06:47:50.017Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T06:47:50.017Z"
       }
     }
   ],
