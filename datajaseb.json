@@ -64226,6 +64226,33 @@
       "lastActive": {
         "$date": "2025-12-11T22:52:46.114Z"
       }
+    },
+    {
+      "userId": 6418559613,
+      "firstName": "Genny",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T22:57:45.117Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T22:57:45.117Z"
+      }
+    },
+    {
+      "userId": 5234894639,
+      "username": "Cleardata99",
+      "firstName": "Clear Data",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T22:58:00.865Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T22:58:00.865Z"
+      }
     }
   ],
   "groups": [
