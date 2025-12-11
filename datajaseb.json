@@ -53910,7 +53910,7 @@
         "$date": "2025-12-05T08:14:53.474Z"
       },
       "lastActive": {
-        "$date": "2025-12-11T07:51:15.384Z"
+        "$date": "2025-12-11T08:08:59.654Z"
       }
     },
     {
@@ -61701,7 +61701,7 @@
         "$date": "2025-12-09T08:03:38.925Z"
       },
       "lastActive": {
-        "$date": "2025-12-11T07:57:23.597Z"
+        "$date": "2025-12-11T08:08:43.471Z"
       }
     },
     {
@@ -63643,6 +63643,20 @@
       },
       "lastActive": {
         "$date": "2025-12-11T07:33:56.913Z"
+      }
+    },
+    {
+      "userId": 990483877,
+      "username": "ConnectionLock",
+      "firstName": "inisial D",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T08:08:51.618Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T08:08:51.618Z"
       }
     }
   ],
