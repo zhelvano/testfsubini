@@ -64114,6 +64114,20 @@
       "lastActive": {
         "$date": "2025-12-11T18:52:53.898Z"
       }
+    },
+    {
+      "userId": 7614603667,
+      "username": "KingPinxz",
+      "firstName": "𝗣𝗜𝗡𝗫𝗭 𝗕𝗥 𝗕𝗥 𝗣𝗔𝗧𝗔𝗣𝗜𝗠",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T19:39:21.748Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T19:39:21.748Z"
+      }
     }
   ],
   "groups": [
