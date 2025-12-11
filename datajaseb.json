@@ -63885,6 +63885,20 @@
       "lastActive": {
         "$date": "2025-12-11T11:54:44.428Z"
       }
+    },
+    {
+      "userId": 7485929480,
+      "username": "KIKUKSTORE",
+      "firstName": "kikukkk",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T11:57:07.691Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T11:57:07.691Z"
+      }
     }
   ],
   "groups": [
