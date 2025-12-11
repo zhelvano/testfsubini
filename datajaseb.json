@@ -63560,6 +63560,21 @@
       "lastActive": {
         "$date": "2025-12-11T06:45:36.177Z"
       }
+    },
+    {
+      "userId": 8562540767,
+      "username": "stamos001",
+      "firstName": "May",
+      "lastName": "D",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T06:46:28.287Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T06:46:28.287Z"
+      }
     }
   ],
   "groups": [
