@@ -64071,6 +64071,20 @@
       "lastActive": {
         "$date": "2025-12-11T16:46:07.584Z"
       }
+    },
+    {
+      "userId": 7748745456,
+      "username": "Ganz_OFFICIALL",
+      "firstName": "𝐄𝐕𝐎𝐗 𝟏𝟖𝟖 || Ganz OFFICIALL",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T18:04:44.057Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T18:04:44.057Z"
+      }
     }
   ],
   "groups": [
