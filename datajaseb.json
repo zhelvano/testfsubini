@@ -64142,6 +64142,19 @@
       "lastActive": {
         "$date": "2025-12-11T19:52:27.485Z"
       }
+    },
+    {
+      "userId": 6779276559,
+      "firstName": "-vwxyz?",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T19:55:11.247Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T19:55:11.247Z"
+      }
     }
   ],
   "groups": [
