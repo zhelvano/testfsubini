@@ -64100,6 +64100,20 @@
       "lastActive": {
         "$date": "2025-12-11T18:13:13.655Z"
       }
+    },
+    {
+      "userId": 8183344756,
+      "username": "Xyze9272",
+      "firstName": "Xyze",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T18:52:53.898Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T18:52:53.898Z"
+      }
     }
   ],
   "groups": [
