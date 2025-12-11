@@ -64253,6 +64253,20 @@
       "lastActive": {
         "$date": "2025-12-11T22:58:00.865Z"
       }
+    },
+    {
+      "userId": 6351146626,
+      "username": "Boyoy38",
+      "firstName": "Boyoy ᴀɴᴛɪ ᴍᴀʀɢᴀ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T23:18:14.922Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T23:18:14.922Z"
+      }
     }
   ],
   "groups": [
