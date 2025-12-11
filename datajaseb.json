@@ -44267,7 +44267,7 @@
         "$date": "2025-11-28T08:54:03.085Z"
       },
       "lastActive": {
-        "$date": "2025-12-11T04:26:58.801Z"
+        "$date": "2025-12-11T06:09:28.823Z"
       }
     },
     {
@@ -63531,6 +63531,20 @@
       },
       "lastActive": {
         "$date": "2025-12-11T05:17:41.445Z"
+      }
+    },
+    {
+      "userId": 7911159199,
+      "username": "panggil_saja_oolin",
+      "firstName": "olin",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T06:09:12.294Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T06:09:17.210Z"
       }
     }
   ],
