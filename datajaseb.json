@@ -63589,6 +63589,20 @@
       "lastActive": {
         "$date": "2025-12-11T06:47:50.017Z"
       }
+    },
+    {
+      "userId": 8209576142,
+      "username": "AlifSukaZea",
+      "firstName": "Alif the fineshyt",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T06:49:37.815Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T06:49:37.815Z"
+      }
     }
   ],
   "groups": [
