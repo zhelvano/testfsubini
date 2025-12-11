@@ -61701,7 +61701,7 @@
         "$date": "2025-12-09T08:03:38.925Z"
       },
       "lastActive": {
-        "$date": "2025-12-11T06:47:36.715Z"
+        "$date": "2025-12-11T07:33:01.830Z"
       }
     },
     {
@@ -63615,6 +63615,20 @@
       },
       "lastActive": {
         "$date": "2025-12-11T07:31:07.018Z"
+      }
+    },
+    {
+      "userId": 6454931489,
+      "username": "youngpengenapple1",
+      "firstName": "𝑻𝑴𝑿 - 𝐘𝐎𝐔𝐍𝐆 𝟏𝐬𝐭",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T07:32:57.031Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T07:32:57.031Z"
       }
     }
   ],
