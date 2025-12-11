@@ -64198,6 +64198,20 @@
       "lastActive": {
         "$date": "2025-12-11T21:36:58.913Z"
       }
+    },
+    {
+      "userId": 8444214642,
+      "username": "Davesyh",
+      "firstName": "daves Guetta ft. therāwl 𝔥𝔲𝔨𝔲𝔪ᵘⁿᵃⁿᵗᵃʳᵃ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T22:24:06.014Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T22:24:06.014Z"
+      }
     }
   ],
   "groups": [
