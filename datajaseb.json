@@ -61701,7 +61701,7 @@
         "$date": "2025-12-09T08:03:38.925Z"
       },
       "lastActive": {
-        "$date": "2025-12-11T07:33:01.830Z"
+        "$date": "2025-12-11T07:33:53.511Z"
       }
     },
     {
@@ -63629,6 +63629,20 @@
       },
       "lastActive": {
         "$date": "2025-12-11T07:32:57.031Z"
+      }
+    },
+    {
+      "userId": 8428905297,
+      "username": "makannasitahu",
+      "firstName": "A1",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T07:33:56.913Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T07:33:56.913Z"
       }
     }
   ],
