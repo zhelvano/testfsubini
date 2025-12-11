@@ -63463,6 +63463,20 @@
       "lastActive": {
         "$date": "2025-12-11T03:58:05.482Z"
       }
+    },
+    {
+      "userId": 8579180218,
+      "username": "barzsingle",
+      "firstName": "barz --- [VIP]ꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽꦽ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T04:10:34.160Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T04:10:34.160Z"
+      }
     }
   ],
   "groups": [
