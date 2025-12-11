@@ -63602,6 +63602,20 @@
       "lastActive": {
         "$date": "2025-12-11T06:51:00.480Z"
       }
+    },
+    {
+      "userId": 7011582806,
+      "username": "Putboys616",
+      "firstName": "Putra",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T07:31:07.018Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T07:31:07.018Z"
+      }
     }
   ],
   "groups": [
