@@ -64027,6 +64027,20 @@
       "lastActive": {
         "$date": "2025-12-11T14:33:16.818Z"
       }
+    },
+    {
+      "userId": 7135921735,
+      "username": "allzzzkk",
+      "firstName": "Scroor",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T15:31:04.140Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T15:31:04.140Z"
+      }
     }
   ],
   "groups": [
