@@ -63999,6 +63999,21 @@
       "lastActive": {
         "$date": "2025-12-11T14:11:04.243Z"
       }
+    },
+    {
+      "userId": 6453273981,
+      "username": "Doy1999",
+      "firstName": "Doy",
+      "lastName": "Doy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T14:25:53.171Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T14:25:53.171Z"
+      }
     }
   ],
   "groups": [
