@@ -63943,6 +63943,20 @@
       "lastActive": {
         "$date": "2025-12-11T12:45:08.262Z"
       }
+    },
+    {
+      "userId": 8453305477,
+      "username": "jayyzstore12",
+      "firstName": "jayy store",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-11T12:46:54.991Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-11T12:46:54.991Z"
+      }
     }
   ],
   "groups": [
