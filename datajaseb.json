@@ -64468,6 +64468,20 @@
       "lastActive": {
         "$date": "2025-12-12T06:45:18.796Z"
       }
+    },
+    {
+      "userId": 6624575274,
+      "username": "kyzzcbk",
+      "firstName": "Kyzz Technical",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-12T06:57:20.835Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-12T06:57:20.835Z"
+      }
     }
   ],
   "groups": [
