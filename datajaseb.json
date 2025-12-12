@@ -64267,6 +64267,20 @@
       "lastActive": {
         "$date": "2025-12-11T23:18:14.922Z"
       }
+    },
+    {
+      "userId": 8272185934,
+      "username": "Maxwd12",
+      "firstName": "Mbee",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-12T01:25:12.514Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-12T01:25:12.514Z"
+      }
     }
   ],
   "groups": [
