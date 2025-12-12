@@ -64295,6 +64295,20 @@
       "lastActive": {
         "$date": "2025-12-12T01:28:45.158Z"
       }
+    },
+    {
+      "userId": 8475212190,
+      "username": "userknowx",
+      "firstName": "𝙎𝙃𝘼𝙉𝙆𝙎",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-12T01:53:34.406Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-12T01:53:34.406Z"
+      }
     }
   ],
   "groups": [
