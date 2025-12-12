@@ -64337,6 +64337,20 @@
       "lastActive": {
         "$date": "2025-12-12T03:14:27.724Z"
       }
+    },
+    {
+      "userId": 7615171448,
+      "username": "Ernestvall",
+      "firstName": "Ernest",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-12T03:31:49.686Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-12T03:31:49.686Z"
+      }
     }
   ],
   "groups": [
