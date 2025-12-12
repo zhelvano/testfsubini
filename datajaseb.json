@@ -64400,12 +64400,14 @@
       "lastName": "Arzz",
       "isPremium": false,
       "isAdmin": false,
-      "groupsAdded": [],
+      "groupsAdded": [
+        -1003429637496
+      ],
       "joinedAt": {
         "$date": "2025-12-12T04:15:59.888Z"
       },
       "lastActive": {
-        "$date": "2025-12-12T04:18:04.570Z"
+        "$date": "2025-12-12T04:18:21.574Z"
       }
     }
   ],
@@ -65085,6 +65087,15 @@
         "$date": "2025-12-12T04:18:04.922Z"
       },
       "memberCount": 5
+    },
+    {
+      "groupId": -1003429637496,
+      "title": "TESK UNBAND BY BRANZ CRASHED",
+      "addedBy": 8567074960,
+      "addedAt": {
+        "$date": "2025-12-12T04:18:21.572Z"
+      },
+      "memberCount": 25
     }
   ]
 }
