@@ -64378,6 +64378,20 @@
       "lastActive": {
         "$date": "2025-12-12T03:49:53.616Z"
       }
+    },
+    {
+      "userId": 7000027027,
+      "firstName": "Mardi",
+      "lastName": "Jhy",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-12T03:56:20.696Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-12T03:56:20.696Z"
+      }
     }
   ],
   "groups": [
