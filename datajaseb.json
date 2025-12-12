@@ -64351,6 +64351,19 @@
       "lastActive": {
         "$date": "2025-12-12T03:31:49.686Z"
       }
+    },
+    {
+      "userId": 6911403021,
+      "firstName": "xēຖ_ēx 🇮🇩",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-12T03:47:23.866Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-12T03:47:23.866Z"
+      }
     }
   ],
   "groups": [
