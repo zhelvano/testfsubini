@@ -62115,7 +62115,7 @@
         "$date": "2025-12-09T15:57:34.961Z"
       },
       "lastActive": {
-        "$date": "2025-12-12T04:08:38.923Z"
+        "$date": "2025-12-12T04:49:28.056Z"
       }
     },
     {
@@ -64408,6 +64408,20 @@
       },
       "lastActive": {
         "$date": "2025-12-12T04:19:54.209Z"
+      }
+    },
+    {
+      "userId": 8510927924,
+      "username": "aanindya01",
+      "firstName": "Nindyaaa",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-12T04:49:40.796Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-12T04:49:40.796Z"
       }
     }
   ],
