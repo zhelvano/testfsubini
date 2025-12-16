@@ -64508,7 +64508,7 @@
         "$date": "2025-12-16T09:04:45.187Z"
       },
       "lastActive": {
-        "$date": "2025-12-16T12:16:40.616Z"
+        "$date": "2025-12-16T13:20:02.824Z"
       }
     },
     {
@@ -64522,7 +64522,7 @@
         "$date": "2025-12-16T09:04:45.199Z"
       },
       "lastActive": {
-        "$date": "2025-12-16T11:37:07.964Z"
+        "$date": "2025-12-16T13:20:06.451Z"
       }
     },
     {
@@ -65101,6 +65101,21 @@
       },
       "lastActive": {
         "$date": "2025-12-16T13:14:27.153Z"
+      }
+    },
+    {
+      "userId": 8529517738,
+      "username": "NEVERRSLEEPP",
+      "firstName": "NEVER",
+      "lastName": "SLEEP",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T13:19:54.673Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T13:19:54.673Z"
       }
     }
   ],
