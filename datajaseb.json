@@ -64947,6 +64947,20 @@
       "lastActive": {
         "$date": "2025-12-16T10:19:27.291Z"
       }
+    },
+    {
+      "userId": 8391523804,
+      "username": "zyybackera",
+      "firstName": "⏤͟ 𝑿𝟗 𝒁𝒀𝒀𝑹𝑶𝑶 𝑫𝑬𝑽 𝑨𝑴𝑷𝑨𝑺 𝑾𝟗",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T10:32:17.005Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T10:32:17.005Z"
+      }
     }
   ],
   "groups": [
