@@ -65273,6 +65273,20 @@
       "lastActive": {
         "$date": "2025-12-16T16:59:41.486Z"
       }
+    },
+    {
+      "userId": 7976564254,
+      "username": "HANZstecu",
+      "firstName": "HANZstecu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T17:00:07.161Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T17:00:07.161Z"
+      }
     }
   ],
   "groups": [
