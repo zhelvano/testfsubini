@@ -65259,6 +65259,20 @@
       "lastActive": {
         "$date": "2025-12-16T16:52:58.570Z"
       }
+    },
+    {
+      "userId": 8493801954,
+      "username": "MassJenn",
+      "firstName": "MassJenn",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T16:59:41.486Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T16:59:41.486Z"
+      }
     }
   ],
   "groups": [
