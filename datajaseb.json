@@ -64863,6 +64863,20 @@
       "lastActive": {
         "$date": "2025-12-16T09:10:38.317Z"
       }
+    },
+    {
+      "userId": 5340002215,
+      "username": "yuu_host",
+      "firstName": "Yuu",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T09:12:29.174Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T09:12:29.174Z"
+      }
     }
   ],
   "groups": [
