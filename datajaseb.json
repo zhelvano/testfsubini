@@ -65315,6 +65315,21 @@
       "lastActive": {
         "$date": "2025-12-16T17:53:13.101Z"
       }
+    },
+    {
+      "userId": 7567562283,
+      "username": "riss270",
+      "firstName": "R i s s",
+      "lastName": ".",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T17:56:57.409Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T17:56:57.409Z"
+      }
     }
   ],
   "groups": [
