@@ -65455,6 +65455,21 @@
       "lastActive": {
         "$date": "2025-12-16T20:10:27.765Z"
       }
+    },
+    {
+      "userId": 8098195780,
+      "username": "Gajahahha",
+      "firstName": "L",
+      "lastName": "Lupanama",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T20:59:31.142Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T20:59:31.142Z"
+      }
     }
   ],
   "groups": [
