@@ -65074,6 +65074,20 @@
       "lastActive": {
         "$date": "2025-12-16T13:02:35.558Z"
       }
+    },
+    {
+      "userId": 8464746192,
+      "username": "Swityyc",
+      "firstName": "ZWITY",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T13:05:33.169Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T13:05:33.169Z"
+      }
     }
   ],
   "groups": [
