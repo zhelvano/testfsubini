@@ -65146,6 +65146,20 @@
       "lastActive": {
         "$date": "2025-12-16T13:59:29.946Z"
       }
+    },
+    {
+      "userId": 5812598091,
+      "username": "vigodamn",
+      "firstName": "ᴠɪɢᴏ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T14:05:34.898Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T14:05:34.898Z"
+      }
     }
   ],
   "groups": [
