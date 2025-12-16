@@ -65400,6 +65400,34 @@
       "lastActive": {
         "$date": "2025-12-16T19:26:42.164Z"
       }
+    },
+    {
+      "userId": 1291700369,
+      "username": "zccddfd",
+      "firstName": "livynn🪿",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T19:27:10.145Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T19:27:10.145Z"
+      }
+    },
+    {
+      "userId": 5074663784,
+      "username": "longproject01",
+      "firstName": "Gea",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T19:27:26.340Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T19:27:26.340Z"
+      }
     }
   ],
   "groups": [
