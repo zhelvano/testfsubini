@@ -65160,6 +65160,20 @@
       "lastActive": {
         "$date": "2025-12-16T14:05:34.898Z"
       }
+    },
+    {
+      "userId": 7502336580,
+      "username": "VellzXyrine",
+      "firstName": "𝖥𝖾𝗋𝗇𝗂𝗇𝖾ㅤ ᝄ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T14:38:39.309Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T14:38:39.309Z"
+      }
     }
   ],
   "groups": [
