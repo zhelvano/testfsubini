@@ -65174,6 +65174,20 @@
       "lastActive": {
         "$date": "2025-12-16T14:38:39.309Z"
       }
+    },
+    {
+      "userId": 6851461527,
+      "username": "Putz_sigacha",
+      "firstName": "PUTZ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T14:56:16.566Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T14:56:16.566Z"
+      }
     }
   ],
   "groups": [
