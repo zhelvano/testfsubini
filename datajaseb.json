@@ -65483,6 +65483,20 @@
       "lastActive": {
         "$date": "2025-12-16T23:17:11.318Z"
       }
+    },
+    {
+      "userId": 7949851927,
+      "username": "dansz31",
+      "firstName": "danszzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T23:19:26.082Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T23:19:26.082Z"
+      }
     }
   ],
   "groups": [
