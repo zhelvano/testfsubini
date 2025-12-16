@@ -65386,6 +65386,20 @@
       "lastActive": {
         "$date": "2025-12-16T19:21:50.249Z"
       }
+    },
+    {
+      "userId": 1359982114,
+      "username": "Hiiclauraa",
+      "firstName": "Claura",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T19:26:42.164Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T19:26:42.164Z"
+      }
     }
   ],
   "groups": [
