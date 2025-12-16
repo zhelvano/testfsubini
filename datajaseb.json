@@ -65344,6 +65344,20 @@
       "lastActive": {
         "$date": "2025-12-16T17:57:28.758Z"
       }
+    },
+    {
+      "userId": 6974290832,
+      "username": "lerry138",
+      "firstName": "ʟᴇʀʀʏ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T17:58:01.690Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T17:58:01.690Z"
+      }
     }
   ],
   "groups": [
