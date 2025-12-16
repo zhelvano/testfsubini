@@ -65428,6 +65428,20 @@
       "lastActive": {
         "$date": "2025-12-16T19:27:26.340Z"
       }
+    },
+    {
+      "userId": 8538462934,
+      "username": "wgrepe",
+      "firstName": "VITO",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T19:28:21.827Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T19:28:21.827Z"
+      }
     }
   ],
   "groups": [
