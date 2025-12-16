@@ -65188,6 +65188,20 @@
       "lastActive": {
         "$date": "2025-12-16T14:56:16.566Z"
       }
+    },
+    {
+      "userId": 6713229009,
+      "username": "GodzilaHutan",
+      "firstName": "REST BOB",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T15:00:46.736Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T15:00:46.737Z"
+      }
     }
   ],
   "groups": [
