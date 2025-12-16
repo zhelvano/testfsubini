@@ -50245,14 +50245,13 @@
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [
-        -1002333036969,
-        -1002622607271
+        -1002333036969
       ],
       "joinedAt": {
         "$date": "2025-12-02T22:16:55.734Z"
       },
       "lastActive": {
-        "$date": "2025-12-16T09:24:21.625Z"
+        "$date": "2025-12-16T09:24:58.083Z"
       },
       "premiumSince": null,
       "premiumExpiry": null,
@@ -61701,7 +61700,7 @@
         "$date": "2025-12-09T08:03:38.925Z"
       },
       "lastActive": {
-        "$date": "2025-12-16T09:04:45.913Z"
+        "$date": "2025-12-16T09:24:47.655Z"
       }
     },
     {
