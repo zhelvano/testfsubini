@@ -65046,6 +65046,20 @@
       "lastActive": {
         "$date": "2025-12-16T12:48:05.928Z"
       }
+    },
+    {
+      "userId": 7880899698,
+      "username": "sapzdd11",
+      "firstName": "Luaii",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T12:57:47.399Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T12:57:47.399Z"
+      }
     }
   ],
   "groups": [
