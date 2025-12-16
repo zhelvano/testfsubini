@@ -64919,6 +64919,20 @@
       "lastActive": {
         "$date": "2025-12-16T09:41:32.908Z"
       }
+    },
+    {
+      "userId": 6016186442,
+      "username": "boyyqu",
+      "firstName": "sɪʙᴏʏʏ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T09:46:25.405Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T09:46:25.405Z"
+      }
     }
   ],
   "groups": [
