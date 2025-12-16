@@ -65442,6 +65442,19 @@
       "lastActive": {
         "$date": "2025-12-16T19:28:21.827Z"
       }
+    },
+    {
+      "userId": 8085163462,
+      "firstName": "𝕬𝐓𝐎𝐊",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T20:10:27.765Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T20:10:27.765Z"
+      }
     }
   ],
   "groups": [
