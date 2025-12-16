@@ -54227,7 +54227,7 @@
         "$date": "2025-12-05T15:47:27.748Z"
       },
       "lastActive": {
-        "$date": "2025-12-16T09:22:06.467Z"
+        "$date": "2025-12-16T12:19:17.770Z"
       }
     },
     {
@@ -65016,6 +65016,20 @@
       },
       "lastActive": {
         "$date": "2025-12-16T11:59:05.862Z"
+      }
+    },
+    {
+      "userId": 7953612702,
+      "username": "Lienhua997",
+      "firstName": "蓮花（Ws专营）",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T12:19:43.475Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T12:19:43.475Z"
       }
     }
   ],
