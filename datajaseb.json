@@ -65470,6 +65470,19 @@
       "lastActive": {
         "$date": "2025-12-16T20:59:31.142Z"
       }
+    },
+    {
+      "userId": 6282893491,
+      "firstName": "Dulloh",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T23:17:11.318Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T23:17:11.318Z"
+      }
     }
   ],
   "groups": [
