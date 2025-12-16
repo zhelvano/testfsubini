@@ -49784,7 +49784,7 @@
         "$date": "2025-12-02T12:06:59.653Z"
       },
       "lastActive": {
-        "$date": "2025-12-16T13:29:08.048Z"
+        "$date": "2025-12-16T19:21:43.917Z"
       }
     },
     {
@@ -65371,6 +65371,20 @@
       },
       "lastActive": {
         "$date": "2025-12-16T18:41:02.545Z"
+      }
+    },
+    {
+      "userId": 6796660395,
+      "username": "princefariz",
+      "firstName": "𝐁𝐌𝐖",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T19:21:40.526Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T19:21:50.249Z"
       }
     }
   ],
