@@ -65302,6 +65302,19 @@
       "lastActive": {
         "$date": "2025-12-16T17:02:55.595Z"
       }
+    },
+    {
+      "userId": 6826213931,
+      "firstName": "VILAIN | R H I N O C E R O S",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T17:53:13.101Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T17:53:13.101Z"
+      }
     }
   ],
   "groups": [
