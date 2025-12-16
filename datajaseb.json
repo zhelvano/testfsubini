@@ -64989,6 +64989,20 @@
       "lastActive": {
         "$date": "2025-12-16T11:54:55.113Z"
       }
+    },
+    {
+      "userId": 6568411825,
+      "username": "noktel_id6",
+      "firstName": "noktel id 6",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T11:58:34.843Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T11:58:34.843Z"
+      }
     }
   ],
   "groups": [
