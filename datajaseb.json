@@ -65031,6 +65031,21 @@
       "lastActive": {
         "$date": "2025-12-16T12:19:43.475Z"
       }
+    },
+    {
+      "userId": 6593436456,
+      "username": "Blackt1ger",
+      "firstName": "Black",
+      "lastName": "Tiger",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T12:48:05.928Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T12:48:05.928Z"
+      }
     }
   ],
   "groups": [
