@@ -65088,6 +65088,20 @@
       "lastActive": {
         "$date": "2025-12-16T13:05:33.169Z"
       }
+    },
+    {
+      "userId": 7531927605,
+      "firstName": "Adkell",
+      "lastName": "Store",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T13:14:27.153Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T13:14:27.153Z"
+      }
     }
   ],
   "groups": [
