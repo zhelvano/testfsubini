@@ -64961,6 +64961,20 @@
       "lastActive": {
         "$date": "2025-12-16T10:32:17.005Z"
       }
+    },
+    {
+      "userId": 8485997171,
+      "username": "Pepekasemm",
+      "firstName": "𝙓𝙄𝘼𝙊𝙋𝙄𝙉𝙂 32-ғᴏʀᴄᴇ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T11:26:53.075Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T11:26:53.075Z"
+      }
     }
   ],
   "groups": [
