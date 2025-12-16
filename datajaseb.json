@@ -65131,6 +65131,21 @@
       "lastActive": {
         "$date": "2025-12-16T13:28:32.175Z"
       }
+    },
+    {
+      "userId": 7331204745,
+      "username": "genxZhosting",
+      "firstName": "⏤͟͟͞͞𝗥𝟴 𝗴𝗲𝗻𝘅𝗭",
+      "lastName": "⚠",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T13:59:29.946Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T13:59:29.946Z"
+      }
     }
   ],
   "groups": [
