@@ -65358,6 +65358,20 @@
       "lastActive": {
         "$date": "2025-12-16T17:58:01.690Z"
       }
+    },
+    {
+      "userId": 6831111499,
+      "username": "boydrawl",
+      "firstName": "xexexe",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T18:41:02.545Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T18:41:02.545Z"
+      }
     }
   ],
   "groups": [
