@@ -64891,6 +64891,34 @@
       "lastActive": {
         "$date": "2025-12-16T09:33:20.757Z"
       }
+    },
+    {
+      "userId": 8222806359,
+      "username": "ardnxx88",
+      "firstName": "아르디난타-𝟴𝟴🇦🇱",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T09:41:27.717Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T09:41:27.717Z"
+      }
+    },
+    {
+      "userId": 7469923867,
+      "username": "Kayuzz09",
+      "firstName": "ᴬᴸ ᴷᵉⁿᶻʸ🇯🇵",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T09:41:32.908Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T09:41:32.908Z"
+      }
     }
   ],
   "groups": [
