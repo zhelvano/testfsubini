@@ -64663,7 +64663,7 @@
         "$date": "2025-12-16T09:04:45.444Z"
       },
       "lastActive": {
-        "$date": "2025-12-16T09:04:45.703Z"
+        "$date": "2025-12-16T09:30:37.254Z"
       }
     },
     {
@@ -64876,6 +64876,20 @@
       },
       "lastActive": {
         "$date": "2025-12-16T09:12:29.174Z"
+      }
+    },
+    {
+      "userId": 8275073053,
+      "username": "Wolf3269",
+      "firstName": "Wolf🐺",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T09:30:35.974Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T09:30:35.974Z"
       }
     }
   ],
