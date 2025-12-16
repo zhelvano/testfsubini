@@ -65117,6 +65117,20 @@
       "lastActive": {
         "$date": "2025-12-16T13:19:54.673Z"
       }
+    },
+    {
+      "userId": 1404101202,
+      "username": "whybastard",
+      "firstName": "ᴍɪʟᴏ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T13:28:32.175Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T13:28:32.175Z"
+      }
     }
   ],
   "groups": [
