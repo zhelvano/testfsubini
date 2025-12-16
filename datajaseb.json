@@ -65003,6 +65003,20 @@
       "lastActive": {
         "$date": "2025-12-16T11:58:34.843Z"
       }
+    },
+    {
+      "userId": 7743794665,
+      "firstName": "App",
+      "lastName": "Rianz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-16T11:59:05.862Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-16T11:59:05.862Z"
+      }
     }
   ],
   "groups": [
