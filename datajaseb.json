@@ -64847,7 +64847,7 @@
         "$date": "2025-12-16T09:04:45.909Z"
       },
       "lastActive": {
-        "$date": "2025-12-17T09:03:09.351Z"
+        "$date": "2025-12-17T09:07:19.339Z"
       }
     },
     {
@@ -65737,6 +65737,19 @@
       },
       "lastActive": {
         "$date": "2025-12-17T08:58:02.724Z"
+      }
+    },
+    {
+      "userId": 8574340094,
+      "firstName": "Reyzz",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-17T09:07:24.363Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-17T09:07:24.363Z"
       }
     }
   ],
