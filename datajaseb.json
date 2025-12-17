@@ -65653,6 +65653,20 @@
       "lastActive": {
         "$date": "2025-12-17T04:33:27.427Z"
       }
+    },
+    {
+      "userId": 1958081559,
+      "username": "adiguthill",
+      "firstName": "Adi Guthilll",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-17T04:53:27.023Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-17T04:53:27.023Z"
+      }
     }
   ],
   "groups": [
