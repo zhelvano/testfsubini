@@ -14142,8 +14142,7 @@
     },
     {
       "userId": 8330783303,
-      "firstName": "lolo",
-      "lastName": "nian",
+      "firstName": "__7774",
       "isPremium": false,
       "isAdmin": false,
       "groupsAdded": [],
@@ -14151,8 +14150,9 @@
         "$date": "2025-11-23T18:07:13.273Z"
       },
       "lastActive": {
-        "$date": "2025-11-23T18:07:13.273Z"
-      }
+        "$date": "2025-12-17T03:41:53.519Z"
+      },
+      "username": "hhcsthv_77357"
     },
     {
       "userId": 8065806380,
