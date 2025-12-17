@@ -65724,6 +65724,20 @@
       "lastActive": {
         "$date": "2025-12-17T08:04:14.165Z"
       }
+    },
+    {
+      "userId": 7517323494,
+      "username": "elisaa2202",
+      "firstName": "𝘍𝘚 𝘉𝘜𝘓𝘓 4𝘏𝘒 🪅",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-17T08:58:02.724Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-17T08:58:02.724Z"
+      }
     }
   ],
   "groups": [
