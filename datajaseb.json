@@ -65680,6 +65680,21 @@
       "lastActive": {
         "$date": "2025-12-17T05:01:22.660Z"
       }
+    },
+    {
+      "userId": 6320749625,
+      "username": "Bama0011",
+      "firstName": "BAMA",
+      "lastName": "GANTENG PAKE BANGETZ",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-17T05:28:10.564Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-17T05:28:10.564Z"
+      }
     }
   ],
   "groups": [
