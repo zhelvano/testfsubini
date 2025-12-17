@@ -65553,6 +65553,34 @@
       "lastActive": {
         "$date": "2025-12-17T03:08:51.173Z"
       }
+    },
+    {
+      "userId": 8392563863,
+      "username": "TopNumbr",
+      "firstName": "./pribadi",
+      "lastName": "Wa pribadi",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-17T03:09:23.876Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-17T03:09:23.876Z"
+      }
+    },
+    {
+      "userId": 7720011625,
+      "firstName": "Anonymous",
+      "isPremium": false,
+      "isAdmin": false,
+      "groupsAdded": [],
+      "joinedAt": {
+        "$date": "2025-12-17T03:09:31.947Z"
+      },
+      "lastActive": {
+        "$date": "2025-12-17T03:09:31.947Z"
+      }
     }
   ],
   "groups": [
